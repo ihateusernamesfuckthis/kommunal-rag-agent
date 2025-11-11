@@ -2,6 +2,7 @@ import os
 import requests
 import chromadb
 import uvicorn
+import threading
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -19,12 +20,48 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
-embedding_fn = SyvMistralEmbeddingFunction (token)
+# Global variables for database
+embedding_fn = SyvMistralEmbeddingFunction(token)
 client = chromadb.PersistentClient(path="./chroma_data")
-collection = client.get_collection(name="greve_referater", embedding_function=embedding_fn)
+collection = None
+db_initialized = False
+db_error = None
+
+def initialize_db():
+    """Initialize database in background"""
+    global collection, db_initialized, db_error
+    try:
+        print("🔄 Initializing ChromaDB...")
+
+        # Check if collection exists
+        try:
+            collection = client.get_collection(name="greve_referater", embedding_function=embedding_fn)
+            print("✅ ChromaDB loaded from existing data")
+        except:
+            # Collection doesn't exist, need to create it
+            print("📊 Collection not found, creating from CSV...")
+            from init_db import init_database
+            init_database()
+            collection = client.get_collection(name="greve_referater", embedding_function=embedding_fn)
+            print("✅ ChromaDB initialized successfully")
+
+        db_initialized = True
+    except Exception as e:
+        db_error = str(e)
+        print(f"❌ Database initialization error: {e}")
+
+# Start initialization in background thread
+threading.Thread(target=initialize_db, daemon=True).start()
 
 def retrieve_context(question, n_results=5):
     """Finder relevante tekst udrag fra Chroma Databasen"""
+    if not db_initialized:
+        raise Exception("Databasen er stadig ved at blive initialiseret. Prøv igen om et øjeblik.")
+    if db_error:
+        raise Exception(f"Database fejl: {db_error}")
+    if collection is None:
+        raise Exception("Database ikke tilgængelig")
+
     results = collection.query(query_texts=[question], n_results=n_results)
     docs = results["documents"][0]
     metas = results["metadatas"][0]
@@ -83,6 +120,15 @@ def ask_question(payload: Question):
 def root():
     """Serverer HTML frontend"""
     return FileResponse("index.html")
+
+@app.get("/health")
+def health():
+    """Health check endpoint for Render"""
+    return {
+        "status": "healthy",
+        "db_initialized": db_initialized,
+        "db_error": db_error
+    }
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
