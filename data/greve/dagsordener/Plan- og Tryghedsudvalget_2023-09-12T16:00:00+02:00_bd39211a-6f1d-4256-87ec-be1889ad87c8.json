@@ -1,0 +1,419 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p class=\"Paragraph SCXW220584927 BCX8\" paraid=\"2084173769\" paraeid=\"{e068ac9a-26bf-42e7-95f3-9996c600703b}{218}\"><strong>Ikke til stede</strong>: <span>Ronni Mark Nielsen (V) </span></p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 12. september 2023. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at dagsordenen godkendes</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0fff2bf4-f6a4-45b3-8724-47f056191757",
+          "DocumentId": "0fff2bf4-f6a4-45b3-8724-47f056191757"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003654",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c72764b1-4c64-414d-8e1c-01716ea32469",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "22-003654",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt, idet mødet den 9. januar 2024 flyttes til den 16. januar 2024</p>\n<p>2. Godkendt.</p>\n<p><strong>Ikke til stede:</strong> Ronnie Mark Nielsen (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Plan- og Tryghedsudvalget skal tage stilling til udvalgets mødekalender for 2024 på baggrund af den godkendte mødekalender for Byrådet og Økonomiudvalget i 2024.</p>\n<p>Udkast til udvalgets mødekalender er udarbejdet, så der tages hensyn til sagernes videre forløb i Økonomiudvalget og Byrådet.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<p><em>1.at den foreslåede mødekalender for Plan- og Tryghedsudvalget godkendes</em></p>\n<p><em>2. at den faste mødedag bliver tirsdag, og det faste mødetidspunkt bliver kl. 16.00.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 4. september 2023 godkendte Byrådet mødedatoerne for Økonomiudvalget og Byrådet i 2024. Det blev besluttet, at afholde ni møder i henholdsvis Byrådet og Økonomiudvalget i lighed med 2023. </p>\n<p>Plan- og Tryghedsudvalgets møder i 2024 foreslås placeret på tirsdage med mødetidspunkt kl. 16.00 i lighed med 2023.</p>\n<p>Møderne foreslås holdt:</p>\n<p>9. januar</p>\n<p>6. februar</p>\n<p>19. marts</p>\n<p>23. april</p>\n<p>4. juni</p>\n<p>13. august</p>\n<p>10. september</p>\n<p>8. oktober</p>\n<p>19. november</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udgifterne til mødeforplejning mv. holdes inden for udvalgets budgetramme.</p>\n<h4>Kommunikation</h4>\n<p>Den godkendte mødekalender vil blive offentliggjort på kommunens hjemmeside og mødedagene vil blive skrevet ind i kalender for Byrådets medlemmer.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4825a163-b02c-4ce6-8e10-e7bc8c9a02c1",
+          "DocumentId": "4825a163-b02c-4ce6-8e10-e7bc8c9a02c1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005195",
+      "Navn": "Mødekalender 2024 for Plan- og Tryghedsudvalget",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Politisk mødekalender 2024",
+          "Id": "a8dd64ef-90f5-4795-8b6f-a292fd7c9ca6"
+        }
+      ],
+      "Documents": null,
+      "Id": "d0b08b1a-39e7-4ccb-aefe-0ca52fbaa55a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-005195",
+      "SourceId": null,
+      "Caption": "Mødekalender 2024 for Plan- og Tryghedsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget beslutter at pege på René Krarup Holm fra Grundejerforeningen Greve Strand som det nye medlem. </p>\n<p><strong>Ikke til stede</strong>: Ronni Mark Nielsen (V) </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Plan- og Tryghedsudvalget har ønsket en sag om udpegning af et nyt medlem til Bystrategisk Råd. Dette skyldes, at et medlem i juni 2023 meldte sig ud af rådet. I sagen fremlægges liste over tidligere ansøgere til rådet, så udvalget kan udpege et nyt medlem. Administrationen vil efterfølgende kontakte den person der peges på.   </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget udpeger et nyt medlem til Bystrategisk Råd.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 15. november 2022 (pkt. 4) udpegede Plan- og Tryghedsudvalget seks medlemmer til Bystrategisk Råd. Efterfølgende har Jørgen Fuchs den 26. juni 2023 valgt at melde sig ud af Bystrategisk Råd. Dette blev udvalget orienteret om på deres møde den 15. august 2023 (pkt. 13). Plan- og Tryghedsudvalget har på den baggrund ønsket en ny sag med mulighed for at udpege et nyt medlem til Bystrategisk Råd, idet de tidligere ansøgere genfremlægges.</p>\n<p>Sammensætningen af rådet er beskrevet i kommissoriet for det Bystrategiske råd (jf. bilag 1). Heraf fremgår det bl.a., at medlemmerne i rådet er borgere og interessenter med indsigt og generel viden i kraft af deres profession, og/eller interesse inden for byplanlægning, erhvervsfremme, ejendomsudvikling, detailhandel, arkitektonisk fremtræden mv. Det kan fx være en arkitekt, en ejendomsmægler, handelsstandsforening, boligselskab, forsyning, grundejerforening el.lign. Desuden er det vigtigt, at medlemmerne repræsenterer kommunen så geografisk bredt som muligt.  </p>\n<p>Tilbage i efteråret 2022 indkom der i alt 16 ansøgninger om deltagelse i rådet. Oversigt over ansøgninger med angivelse af, hvem ansøger repræsenterer, kompetencer, og interesse i rådet samt, hvor i kommunen ansøger bor (jf. bilag 2). Alle ansøgninger og begrundelser kan ses i deres helhed (jf. bilag 3).</p>\n<p>De nuværende medlemmer af Bystrategisk Råd er:</p>\n<p>Hamdi Sarac<br>\nMikkel Stage<br>\nLine Carlsen <br>\nMikkel Solhøj<br>\nRené Kloe</p>\n<p>På baggrund af ovenstående anbefaler administrationen, at Plan- og Tryghedsudvalget beslutter, hvem der skal udpeges som nyt medlem til Bystrategisk Råd. </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Deltagelse i Greve Kommunes Bystrategiske Råd er ulønnet. </p>\n<h4>Kommunikation</h4>\n<p>Ansøger får skriftlig besked om muligheden for en plads i rådet. Samtidig orienteres resten af rådet om det evt. nye medlem. Det nye medlem vil blive tilføjet listen over rådsmedlemmer på kommunens hjemmeside.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6bddf80a-6252-4cbe-bd8d-a9f4440c16df",
+          "DocumentId": "6bddf80a-6252-4cbe-bd8d-a9f4440c16df"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011460",
+      "Navn": "Bystrategisk Råd, nyt medlem",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Kommissorium for Bystrategisk Råd",
+          "Id": "6897d39d-dd4c-4e66-b941-17de95d56269"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Oversigt over ansøgere",
+          "Id": "0e3f4f17-5e73-45cf-94c4-4db6aaef1b72"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Ansøgninger til Bystrategisk Råd",
+          "Id": "22762309-0ba1-4771-bbb6-557ce9fa5e58"
+        }
+      ],
+      "Documents": null,
+      "Id": "6df8cac0-ac24-41e6-97c2-007b918ee2c8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-011460",
+      "SourceId": null,
+      "Caption": "Bystrategisk Råd, nyt medlem",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Anbefales.</p>\n<p><strong>Ikke til stede</strong>: Ronni Mark Nielsen (V) </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4><span>Sagsprocedure</span></h4>\n<p><span>Plan- og Tryghedsudvalget,\nKlima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</span></p>\n<h4><span>Resume</span></h4>\n<p><span>I sagen beskrives den samlede\ntværkommunale plan som input til anlægslov for Køge Bugt Strandpark. Anlægsloven\nskal muliggøre en modernisering af Strandparken på den lange bane. Planen skal\nses som en form for udspil fra ejerkommunerne til den politiske behandling på\nChristiansborg, herunder de berørte ministerier og styrelser. I forbindelse med\nforhandlingerne kan der derfor ske tilpasninger af det endelige indhold.</span></p>\n<h4><span>Indstilling</span></h4>\n<p><em><span>Administrationen\nindstiller, </span></em></p>\n<p><em><span>1. at Plan- og\nTryghedsudvalget godkender den samlede tværkommunale plan som input til\nanlægslov for Køge Bugt Strandpark.</span></em></p>\n<p><em><span>Administrationen\nindstiller </span></em></p>\n<p><em><span>2. at Klima-, Teknik- og\nMiljøudvalget tager det samlede input til anlægsloven til efterretning.</span></em></p>\n<h4><span>Sagsbeskrivelse</span></h4>\n<p><span>For at muliggøre ønskerne om\nmodernisering af Køge Bugt Strandpark er strandparkskommunerne i dialog med\nBolig- og Planstyrelsen om en anlægslov. Rammerne for loven fremgår af en\nprincipaftale, som kommunerne og Indenrigs- og Boligministeren tiltrådte i\nseptember 2022. Anlægsloven skal sikre gode og attraktive faciliteter til brug\nfor det almene friluftsliv og andre rekreative formål, der knytter sig til\nkysten og havet. Dette betyder helt konkret, at anlægsloven ophæver udvalgte\nbindinger i naturbeskyttelsesloven inden for nærmere definerede arealer for at\nkunne muliggøre disse faciliteter. Det skal ske under hensyntagen til\nkystlandskabet og strandparkens natur.</span></p>\n<p><span>Byrådet godkendte den 6.\nmarts 2023 (pkt. 19) Greve Kommunes input til en anlægslov for modernisering af\nKøge Bugt Strandpark. Det drejer sig om følgende områder:</span></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Hundige Strand</li>\n    <li>Dykanden </li>\n    <li>Greve Strandeng</li>\n</ul>\n<p><span>Aktivitetszone, byggefelt,\nanvendelse, maks. antal etagemeter og højder for de ovenstående områder fremgår\naf bilag 1.</span></p>\n<p><strong><em><span>Indhold i den\nsamlede tværkommunale plan</span></em></strong></p>\n<p><span>I forbindelse med samling af\nde fem strandparkskommuners input til en anlægslov i én tværkommunal plan, er\nder sket nogle tilpasninger og justeringer, så der er en klar, fælles ramme for\nhele Strandparken (jf. bilag 2).</span></p>\n<p><span>I planen indgår syv temaer\nmed i alt 21 udviklingsområder i hele Strandparken. Temaerne er opdelt efter\nanvendelse og funktion.</span></p>\n<p><span>De syv temaer er:</span></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Indgange til\n    Strandparken og vandet (A-områder) - i Greve er det området ved Hundige\n    Strand (s. 14 i planen).</li>\n    <li>Støttepunkter\n    (B-områder) - i Greve er det Greve Strandeng (s. 26 i planen).</li>\n    <li>Undervisning og\n    formidling (C-områder). Ligger ikke i Greve Kommune.</li>\n    <li>Arken (D-område). Ligger ikke i Greve Kommune.</li>\n    <li>Rekreativt byggeri i\n    havnebassiner (E-områder) - i Greve er det Dykanden (s. 38 i planen).</li>\n    <li>Ekstensive aktiviteter\n    (F-områder). Ligger ikke i Greve Kommune.</li>\n    <li>Udvikling af natur\n    (G-områder). Ligger ikke i Greve Kommune.</li>\n</ul>\n<p><span>I forhold til Byrådets\nbehandling i marts 2023 er der for Greve Kommunes vedkommende foretaget\nfå justeringer. Det handler om, at den maksimale højde er ændret\nfra 8 meter til 8,5 meter i A- og E-områderne, som er bygningsreglementets\nstandard for byggeri i to etager. Det betyder, at alle fem ejerkommuner\nfremover kan bygge ensartede faciliteter i samme højde i Strandparken.\nÆndringerne omhandler kun afgrænsning i højder og ændrer ikke på de\nønskede faciliteters størrelser og funktion.</span></p>\n<p><span>Samtidig er\nområdeafgrænsningen for en række A-områder justeret, så områderne rækker ud i\nvandet, herunder området ved Hundige Strand i Greve Kommune (s. 14 i planen).\nHerved bliver det tydeligt, at områderne på land hænger sammen med aktiviteter\nog eventuelle mindre anlæg i vandet, såsom badebroer o.l. Afgrænsningerne åbner\nogså mulighed for, at kommunerne kan integrere bygninger helt eller delvist i\nkystbeskyttelsen, og at der generelt kan arbejdes med adgang over digerne og\nned til vandet. </span></p>\n<p><span>Det samlede forslag tager\nfortsat hensyn til natur- og landskabsinteresser samtidig med, at en\nopgradering og placering af nye rekreative faciliteter og muligheder vil styrke\nbrugen af Køge Bugt Strandpark hele året rundt.</span></p>\n<p><span>Kommunerne skal i den\nefterfølgende lokalplanlægning bestemme den præcise placering og højde af nyt\nbyggeri. Her vil det fx være muligt at fastlægge en lavere højde, men ikke\nhøjere end anlægsloven muliggør.</span></p>\n<p><em><strong><span>Parallel\nsagsbehandling</span></strong></em></p>\n<p><span>De fem ejerkommuner behandler\nalle den fælles tværkommunale plan parallelt i august/september 2023.\nHvis godkendelse af planen i en kommune forudsætter større eller tværgående\nændringer til planen, kræver det, at de øvrige kommuner skal genbehandle planen\nog tage stilling til, om kommunerne skal revidere planen med disse ændringer.\nEn genbehandling vil derfor forsinke projektet.</span></p>\n<h4><span>Lovgrundlag</span></h4>\n<p><span>Lovforslag om en Anlægslov,\nPlanloven. </span></p>\n<h4><span>Økonomiske konsekvenser</span></h4>\n<p><span>Anlægslov for Køge Bugt\nStrandpark har ikke direkte økonomiske konsekvenser for Greve Kommune. Når\nfaciliteterne skal tilvejebringes, vil det være de enkelte kommuner, fonde mv.\nder skal finansiere projekterne.</span></p>\n<h4><span>Øvrige konsekvenser</span></h4>\n<p><span>Greve Kommune skal i den\nefterfølgende kommune- og lokalplanlægning regulere faciliteterne i de\nafgrænsede områder inden for de rammer, der fastlægges i anlægsloven.</span></p>\n<h4><span>Tidsplan</span></h4>\n<ul style=\"list-style-type: disc;\">\n    <li>Strandparkskommunernes\n    samlede input til anlægslov forelægges parallelt i byrådene med henblik på\n    godkendelse august/september 2023. </li>\n    <li>Der udarbejdes en\n    miljøvurdering (forventes af tage ca. syv måneder). </li>\n    <li>Udkast til anlægslov for\n    modernisering af Køge Bugt Strandpark udarbejdes. Det forventes, at\n    anlægsloven behandles af Folketinget i 2024. </li>\n    <li>Kommunerne skal i deres\n    kommune- og lokalplanlægning regulere faciliteterne i de afgrænsede\n    arealer inden for de rammer, der fastlægges i anlægsloven.</li>\n</ul></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ea7fd3c1-8ed9-441e-9f49-6ca35bb4b632",
+          "DocumentId": "ea7fd3c1-8ed9-441e-9f49-6ca35bb4b632"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-012932",
+      "Navn": "Modernisering af Køge Bugt Strandpark - input til anlægslov",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Greve Kommunens input til anlægslov for Køge Bugt Strandpark version 2",
+          "Id": "a83f1799-dc0a-415a-85aa-8cf83d91e122"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Udkast til den tværkommunale plan",
+          "Id": "8d6e90ad-2a36-4d80-800a-acfc92eff5d5"
+        }
+      ],
+      "Documents": null,
+      "Id": "2be240d7-73a3-4200-8d7b-53a971847d67",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-012932",
+      "SourceId": null,
+      "Caption": "Modernisering af Køge Bugt Strandpark - input til anlægslov",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1.-4. godkendt.</p>\n<p><strong>Ikke til stede</strong>: Ronni Mark Nielsen (V) </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget</p>\n<h4>Resume</h4>\n<p>Der har været en dialog med to frivillige foreninger, der ønsker at udvikle\nVilla Sitka til blandt andet kulturhus og kommercielle formål som kursus og\nforedrag. Greve Kommune vil arbejde for at udmatrikulere og sælge Villa Sitka.\nDet kræver i første omgang dispensation fra Kystdirektoratet. Hvis der kan\nopnås dispensation til udmatrikulering, kan administrationen efterfølgende\nudarbejde udbudsmateriale med henblik på frasalg. Den nye ejer kan herefter søge de relevante myndigheder om tilladelser.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at administrationen søger dispensation hos\n    Kystdirektoratet til udmatrikulering (jf. bilag 1) indenfor\n    strandbeskyttelseslinjen, med det formål at sælge ejendommen fra til brug\n    for borgerhus/kulturhus med kommercielle aktiviteter som udstilling, foredrag, kursusaktivitet ol.</em></li>\n    <li><em>at ejendommen herefter udbydes til salg </em></li>\n    <li><em>at de nye ejere selv søger om dispensation fx hos\n    Fredningsnævnet for ændret anvendelse indenfor det fredede område og </em><em>går i dialog med Plan- og Landdistriktsstyrelsen vedr.\n    mulighed for anvendelse af Villa Sitka til kommercielle aktiviteter som\n    udstilling, foredrag, kursusaktivitet ol. indenfor Grøn Kystkile.</em></li>\n    <li><em>at den nye ejer herefter søger byggetilladelse, og at\n    kommunen udarbejder nyt plangrundlag, hvis det viser sig nødvendigt.</em></li>\n</ol>\n<h4><strong>Sagsbeskrivelse</strong></h4>\n<p><em><strong>Baggrund </strong></em></p>\n<p>Byrådet besluttede den 20. september 2021 (pkt. 19), at det skulle\nundersøges, om der kunne etableres en forening af frivillige borgere, der kan\nudvikle, renovere og drive Villa Sitka. I marts 2022 blev der afholdt\net borgermøde, som affødte etableringen af to frivillige foreninger.</p>\n<p>På byrådsmødet den 12. december 2022 (pkt. 39) blev foreningernes ideer fremlagt ,\nog det blev besluttet ikke at arbejde videre men at afholde et temamøde.\nTemamødet blev derimod afholdt i Økonomiudvalget den 27. februar 2023 (pkt. 2) for at\nperspektivere og drøfte de fremadrettede muligheder for Villa Sitka.</p>\n<p>Begge foreninger ønsker at istandsætte og\ndrive Villa Sitka som et borgerhus/kulturhus drevet af\nfrivillige for kommunens borgere, hvilket kræver en byggetilladelse. Byggetilladelsen kræver forventeligt dispensation fra flere forskellige\nmyndigheder, da området og villaen er underlagt fredning,\nstrandbeskyttelse, Fingerplanen og  lokalplan. </p>\n<p>Byrådet godkendte den 19. juni 2023 (pkt. 35), at der påbegyndes\nudmatrikulering af huset og udarbejdelse af udbudsmateriale. Borgmesteren skal\nsamtidig henvende sig til de relevante myndigheder med ønske om en fokuseret og\nhurtig proces, <span class=\"GramE\">således at</span> huset hurtigst muligt kan\nsælges.</p>\n<p><em><strong>Procesplan</strong></em></p>\n<p>For at Villa Sitka kan sælges, skal der ske en udmatrikulering af bygningen\nog evt. et areal omkring bygningen. Se forslag til udmatrikulering (jf. bilag 1).</p>\n<p><em>Strandbeskyttelsen</em></p>\n<p>Villa Sitka ligger i et strandbeskyttet <span class=\"GramE\">arealer</span>.\nStrandbeskyttede arealer er forbudszoner, hvor der som hovedregel ikke må\nforetages ændringer af den eksisterende tilstand. Man må f.eks. ikke opføre\nbebyggelse, herunder til- og ombygning, opstille campingvogne, opsætte hegn,\ntilplante, udstykke areal eller ændre på terrænet.</p>\n<p>Administrationen vil derfor søge en dispensation hos Kystdirektoratet til at\nudstykke Villa Sitka og et areal omkring ejendommen (jf. bilag 1).</p>\n<p>Behovet for udstykning begrundes i ansøgningen med, at bygningen i dag\nforfalder og er udsat for hærværk. Der er mulige interessenter, der ønsker at\nistandsætte bygningen og anvende den til borgerhus/kulturhus med kommercielle\naktiviteter som udstilling, foredrag, kursusaktivitet ol. Kommunen anser disse\nformål for at være i god tråd med, at Villa Sitka ligger i en fredet park, som\nbenyttes af borgere til rekreative formål. Det er derfor vigtigt for kommunen, at ejendommen udstykkes og frasælges til formålet.</p>\n<p><em>Salg</em></p>\n<p>Hvis ejendommen udstykkes som ansøgt, sættes Villa Sitka efterfølgende til salg, med det\nformål der er søgt om hos Kystdirektoratet. Det vil være en\nbetingelse, at de nye ejere står for det videre arbejde i forhold til\nansøgninger hos diverse myndigheder samt bygningens drift og vedligehold.</p>\n<p><em>Fredning</em></p>\n<p>Villa Sitka ligger i Hundigeparken, der er fredet. Fredningen\nadministreres af fredningsnævnet. Tilstanden må ikke forandres, og der er forbud\nmod at opføre bygninger, boder, skure eller andre indretninger, der kan virke\nmisprydende og ikke er nødvendige for arealernes benyttelse. Det er forbud mod\nat fjerne eller foretage beplantning, og almenheden gives ret til færdsel og\nophold. Da fredningen er et forbud mod at forandre tilstanden i området, er det derfor\nsandsynligt, at fredningsnævnet skal søges om dispensation afhængigt af de\nændringer, en nye ejer måtte ønske at foretage.</p>\n<p>Administrationen anbefaler, at den nye ejer søger Fredningsnævnet om\ntilladelse til de ændringer, der ønskes foretaget. Det kan også være nødvendigt for den nye ejer at søge om dispensation fra strandbeskyttelsen.</p>\n<p><em>Fingerplanen</em></p>\n<p>Fingerplanen administreres af Plan- og Landdistriktsstyrelsen.\nKommuneplanlægningen skal sikre, at området blandt andet forbeholdes\novervejende almen, ikke bymæssig friluftsanvendelse, ikke inddrages til byzone\nog friholdes for bebyggelse og anlæg til bymæssige fritidsformål. Der kan ikke\nsøges om dispensation fra Fingerplanens bestemmelser. </p>\n<p>Administrationen anbefaler, at  den nye ejer går i\ndialog med Plan- og Landdistriktsstyrelsen om  projektet med henblik på at\nsikre, at det kan passes ind som offentligt formål herunder ønsker om\nbetalende aktiviteter såsom udstilling, foredrag, kursusaktivitet og andre\narrangementer. Administrationen er behjælpelige, hvis styrelsen vil vide, om kommunen bakker op om den nye ejers ønsker.</p>\n<p><em>Byggetilladelse jf. Lokalplan mv.</em></p>\n<p>Foruden ovennævnte bindinger for området er der en lokalplan og\nskovbyggelinje for området, hvor kommunen selv er myndighed. Den nye ejer vil\nderfor skulle søge om byggetilladelse evt. med dispensationer i henhold til\nlokalplanen for området og skovbyggelinjen. Hvis det <span class=\"GramE\">ønskede</span>\nikke kan lade sig gøre inden for den eksisterende lokalplans formål, vil der\nskulle udarbejdes en ny lokalplan for området.</p>\n<p>Det er de nye ejere, der står for at søge om byggetilladelse til ejendommens\nanvendelse og evt. ombygning. Hvis det med de forudgående opnåede tilladelser hos de øvrige myndigheder er muligt og nødvendigt at ændre plangrundlaget for at tillade projektet, indstiller\nadministrationen, at der udarbejdes en ny lokalplan for ejendommen.</p>\n<h4>Lovgrundlag</h4>\n<p>Naturbeskyttelsesloven, Planloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er ingen udgifter forbundet med at søge dispensationerne. Der skal\nbruges medarbejderressourcer på ansøgning til Kystdirektorat, salgsarbejdet og kommunens myndighedsmæssige behandling inden for de ansvarsområder der ligger under kommunen.  </p>\n<h4><strong>Tidsplan</strong></h4>\n<p>Oktober 2023. Dispensationsansøgning sendes til Kystdirektoratet</p>\n<p>Oktober 2023. Borgmesteren sender brev til minister med ønsket om en hurtig\nsagsbehandling</p>\n<p>Udbudsmaterialet udarbejdes, når der er svar fra Kystdirektoratet</p>\n<p>Sommer 2024. Villa Sitka sælges</p>\n<p>Efterår 2024. Den nye ejer søger fredningsnævnet om evt. dispensationer</p>\n<p>Efterår 2024. Den nye ejer går i dialog med Plan- og\nLanddistriktsstyrelsen om, at formålet kan tillades inden for Grøn Kystkile.</p>\n<p>Ultimo 2024. Den nye ejer søger om byggetilladelse. Hvis det kræver en ny\nlokalplan, kan det tage ca. et år.</p>\n<p>Ovenstående\ntidsplan er meget usikker, da Kystdirektoratet skriver på deres hjemmeside, at\nde i øjeblikket oplever en stor sagsmængde. Tidsplanen kan derfor blive\nforskubbet.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0bcd3285-2d32-4d14-9a9e-eec31b4cd7c2",
+          "DocumentId": "0bcd3285-2d32-4d14-9a9e-eec31b4cd7c2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-009213",
+      "Navn": "Villa Sitka, dispensationsansøgninger - udmatrikulering",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - kort over udstykningsforslag",
+          "Id": "77546293-19d8-46cf-91c4-f8e809709997"
+        }
+      ],
+      "Documents": null,
+      "Id": "af92ef2e-4be6-4cc8-91da-073832ac938a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "23-009213",
+      "SourceId": null,
+      "Caption": "Villa Sitka, dispensationsansøgninger - udmatrikulering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede</strong>: Ronni Mark Nielsen (V) </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget. </p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til efterretning.</em></p>\n<h2> </h2>\n<h2>\n<div><em><br>\n</em></div>\n</h2></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4ca5daa9-f2f1-424f-823b-6114ff486f1d",
+          "DocumentId": "4ca5daa9-f2f1-424f-823b-6114ff486f1d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003659",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9638f4ae-5f75-4375-b585-f7cf903b5ed6",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "22-003659",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede</strong>: Ronni Mark Nielsen (V) </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen orienterer om følgende: </p>\n<p><strong><em>Evt. fælles kystsikringsprojekt i Strandparken</em></strong><br>\n<br>\nAdministrationen har i samarbejde med de øvrige kommuner i Strandparken sat en rådgiver med at skitser processkridt og anslå økonomi i et evt. fælles kystsikringsprojekt i Strandparken. Administrationen forventer i den anledning, at der vil blive fremlagt en sag for Klima-, Teknik- og Miljøudvalget inden årsskiftet, hvor kommunerne i Strandparken parallelt kan behandle et forslag om at igangsætte et fælles kystsikringsprojekt, herunder organisering af evt. fælles projektledelse.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0df97981-a08e-4d6a-8d4f-9ec2ad7bd838",
+          "DocumentId": "0df97981-a08e-4d6a-8d4f-9ec2ad7bd838"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003655",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "1e6d258b-8c82-420b-a7ae-7a2341934aaf",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "22-003655",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede</strong>: Ronni Mark Nielsen (V) </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget. </p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Plan- og Tryghedsudvalgets møder og møder i tilknytning til udvalget. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kalenderen er vedlagt som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7fe3f39f-20d7-495f-b960-f9fde161adce",
+          "DocumentId": "7fe3f39f-20d7-495f-b960-f9fde161adce"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003652",
+      "Navn": "Plan- og Tryghedsudvalgets mødekalender 2023",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Plan- og Tryghedsudvalgets kalender 2023",
+          "Id": "e6f3866a-639d-4c12-92e2-ab9f35712102"
+        }
+      ],
+      "Documents": null,
+      "Id": "2328d893-2d3b-4758-b20d-425fd939ccf4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "22-003652",
+      "SourceId": null,
+      "Caption": "Plan- og Tryghedsudvalgets mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d0387163-a758-4efe-8487-3ff207d7730f",
+          "DocumentId": "d0387163-a758-4efe-8487-3ff207d7730f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003657",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "37f7132f-5156-4b90-bbe4-ed1ca7eaa702",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "22-003657",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "4177b34e-2db6-4652-a0e0-075bb7a88efa",
+    "Navn": "Plan- og Tryghedsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-09-12T16:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-09-12T16:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Ronni Mark Nielsen",
+        "Absent": true,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "bd39211a-6f1d-4256-87ec-be1889ad87c8",
+  "Lydfiler": null
+}

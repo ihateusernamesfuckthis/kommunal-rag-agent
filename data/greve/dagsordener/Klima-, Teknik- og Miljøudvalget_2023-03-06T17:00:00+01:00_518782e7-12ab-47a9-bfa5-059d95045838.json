@@ -1,0 +1,247 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Dagsordenen blev godkendt. </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 6. marts 2023. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/85f2eb37-c576-43f2-a3be-4552c591028b",
+          "DocumentId": "85f2eb37-c576-43f2-a3be-4552c591028b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014454",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "da7133b5-8cc3-4e87-bd3a-06285ef3fb93",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "518782e7-12ab-47a9-bfa5-059d95045838",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014454",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "da7133b5-8cc3-4e87-bd3a-06285ef3fb93"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1.-3. anbefales.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet. </p>\n<h4>Resume</h4>\n<p>Byrådet har den 12. december 2022 (pkt. 32) godkendt en samlet plan for\nudrulning af fjernvarme i Greve Kommune. Byrådet skal nu godkende aftalerne med\nGreve Fjernvarme om opkobling af fjernvarme på de kommunale bygninger i fase 1.\nIndstillingen medfører, at Greve Kommune binder sig for betaling til Greve\nFjernvarme i 30 år for de berørte bygninger. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller:</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at der indgås aftaler med Greve Fjernvarme om\n    tilslutning af de kommunale bygninger som fremgår af nedenstående\n    sagsbeskrivelse. </em></li>\n    <li><em>at alle udgifter finansieres af driftsbudgettet\n    til forbrug, herunder:</em> </li>\n</ol>\n<ol style=\"list-style-type: decimal;\">\n    <ol style=\"list-style-type: lower-alpha;\">\n        <li><em>engangsudgiften til\n        tilslutningsbidrag</em></li>\n        <li><em>etableringsbidrag (over\n        30 år)</em></li>\n        <li><em>abonnementsordning for\n        fjernvarmeanlæg på matriklen</em></li>\n    </ol>\n</ol>\n<p><em>3. at Karlslunde Idrætsforening kan\nindgå aftale med Greve Fjernvarme om tilslutning af Karlslunde Hallerne, idet\nde selv finansierer dette. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet har godkendt en samlet Varmeplan for Greve Kommune, som indeholder\nudrulningen af fjernvarme i store områder i kommunen. Varmeplanen blev godkendt\nden 12. december 2022. </p>\n<p>Byrådet skal nu godkende, at de kommunale bygninger, som ligger i fase 1 af\nGreve Fjernvarmes udrulningsplan, opkobles på fjernvarme. De berørte bygninger, som i dag alle er opvarmet med gas, er:</p>\n<p>- Strandskolen, Kongens Enge 40, Karlslunde</p>\n<p>- Strandhuset (dagtilbud), Egedalsvej 25, Karlslunde</p>\n<p>- Egedal (midlertidige <span class=\"spelle\">flygtningeboliger</span>),\nEgedalsvej 29, Karlslunde. </p>\n<p>- Toftegården (daginstitution), Hundigevænget 1, Karlslunde</p>\n<p>- Hundige Bygade 51 A-S (ældreboliger), Greve</p>\n<p>- Børnegården <span class=\"spelle\">Sandrøjel</span>\n(daginstitution), <span class=\"spelle\">Sandrøjel</span>\n1, Greve. </p>\n<p>Der er endnu ikke taget stilling til, hvad de midlertidige flygtningeboliger skal anvendes til, hvis der ikke længere er behov for flygtningeboliger, men det er administrationens vurdering, at der uanset fremadrettet brug vil være fornuftigt at opkoble på fjernvarme sammen med nabobygningen Egedalsvej 25. Der vil blive etableret en fjernvarmeløsning, der er uafhængig af fremadrettet brug. </p>\n<p>Derudover indstiller administrationen, at det godkendes, at Karlslunde\nHallerne bliver opkoblet på fjernvarme. Karlslunde Idrætsforening har meddelt,\nat de ønsker opkoblingen, og at de betaler for udgifterne forbundet hermed.\nGrunden ejes af Greve Kommune, hvorfor Byrådet skal godkende, at aftalen\nindgås. </p>\n<p>Fordelene ved at godkende aftalerne er, at:</p>\n<p>1. <em>Der opnås størst muligt tilslutning til fjernvarmen i områderne</em>.\nFor at fjernvarmen kan udrulles i de konkrete områder, er det nødvendigt at\nmindst 60% af grundejerne tilslutter sig. Da de kommunale bygninger udgør en\nstørre del af bygningsmassen i de berørte <span class=\"grame\">områder,</span> vil\ndet være nødvendigt, at kommunen også tilslutter sig. Endelig tilslutningsgrad\nkendes først den 1. april 2023, hvor der er deadline for tilmelding til\nfjernvarmen i områderne. Tilslutningsgraden i de konkrete områder var ved\nslutningen af januar 2023 på mellem 23-26%. Information om områdernes\nafgrænsning og tilslutningsgrad kan findes på Greve Fjernvarmes hjemmeside.</p>\n<p>2. <em>Mere miljøvenlig opvarmning af kommunens bygninger</em>. Fjernvarmen\ner en mere miljøvenlig opvarmningsform, som sparer på CO<sub><span>2</span></sub>. Dette forventes også at blive en del af\nmålene i kommunens Klimaplan.</p>\n<p>3. <em>Forventede økonomiske fordele</em>. Det forventes, at\nforbrugsudgifterne kan reduceres som følge af opkobling på fjernvarmen. I\nvedhæftede bilag 2 fremgår en foreløbig beregning af, hvor meget det vurderes\nat udgifterne bliver fremadrettet, sammenholdt med de nuværende udgifter til\ngas. </p>\n<h4>Lovgrundlag</h4>\n<p>Lov om varmeforsyning.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Tilslutningen til fjernvarmen medfører i første omgang tilslutningsbidraget\njf. vedlagte aftale om fjernvarmelevering i bilag 1:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Engangsbeløb til tilslutningsbidrag på 34.995 kr. pr.\n    bygning i alt 209.970 kr. inkl. moms i 2023 for de 6 bygninger. </li>\n</ul>\n<p>Desuden tilgår der følgende udgifter:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Fast etableringsbidrag pr. m<sup><span>2</span></sup> som kommunen binder sig for i 30 år.\n    Beløbet udgør pt. 22,50 kr. /m<sup>2</sup>/pr. år (ex/moms) svarende til i\n    alt ca. 0,32 mio. kr. om året eller ca. 9,4 mio. kr. over de 30 år.\n    Beløbet fremgår af Greve Fjernvarmes tarifblad. </li>\n    <li>Omkostninger til fjernvarmeanlæg i bygningerne (enten\n    abonnement eller egen finansiering jf. nedenstående)</li>\n    <li>Den almindelige betaling for forbrug af fjernvarmen (se\n    bilag 2)</li>\n</ul>\n<p>Omkostninger til etablering af fjernvarmeanlæg i bygningerne til fordeling\naf fjernvarmen eller andre nødvendige tilpasninger på matriklen er endnu\nukendt. Administrationen er i dialog med Greve Fjernvarme, om de nye\nfjernvarmeanlæg skal etableres af Greve Fjernvarme på en abonnementsordning,\neller om det er bedre totaløkonomisk, at anlæggene betales af Greve Kommune\nselv. Hvis det kan betale sig med en abonnementsordning, vil denne jf.\nindstillingen blive finansieret via driftsbudgettet til forbrug. Hvis der i stedet viser sig mere hensigtsmæssigt at etablere\nanlæg ejet af Greve Kommune, vil der blive forelagt en ny indstilling om dette,\nog det kan da kræve finansiering fx via Klimapuljen til anlæg.</p>\n<p>Administrationen indstiller, at alle udgifter (tilslutningsbidrag,\netableringsbidrag og evt. abonnementsordning) betales af det almindelige\ndriftsbudget til forbrugsudgifter. </p>\n<p>Foreløbige forventede udgifter til forbrug er opstillet i vedhæftede bilag\n2. Det er forventningen, at kommunen vil kunne spare penge på omlægningen til\nfjernvarme, og at dette kan finansiere etableringsudgifter og evt.\nabonnementsordning for teknisk anlæg på matriklen, men det er endnu meget\nusikkert.</p>\n<p>Der vil senere blive fremlagt en sag med en opgørelse af den samlede\nbetydning for driftsbudgettet til forbrugsudgifter.</p>\n<h4>Kommunikation</h4>\n<p>Udrulningen af fjernvarme vil medføre gravearbejder i områderne omkring\nbygningerne, samt etablering af nye varmeanlæg i bygningerne. Administrationen\nkommunikerer med ledelsen på bygningerne omkring disse i takt med, at det\nbliver relevant. Som udgangspunkt vil omlægning af varme ske uden for\nvarmesæsonen. </p>\n<h4>Tidsplan</h4>\n<p>Udrulningen af fjernvarmen følger Greve Fjernvarmes plan for etape 1, som\ngennemføres i 2023-26. Det første projekt der <span class=\"grame\">udrulles,</span>\ner Hundige Bygade. Udrulningen er afhængig af, at der opnås tilstrækkelig\ntilslutningsgrad. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2f31dbb7-33c6-40a9-bedc-801492772993",
+          "DocumentId": "2f31dbb7-33c6-40a9-bedc-801492772993"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-001401",
+      "Navn": "Tilslutning af kommunale bygninger til fjernvarme",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Aftale om fjernvarmelevering",
+          "Id": "1fee06d4-a658-4387-be87-4bb0cc0d85d5"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Forventede udgifter til fjernvarme",
+          "Id": "4c21db9c-9e76-44c4-99bd-9764f4e66423"
+        }
+      ],
+      "Documents": null,
+      "Id": "76878292-6461-4d35-ae46-41afeffc7d31",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "518782e7-12ab-47a9-bfa5-059d95045838",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-001401",
+      "SourceId": null,
+      "Caption": "Tilslutning af kommunale bygninger til fjernvarme",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "76878292-6461-4d35-ae46-41afeffc7d31"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget indstiller, at tiltaget omkring saunaen i svømmehallen rulles tilbage således at saunaen genåbnes.</p>\n<p>Udvalget anbefaler, at administrationen fremlægger en sag om alle tiltag i god tid inden næste vintersæson, så Byrådet kan tage stilling til alle tiltag inden den kommende vintersæson.</p>\n<p>A ønsker at lufttemperatur og bassintemperatur også hæves tilbage på normalt niveau.</p>\n<p>A stemmer for, V og D stemmer imod og C undlader.</p>\n<p>V og D stiller forslag om at temperaturer på skoleområdet hæves til 21 grader hurtigst muligt. </p>\n<p>V og D stemmer for. A og C undlader.</p>\n<p>KL’s seneste orientering om energiforsyningssituationen af 3. marts 2023 vedlægges referatet.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget,\nØkonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Byrådet besluttede den 3. oktober 2022 og den 12. december 2022 tre\nenergisparetiltag i Greve Svømmehal. Tiltagene var at slukke for saunaen,\nsamt at lufttemperaturen og temperaturen i de to største bassiner sænkes.\nByrådet skal beslutte om tiltagene skal videreføres.  </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Byrådet beslutter, om energisparetiltag\ni Greve Svømmehal helt eller delvist skal videreføres i 2023. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet besluttede den 3. oktober 2022 at iværksætte tre energisparetiltag i\nGreve Svømmehal til udgangen af 2022:</p>\n<p>- Saunaerne lukkes</p>\n<p>- Temperaturen i de to største bassiner reduceres</p>\n<p>- Lufttemperaturen i svømmehallen reduceres</p>\n<p>Tiltagene er beskrevet i vedhæftede notat til Økonomiudvalget fra oktober\n2022. </p>\n<p>Byrådet besluttede den 12. december 2022 at fastholde tiltagene, men at der\nskulle fremlægges en ny sag for Økonomiudvalget i slutningen af marts\n2023. </p>\n<p><span>Det\ner besluttet på Økonomiudvalget den 27. februar 2023, at fremrykke beslutningen\ntil den 6. marts 2023.</span></p>\n<p>Det som taler for at videreføre tiltagene er, at der fortsat er høje priser\npå el, og at kommunen er i en svær økonomisk situation. Energistyrelsen er dog\nikke længere bekymret for en situation med forsyningsmangel, som ved\nforrige behandling af tiltagene.<span> </span></p>\n<p>Det som taler imod at videreføre tiltagene er, at der på nuværende tidspunkt\nsker en løbende nedregulering af energipriserne, som forventeligt endnu ikke\nhar haft sin fulde effekt. Derudover oplever svømmehallen flere henvendelser om\nsaunaen. Desuden oplever svømmehallen at nogen fravælger at besøge\nsvømmehallen, hvilket giver et indtægtstab. Det er dog uvist om nedgangen\nskyldes energisparetiltagene, eller ændrede besøgsvaner efter <span class=\"spelle\">corona</span> mv.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Lukning af saunaerne forventes at give en helårsbesparelse på ca. 168.000\nkr. med baggrund i <span class=\"spelle\">el-priserne</span>\nfra december 2022. </p>\n<p>Reduktion af varmen i de to store bassiner og rumtemperaturen forventes at\ngive en besparelse på ca. 60.000 kr. om året.</p>\n<p>Begge priser er dog afhængigt af den aktuelle pris for energien, men kan\ngive en ide om størrelsesorden.</p>\n<p>El- og gaspriserne steg i august 2022 med en faktor 8-10 ift. prisniveauet i\n2021, hvorefter priserne faldt igennem 4. kvartal 2022 og yderligere i starten\naf 2023, <span class=\"GramE\">således at</span> prisen i januar 2023 var 2-3 gange\nså høje som i 2021.</p>\n<h4>Kommunikation</h4>\n<p>Beslutningen vil blive kommunikeret til svømmehallen og svømmehallens\nbrugere. </p>\n<h4>Tidsplan</h4>\n<p>Tiltagene kan iværksættes med det samme.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>06-03-2023 Kultur- og Fritidsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Udvalget indstiller, at tiltaget omkring saunaen i svømmehallen rulles tilbage således at saunaen genåbnes.</p>\n<p>Udvalget anbefaler at administrationen fremlægger en sag om alle tiltag i god tid inden næste vintersæson, så Byrådet kan tage stilling til alle tiltag inden den kommende vintersæson.</p>\n<p>A stiller forslag om at lufttemperatur og bassintemperatur også hæves tilbage på normalt niveau.</p>\n<p>A stemmer for og V stemmer imod.</p>\n<p>Venstre stiller forslag om, at temperaturer på skoleområdet hæves til 21 grader hurtigst muligt. </p>\n<p>V stemmer for og A undlader.</p>\n<p>KL’s seneste orientering om energiforsyningssituationen af 3. marts 2023 vedlægges referatet.</p>\n<p> </p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3c0d3b9d-dd97-4424-9d0e-54a4905acaf2",
+          "DocumentId": "3c0d3b9d-dd97-4424-9d0e-54a4905acaf2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011409",
+      "Navn": "Videreførsel af energitiltag på Greve Svømmehal",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "~ 22-011409-4 Besparelser på energiforbrug i Greve Svømmehal 2346489_2_0",
+          "Id": "8b654568-1827-43ed-8003-5c766696db5d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Informationsmail om energiforsyningssituationen nr. 10",
+          "Id": "b020a757-3ddb-4ea7-8e00-208629c02752"
+        }
+      ],
+      "Documents": null,
+      "Id": "77dc5ed3-4262-4298-9c0d-f0a3a76d76e1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "518782e7-12ab-47a9-bfa5-059d95045838",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-011409",
+      "SourceId": null,
+      "Caption": "Videreførsel af energitiltag på Greve Svømmehal",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "77dc5ed3-4262-4298-9c0d-f0a3a76d76e1"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d12be665-e343-4e8b-a65c-db14b2329317",
+          "DocumentId": "d12be665-e343-4e8b-a65c-db14b2329317"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014460",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2018754c-fbfa-4646-a33e-fa9f7a1fbe26",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "518782e7-12ab-47a9-bfa5-059d95045838",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-014460",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "2018754c-fbfa-4646-a33e-fa9f7a1fbe26"
+        }
+      ]
+    }
+  ],
+  "Udvalg": {
+    "Id": "6648ace3-ba36-40bf-95ea-bd516b6bf247",
+    "Navn": "Klima-, Teknik- og Miljøudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-03-06T17:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-03-06T17:00:00+01:00",
+    "Sted": "Biblioteket",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Ekstraordinær dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "518782e7-12ab-47a9-bfa5-059d95045838",
+  "Lydfiler": null
+}

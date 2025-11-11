@@ -1,0 +1,381 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div><span> <div> <h3>Sagsprocedure</h3> </div> </span></div> <div>Social- og Handicapudvalget.</div> <div><span> <div> <h3>Resume</h3> </div> </span></div> Godkendelse af dagsorden for mødet den 14. november 2022. <div> <h3>Indstilling</h3> <div>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes. </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d082206c-c980-4e36-8f0e-1778cf620bc1",
+          "DocumentId": "d082206c-c980-4e36-8f0e-1778cf620bc1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014477",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2d2cf1f3-460b-4564-8c64-ab350d6f4bdc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014477",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><span>Sagsprocedure</span></h3> <div>Social- og Handicapudvalget.</div> <h3><span>Resume</span></h3> <div>Social- og Handicapudvalget har bedt om en sag vedr. hvilke tilbud der træder i kraft, når en borger står i en akut situation for hjælp og støtte.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Job & Social og Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Social- og Handicapudvalget har ønsket at blive orienteret om, hvilke tilbud om hjælp og støtte, der kan træde i kraft, når en borger står i en akut situation. Udvalget vil på mødet blive introduceret til, hvordan Greve Kommune håndterer 24 timers vurderinger i Center for Job & Social og Center for Sundhed & Pleje.</div> <div>I forhold til hjælp og støtte i akutte situationer findes der forskellige bestemmelser i lov om social service, som kan tages i anvendelse. Det drejer sig om følgende:</div> <ul>     <li>Lov om social service §82b om tilbud om individuel tidsbegrænset socialpædagogisk hjælp og støtte. </li>     <li>Lov om social service §82c om at kommunerne kan oprette og drive sociale akuttilbud. I Greve Kommune har vi akuttilbuddet Freyas Kvarter.</li>     <li>Nøddepot til udlevering af hjælpemidler udenfor rådhusets åbningstid.</li>     <li>Nedbrud af hjælpemidler og arbejdsredskaber.</li>     <li>Levering af hjælpemidler i forbindelse med udskrivelse fra sygehus.</li> </ul> <h3><span>Lovgrundlag</span></h3> <div>Lov om social service § 82b og § 82c.</div> <div>Lov om social service § 112 og § 113.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ikke nogen økonomiske konsekvenser.</div> <h3><span>Øvrige forhold</span></h3> <div>Socialchef Mariann Mikkelsen og leder af Myndighed Pernille Ellefsen holder oplæg som supplement til sagen. </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ae67ef50-ddc9-4dc7-81f0-49bc6eca7294",
+          "DocumentId": "ae67ef50-ddc9-4dc7-81f0-49bc6eca7294"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-013619",
+      "Navn": "Orientering om håndtering af akutte situationer for borgere",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Slides vedr. oplæg om underretninger",
+          "Id": "7b3b7bc8-578e-4d62-9370-b22a4b9db66b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Slides vedr. kommunens tilbud til borgere i akut krise. Oplæg om Socialt akuttilbud og tidsbegrænset individuel støtte",
+          "Id": "ec8bdfe8-0d35-4510-91d7-ed900fb3a28b"
+        }
+      ],
+      "Documents": null,
+      "Id": "288fbe5a-60b0-490b-b6b4-f9c19795a52f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-013619",
+      "SourceId": null,
+      "Caption": "Orientering om håndtering af akutte situationer for borgere",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1.status blev taget til efterretning.</div> <div>6. anbefales idet sagen<i> </i>med handlemuligheder vedr. indsats nr. 4 Familierettet indsats til de mest udsatte familier retteligt i 2023 bør forelægges Skole-, Børne og Ungeudvalget.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <h3>Sagsprocedure</h3> <div>Plan- og Tryghedsudvalget, Klima-, Teknik- og Miljøudvalget, Kultur- og Fritidsudvalget, Skole-, Børne- og Ungeudvalget, Social- og Handicapudvalget, Beskæftigelses- og Erhvervsudvalget, Økonomiudvalget og Byrådet.</div> <h3>Resume</h3> <div>I denne sag orienteres der om status på handlingsplanens indsatser i programmet Tryghed i Greve Nord, og der stilles forslag til konkrete indsatser i handlingsplanen for 2023.</div> <h3>Indstilling</h3> <div><em>Administrationen indstiller overfor Plan- og Tryghedsudvalget, Klima-, Teknik- og Miljøudvalget, Kultur- og Fritidsudvalget, Skole-, Børne- og Ungeudvalget, Social- og Handicapudvalget og Beskæftigelses- og Erhvervsudvalget, </em></div> <div><em> </em></div> <div><em>1. </em><em>at status for 2022 tages til efterretning</em></div> <div><em> </em></div> <div><em><em>Administrationen indstiller overfor Plan- og Tryghedsudvalget,</em></em></div> <div><em> </em></div> <div><em>2. at forslag til følgende indsatser i 2023 godkendes:</em> </div> <ol style=\"list-style-type: lower-alpha;\">     <li><em>opfølgende aktiviteter under indsats nr. 1 Tryghedsvandringer fortsætter under indsats nr. 6 Fysisk indretning</em></li>     <li><em>indsats nr. 1 Tryghedsvandringer nedlægges som indsats</em></li>     <li><em>under indsats nr. 6 Fysisk indretning – at dialog med DSB om håndtering af de konkrete problemstillinger på Hundige Station fortsætter</em></li>     <li><em>opfølgende aktiviteter under indsats nr. 3 Erhvervsmentor-ordning fortsætter under indsats nr. 7 Erhvervsuddannelser</em></li>     <li><em>indsats nr. 3 Erhvervsmentor-ordning nedlægges som indsats</em></li>     <li><em>indsatser under nr. 5 Kommunikationsindsats fortsat handler om at informere om handlingsplanens indsatser og effekter</em></li>     <li><em>forslag til kampagne under indsats nr. 9 Tryghedskampagne, forelægges Plan- og Tryghedsudvalget i starten af 2023.</em></li>     <li><em>indsats nr. 10 Vagter nedlægges som indsats</em><em> </em></li> </ol> <div> </div> <div><em><em>Administrationen</em> indstiller overfor Klima-, Teknik- og Miljøudvalget,</em></div> <div><em> </em></div> <div><em>3. at forslag til f<em>ølgende indsatser i 2023 godkendes:</em></em></div> <div><em><em>a. </em></em><em>opfølgende aktiviteter under indsats nr. 1 Tryghedsvandringer fortsætter under indsats nr. 6 Fysisk indretning</em></div> <div><em>b. </em><em>indsats nr. 1 Tryghedsvandringer nedlægges</em></div> <div><em>c. </em><em>under indsats nr. 6 Fysisk indretning – at dialog med DSB om håndtering af de konkrete problemstillinger på Hundige Station fortsætter</em></div> <div><em> </em></div> <div><em><em>Administrationen</em> indstiller overfor Kultur- og Fritidsudvalget,</em></div> <div><em> </em></div> <div><em>4. at forslag til følgende indsatser i 2023 drøftes og godkendes:</em></div> <div><em>a. </em><em>henvendelse fra formanden for Idræts- og Fritidsunionen i Greve Kommune vedr. indsats nr. 2 Tættere kobling mellem skole og fritid drøftes med henblik på svar til formanden</em></div> <div><em>b. </em><em>status på fondsansøgninger vedr. indsats nr. 2 Tættere kobling mellem skole og fritid, fremlægges for Kultur- og Fritidsudvalget</em><em> ved halvårsstatus på handlingsplanens indsatser i maj 2023</em></div> <div><em> </em></div> <div><em><em>Administrationen</em> indstiller overfor Skole-, Børne- og Ungeudvalget,</em></div> <div><em> </em></div> <div><em>5. at forslag til <em>følgende indsatser i 2023 godkendes</em></em></div> <div><em><em>a. </em></em><em>status på fondsansøgninger vedr. indsats nr. 2 Tættere kobling mellem skole og fritid, fremlægges for Skole-, Børne- og Ungeudvalget</em><em> ved halvårsstatus på handlingsplanens indsatser i maj 2023</em></div> <div><em> </em></div> <div><em><em>Administrationen </em>indstiller overfor Social- og Handicapudvalget,</em></div> <div><em> </em></div> <div><em>6. <em>at forslag til <em>følgende indsatser i 2023 godkendes</em></em></em></div> <div><em><em><em>a. </em></em></em><em>sag med handlemuligheder vedr. indsats nr. 4 Familierettet indsats til de mest udsatte familier, forelægges Social- og Handicap-</em><em>udvalget i første halvår af 2023</em></div> <div><em> </em></div> <div><em><em>Administrationen</em> indstiller overfor Beskæftigelses- og Erhvervsudvalget,</em></div> <div><em> </em></div> <div><em>7. <em><em>forslag til <em>følgende indsatser i 2023 godkendes</em></em></em></em></div> <div><em><em><em><em>a. </em></em></em></em><em>opfølgende aktiviteter under indsats nr. 3 Erhvervsmentor-ordning fortsætter under indsats nr. 7 Erhvervsuddannelser</em></div> <div><em>b. </em><em>indsats nr. 3 Erhvervsmentor-ordning nedlægges</em></div> <div><em>c. </em><em>handlingsplanen for Lokal Alliance under indsats nr. 7 Erhvervsuddannelser, udgør alternativet til en Erhvervsmentor-ordning</em></div> <h3>Sagsbeskrivelse</h3> <div>Den 20. december 2021 godkendte Byrådet otte indsatser der skal medvirke til at sikre et trygt Greve Nord. Indsatserne blev defineret på baggrund af et stormøde, der blev gennemført 13. september 2021. I stormødet deltog omkring 65 repræsentanter fra beboere og boligorganisationer, daginstitutioner, skoler og uddannelser, kultur og fritidsliv, politi, erhvervsliv og DSB.</div> <div> </div> <div>De besluttede indsatser fordeler sig mellem nye tiltag, og eksisterende tiltag som administrationen allerede har iværksat.</div> <div> </div> <div>De otte indsatser er:</div> <ul>     <li>Tryghedsvandringer (Indsats 1)</li>     <li>Tættere kobling mellem skole og fritidsliv (Indsats 2)</li>     <li>Erhvervsmentorordning (Indsats 3)</li>     <li>Koordineret familierettet indsats til de mest udsatte familier (Indsats 4)</li>     <li>Kommunikationsindsats der arbejder med fortællingerne (Indsats 5)</li>     <li>Fysisk indretning (Indsats 6)</li>     <li>Erhvervsuddannelser (Indsats 7)</li>     <li>Beboersammensætning (Indsats 8)</li> </ul> <div> </div> <div>Hertil kommer indsatser besluttet i forbindelse med budgetforliget for 2022-2025.</div> <ul>     <li>Tryghedskampagne (Indsats 9)</li>     <li>Vagter (Indsats 10)</li>     <li>Overvågning (Indsats 11)</li> </ul> <div> </div> <div>I det følgende orienteres udvalg og Byråd om status på indsatserne, samt om det planlagte videre arbejde med indsatserne i 2023. Indholdet i de enkelte indsatser kan læses i sag til udvalg og Byråd den 20. december 2021, og gentages derfor ikke her.</div> <div> </div> <div><em>Indsats nr. 1 om Tryghedsvandringer</em></div> <div><span>Status</span></div> <div>Den besluttede tryghedsvandring i Greve Nord blev gennemført den 29. august 2022 i områderne Askerød og Gudekvartererne med repræsentanter fra boligafdelinger, Greve Nord Projektet, Natteravnene og Seniorråd. Deltagerne på tryghedsvandringen udtrykte, at de grundlæggende oplevede området som trygt. Deltagerne havde derudover på enkelte steder langs ruten forslag til, hvad der kan gøres for at øge trygheden. </div> <div> </div> <div>Plan- og Tryghedsudvalget og Klima, - Teknik, og Miljøudvalget behandlede i oktober 2022 resultaterne af tryghedsvandringen og forslag til fysiske tiltag. Udvalgene besluttede at igangsætte beskæring og udtynding af beplantning ved tunneller, langs stier m.v., fritlægge belysningsarmaturer for beplantning, samt forbedre belægning ved busstopsteder og tunneller.  Arbejderne gennemføres i efteråret og vinteren 2022.</div> <div> </div> <div>De påpegede forhold om forbedring af lys mv. i tunneller vil indgå i forslag til en samlet plan for forbedring/forskønnelse af tunneller i Greve Nord til fremlæggelse i 2023.</div> <div> </div> <div><span>Indstilling </span></div> <div>Administrationen indstiller, at den videre indsats vedr. tryghedsvandringer lægges ind under indsats nr. 6 Fysisk indretning, da det er besluttet at der ikke gennemføres flere tryghedsvandringer udover den gennemførte.  </div> <div> </div> <div><em>Indsats nr. 2 om Tættere kobling mellem skole og fritidsliv</em></div> <div><span>Status</span></div> <div>Idræts- og FritidsSekretariatet arbejder med støtte fra TrygFonden for at give flere børn og unge i Greve Nord et aktivt fritidsliv. Der ydes vejledning til familier, hvor børnene ikke har været en del af foreningslivet før. </div> <div> </div> <div>Der er udarbejdet en flyer med en oversigt over de fritidstilbud der findes for børn og unge i Greve Nord og Midt. Der er desuden etableret et samarbejde med den lokale sundhedspleje, og med foreningen BROEN Greve som kan hjælpe med betaling af kontingent og udstyr til fritidsaktiviteter, for de familier der ikke selv har råd. </div> <div> </div> <div>Det seneste år er 72 børn kommet i gang med eller blevet fastholdt i en fritidsaktivitet. 57 forældre har modtaget personlig vejledning. Derudover er der lavet aktiviteter for målgruppen, bl.a. i samarbejde med Greve Nord Projektet. </div> <div> </div> <div>Idræts- og FritidsSekretariatet har engageret de fire skoler i Greve Nord. 190 elever fra hhv. Krogårdskolen, Arenaskolen, Hundige Lille Skole og Greve Privatskole er mødtes tre gange for at prøve kræfter med anderledes fritidsaktiviteter. Derigennem har de lært hinanden at kende på tværs af skolerne. </div> <div> </div> <div>Bevillingen til projektet fra Trygfonden udløber til august 2023. Projektet søger fonde om bevilling, der kan sikre en fortsættelse af indsatsen. </div> <div><span> </span></div> <div><span>Indstilling </span></div> <div>Henvendelse fra formanden for Idræts- og Fritidsunionen i Greve Kommune vedlægges til orientering, og Administrationen indstiller, at udvalget drøfter indholdet i et svar til formanden. </div> <div> </div> <div>Administrationen foreslår endvidere, at resultatet af fondsansøgningerne fremlægges i forbindelse med halvårsstatus maj 2023.</div> <div> </div> <div><em>Indsats nr. 3 om Erhvervsmentorordning</em></div> <div><span>Status</span></div> <div>Plan- og Tryghedsudvalget behandlede i maj 2022 et forslag til oprettelse af en Erhvervsmentorordning. Erhvervsmentorordningen blev fremlagt som et alternativ til \"Jobplanet\", hvor unge tilbydes et fritidsjob. \"Jobplanet\" er økonomisk støttet af AP Møllerfonden og udløber i foråret 2023. </div> <div> </div> <div>Udvalget besluttede, at Erhvervsmentorordningen ikke skulle indgå i budgetforhandlingerne Budget 2023-2026 eller Budget 2024-2027, og bakkede op om at der forelægges en sag for Beskæftigelses- og Erhvervsudvalget med eventuelle alternative handlemuligheder for målgruppen.</div> <div> </div> <div><span>Indstilling </span></div> <div>Administrationen indstiller, at den videre indsats lægges ind under indsats nr. 7 Erhvervsuddannelser, og at handlingsplanen under indsats 7 udgør alternativet til Erhvervsmentorordningen. </div> <div> </div> <div><em>Indsats nr. 4 om koordineret familierettet indsats til de mest udsatte familier</em></div> <div><span>Status</span></div> <div>På børneområdet er der peget på at etablere individbaserede støttefunktioner for de mest udsatte familier. </div> <div> </div> <div>Der er stærke indikatorer på, at mistrivsel hos børn og unge har en sammenhæng med brugen af rusmidler, risikoadfærd og kriminalitet. Det peger på et behov for en mere koordineret og familierettet indsats, og dermed en bredere koordineret kommunal indsats for de familier, hvor børn og unge i familierne udviser en tydelig risiko-adfærd i gadebilledet.</div> <div> </div> <div><span>Indstilling </span></div> <div>Behov for indsatser er ved at blive afdækket, og administrationen indstiller, at en sag med status og handlemuligheder forelægges udvalget i første halvår af 2023. </div> <div> </div> <div><em>Indsats nr. 5 om Kommunikationsindsats der arbejder med fortællingerne</em></div> <div><span>Status</span></div> <div>På Greve Kommunes hjemmeside <a href=\"http://www.greve.dk/tryghedigrevenord\" target=\"_blank\">www.greve.dk/tryghedigrevenord</a> bliver der løbende informeret om handlingsplanens indsatser, så interesserede kan følge med. Der kommunikeres både via pressemeddelelser og via kommunens facebookside, når der er konkrete tiltag eller konkrete resultater at formidle.</div> <div> </div> <div><span>Indstilling </span></div> <div>Administrationen indstiller, at kommunikationsindsatsen fortsætter med at informere om handlingsplanens indsatser og effekter.</div> <div> </div> <div><em>Indsats nr. 6 om Fysisk indretning</em></div> <div><span>Status</span></div> <div>På det fysiske område er der peget på problemer som høj fart på veje og stier, manglende belysning, beplantning og konkrete problemstillinger ved Hundige Station. Problemer omkring veje og stier tages op i eksisterende fora. Der er allerede fokus på Hundige Station i forbindelse med byudviklingen af Hundige Strandby, hvor tryghed, belysning på busholdeplads og DSB’s mulige ændringer af broen indgår. Samtidig er tryghed på Hundige Station et fokusområde i Lokalrådet.</div> <div> </div> <div>En samlet plan for forbedring af lys mv. samt forskønnelse i tunneller fremlægges i 2023. Fysiske forhold og forbedringsforslag på boligselskabernes områder drøftes med boligselskaberne fx i forbindelse med styringsdialogmøderne. </div> <div> </div> <div><span>Indstilling </span></div> <div>Administrationen indstiller at opfølgende indsatser vedr. indsats nr. 1 Tryghedsvandring sker under denne indsats.</div> <div>Administrationen indstiller endvidere, at dialog med DSB om håndtering af de konkrete problemstillinger på Hundige Station fortsætter. </div> <div> </div> <div><em>Indsats nr. 7 om Erhvervsuddannelser</em></div> <div><span>Status</span></div> <div>En handlingsplan der har til formål, at alle elever i kommunen i løbet af deres skolegang møder og arbejder med udfordringer fra en lokal virksomhed, er udarbejdet i samarbejde mellem skoler og virksomheder.  </div> <div> </div> <div>Formålet med indsatsen for eleverne er:</div> <ul>     <li>Erfare egne interesser og styrker – ud fra erfaringer, der er anderledes end fra hverdagen i skolen </li>     <li>Opleve en virkelighedsnær og konkret anvendelse af skolens fag, som den enkelte elev kan se for sig som en karrierevej efter skolen </li> </ul> <div> </div> <div>Formålet med indsatsen for virksomhederne er:</div> <ul>     <li>Adgang til at engagere dygtige og uddannelsesparate unge i virksomhedens fagområder </li>     <li>Mulighed for at fastholde unge i lokalområdet</li>     <li>Få unge øjne på virksomheden og virksomhedens produkter og de udfordringer, som virksomheden ønsker løsninger på </li> </ul> <div> </div> <div><span>Indstilling </span></div> <div>Administrationen indstiller at opfølgende indsatser vedr. indsats nr. 3 Erhvervsmentor-ordning sker under denne indsats.</div> <div>Administrationen indstiller, at en handlingsplan forelægges og implementeres i løbet af 2023, og at handlingsplanen udgør alternativet til Erhvervsmentorordningen.</div> <div> </div> <div><em>Indsats nr. 8 om Beboersammensætning</em></div> <div><span>Status</span></div> <div>Vedr. beboersammensætning pegede Stormødet på at ændre kriterierne for udlejning, så det bliver muligt i højere grad at tiltrække ressourcestærke beboere. </div> <div> </div> <div>Et bredt flertal i Folketinget har indgået aftale der har fokus på, at ingen boligområder udvikler sig til ghetto-områder. Plan- og Tryghedsudvalget har drøftet aftalens konsekvenser for Greve Nord, herunder fastlæggelse af mål for beboersammensætningen i Greve Nord. Redskaber til at regulere beboersammensætningen er fastlæggelse af rammer for den kommunale anvisningsret, og kriterier for hvilke personer boligorganisationerne kan udleje til. </div> <div> </div> <div>Plan- og Tryghedsudvalget besluttede i september 2022 at udvalget på et af de første udvalgsmøder i 2023, forelægges en sag med forslag til måltal for beboersammensætningen, rammer for den kommunale anvisningsret, samt forslag til udlejnings-kriterier. På baggrund af udvalgets beslutning, indgås der aftale med boligorganisationerne om en aftale for anvisning og udlejning.</div> <div> </div> <div><em>Indsats nr. 9 om Tryghedskampagne</em></div> <div><span>Status</span></div> <div>Undersøgelse af trygheden i Greve Nord blev gennemført hen over sommeren 2022. Resultatet er, at de fleste borgere føler sig trygge i deres nærområde, men undersøgelsen viste også, at det der skaber utryghed, er knallertkørsel på stier, tilråb fra større grupper af mennesker der er forsamlet, vidne til kriminalitet og indbrud. </div> <div> </div> <div>Resultaterne for undersøgelsen udgør en baseline for nærværende handlingsplans indsatser. Undersøgelsen gennemføres hvert andet år, og de kommende undersøgelser vil vise, om handlingsplanens indsatser har en effekt på oplevelsen af tryghed.  </div> <div> </div> <div><span>Indstilling </span></div> <div>Indsatsen indebærer endvidere en kampagne der skal informere om mulighederne for anonymt at melde snyd med offentlige sociale ydelser, lejemål, social kontrol og utrygge steder. Administrationen indstiller, at Plan- og Tryghedsudvalget i starten af 2023 forelægges et konkret udkast til kampagne. </div> <div> </div> <div><em>Indsats nr. 10 Vagter</em></div> <div><span>Status</span></div> <div>I Budgetforliget for 2022-2025 indgik en indsats vedr. etablering af et kommunalt vagtværn. Baggrunden for indsatsen var - på baggrund af politi-aftalen fra 2020 - et forslag fra Regeringen om at gøre det muligt for kommuner, at etablere at korps af ”tryghedsvagter”. Regeringen har dog ikke kunne nå til enighed om et kompromis med forligskredsen bag flerårsaftalen for politiet og anklagemyndigheden i 2020.</div> <div> </div> <div>I september 2022 sendte har Regeringen sendt et nyt lovforslag om en treårig forsøgsordning om tryghedsvagter i høring. Forsøgsordningen finder iflg. lovforslaget sted i perioden 1. juni 2023 – 2026 og indebærer, at kommunerne får mulighed for at ansætte tryghedsvagter i specifikke områder præget af utryghed.</div> <div> </div> <div>Hvis lovforslaget bliver besluttet af Folketinget, forelægges udvalget en sag med mulige handlinger på baggrund af loven. </div> <div> </div> <div><span>Indstilling </span></div> <div>Administrationen indstiller, at indsatsen udgår af handlingsplanen indtil lovforslaget eventuelt bliver vedtaget. </div> <div> </div> <div><em>Indsats nr. 11 Overvågning</em></div> <div><span>Status</span></div> <div>Politiet ser ikke et behov for fast overvågning, men anbefaler anvendelse af fleksibel overvågning i de områder, hvor politiet beslutter at foretage en særlig indsats.</div> <div> </div> <div>På udvalgsmøde 31. maj 2022 blev det besluttet, at grundlaget for etablering af tryghedsskabende overvågning skulle afdækkes nærmere gennem Tryghedsvandringen (indsats nr. 1). Anbefalingerne på baggrund af Tryghedsvandringen indbefatter ikke etablering af overvågning i det område, hvor tryghedsvandringen er foretaget (Askerød og Gudekvartererne), idet der ikke blev udpeget et behov.</div> <div> </div> <div>Plan- og Tryghedsudvalget besluttede i oktober 2022 på baggrund af afrapporteringen på tryghedsvandringen, at udvalget skal forelægges en sag, der belyser kommunens muligheder for tryghedsskabende overvågning. </div> <h3> </h3> <h3>Økonomiske konsekvenser</h3> <div>Der blev med Budget 2021-2024 afsat årligt 800.000 kr. (i 2020-PL). Det svarer til 828.000 kr. i 2023-PL.</div> <div> </div> <div>Der budgetteres i 2023 med udgifter på 28.000 kr. til gennemførelse af tryghedskampagnen. Den resterende bevilling vil blive disponeret i forbindelse med fremlæggelse af beslutningssager vedr. tryghedsvandring, alternativ til erhvervsmentorordning, familierettet indsats og/eller overvågning. </div> <div> </div> <div>Restbudgettet for 2022 indgår i den samlede opgørelse for Budgetopfølgning 3-2022.</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-11-2022 Beskæftigelses- og Erhvervsudvalget</u><br>\r <div>1. Status blev taget til efterretning</div> <div>7.a-c indstilles godkendt</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e3bacbd8-eba8-4d3d-a4b4-1f9f85256fc3",
+          "DocumentId": "e3bacbd8-eba8-4d3d-a4b4-1f9f85256fc3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-010677K",
+      "Navn": "Tryghed i Greve Nord - Helårsstatus 2022 og indsatser i 2023",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Anmodning fra Idræts- og Fritidsunionen om støtte til børn og unges inklusion i organiserede fritidsaktiviteter i Greve Nord",
+          "Id": "adebd015-b519-4a97-99a7-175e014e7f84"
+        }
+      ],
+      "Documents": null,
+      "Id": "3399dffb-5a76-4c7d-ab13-841f55adc272",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "20-010677K",
+      "SourceId": null,
+      "Caption": "Tryghed i Greve Nord - Helårsstatus 2022 og indsatser i 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1.-6. taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3>Sagsprocedure</h3> </div> <div>Alle fagudvalg, Økonomiudvalget og Byrådet.</div> <div> </div> <div> <h3><span>Resume</span></h3> </div> <div>Byrådet besluttede i oktober 2022 et katalog over energibesparelser, som administrationen har iværksat. Derudover havde administrationen udarbejdet et idekatalog for hvordan yderligere energibesparelser kan opnås. Der gives hermed en status på, hvordan de godkendte energibesparelser er gennemført, efter at forslagene har været i MED høring, samt hvilke forslag der ikke arbejdes videre med. Der fremlægges en separat sag om vejbelysningfor Klima-, Teknik- og Miljøudvalget.</div> <div> </div> <div> <h3><span>Indstilling</span></h3> </div> <div><em>Center for Teknik & Miljø indstiller,</em></div> <div><em>1. at orienteringen om implementering af sænkning af varme og brugernes egen adfærd tages til efterretning.</em></div> <div><em> </em></div> <div><em>2. at det tages til efterretning, at der ikke på nuværende tidspunkt arbejdes videre med følgende tiltag:</em></div> <div><em> <span>\t</span>a) Sænkning af vandtemperaturer</em></div> <div><em>  <span>\t</span>b) Slukningen for lys på stadion og kunstgræsbaner</em></div> <div><em> <span>\t</span>c) Begrænsning af åbningstider til foreningsliv på skoler, idrætscentre og borgerhuse</em></div> <div><em> <span>\t</span>d) Yderligere lukning af varme for Rådhuset udover fredag</em></div> <div><em> </em></div> <div><em>3. at der fremlægges en separat sag på ekstraordinært møde den 12. december 2022 om eventuel fortsættelse af tiltag i Greve Svømmehal</em></div> <div><em> </em></div> <div><em>4. at proces for dialog med foreninger og institutioner der får tilskud til forbrugsudgifter om deres merudgifter tages til efterretning.</em></div> <div><em> </em></div> <div><em>5. at selvejende og selvforvaltende institutioner, kan få reduceret i krav til vedligehold i 2022-23, samt  få mulighed for at få udbetalt deres tilskud for 2023 tidligt i 2023 for at sikre likviditeten.</em></div> <div><em> </em></div> <div><em>6. at der <em>fremlægges en status på dialoger med foreninger og institutioner i foråret 2023</em></em></div> <div> </div> <div> <h3><span>Sagsbeskrivelse</span></h3> </div> <div><strong><em>Besparelser ved at reducere varmen til 19 grader og udsætte varmesæson</em></strong></div> <div>Byrådet godkendte i oktober 2022, at administrationen arbejder med at sætte varmen ned i kommunale bygninger til 19 grader, som anbefalet af Energistyrelsen og regeringen. Undtaget for dette er vuggestuer samt plejecentrene og botilbuddene, hvor beboerne er sårbare. Efter endt MED høring har administrationen desuden valgt, at varmen ikke sættes ned hos tandplejen, hvor medarbejdernes uniform ikke gør det muligt at have lange ærmer, samt på specialundervisningstilbud som Bugtskolen, hvor børn kan have et bevægelseshandicap. Samtidig blev varmesæsonen udsat til omkring efterårsferien.</div> <div> </div> <div>På Rådhuset arbejder administrationen desuden med at starte natkøling af Rådhuset allerede torsdag aften, hvor det normalt først sker fredag aften. Derved spares på varmen om fredagen, da det vurderes, at de 19 grader stadig kan holdes. Der skrues ikke helt ned for varmen om fredagen, da MED høringen viser, at der stadig er medarbejdere, som har behov for at være på rådhuset af hensyn til borgermøder, eller fordi de har en stationær computer, og derfor ikke kan arbejde hjemme. Administrationen vurderer ikke, at det vil medføre en økonomisk gevinst at sænke temperaturen for Rådhuset en yderligere dag, da det så vil medføre en større udgift til at få temperaturen op igen, ligesom at bygningen også kan få bygningsskader hvis varmen skrues ned i for lang tid ad gangen. En del af begrundelsen er, at Rådhuset har en facade, der er utæt mange steder. </div> <div> </div> <div><strong><em>Kampagne for større energibevidsthed hos brugere</em></strong></div> <div><span>Udover at spare på varmen har administrationen igangsat en kampagne om større energibevidsthed. Der er udarbejdet en række plakater og gode energiråd som uddeles gennem ledelseskæden. Plakaterne skal opsættes på bygningerne, og samtidig facilitere en snak på de konkrete arbejdspladser om, hvordan der tænkes i energibesparelser. Der bliver i løbet af vinterhalvåret fulgt op på yderligere konkrete gode råd og historier, som en del af en samlet kommunikationsplan. Der udskrives som en del af dette arbejde en lille konkurrence om de bedste historier for, hvordan man holder varmen og sparer på strømmen. </span></div> <div><span> </span></div> <div><strong><em>Vandtemperaturerne skrues ikke generelt ned</em></strong></div> <div><span>Administrationen havde forslået, at der kunne arbejdes videre med at skrue ned for det varme brugsvand til for eksempel håndvask. Efter en konkret vurdering af bygningernes vandinstallationer har administrationen valgt ikke at arbejde videre med dette, da der vil være for stor risiko for, at der kan opstå problemer med vandkvaliteten, som kan have store konsekvenser for sundheden og medføre, at der skal gennemføres større gennemskylninger af rørene. Denne bekymring er også blevet påpeget i mange af de MED svar, der er blevet fremsendt. </span></div> <div><span> </span></div> <div><span> </span></div> <div><span>Der arbejdes dog stadig med, hvordan der kan skrues ned for varmen de steder, hvor det er muligt f.eks. ved brusere med decentrale temperaturindstillinger på idrætscentrene, og på toiletter med berøringsfri armaturer.</span></div> <div><span> </span></div> <div><span><em><strong>Tiltag i Greve Svømmehal</strong></em></span></div> <div><span>Byrådet besluttede i oktober 2022, at der i svømmehallen skal sænkes vandtemperatur for alle bassiner undtagen babybassinet, samt lukkes for saunaen til udgangen af 2022, hvorefter der skal tages en ny beslutning i Byrådet om, hvorvidt ordningen skal fortsætte. Der fremlægges derfor en separat indstilling på ekstraordinære fagudvalgsmøder forud for byrådsmødet den 12. december 2022 om dette.</span></div> <div><span> </span></div> <div><em><strong>Øvrige konkrete tiltag på kultur- og fritidsområdet</strong></em></div> <div><span>I tiltagskataloget foreslog administrationen en række tiltag som oplæg til yderligere dialog. Med baggrund i den dialog foreslår administrationen, at der ikke arbejdes videre med følgende tiltag:</span></div> <div><span> </span></div> <div>  - <em>Slukningen for lys på stadion og kunstgræsbaner</em>. Efter dialog med idrætscentrene anbefales det, at der ikke slukkes lys på stadioner og kunstgræsbaner, da dette vil medføre aflysning af aktiviteter. I stedet for arbejdes der med at dæmpe belysningen, når der ikke spilles kamp, hvor det er teknisk muligt. </div> <div> </div> <div>  - <em>Begrænsning af åbningstider til foreningsliv på skoler, idrætscentre og borgerhuse</em>. Det er muligt at spare på energien ved at begrænse foreningslivets brug af skoler, idrætscentre og borgerhuse i ydertimerne og weekenderne. Dette vurderes ikke at kunne implementeres uden større omkostninger for foreningsliv og aftenskoler, der samtidig vil miste medlemmer og indtægter. Derfor foreslås det ikke at arbejde videre med dette forslag. </div> <div> </div> <div><em>Håndtering af merudgifter på forbrug for foreninger og institutioner, der får tilskud</em></div> <div>Det er generelt kommunikeret ud til foreningslivet, at de retningslinjer der gælder for de kommunale bygninger, også skal iværksættes for de bygninger, kommunen giver tilskud til, og at det generelt forventes, at foreningerne på samme vis som de kommunalt ansatte følger rådene for energirigtig adfærd. </div> <div> </div> <div>Der er en række foreninger og institutioner, der får tilskud til at betale deres forbrug via enten lokaletilskudspuljen eller selvforvaltningsaftaler. Administrationen anbefaler, at udfordringen for foreningerne og institutionerne håndteres med baggrund i det aftalegrundlag, der allerede ligger, samt de muligheder der givet fra staten. </div> <div> </div> <div>Dette betyder konkret at:</div> <div> </div> <div><em>Foreninger der får lokaletilskud</em> skal dokumentere forbrugsudgifter der overstiger 10% og hvad de har gjort for at få nedbragt forbruget så meget som muligt. Dette skal ske i den sædvanlige proces for udbetaling af lokaletilskud, som bliver udbetalt næste gang i maj 2023. Hvis enkelte foreninger får udfordringer med at dække udgifter i 2022, med baggrund i det lokaletilskud de har fået, kan de eventuelt få udbetalt lokaletilskud tidligere på året i 2023. Hvis foreningerne har krav på at få dækket udgifter, der overstiger den samlede pulje til lokaletilskud i 2023, fremlægger administrationen separat sag om dette.</div> <div> </div> <div><em>Foreninger og institutioner der har selvforvaltningsaftaler,</em> skal i lighed med foreninger, der får lokaletilskud,  dokumentere deres forbrugsudgifter, og hvad de har gjort for at minimere udgifterne. Herudover skal de beskrive, om de kan anvende muligheden for at fastfryse deres forbrugsregninger på niveauet for efteråret 2021, hvor de resterende beløb kan afdrages over de efterfølgende år, som staten har givet lov til, for at sidestille med private virksomheder.</div> <div> </div> <div>Derudover foreslår administrationen, at der gives lov til, at de ikke skal overholde de retningslinjer for vedligehold, der er i aftalerne. I aftalerne med KIF, TIF og BUS er der fastsat et niveau for, hvor mange midler der skal bruges om året til vedligehold af bygningerne, ligesom Portalen skal komme med en årlig plan for vedligehold. Derved sidestilles de selvforvaltende institutioner med de kommunale bygninger, hvor der også er sparet på vedligehold i 2022 for at imødekomme merudgifter på energiforbrug mv.. </div> <div> </div> <div>Dialogen om de konkrete udfordringer følger selvforvaltningsaftalerne, hvor der for KIF, TIF og Portalen afholdes dialogmøder i foråret 2023. For at sikre institutionernes likviditet kan de eventuelt bede om tidligere udbetaling af tilskud for 2023. Administrationen fremlægger en separat sag i foråret med status på dialogerne.</div> <div> </div> <div>Det skal desuden bemærkes, at KIF og TIF har fremsendt en henvendelse om forventede øgede energiomkostninger i 2022. Hvis der skal ydes tilskud til dette i 2022, skal det besluttes ved budgetopfølgning 3 for 2022, og henvendelserne vil blive fremlagt ved behandling af budgetopfølgning 3. Men administrationen anbefaler som nævnt i denne sag, at det håndteres via eksisterende selvforvaltningsaftaler, reduceret krav om vedligehold, statens mulighed for at sidestille med private virksomheder samt evt. fremrykning af tilskud i 2023 til tidligere i 2023.  </div> <div> </div> <div> <h3><span>Lovgrundlag</span></h3> </div> <div>Opvarmning af bygninger skal følge Arbejdstilsynets vejledning om indretning af arbejdspladser. </div> <div> </div> <div> <h3><span>Økonomiske konsekvenser</span></h3> </div> <div>Administrationen forventer at de tiltag, der blev forslået i indstillingen af oktober 2022, vil have en effekt på ca. 1 mio. kr. i 2022 og ca. 5 mio. kr. i 2023. Dette gælder kun forbruget for de bygninger, som kommunen selv ejer og betaler forbrug for. Det forventes fortsat, at denne besparelse kan opnås, dog med forbehold for  udviklingen i energipriserne samt brugernes adfærd.</div> <h3><span>Kommunikation</span></h3> <div>Der er udarbejdet en kommunikationsplan for arbejdet med energibesparelser. Til ekstern brug er der udarbejdet en hjemmeside på greve.dk og udsendt pressemeddelelse.</div> <div> </div> <div>Til intern brug er der udarbejdet en række informationsplakater til at understøtte energirigtig adfærd hos brugerne. Der følges løbende op med gode historier og tips i løbet af vinterhalvåret. </div> <div> </div> <div> <h3><span>Tidsplan</span></h3> </div> <div>Implementeringen af alle godkendte tiltag er iværksat. Nogle bygninger har ikke fjernkontrolleret styring af varme, hvorfor der tages rundt på bygningerne enkeltvis for at tilrette varmen. </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-11-2022 Beskæftigelses- og Erhvervsudvalget</u><br>\r <div>1. - 6.blev taget til efterretning.</div> <div> </div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fdd3397b-bfb5-4814-a1b0-2add25e15a24",
+          "DocumentId": "fdd3397b-bfb5-4814-a1b0-2add25e15a24"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011409",
+      "Navn": "Opfølgning på tiltag til energibesparelser",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2a69d945-63fc-4f80-a092-8bee0f67368a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-011409",
+      "SourceId": null,
+      "Caption": "Opfølgning på tiltag til energibesparelser",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Administrationen orienterede endvidere om en borgersag.</div> <div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen har følgende til orientering:</div> </div> <div> </div> <ul>     <li>Administrationen orienterer om Holbæks Kommunes uanmeldte tilsyn på bostedet Kildehaven</li> </ul></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/69bfe505-f58f-4eb7-b81a-0b3a9630aaf9",
+          "DocumentId": "69bfe505-f58f-4eb7-b81a-0b3a9630aaf9"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013715",
+      "Navn": "Huskeliste/ orientering fra administrationen",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "f1d0543a-5aad-42a1-bb3c-535c8af6cf9b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-013715",
+      "SourceId": null,
+      "Caption": "Huskeliste/ orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Der var ingen orienteringer.</p>\n<p>&nbsp;</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016089",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d2709411-ad07-4b4d-abc2-4fdbd8a2e806",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-016089",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Der var ingen orienteringer.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><i><br> </i></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a5c9e5df-1929-4a41-a011-7d5ae2bf6b78",
+          "DocumentId": "a5c9e5df-1929-4a41-a011-7d5ae2bf6b78"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014473",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "3f861b6a-4ca8-4709-b0e6-d6fa445d1f0b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014473",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget.</div> <h3> <div> <h3>Resume</h3> </div> </h3> <div>I sagen gives et overblik over Social- og Handicapudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Mødekalenderen er vedhæftet som bilag.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ce3eabab-af1b-4d1a-b4ea-ba3c3947eee5",
+          "DocumentId": "ce3eabab-af1b-4d1a-b4ea-ba3c3947eee5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014474",
+      "Navn": "Social- og Handicapudvalget - mødekalender 2022",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Social- og Handicapudvalgets kalender 2022 - november 2022",
+          "Id": "f5cb9259-fbc8-452a-912f-61828c1e196f"
+        }
+      ],
+      "Documents": null,
+      "Id": "a3da8c6e-c705-4775-93b9-894db4da7c2a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014474",
+      "SourceId": null,
+      "Caption": "Social- og Handicapudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span> <div> </div> </span></h3> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2eaec947-5dc5-4269-947b-264a9cdb4703",
+          "DocumentId": "2eaec947-5dc5-4269-947b-264a9cdb4703"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014478",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ea4a4018-0b6c-4a2f-af01-eb2abecbb067",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-014478",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "29a68a87-8011-4734-bcb5-75598c5bef77",
+    "Navn": "Social- og Handicapudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-11-14T17:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-11-14T17:00:00+01:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": true,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "1bdade20-3ab7-4736-b81b-bdb60ed632fa",
+  "Lydfiler": null
+}

@@ -1,0 +1,665 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt, idet sag 3 blev udskudt til efter sag 5.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 23. april 2024. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at dagsordenen godkendes</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c247025c-e63a-41ac-93c4-2164984f8170",
+          "DocumentId": "c247025c-e63a-41ac-93c4-2164984f8170"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003654",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "3eb9b5b1-ece2-4dca-96cd-ad6b29b69e1c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "22-003654",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Sagen blev drøftet.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, <span>Klima-,\nTeknik- og Miljøudvalget, Økonomiudvalget og Byrådet</span></p>\n<h4>Resume</h4>\n<p>Sagen beskriver generelt kommunens forpligtigelser til etablering af\ninfrastrukturanlæg i forbindelse med byudvikling i kommunen. Dette har blandt\nandet betydning for kommunens udgifter til byudvikling.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen </em><span class=\"grame\"><em>indstiller overfor Plan- og Tryghedsudvalget</em></span></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at den generelle\n    beskrivelse af kommunens forpligtigelser til etablering af\n    infrastrukturanlæg i forbindelse med byudvikling i kommunen drøftes</em></li>\n</ol>\n<p><em>Administrationen indstiller overfor Klima-, Teknik- og Miljøudvalget</em></p>\n<p><em>2. </em><em>at det godkendes at administrationen udarbejder et bruttoanlægsforslag for en\npulje til etablering af infrastrukturanlæg mv. i forbindelse med\nbyudvikling i kommunen</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Plan- og Tryghedsudvalget besluttede på mødet den 16. januar 2024 (pkt. 6),\nat de ønsker en sag, der belyser kommunens forpligtigelser ved et evt. behov\nfor lysregulering. Punktet blev protokolleret i forbindelse med behandlingen af\nen igangsættelsessag for en lokalplan for servicefunktioner ved <span class=\"spelle\">Vejleåvej</span>. </p>\n<p>Greve Kommune er i gang med at <span class=\"spelle\">byudvikle</span> en række\nområder vest for motorvejen, og i den forbindelse er der udarbejdet en\ntrafikanalyse, der viser behov for nødvendige tiltag på vejnettet for at\nopretholde en acceptabel afvikling af trafikken og sikring af\ntrafiksikkerheden, både nu og når området er fuldt udbygget. </p>\n<p>Administrationen har derfor bedt advokatvirksomheden Horten om at få\nbelyst kommunens forpligtigelser i forhold til infrastruktur og bekostningen af\ndisse. I tilknytning hertil har administrationen fået udarbejdet et notat, som\ngenerelt beskriver, hvornår kommunen er forpligtet til at etablere\ninfrastrukturanlæg. Herunder en generel beskrivelse af i, hvilke tilfælde\nkommunen kan indgå aftale om etablering af infrastrukturanlæg med grundejer i\nmedfør af planloven og vejlovgivningen, og hvornår kommunen kan pålægge\ngrundejer at etablere infrastrukturanlæg i medfør af vejlovgivningen (jf. bilag\n1). </p>\n<p>Desuden har administrationen fået udarbejdet et notat, som forholder sig til\ntre konkrete eksempler til belysning af spørgsmålene (jf. bilag 2). Bilaget er\nlukket af hensyn til beskyttelse af kommunens økonomiske interesser og\nforhandlingsposition. Administrationen skal i tilknytning hertil oplyse, at\nHortens vurdering beror på de foreliggende oplysninger. </p>\n<p>Den generelle beskrivelse af kommunens forpligtigelser fremgår af\nnedenstående.</p>\n<p><strong><em>Generel beskrivelse af kommunens forpligtigelser</em></strong></p>\n<p><em><span>Vejloven</span></em></p>\n<p><span>Udgangspunktet er, at det er Greve Kommune der -\nsom vejmyndighed - har ansvaret for at holde kommunens veje i en stand, som\ntrafikkens art og størrelse kræver, samt at etablere den infrastruktur, som er\nnødvendigt for at forsyne ny byudvikling. </span></p>\n<p><span>I særlige tilfælde kan kommunen pålægge ansøgeren\ntil en adgangstilladelse til offentlig vej (udover selve etableringen af\nvejadgangen) også at afholde udgifterne til etablering af bestemte\nforanstaltninger på det offentlige vejareal. Dette kunne fx være midterrabat,\nkanalisering, lyssignal og lign. (jf. vejlovens § 49, stk. 6). Kanalisering er\nfx når der oprettes svingbaner, for bilister der skal dreje af.</span></p>\n<p><span>Vejdirektoratet har udtalt, at dette ikke gælder\nifm. etablering af bestemte foranstaltninger mellem offentlige veje, men alene\ntil overgangen mellem adgangen og den offentlige vej. Det er derfor ikke muligt\nfor kommunen at kræve andre offentlige veje i lokalområdet ombygget som vilkår\nfor tilladelsen. </span></p>\n<p><span>Ved etablering af nye vejstrækninger eller\nudvidelse af befæstede arealer for eksisterende veje kan der være grundlag for\nat opkræve vejbidrag hos de grundejere, der grænser op til eller kommer til at\ngrænse op til vejen, og som har eller får adgang til vejen. Greve Kommune har\nikke praksis for at opkræve vejbidrag.</span></p>\n<p><span>Efter vejloven er der mulighed til at indgå\naftaler med grundejere om etablering af foranstaltninger, der ligger ud over\nkommunens vedligeholdelsespligt efter vejloven (jf. § 8, stk. 3). Fx hvis\nen </span>grundejer ønsker, at der på et vejareal udføres arbejder, der\nikke er begrundet i, at vejarealet er i dårlig stand. Det kan fx være en\ngrundejer, der af æstetiske grunde ønsker, at en asfaltbelægning udskiftes med\nchaussésten. I sådanne tilfælde giver det kommunen mulighed for at indgå aftale\nmed den pågældende grundejer om, at grundejeren skal afholde udgifterne til\ndette arbejde. Samtidig betyder det også, at der <span>ikke er mulighed for at </span>indgå aftaler om, at en\nprivat aktør afholder udgifterne til etablering af et offentlige vejareal med\nsædvanlig belægning og udformning. Heller ikke selvom vejen skal benyttes som\nadgangsvej til den pågældendes ejendom. </p>\n<p><em><span>Planloven</span></em></p>\n<p>Herudover er der efter planloven mulighed for at indgå udbygningsaftaler om\ninfrastruktur (jf. § 21b). En udbygningsaftale forudsætter, at grundejer med\naftalen får en bedre planmæssig retsstilling end uden aftalen i form af\nfølgende tilfældegrupper:</p>\n<ul style=\"list-style-type: disc;\">\n    <li><span>Højere kvalitet eller standard (iht. den\n    planlagte infrastruktur)</span></li>\n    <li><span>Fremrykning af lokalplanlægningen </span></li>\n    <li><span>Bedre eller udvidede byggemuligheder</span></li>\n</ul>\n<p><span>En udbygningsaftale kan alene indgås på opfordring\nfra grundejer og omfatter ikke social infrastruktur i form af skoler,\ndaginstitutioner mv.</span></p>\n<h4>Lovgrundlag</h4>\n<p>Planloven og vejloven. </p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>I forbindelse med udviklingen af en række områder, vil kommunen have\nudgifter forbundet med etablering af infrastrukturanlæg mv. Derfor\nvil administrationen udarbejde et bruttoanlægsforslag, der kan indgå i\nforhandlingerne om Budget 2025-28, i form af en pulje til etablering af\ninfrastrukturanlæg mv. ifm. udviklingen af områder.</p>\n<h4>Øvrige forhold</h4>\n<p>På mødet for Plan- og Tryghedsudvalget deltager Marie Bockhahn, advokat i Horten med et oplæg samt Maja Bagge Lillelund, enhedschef for Plan, Vej og Landskab i Greve Kommune.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/528cf76c-4403-4265-86a0-ab01d1733df2",
+          "DocumentId": "528cf76c-4403-4265-86a0-ab01d1733df2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003582",
+      "Navn": "Byudvikling, Kommunens forpligtigelser til udbygning af infrastruktur",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Notat om generel beskrivelse af kommunens forpligtigelser",
+          "Id": "3784e306-ba76-4a35-a2a0-e102161d77c7"
+        }
+      ],
+      "Documents": null,
+      "Id": "d23f0df1-63bb-42f0-8398-50fe159166df",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "24-003582",
+      "SourceId": null,
+      "Caption": "Byudvikling, Kommunens forpligtigelser til udbygning af infrastruktur",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Udvalget ønsker en kontoplan for alle linjer i udvalgets budget sat op i Excel og pivottabel.</p>\n<p>2. Anbefales.</p>\n<p>(C) undlader.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget, Sundheds- og Omsorgsudvalget, Social-\nog Handicapudvalget, Skole-, Børne- og Ungeudvalget, Plan- og Tryghedsudvalget, Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Nærværende sag danner rammen for fagudvalgenes orientering og drøftelse i\nforhold til Budget 2025-28 frem mod Byrådets temamøde den 22. maj 2024. I sagen\nforelægges som baggrundsmateriale kan/skal-kataloget, oversigt over tidligere\nforeslåede effektiviseringsforslag samt opmærksomhedspunkter fra Byrådets\ntemamøde den 17. april 2024. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at </em></p>\n<ol>\n    <li><em>fagudvalget drøfter, hvordan det samlede finansieringsbehov kan tilvejebringes med særlig fokus på fagudvalgets område</em></li>\n    <li><em>Byrådet tager tilbagemelding fra fagudvalgene til efterretning </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Budgetprocessen for 2025-28 er på mange områder godt i gang.\nBudgetanalyserne er i gang, arbejdet med kan/skal-kataloget og nye\neffektiviseringsforslag <span class=\"grame\">pågår</span> i administrationen og der kigges på niveauet for tekniske\nrettelser. Økonomiudvalget og Byrådet har desuden på møderne henholdsvis\nden 28. februar (pkt. 4) og 13. marts 2024 (pkt. 7) fået forelagt sag\nvedrørende Budget 2025-28 - herunder status og måltal.</p>\n<p>I forhold til udarbejdelsen af de samlede effektiviseringsforslag anbefales det, at udvalget orienterer sig i nedenstående samt det vedlagte baggrundsmateriale og kommer med konkrete input og forslag til, hvordan det samlede finansieringsbehov kan udmøntes.</p>\n<p><em><strong>Status og finansieringsbehov</strong></em></p>\n<p>På nuværende tidspunkt forventer administrationen, at der er et samlet finansieringsbehov\ni omegnen af 40 mio. kr. i 2025. Finansieringsbehovet skal dække forventede\nmerudgifter, som vurderes at påvirke 2025, tekniske rettelser og eventuelle\nudvidelsesforslag. Der henvises til sag på Byrådsmødet den 13. marts 2024 (pkt. 7) for\nnærmere uddybning og beskrivelse.</p>\n<p>Det er vigtigt at understrege, at budgetprocessen stadig er på et tidligt\nstadie og der er flere usikkerheder og uafklarede forhold, som endnu ikke er på\nplads.</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Økonomiaftalen for 2025</li>\n    <li>Beregning af konsekvensen af den demografiske udvikling</li>\n    <li>Udvikling i pris- og lønniveau</li>\n    <li>Skattegrundlag og indtægt</li>\n    <li>Endeligt niveau for tekniske rettelser</li>\n    <li>Udvidelsesforslag samt mulige effektiviseringsforslag</li>\n</ul>\n<p>Det nuværende bud på måltal i forhold til finansieringsbehov i 2025 er\nderfor usikkert, men der er behov for at finde effektiviseringsmuligheder.</p>\n<p>Inspiration til nye effektiviseringsforslag kan findes i <span class=\"spelle\">Benchmarkanalysen</span> fra 2023,\nOplæg fra Råderumsugen 2023, Kommunale effektiviseringstiltag fra KL´s idebank for 2024, Regnskab 2023 og BO0 2024, som sammen med de enkelte\nkan/skal-kataloger danner grundlag for beskrivelsen af nye\neffektiviseringsforslag.</p>\n<p><em><strong>Kan/skal-kataloget</strong></em></p>\n<p>Byrådet besluttede på møde den 30. januar 2023 (pkt. 14), at der som en del\naf budgetprocessen for 2024-27 skulle udarbejdes en budgetanalyse med\nbeskrivelse af kommunale kan- og skal-opgaver, herunder regler for fastsættelse\naf tilskud og nuancer i forhold til skal-opgaver. Der blev for hvert fagudvalg\nudarbejdet et overordnet katalog over de enkelte budgetposter inddelt i tre\noverordnede kategorier, jf. nedenfor, som blev fremlagt sidste år, jf.\nByrådsmødet den 15. maj 2023 (pkt. 14).</p>\n<p>        A. Lovbestemt - Objektive kriterier, ekstern\nvurdering eller afledt effekt</p>\n<p>        B. Lovbestemt - Konkret intern vurdering af\nbehov eller fastlæggelse af serviceniveau</p>\n<p>        C. Ikke lovbestemt - Fri intern fastlæggelse af\nserviceniveau</p>\n<p>Kataloget er udarbejdet med henblik på at give overblik og nogle\nbudgetposter omfatter derfor flere forskellige opgaver. <span>Kataloget er blevet opdateret med </span>udgangspunkt i\nBudget 2025 og der er udarbejdet en udgave pr. fagudvalg. Samtlige kataloger er\nvedlagt denne sag, så det er muligt for fagudvalgene både at dykke ned i eget\nkatalog og også se de øvrige kataloger til orientering og inspiration.</p>\n<p>Det indstilles, at fagudvalgene drøfter kan/skal-kataloget indenfor eget område og kommer med forslag til, hvordan det samlede finansieringsbehov kan tilvejebringes.<span></span></p>\n<p><em><strong>Tidligere foreslåede effektiviseringsforslag</strong></em></p>\n<p>På baggrund af ovenstående er det administrationens vurdering, at der også\ner behov for at kigge på tidligere foreslåede effektiviseringsforslag, jf.\nnedenfor. </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Effektiviseringsforslag med gradueringsmuligheder i\n    forbindelse med Budget 2024-27</li>\n    <li>Øvrige effektiviseringsforslag fra tidligere\n    budgetprocesser, som ikke er blevet vedtaget og implementeret</li>\n</ul>\n<p>Der er vedlagt en samlet oversigt over de umiddelbare forslag, som samlet\nset summer op til ca. 35 mio. kr. i 2025 og ca. 56 mio. kr. i 2026 og\nfrem. Administrationen er i gang med at gennemgå og kvalificere samtlige\nforslag i forhold til at vurdere, om det stadig vil være muligt at\nimplementere. Der er også et vis overlap mellem en række af forslagene,\nhvorved ikke alle forslag vil kunne implementeres med de angivne beløb og\nbeløbene vil ydermere skulle omregnes til 2025-niveau.</p>\n<p>I forhold til budgetarbejdet og de samlede  effektiviserings- og besparelsesforslag (både de nye og tidligere) er der aftalt en bred MED-inddragelse i organisationen. Det gælder både i forbindelse med selve udarbejdelsen af de konkrete forslag, ligesom der i skabelonerne nu også er mulighed for indsættelse af kommentarer fra MED, og i forbindelse med arbejdet med budgetanalyserne. HovedMED inviteres ligeledes med til temamøder med Byrådet og bliver derudover løbende inddraget og orienteret på diverse øvrige møder.</p>\n<p><em>Opmærksomhedspunkter fra Byrådets temamøde den 17. april 2024</em></p>\n<p>I forhold til den samlede tids- og procesplan er der temamøde med Byrådet og <span class=\"spelle\">HovedMED</span>\nden 17. april 2024 med fokus på seneste status på kommunens økonomi for det\nkommende budgetår. Indholdet på temamødet har fokus på nuværende udfordringer samt forventede rammer og finansieringsbehov i 2025, effektiviserings- og besparelsesforslag, budgetanalyser og andre sager med konsekvenser for økonomien i 2025-28 - herunder bl.a. befolkningsprognosens betydning for forventningerne til 2025. Den nuværende velfærdsborgersamling og inddragelse i et bredere perspektiv berøres også.</p>\n<p><em><strong>Videre proces</strong></em></p>\n<p>Efter behandling i fagudvalgene vil input blive drøftet i både\nØkonomiudvalget og på ordinært møde i Byrådet. Der er desuden planlagt temamøde med\nByrådet den 22. maj 2024 primært omkring anlæg, men hvor fagudvalgenes konklusioner eventuelt også kort vil blive opsummeret. </p>\n<p>Der gælder desuden i hovedtræk nedenstående tidsplan:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>3. juni: Der åbnes op for budgetspørgsmål</li>\n    <li>12. og 26. juni: Status på budgettet på henholdsvis ØU og BY</li>\n    <li>21. august: Temamøde om direktionens budgetforslag</li>\n    <li>31. august og 4. september: Workshops om budgettet</li>\n    <li> 6. september: Frist for modtagelse af budgetspørgsmål</li>\n    <li>12. og 13. september: Budgetforhandlinger</li>\n    <li>19. og og 25. september: Frist for politiske ændringsforslag (den 19. september for forslag, der medgår i publiceringen) </li>\n    <li>26. september: Frist for politiske underændringsforslag</li>\n    <li>25. september og 2. oktober: 2. behandling af budgettet på henholdsvis ØU og BY </li>\n</ul>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har i sig selv ingen økonomiske konsekvenser.</p>\n<h4>Øvrige konsekvenser</h4>\n<p>Sagen har i sig selv ingen øvrige konsekvenser.</p>\n<h4>Kommunikation</h4>\n<p>Hvis der efter drøftelserne er behov for det, kommunikeres der eventuelt ud\ntil relevante parter.</p>\n<h4>Tidsplan</h4>\n<p>Der henvises til den overordnede tidsplan for Budget 2025-28.</p>\n<h4>Øvrige forhold</h4>\n<p>Der er ingen øvrige forhold.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22/04/2024 Beskæftigelses- og Erhvervsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Udvalget drøftede sagen og konstaterer, at en markant del af udvalgets budget er omfattet af lovgivningsbestemte indsatser og omfattet af budgetgarantien. </p>\n<p>Greve Kommune klarer sig generelt bedre end landsgennemsnittet på beskæftigelsesområdet og med en statslig refusion til kommunerne under ét betyder det, at Greve Kommune generelt profiterer økonomisk af en beskæftigelsesindsats der er bedre end landsgennemsnittet. </p>\n<p>Udvalget ser således et bidrag til finansieringsudfordringen igennem at fastholde en beskæftigelsesindsats bedre end landsgennemsnittet og konkret ved at se på udgifterne til aktiveringsindsatsen. Udvalget byder derfor ind med et servicereduktions- og effektiviseringsforslag inden for den kommunale beskæftigelsesindsats. Endelig ønsker udvalget en sag på et kommende møde vedr. de lovgivningsmæssige rammer for supplerende brøkpension.</p><br>\r\n\r\n<u>22/04/2024 Sundheds- og Omsorgsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Udvalget drøftede finansieringsbehovet med bemærkning om, at:</p>\n<p> - flere ældre på dialogmøde med Ældre Sagen oplevede, at der ofte smides bleer ud. Udvalget ønsker, at administrationen undersøger om kropsbårne hjælpemidler og sygeplejeartikler kan bevilges mere hensigtsmæssigt i forhold til behov.</p>\n<p>- administrationen redegør for, hvordan fordelingen af indsatser i hjemmeplejen er i forhold til 1) personlig pleje og 2) praktisk hjælp fordelt i procent og budget. </p>\n<p>- administrationen fremlægger opgørelse over tomgangsleje på boliger i Greve Kommune</p>\n<p>Seniorrådets bemærkninger blev taget til efterretning. Formanden inviterer Seniorrådet til et møde i juni omkring budget 2025.</p><br>\r\n\r\n<u>22/04/2024 Social- og Handicapudvalget</u><br>\r\n1) Udvalget drøftede sagen og konstaterede, at det er svært at bidrage til finansieringsbehovet inden for udvalgets budget- og ansvarsområde. Udvalget ønsker dog, at se nærmere på området ”Merudgifter og tabt arbejdsfortjeneste” for at se på, om det er muligt i højere grad at forebygge samt hvorvidt der kan hjemtages aktivitets- og samværstilbud og dermed nedbringe udgifterne på området.<br>\r\n\r\n<u>23/04/2024 Skole-, Børne- og Ungeudvalget</u><br>\r\n1. Udvalget drøftede materialet til sagen, og ønsker I den sammenhæng at få fremsendt en oversigt over kontoplanerne på det samlede udvalgsområde.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0b5499df-e25a-4da3-bd6c-2d69e412f454",
+          "DocumentId": "0b5499df-e25a-4da3-bd6c-2d69e412f454"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-000963",
+      "Navn": "Budget 2025-28 - orientering og drøftelse",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tidligere effektiviseringsforslag",
+          "Id": "2f9f7ea3-5aad-4182-a79d-959cba5967c8"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "KFU - udvalgsbeskrivelse 2024",
+          "Id": "08337493-b42a-4fb7-b8a0-0baddf8cabfe"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "KTMU - udvalgsbeskrivelse 2024",
+          "Id": "7f95c0ec-afa2-4fda-b254-2d71c72c54c7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "PTU - udvalgsbeskrivelse 2024",
+          "Id": "61e8ac17-2f6d-46e3-b5ec-ca69b7ecca25"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SBU - udvalgsbeskrivelse 2024",
+          "Id": "dcf8c81e-4efb-42ff-92f9-eb8f59c83187"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SHU - udvalgsbeskrivelse 2024",
+          "Id": "ed80039c-9014-4068-b3a5-89fa74bfc2dd"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SOU - udvalgsbeskrivelse 2024",
+          "Id": "a16fb400-ee97-4087-85aa-1b9f135a3f6e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "ØU - udvalgsbeskrivelse 2024",
+          "Id": "840fa43b-9ef1-4464-bf9e-326412b3fa27"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - KFU",
+          "Id": "8439b051-f3b9-4e35-b5d8-317525c20218"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - KTMU",
+          "Id": "0b3c1612-7b93-4e82-bbff-58185804eb6d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - PTU",
+          "Id": "b68cdd58-09ed-4e25-8a63-95ad153e729f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SBU",
+          "Id": "15ed0abf-1eeb-4756-b0ce-58cd173aef77"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SHU",
+          "Id": "c5a58731-46e6-4ae7-817a-9ba11f4c414b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SOU",
+          "Id": "b52a9e84-d89f-4bdb-b07d-5db523292937"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - ØU",
+          "Id": "38869c57-e97c-4df9-9046-52038199645a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - BEU",
+          "Id": "b241f618-0c93-4510-af39-03e48f7d83fc"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar - Budget 2024-27",
+          "Id": "632d6342-3fe6-4a3c-a5b2-eff9b09f76e8"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "BEU - udvalgsbeskrivelse 2024",
+          "Id": "fbfb0d80-39ba-4dab-bb9c-23ef8dbf63b8"
+        }
+      ],
+      "Documents": null,
+      "Id": "02e9e869-d9f5-4c6a-9d8e-9afc73d4a729",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "24-000963",
+      "SourceId": null,
+      "Caption": "Budget 2025-28 - orientering og drøftelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">2. Orienteringen blev taget til efterretning, idet udvalget ønsker en opfølgning efter 12 måneder.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, Skole-, Børne- og Ungeudvalget, Social- og Handicapudvalget, Økonomiudvalget og Byrådet</p>\n<h4>Resume</h4>\n<p>Sagen handler om, at kommunalbestyrelsen jf. Barnets lov skal godkende en beredskabsplan for æresrelaterede konflikter og negativ social kontrol. Administrationen har i samarbejde med Styrelsen for Integration og Rekruttering (fremadrettet SIRI) udarbejdet en beredskabsplan for forebyggelse, opsporing og håndtering af æresrelaterede konflikter og negativ social kontrol målrettet børn, unge og voksne. Beredskabsplanen understøtter Børne - og Ungepolitikken, som har fokus på forebyggelse, opsporing og tidlig indsats målrettet børn og unge. Ligeledes understøtter beredskabsplanen Integrations- og Hjemsendelsespolitikkens målsætning om forebyggelse af negativ social kontrol. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol>\n    <li><em>at <em>Skole-, Børne- og Ungeudvalget</em> godkender beredskabsplanen for æresrelaterede konflikter og negativ social kontrol</em></li>\n    <li><em> at <em>Plan- og Tryghedsudvalget </em>tager orienteringen til efterretning</em></li>\n    <li><em>at Social- og Handicapudvalget tager orienteringen til efterretning </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p class=\"paragraph\" paraid=\"443926637\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{47}\">Kommunen skal jf. Barnets lov udarbejde et beredskab til forebyggelse, opsporing og håndtering af æresrelaterede konflikter og negativ social kontrol blandt børn, unge og deres familier. Beredskabet skal udformes skriftligt, vedtages af kommunalbestyrelsen og offentliggøres. Kommunalbestyrelsen skal revidere beredskabet løbende efter behov, dog som minimum hvert fjerde år. </p>\n<p class=\"paragraph\" paraid=\"1543587223\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{63}\"><em><strong>Proces </strong></em></p>\n<p class=\"paragraph\" paraid=\"925750889\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{69}\">Greve Kommune har udarbejdet en beredskabsplan med processtøtte fra SIRI. Der er afholdt afdækningsworkshop med repræsentanter fra Center for Børn og Familier, Center for Dagtilbud og Skoler og Center for Job og Socialservice. Der har været enten leder - eller medarbejderrepræsentanter fra følgende områder involveret i udarbejdelsen: Familierådgivningen, Pædagogisk Psykologisk Rådgivning, Sundhedsplejen, Politiet, Greve nord projektet, Arenaskolen, Krogaardskolen, daginstitutionen Nova, Greve kulturbase, Greve Gymnasie og Gadeteam.  </p>\n<p class=\"paragraph\" paraid=\"925750889\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{69}\">Deltagernes input til, hvordan der opspores og handles når børn, unge og voksne bliver udsat for æresrelaterede konflikter og negativ social kontrol, er indarbejdet i beredskabsplanen.   </p>\n<p class=\"paragraph\" paraid=\"1884458349\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{107}\"><em><strong>Formål og indhold </strong></em></p>\n<p class=\"paragraph\" paraid=\"431281568\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{121}\">Formålet med beredskabsplanen er at sikre et grundlæggende vidensniveau hos fagpersoner i Greve Kommune i forhold til forebyggelse, opsporing, tidlig indsats og håndtering af sager om æresrelaterede konflikter og negativ social kontrol. Herunder hvordan fagpersoner indenfor børne- og ungeområdet og voksenområdet skal handle ved bekymringstegn og mistanke.  </p>\n<p class=\"paragraph\" paraid=\"424722692\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{149}\">Beredskabsplanen består af begrebsforklaringer og beskrivelse af bekymringstegn hos børn, unge og voksne. Da lovgivningen og kommunens forpligtelser er forskellige på områderne, er konkrete handlingsanvisninger opdelt i børn og unge under 18 år og voksne over 18 år.  </p>\n<p class=\"paragraph\" paraid=\"1280914260\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{165}\">Beredskabsplanen henvender sig til alle fagpersoner i Greve Kommune, der arbejder med børn, unge og voksne. Beredskabsplanen skal sikre en professionel tilgang og håndtering i situationer, hvor børn og unge bliver udsat for æresrelaterede konflikter og negativ social kontrol, eller ved bekymring og mistanke herom. </p>\n<p class=\"paragraph\" paraid=\"1755856437\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{175}\"><em><strong>Beredskabsgruppe</strong></em>  </p>\n<p>Greve Kommune har nedsat en beredskabsgruppe bestående af repræsentanter fra Center for Børn og Familier, Center for Dagtilbud og Skoler og Center for Job og Socialservice. Repræsentanterne har særlig viden om temaet og kan vejlede i konkrete situationer. Fagpersoner på tværs af centre i Greve Kommune kan kontakte beredskabsgruppen, når der opstår tvivlsspørgsmål eller hvis der er behov for en konkret indsats. Medlemmer af beredskabsgruppen og rådgivere i Familierådgivningens visitation vil løbende opkvalificeres inden for f.eks. lovgivning, håndtering af sager, psykologiske perspektiver og interkulturelle samtaler om æresrelaterede konflikter, og derved får flere kompetencer til at løfte rollen som vidensperson.</p>\n<p class=\"paragraph\" paraid=\"105442088\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{251}\"><em><strong>Forankring</strong></em> </p>\n<p class=\"paragraph\" paraid=\"1380656580\" paraeid=\"{b9d9c560-289c-42b0-ada0-ca6b2c7dabe7}{6}\">Når beredskabsplanen er godkendt, vil administrationen påbegynde implementeringsprocessen i Greve Kommune og beredskabsplanen introduceres for fagpersoner der arbejder med børn, unge og voksne. SIRI tilbyder kurser, oplæg, webinar mv. målrettet fagpersoner på det almene børne - og ungeområde og specialområdet på børn-, unge- og voksenområdet. Det betyder, at f.eks. skoler, fritids- og uddannelsesinstitutioner samt myndighedsområdet kan tilgå forløb hos SIRI og dermed få viden om opsporing og håndtering af æresrelaterede konflikter og negativ social kontrol i praksis.  </p>\n<h4>Lovgrundlag</h4>\n<p class=\"paragraph\" paraid=\"1872273718\" paraeid=\"{b9d9c560-289c-42b0-ada0-ca6b2c7dabe7}{126}\">Barnets Lov  </p>\n<p class=\"paragraph\" paraid=\"1795799794\" paraeid=\"{b9d9c560-289c-42b0-ada0-ca6b2c7dabe7}{132}\">Lov om Socialservice  </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. Alle forløb hos SIRI er gratis for kommuner, øvrige myndigheder og civilsamfundet.  </p>\n<h4>Tidsplan</h4>\n<p>Beredskabsplanen gælder for 2024-2028 og skal revideres inden 1. april 2028. </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22/04/2024 Social- og Handicapudvalget</u><br>\r\n3) Taget til efterretning.<br>\r\n\r\n<u>23/04/2024 Skole-, Børne- og Ungeudvalget</u><br>\r\nAnbefales.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9cc831e1-4eb6-4b54-8fa5-1fa22f338e21",
+          "DocumentId": "9cc831e1-4eb6-4b54-8fa5-1fa22f338e21"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003086",
+      "Navn": "Beredskabsplan for æresrelaterede konflikter og negativ social kontrol - godkendelse",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Action card til fagprofessionelle",
+          "Id": "5c1dd392-4ab0-4800-a4f0-78f154fb925e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Beredskabsplan Greve kommune",
+          "Id": "1eed33bb-442b-447c-8172-dd9e788f1a71"
+        }
+      ],
+      "Documents": null,
+      "Id": "bc02adce-9758-4738-9a83-69c5ff003d56",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "24-003086",
+      "SourceId": null,
+      "Caption": "Beredskabsplan for æresrelaterede konflikter og negativ social kontrol - godkendelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt.</p>\n<p>2. Udvalget ønsker yderligere arbejde med</p>\n<ul>\n    <li>ambassadører for velfærdsdialog</li>\n    <li>borgerdialog i bydele</li>\n</ul>\n<p>3. Godkendt.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><strong>Sagsprocedure</strong></p>\n<p>Plan- og Tryghedsudvalget </p>\n<p><strong>Resume</strong></p>\n<p>På Plan- og Tryghedsudvalgsmødet den 6. februar 2024 besluttede udvalget, at\nder skal arbejdes videre med forankring af velfærdsborgersamlingens\nanbefalinger hos såvel byråd som borgere, herunder hvordan der eventuelt kan\narbejdes med yderligere involvering af borgerne efter velfærdsborgersamlingen\nhar afleveret anbefalingerne til byrådet.</p>\n<p>Denne sag fremlægger forslag til, hvordan der kan arbejdes videre med\nanbefalingerne, og hvordan der kan ske yderligere involvering. </p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller,</em> <em>at Plan- og Tryghedsudvalget</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>godkender processen for det videre arbejde med\n    anbefalingerne</em></li>\n    <li><em>drøfter de skitserede muligheder for yderligere\n    involvering </em></li>\n    <li><em>beslutter om der skal udarbejdes et udvidelsesforslag\n    til budget 2025-2028.</em></li>\n</ol>\n<p><strong>Sagsbeskrivelse</strong></p>\n<p><em>Lancering af og tilbagemelding på anbefalinger</em></p>\n<p>Byrådet besluttede den 19. juni 2023, at der skal afholdes en\nvelfærdsborgersamling, der skal komme med anbefalinger, der kan understøtte\nbyrådet i arbejdet med prioritering på velfærdsområderne.\nVelfærdsborgersamlingen er nu under afvikling og Byrådet modtager\nvelfærdsborgersamlingens endelige anbefalinger ved en seance i byrådssalen den\n26. juni 2024 kl. 15.30-16.30 forud for byrådsmødet.</p>\n<p>Programmet for lanceringen er vedlagt sagen som bilag 1. Anbefalingerne\nmodtages derefter officielt på byrådsmødet, der afholdes umiddelbart efter. </p>\n<p><em>Forankring af anbefalinger </em></p>\n<p>Som en del af borgersamlingens metode har Byrådet ved borgersamlingens\nigangsættelse forpligtet sig til at give en status på arbejdet med\nanbefalingerne inden for de første 3 måneder efter modtagelse af anbefalinger\nog igen inden for 12 måneder. Der skal sikres åbenhed i offentligheden i\nfremdriften af behandlingen og evaluering af processen. Det indebærer blandt\nandet, at byrådet skal forholde sig konkret til borgersamlingens anbefalinger.</p>\n<p>Indenfor 3 måneder efter modtagelsen af anbefalingerne vil Plan- og\nTryghedsudvalget derfor få forelagt en sag med administrationens foreløbige bud\npå, hvordan der kan arbejdes med anbefalingerne. Sagen vil gå i forløb til\nbyrådet. På samme møde vil administrationen fremlægge forslag til opfølgende\nbrev, der kan afsendes til borgersamlingens medlemmer. Tilsvarende vil udvalget\ngenbehandle anbefalingerne efter 12 måneder og give fornyet konkret\ntilbagemelding. </p>\n<p>Det er endnu for tidligt i processen at sige, hvilken form og hvilket\nindhold anbefalingerne til fremtidens velfærd kommer til at have, men det er\nsandsynligt, at det videre arbejde med anbefalingerne og implementering af dem\nkalder på involvering af specifikke borgergrupper, organisationer, erhvervsliv,\nforeninger eller civilsamfund, så der skal inddrages udover borgersamlingens\nmedlemmer og bygges videre på samlingens anbefalinger. Forslag til konkret\ninvolvering i forhold til anbefalingerne vil indgå i sagen, der fremlægges i\nPlan- og Tryghedsudvalget indenfor 3 måneder efter afleveringen af\nanbefalingerne. </p>\n<p><em>Yderligere involvering af Greve Kommunes borgere og erhverv</em></p>\n<p>Baggrunden for at etablere en velfærdsborgersamling var et ønske om bredere\nborgerinvolvering i forhold til prioriteringer, herunder også at skabe et\nbredere kendskab blandt borgerne til det økonomiske råderum og de aktuelle\nvelfærdsbehov og den udvikling, der tegner sig i de kommende år. Derudover var\nmålet at skabe en kultur for dialog om velfærdsprioritering blandt alle\nkommunens borgere. Ved at arbejde med yderligere borgerinvolvering kan såvel\ndet ønskede kendskab som den ønskede kultur understøttes og gro – dette uanset\nborgersamlingens anbefalinger. Der er forskellige mulige metoder til dette.\nDisse udfoldes i de følgende afsnit og udvalget kan drøfte hvilke af disse\nmetoder, der kan indgå i det videre arbejde og et eventuelt udvidelsesforslag\ntil budget.   </p>\n<p><em>Systematisk dialog med foreninger, bestyrelser mv.</em><em><br>\n</em>Der kan udarbejdes en systematisk plan og metode for dialog med foreninger\nog bestyrelser om de økonomiske rammer og udviklingen i behov for derved at\nudbrede kendskab og understøtte kultur for dialog. </p>\n<p>Planen kan udarbejdes så den systematisk sikrer dialog med alle bestyrelser\nog råd og systematisk tilbydes til alle foreninger, herunder også\nerhvervsforeninger. Det anbefales at en sådan dialog gennemføres efter en egnet\nstruktureret metode for at sikre formålet – nemlig kendskabet til det brede\nbillede af den økonomiske situation og oparbejdelse af kultur for dialog.\nMetoden vil skulle udvikles. Dialogen vil kunne varetages af såvel politisk\nniveau som administrativt alt efter hvad udvalget ønsker.   </p>\n<p><em>Borgerdialog</em></p>\n<p>Der kan også inviteres til borgerdialog med offentligheden bredt i Greve\nKommune i form af borgermøder eller lignende – f.eks. som der blev gjort ved\nvelfærdsborgersamlingens åbne borgermøde den 3. april 2024.</p>\n<p>Der var 16 borgere, der deltog i det åbne borgermøde, hvilket var lavere end\nforventet. De input, som de gæstende borgere kom med, var værdifulde i\nborgersamlingens arbejde, men det viser, at det kan være svært at få borgerne i\ntale, når der inviteres bredt. </p>\n<p>Derudover afholdes der i 2024 for 3. gang orienteringsmøde om budget såvel\nvirtuelt som fysisk for Greve Kommunens borgere i forbindelse med\nbudgetarbejdet. Dette medvirker til kendskab til økonomiske rammer og\nudfordringer blandt de borgere der deltager. Der kan arbejdes med at udbrede\nkendskabet til dette.   </p>\n<p><em>Borgerpanel</em></p>\n<p>Det er også en mulighed at etablere et borgerpanel, som vil bestå af en\nstående gruppe borgere, der kan rådspørges, når der ønskes yderligere\nborgerinddragelse. Et borgerpanel består typisk af 1000-1500 borgere, der\nrådspørges digitalt. Det skal bemærkes, at der skal bruges administrative\nkræfter til etablering og drift af borgerpanelet samt behandling og formidling\naf resultater af afstemninger og meningstilkendegivelser. Det skal derudover\nbemærkes at et digitalt panel ikke nødvendigvis understøtter ønsket om øget\nkendskab og dialog.</p>\n<p><em>Ambassadører for velfærdsdialog </em></p>\n<p>Der kan arbejdes med at skabe et særligt netværk af ambassadører for\nvelfærdsdialog, der på forskellig vis kan bringes i spil til at udvide\nforståelse og velfærdsdialogen blandt flere af kommunens borgere. </p>\n<p>Netværket kunne bestå af medlemmer af velfærdsborgersamlingen, der måtte\nønske en fremtidig rolle i arbejdet (frivilligt) og derudover er der et\npotentiale i at række ud til de borgere, der meldte sig til\nvelfærdsborgersamlingen uden at blive udtrukket. Der var 365 borgere, der\nansøgte om at blive en del af borgersamlingen. 40 blev udvalgt og de resterende\n325 modtog et afslag sammen med et tilbud om at blive inviteret til en\nefterfølgende borgerinvolvering, hvis byrådet måtte beslutte det. 33 ud af de 325\nborgere, har svaret, at de gerne vil inviteres. Man kunne lave et særligt\nkursuslignende forløb for disse borgere med henblik på, at disse samt den\nnuværende gruppe af borgere i den igangværende borgersamling bliver\nambassadører for velfærdsdialog. </p>\n<p><em>Særligt ungefokus </em></p>\n<p>Det ikke er lykkedes at opnå den ønskede demografiske afspejling af Greve\nKommunes befolkning på ungeområdet i den nuværende borgersamling. Op til og\nunder borgersamlingen har der været gjort flere forsøg på at få unge involveret\ngennem fælleselvråd, Gymnasiet, 10. klasse og Greve Kulturbase. Der skulle have\nværet fem ungerepræsentanter i alderen 16-25 år i borgersamlingen, men de er\nenten ikke mødt op eller er faldet fra undervejs, så der er nu ingen medlemmer\ni den aldersgruppe i borgersamlingen. Det kan derfor overvejes, om der i det\nvidere arbejde med anbefalingerne og udbredelse af forståelse og rammer skal\nafsættes midler til at bringe et ungeperspektiv ind i anbefalingerne. Det kan\nvidere overvejes, om der skal arbejdes særligt med emnet i folkeskolernes\nundervisning i samfundsfag. </p>\n<p>Administrationen indstiller at udvalget drøfter de mulige modeller og\nbeslutter om der skal udarbejdes udvidelsesforslag til budgettet.\nAdministrationen vil i et eventuelt budgetforslag sikre at dette udarbejdes, så\nder kan vælges mellem de forskellige modeller og så hver af disse kan udfoldes\ni forskellig økonomisk tyngde. </p>\n<p><strong>Lovgrundlag</strong></p>\n<p>Byrådsbeslutning den 19. juni 2023.</p>\n<p><strong>Økonomiske konsekvenser</strong></p>\n<p>Byrådet har afsat 450.000 kr. til afholdelse af velfærdsborgersamlingen.\nHele beløbet forventes anvendt i 2024. </p>\n<p>Såfremt det besluttes, at der skal arbejdes med en eller flere af ovennævnte\nmodeller, vil det indgå i forhandling af budget 2025-2028. </p>\n<p><strong>Kommunikation</strong></p>\n<p>Kommunikationen til offentligheden om arbejdet med anbefalingerne til\nbyrådet følger projektets kommunikationsplan og kommunikeres via kommunens\nkanaler.</p>\n<p><strong>Tidsplan</strong></p>\n<p>Velfærdsborgersamlingen er tilrettelagt, så anbefalingerne kan indgå i\nbyrådets arbejde med budget 2025-2028 og videre frem mod budget 2026-2029. </p>\n<p><strong>Øvrige forhold</strong></p>\n<p>Projektleder Lene Lykke Sjøstrand deltager i mødet.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/39093af5-c2bd-4a11-b4b0-61300e58f391",
+          "DocumentId": "39093af5-c2bd-4a11-b4b0-61300e58f391"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-011325",
+      "Navn": "Det videre arbejde med velfærdsborgersamlingens anbefalinger",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Program for lancering af velfærdsborgersamlingens anbefalinger 26.06.2024",
+          "Id": "911778a7-1596-4881-a4e5-73f362da5dd6"
+        }
+      ],
+      "Documents": null,
+      "Id": "19bf635b-75db-44f1-8383-c8f754be6cfb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "23-011325",
+      "SourceId": null,
+      "Caption": "Det videre arbejde med velfærdsborgersamlingens anbefalinger",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Ikke godkendt. Udvalget ønsker en ny sag om,</p>\n<ul>\n    <li>Parkering. At administrationen går i dialog med Askerød og Gudernes Kvarter om, at de selv må investere i p-pladser langs Hundigevej, hvis det er muligt.</li>\n    <li>Belysning og beplantning. At administrationen fremlægger ideer med baggrund i materialet fra dialogmødet og desuden et forslag om belysning bag svømmehallen.</li>\n</ul>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget samt Klima-, Teknik- og Miljøudvalget</p>\n<h4>Resume</h4>\n<p>Udvalget besluttede på mødet den 16. januar 2024, at administrationen skal\nbelyse, hvilke tiltag indenfor beskæring af beplantning, belysning og\nparkering, som vurderes at kunne bidrage til øget tryghed i Greve Nord, samt\nbelyser inddragelsesmuligheder i forbindelse med de konkrete tiltag. I denne\nsag beskrives forslag til tiltag samt inddragelse, hvorefter der kan indhentes\ntilbud og igangsættes opgaver indenfor det afsatte budget. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at Plan- og Tryghedsudvalget godkender de beskrevne\n    tiltag samt forslag til inddragelse, hvorefter der indhentes tilbud, og\n    arbejderne igangsættes indenfor det afsatte budget. </em></li>\n    <li><em>at Klima-, Teknik- og Miljøudvalget tager orienteringen\n    om de beskrevne tiltag til efterretning.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Udvalget besluttede på udvalgsmødet den 16. januar 2024 (pkt. 12), at\nadministrationen skal fremlægge en sag, der belyser forslag til\ntryghedsskabende tiltag i Greve Nord indenfor de tre kategorier: Beskæring af\nbeplantning, forbedring af belysning samt bedre parkeringsforhold. Herunder\nskal inddragelsesmulighederne i forbindelse med de konkrete tiltag beskrives.</p>\n<p>Administrationen har været på besigtigelse i Greve Nord, for at vurdere\nnogle af de tiltag, som kan bidrage til at fremme trygheden indenfor de ønskede\nkategorier og fremlægger hermed nedenstående konkrete forslag inden for de tre\nkategorier.</p>\n<p><em><strong>Beplantning</strong></em></p>\n<p>Langs cykelstien på Hundige Centervej mellem <span class=\"spelle\">Lillevangsvej</span>\nog Godsvej er der arealer med beplantning, som afskærmer udsigtsmulighederne\nfra vejen og ind på cykelstien. For at gøre det mere trygt at færdes på\ncykelstien, kan den tætte buskbeplantning fjernes, mens træerne bliver stående.\nDerved opnås mere synlighed langs stien. Beplantningen ved tunnelen på hjørnet\naf Hundige Centervej og Godsvej kan ligeledes skæres kraftigt tilbage. </p>\n<p>Samtidig kan beplantningen ved de to tunneler ved Storebjerg og Knøsen\nbeskæres, så man nemmere kan se, hvad der sker for enden af tunnelen (jf.\nbilag 1).</p>\n<p>Administrationen vurderer, at omkostningen for beskæring af ovenstående\nbeplantning udgør ca. 50.000 kr. </p>\n<p><em><strong>Belysning</strong></em></p>\n<p>I forbindelse med projektet omkring Hundige Strandby er belysningen på broen\nved Hundige Station nævnt som et område, der med fordel kan forbedres. Broen\nhører dog under DSB og administrationen er i dialog med DSB om muligheden for\nat de forbedrer trygheden her. </p>\n<p>Belysningen på stiforbindelsen fra Portalen til <span class=\"spelle\">Waves</span>\n(Tangentstien), der ejes af Greve Kommune kan forbedres væsentligt.</p>\n<p>Der er 24 lyspunkter i dag (jf. bilag 2). Armaturerne sidder i dag i ca. en\nmeters højde på begge sider af cykelstien, og lyskilderne er ikke LED.\nLysudbyttet er ikke tilstrækkeligt fra de nuværende lyspunkter, hvilket kan få\nstien til at virke utryg i de mørke timer.</p>\n<p>Armaturerne anbefales udskiftet fra lave pullertlamper til master med\narmaturer i ca. 3,5 meters højde. En ny belysning vil både forny og forbedre\nbelysningen på både fortov og cykelsti. Med moderne optik i armaturerne kan man\nmålrette det belyste område fra armaturerne langs stiområdet, og samtidig undgå\nat der opstår utilsigtet blænding af boligerne i Hegnsgården langs stien.</p>\n<p>Udskiftning vil samtidig blive opdateret med LED lyskilder. Det skal\nsamtidig vurderes, om antallet at lyspunkter kan reduceres til færre lyspunkter\nmed en bedre målrettet belysning. Dette vil give en besparelse i forhold til\nforbrug og udstyr, samtidig med at oplevelsen af tryghed øges.</p>\n<p>Administrationen vil indhente tilbud på udskiftning af armaturer, og arbejde\nvidere med opsætning af ny belysning. Administrationen vurderer, at udgifterne\ntil forbedret belysning vil udgøre ca. 300.000 kr. </p>\n<p><em><strong>Parkering</strong></em></p>\n<p>Der bliver dagligt parkeret i rabatten langs Hundigevej ved Gudernes\nKvarter. Rabatterne bliver kørt op, hvilket giver uhensigtsmæssige trafikale\nforhold. Vedligeholdelse af rabatterne er vanskeliggjort af de parkerede biler,\nog de giver dårlige oversigtsforhold ved udkørsel til Hundigevej (jf. bilag 3).</p>\n<p>Der kan arbejdes med at anlægge parkering parallelt eller vinkelret langs\nmed Hundigevej. Udgifterne til nye p-pladser er høje, og der er mange\nuforudsete forhold, som skal undersøges nærmere, inden det kan igangsættes.</p>\n<p>Der står belysningsmaster på strækningen, som betyder, at p-pladserne skal\nanlægges i mindre etaper mellem lysmasterne. Der er en del usikre udgifter\nforbundet med anlæggelse af p-pladser såsom ledninger i jorden eller\nforureningsgraden af den bortkørte jord, som kan fordyre projektet. Herudover\nvil der være udgifter til rådgiver. En umiddelbar vurdering er, at 18\np-pladser fordelt på tre etaper koster ca. 500.000 kr. </p>\n<p>En parkeringsplan skal godkendes af politiet, som <span class=\"grame\">vurdere</span> oversigtsforhold, og om hastigheden skal\nnedsættes yderligere på strækningen. I dag er hastigheden 50 km/t og 45 km/t\nmellem de to bump ved <span class=\"spelle\">Hedelunden</span>.  </p>\n<p>Administrationen kan ikke anbefale, at der arbejdes med at undgå parkering\nved at afspærre med autoværn eller kantpæle. Det vil øge driftsudgifterne ved\nvedligeholdelse af rabatten. Materiellet bliver samtidig ofte ødelagte eller\nfjernet.</p>\n<p>Det er administrationens anbefaling, at beskæring af beplantning samt\nudskiftning af belysning ved Tangentstien prioriteres først, hvorefter det må\nvurderes, hvor mange midler der er til nye p-pladser. Er der midler til minimum\nfem til ti p-pladser, vil administrationen igangsætte arbejdet, med forbehold\nfor politiets godkendelse.  </p>\n<p><em><strong>Borgerinddragelse</strong></em></p>\n<p>Administrationen vil kontakte relevante borgere eller brugere ifm. forslag\ntil tiltag for belysning og parkering. Det vil umiddelbart være relevant at\nkontakte <span class=\"spelle\">Waves</span>, biblioteket, de nærmeste\nskoler, boligselskabet og politiet m.v., så det er de personer med\ndaglig gang i området, som høres og kan bidrage med relevante tiltag eller\nforslag. Ingen borgere vil blive direkte berørt at beskæring af beplantning,\nhvorfor dette arbejde vil udføres uden borgerinddragelse. </p>\n<h4><strong>Lovgrundlag</strong></h4>\n<p>Vejloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er afsat 896.195 kr. til tryghedsskabende tiltag i projektet Tryghed i\nGreve Nord i 2024 og 2025. </p>\n<p>Administrationen kender først udgifterne til ny belysning på Tangentstien,\nnår der er indhentet tilbud, men et groft skøn er omkring 300.000 kr. Når den\npræcise pris kendes, vil administrationen se på mulighederne for anlæggelse af\np-pladser for de resterende midler. Beskæring af beplantningen skønnes at koste\nca. 50.000 kr.  </p>\n<h4>Tidsplan</h4>\n<p>Borgere og brugere vil blive kontaktet skriftligt hen over sommeren, og\nderes input vil blive gennemgået derefter. </p>\n<p>I løbet af sensommeren og efteråret vil administrationen indhente tilbud på\nde relevante tiltag, som efterfølgende vil blive igangsat, så de så vidt muligt\ner gennemført ultimo 2024. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/963d002f-2c5d-4052-9274-f81af51438d5",
+          "DocumentId": "963d002f-2c5d-4052-9274-f81af51438d5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-003820",
+      "Navn": "Tryghed i Greve Nord - forslag til tiltag",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Kort over de to tunneler samt beplantning langs Hundige Centervej",
+          "Id": "8ea331af-35cd-42cd-b4a1-3c2dfc52f3e3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Belysning på Tangentstien",
+          "Id": "2d8b9275-27b6-4e91-93de-7f1a004fadfb"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Parkering ved Hundigevej",
+          "Id": "9a6d00e3-7e5d-464d-bb28-c0b7b7ad33de"
+        }
+      ],
+      "Documents": null,
+      "Id": "171072ea-4327-4bb7-a381-b4958809fa25",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "23-003820",
+      "SourceId": null,
+      "Caption": "Tryghed i Greve Nord - forslag til tiltag",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1.-2. Godkendt.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Forslag til lokalplan nr. 14.55 for boligområde ved Vesterbjerg 42 i Greve\nLandsby har været i fire ugers offentlig høring primo 2024. Det tilhørende\nforslag til tillæg til lokalplan nr. 14.29 for naboboligområdet har været i\nseks ugers offentlig høring i sommeren 2022. Begge <span class=\"SpellE\">lokalplanforslag</span>\nforelægges nu til endelig politisk vedtagelse. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at lokalplan nr. 14.55 for boligområde ved Vesterbjerg\n    42 i Greve Landsby vedtages endeligt med de foreslåede ændringer<span> (jf. <span class=\"SpellE\">lokalplanforslag</span> i bilag 1 og høringsskema i\n    bilag 2)</span></em></li>\n    <li><em>at tillæg nr. 1 til lokalplan nr. 14.29 vedtages\n    endeligt med de foreslåede ændringer <span>(jf. forslag til tillæg i bilag 3 og\n    høringsskema i bilag 2)</span></em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Sagshistorik</em></strong></p>\n<p>Forslag til lokalplan nr. 14.55 for boligområde ved Vesterbjerg 42 i Greve\nLandsby har været i høring tre gange.</p>\n<p><em>Første høring af <span class=\"SpellE\">lokalplanforslag</span> nr. 14.55\n(januar-marts 2022)</em></p>\n<p>Forslag til lokalplan nr. 14.55 for boligområde ved Vesterbjerg 42 i Greve\nLandsby var første gang i høring i otte uger primo 2022. Efter denne høring og\nen ny vurdering af et bevaringsværdigt beplantningsbælte i skel mod\nnabobebyggelsen blev det besluttet, at et nyt forslag til lokalplan nr. 14.55\nskulle muliggøre fjernelse af dette beplantningsbælte. </p>\n<p><em>Anden høring af <span class=\"SpellE\">lokalplanforslag</span> nr. 14.55\nsamt tillæg til lokalplan nr. 14.29 (juni-juli 2022)</em></p>\n<p>Plan- og Tryghedsudvalget godkendte at sende et nyt <span class=\"SpellE\">lokalplanforslag</span>\nsamt et tillæg til lokalplan nr. 14.29 i høring i seks uger den 31. maj 2022\n(pkt. 6). </p>\n<p>Der indkom to høringssvar til forslag til tillæg nr. 1 til lokalplan nr.\n14.29 (jf. bilag 4 for høringssvar og bilag 2 for administrationens behandling\naf høringssvarene). Da der ikke var væsentlige ændringer til tillægget, har\nadministrationen vurderet, at tillægget ikke skal i høring igen, men lægges\nfrem til endelig vedtagelse sammen med forslag til lokalplan nr. 14.55.</p>\n<p><em><span>Der indkom syv høringssvar til forslag\ntil lokalplan nr. 14.55, og disse gav anledning til væsentlige ændringer,\nhvilket betød, at <span class=\"SpellE\">lokalplanforslaget</span> skulle i høring\nigen. </span></em></p>\n<p><em>Tredje høring af nyt forslag til lokalplan nr. 14.55 (januar-februar\n2024)</em></p>\n<p>Plan- og Tryghedsudvalget godkendte den 16. januar 2024 (pkt. 10), at sende\nforslag til lokalplan nr. 14.55 i fire ugers høring med ændring af vejadgangen\nog en ny regnvandsløsning. Administrationen har i denne høring modtaget fem\nhøringssvar <span>(jf.\nbilag 5).</span></p>\n<p><strong><em><span>Høringssvar</span></em></strong></p>\n<p>De fire væsentligste emner i høringssvarene (fra den tredje høring) samt\nadministrationens bemærkninger til disse er beskrevet nedenfor (jf. bilag 2).\nHøringssvarene fremgår i sin fulde længde (jf. <span>bilag 5)</span>.</p>\n<p><em>1. Regnvandsløsning.</em> Tre indsigere er bekymrede for den valgte\nregnvandsløsning især på baggrund af de seneste måneders kraftigere og\nhyppigere regn.</p>\n<p>Høringssvarene giver anledning til en grundigere beskrivelse af\nregnvandsløsningen i redegørelsen og en mere detaljeret bestemmelse om\nregnvandsbassinet. Derudover bemærkes det, at administrationen i udarbejdelsen\naf lokalplanen har sandsynliggjort, at der er plads til et stort nok\nregnvandsbassin, og at detailprojekteringen af regnvandsbassinet og faskinernes\nstørrelse sikres i byggesagsbehandlingen.</p>\n<p><em>2. Beskyttet jorddige. </em>En indsiger er bekymret for, om det\nbeskyttede nordlige jorddige og dens beplantning, der afgrænser landsbyen vil\nblive påvirket af den nye bebyggelse. </p>\n<p>Administrationen bemærker, at det nordlige jorddige er beskyttet af\nmuseumsloven. Desuden er der i lokalplanen fastlagt en <span class=\"spelle\">byggelinje</span> 4,5\nmeter fra den nordlig skellinje, der svarer til ca. midten af diget, og\nlokalplanen fastsætter dermed, at der ikke må bebygges inden for denne linje,\njf. §6.3. Desuden fastsætter lokalplanen, at beplantningen på diget skal\nbevares, jf. §8.3. </p>\n<p><em>3. Nedrivning af eksisterende hus. </em>En indsiger er uforstående\noverfor, at lokalplanens udførelse forudsætter nedrivning af eksisterende hus,\nda det klimamæssigt kan betale sig at renovere huset. </p>\n<p>Administrationen påpeger, at lokalplanens antal boliger, regnvandshåndtering\nog vejadgang gør, at eksisterende hus ikke kan bevares. Hensynet til nabo i nr.\n40 er vægtet højere, og lokalplanen har derfor muliggjort at regnvandsbassinet\nplaceres mellem vejadgangen og nr. 40, så denne bliver generet mindst muligt af\nden nye bebyggelse. Dette betyder, at den ny vejadgang placeres, hvor det\neksisterende hus ligger i dag, og at udnyttelse af lokalplanen forudsætter\nnedrivning af eksisterende hus. </p>\n<p><em>4. Sti</em>. En indsiger refererer til bemærkninger fra <span class=\"SpellE\">Bystrategisk</span> Råd på Plan- og Tryghedsudvalgets møde den 16.\njanuar (pkt. 10) med forslag om en sti gennem området, der forbinder de tre\nområder <span class=\"SpellE\">Åtoftevænget</span>, lokalplanområdet samt\nBjergvænget. Indsiger erklærer sig enig i, at det er en god idé og i øvrigt i\ntråd med retningslinjer i kommuneplanen og pejlemærket \"Trygge og\nsammenhængende lokalområder\" i den nyligt vedtagne planstrategi. Desuden <span class=\"GramE\">stiller indsiger spørgsmålstegn ved</span>, om kommunen laver\nlokalplaner for bygherrer eller for borgerne.</p>\n<p>Administrationen bemærker, som beskrevet i sag på Plan- og Tryghedsudvalgets\nmøde den 16. januar (pkt. 10), at administrationen har været i dialog med\nbygherre om en sti gennem området. Bygherre har ikke ønsket en sti med\nargumentet om, at stien vil gå ud over hans byggeret. </p>\n<p>En sti gennem området vil kræve fornyet høring af lokalplanen, da\ndisponering af grunde og dobbelthuse ville skulle revideres, og at naboer ville\nskulle høres om ændringen. Administrationen vurderer, at ud af de i alt 12\nboliger vil en sti gennem området betyde, at der skal fjernes ét dobbelthus\n(dvs. to boliger).</p>\n<p>Hvis indstillingen <span class=\"GramE\">tiltrædes</span> vil administrationen\nrette forslaget til lokalplan 14.55 for boligområde ved Vesterbjerg 42 i\nGreve Landsby (jf. bilag 1) til med de konkrete ændringer, der er fremlagt (jf.\nbilag 2).</p>\n<h4>Lovgrundlag</h4>\n<p>Planloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune, da boligerne, der\nmuliggøres med lokalplanen, er indarbejdet i boligprogrammet, og dermed er der\ntaget højde for den forventede befolkningstilvækst i befolkningsprognose samt\nskole- og institutionsprognoser.</p>\n<h4>Kommunikation</h4>\n<p>Den endelige vedtagelse af lokalplanen annonceres og offentliggøres på\nkommunens hjemmeside samt på Plandata.dk efter Plan- og Tryghedsudvalgets\nbehandling.</p>\n<h4>Tidsplan</h4>\n<p>Ultimo april - primo maj 2024: Lokalplan offentliggøres, hvorefter den\nkan påklages til Planklagenævnet i fire uger.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/213d2479-5cba-4be1-ac18-ff388a6b7cb5",
+          "DocumentId": "213d2479-5cba-4be1-ac18-ff388a6b7cb5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-001238",
+      "Navn": "Lokalplan nr. 14.55 for boligområde ved Vesterbjerg 42 i Greve Landsby samt tillæg nr. 1 til lokalplan nr. 14.29 for boligområde på Vesterbjerg 44 i Greve Landsby, endelig vedtagelse",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Lokalplanforslag nr. 14.55 for boligområde ved Vesterbjerg 42 i Greve Landsby",
+          "Id": "b8268b87-6807-4e1e-b632-b240ba73147a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Høringsskemaer med ændringsforslag til de to lokalplaner",
+          "Id": "508d03a4-b4bc-4535-bf36-552f255257ac"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Forslag til tillæg nr. 1 til lokalplan nr. 14.29 for boligområde på Vesterbjerg 44 i Greve Landsby",
+          "Id": "7ed3481f-2dec-4b25-a234-a71fd56f5918"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Samlede høringssvar for høring af tillæg 1 til 14.29",
+          "Id": "dccc6b24-61d9-4e68-98d3-443279af6839"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5. Samlede høringssvar for offentlig høring af lokalplan nr. 14.55",
+          "Id": "03d75a46-2eb1-4992-99c0-0d5f41c4f8a3"
+        }
+      ],
+      "Documents": null,
+      "Id": "6a517e71-107b-47b6-b6da-5f2bc05d5ab3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "24-001238",
+      "SourceId": null,
+      "Caption": "Lokalplan nr. 14.55 for boligområde ved Vesterbjerg 42 i Greve Landsby samt tillæg nr. 1 til lokalplan nr. 14.29 for boligområde på Vesterbjerg 44 i Greve Landsby, endelig vedtagelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p>&nbsp;</p><p></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003650",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "f5e84d48-e3f9-433d-8a2b-09806f5385d2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "22-003650",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget. </p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle\nemner. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til\nefterretning.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1037086c-e48e-4ec0-a60c-5aff2a3c9183",
+          "DocumentId": "1037086c-e48e-4ec0-a60c-5aff2a3c9183"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003659",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "692a953c-d4af-406b-bdfd-cafd78f029bb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "22-003659",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. Administrationen orienterede desuden om:</p>\n<p><b>Parallelsamfund</b></p>\n<p> Greve Kommune er blevet kontaktet af regeringens ghettorepræsentanter med henblik på møde med borgmesteren om status på implementering af initiativer i indsatsen mod parallelsamfund. Regeringens ghettorepræsentanter samt en-to embedsmænd fra Social-, Bolig- og Ældreministeriet deltager i mødet. Mødet afvikles i maj. Der gives status på efterfølgende udvalgsmøde i Plan- og Tryghedsudvalget.</p>\n<p>Henvendelsen er lagt på som bilag.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4><span>Sagsprocedure</span></h4>\n<p><span>Plan- og Tryghedsudvalget.</span></p>\n<h4><span>Resume</span></h4>\n<p><span>I sagen gives et kort overblik over\nadministrationens orienteringspunkter. </span></p>\n<h4><span>Indstilling</span></h4>\n<p><em><span>Administrationen indstiller, at\neventuelle orienteringer tages til efterretning. </span></em></p>\n<h4><span>Sagsbeskrivelse</span></h4>\n<p><span>Administrationen orienterer om\nfølgende: </span></p>\n<p><em><strong><span>Opsætning af kamera til at genkende\nnummerplader</span></strong></em></p>\n<p><span>Rigspolitiet ønsker at opsætte kamera, der\nkan genkende og lagre nummerplader på i alt 112 nye stationære lokationer i\nDanmark. Rigspolitiet har anmodet Greve Kommune om tilladelse til at opsætte\ndenne nye type kamera i krydset Godsvej/Hundige Centervej. Administrationen vil\nbehandle tilladelserne i foråret med henblik på, at der kan opsættes kamera i\ndet pågældende kryds i 2024. Der er allerede i dag skiltet med, at der er opsat\nkamera i krydset.</span></p>\n<p><em><strong><span>Radikalisering og ekstremisme</span></strong></em></p>\n<p><em><span>I medfør af Barnets lov § 15, stk. 3</span></em><span>, er kommunen er forpligtet til at udarbejde et\nberedskab for ekstremisme blandt børn, unge og deres familier. Det samme der\ngør sig gældende i forhold til beredskabsplan for æresrelaterede konflikter og\nnegativ social kontrol. Beredskabet vedrørende ekstremisme skal udformes\nskriftligt, vedtages af kommunalbestyrelsen og offentliggøres. Beredskabet skal\nrevideres løbende efter behov, dog som minimum hvert 4. år.</span></p>\n<p><span>Greve Kommune har en\nbeskrivelse/beredskabsplan Mistanke om radikalisering og ekstremisme -\nHandleguide. Denne\nvil blive revideret og fremlagt til politisk godkendelse efter sommerferien\n2024.</span></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/36889abb-d380-4d11-8da5-4de0227f0d13",
+          "DocumentId": "36889abb-d380-4d11-8da5-4de0227f0d13"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003655",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Anmodning om møde ml. Greve Kommune og regeringens ghettorepræsentanter",
+          "Id": "63900f73-6c8f-484e-8c1b-2a8012914cd1"
+        }
+      ],
+      "Documents": null,
+      "Id": "3e16de6b-a040-4ab5-aeae-21bb9b3ec90b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "22-003655",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget. </p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Plan- og Tryghedsudvalgets møder og møder i\ntilknytning til udvalget. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til\nefterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kalenderen for 2024 er vedlagt som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/68b73829-8616-4770-ab4a-5524a57d620d",
+          "DocumentId": "68b73829-8616-4770-ab4a-5524a57d620d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003652",
+      "Navn": "Plan- og Tryghedsudvalgets mødekalender 2024",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Plan- og Tryghedsudvalgets mødekalender 2024",
+          "Id": "7df7ebc3-0640-4f91-b937-6db67e981cdc"
+        }
+      ],
+      "Documents": null,
+      "Id": "be5dbc38-d572-4cf3-bd8c-ee2f63448868",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "22-003652",
+      "SourceId": null,
+      "Caption": "Plan- og Tryghedsudvalgets mødekalender 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/88bfdb6a-3916-4428-9342-14e9a4dc08f2",
+          "DocumentId": "88bfdb6a-3916-4428-9342-14e9a4dc08f2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003657",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "693c9548-15c3-4042-8749-60fc2624c060",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "22-003657",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "4177b34e-2db6-4652-a0e0-075bb7a88efa",
+    "Navn": "Plan- og Tryghedsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-04-23T16:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-04-23T16:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Ronni Mark Nielsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "45661652-e0f7-4fe4-b51b-3c781db8f7c8",
+  "Lydfiler": null
+}

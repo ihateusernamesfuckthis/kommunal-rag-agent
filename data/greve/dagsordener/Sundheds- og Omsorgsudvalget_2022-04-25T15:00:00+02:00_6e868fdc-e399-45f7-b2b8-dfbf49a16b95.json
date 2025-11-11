@@ -1,0 +1,734 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Dagsordenen blev godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Godkendelse af dagsorden for mødet den 25. april 2022.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes.</em></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f93d1fc9-77d9-4467-b87c-1ad46c63a628",
+          "DocumentId": "f93d1fc9-77d9-4467-b87c-1ad46c63a628"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014445",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "0ff531a1-8c9b-4f3d-b059-e3ca3c040aaf",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014445",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><span>Sagsprocedure</span></h3> <div><span>Sundheds- og Omsorgsudvalget.</span></div> <h3>Resume</h3> <div><span>Administrationen introducerer Sundheds- og Omsorgsudvalget </span><span>til</span><span> psykiatriområdet </span><span>herunder med et oplæg fra D</span><span>istriktspsykiatrien, Psykiatrien Øst, Region Sjællan</span><span>d.</span></div> <h3>Indstilling</h3> <div><span><em>Center for Job & Socialservice indstiller, at orienteringen tages til efterretning.</em></span></div> <h3>Sagsbeskrivelse</h3> <div><span>På mødet bliver udvalget introduceret til </span><span>psykiatriområdet</span><span>, </span><span>som en del af</span><span> udvalgets ansvarsområde</span><span>r</span><span>.</span><span> Introduktionen handler i hovedtræk </span><span>dels om den kommunale</span><span> psykiatri</span><span> og dels om den regional</span><span>e</span><span>:</span></div> <div><span> </span></div> <div><span>Orientering </span><span>ved Mariann Mikkelsen, Socialchef</span><span>, Center for Job & Socialservice.</span></div> <ul>     <li><span>I</span><span>ndsatser i Greve Kommune</span></li>     <li><span>Tendenser og udvikling på psykiatriområdet</span></li>     <li><span>Overgange og samarbejde med Psykiatrien</span></li> </ul> <div><em> </em></div> <div><em>Orientering ved Nicolas Hansen, Ledende Overlæge og Jens Jørgensen, Afdelingssygeplejerske, Psykiatrien Øst, Region Sjælland.</em></div> <ul>     <li>Orientering om F-ACT modellen (Flexible Assertive Community Treatment), som blev indført i Distriktspsykiatrien i 2021.</li>     <li>Hvor langt er Distriktspsykiatrien nået med F-ACT og hvad betyder det for borgerne?</li> </ul> <h3><span>Økonomiske konsekvenser</span></h3> <div><span>Sagen har ingen økonomiske konsekvenser.</span></div> <h3><span>Øvrige forhold</span></h3> <div><span>Marian</span><span>n</span><span> Mikkelsen, Socialchef i Center for Job & Socialservice, </span><span>Nicolas Hansen, Ledende Overlæge og Jens </span><span>Jørgensen, Afdelingssygeplejerske i </span>Psykiatrien Øst, Region Sjælland deltager under punktet.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f5b6b34e-2830-4205-8654-57d4eda3bf99",
+          "DocumentId": "f5b6b34e-2830-4205-8654-57d4eda3bf99"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004867",
+      "Navn": "Introduktion til psykiatriområdet",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Introduktion til psykiatriområdet",
+          "Id": "67a2c161-3411-46fe-bc2a-fc2bdbcc9620"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "F-ACT præsentation",
+          "Id": "3e3a0fef-f4cd-4ea2-a7b8-eeeb4b32698f"
+        }
+      ],
+      "Documents": null,
+      "Id": "3bf69f84-d6fc-4ffd-abe8-99f60fd3ba07",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-004867",
+      "SourceId": null,
+      "Caption": "Introduktion til psykiatriområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">1a. Anbefales.&nbsp;</p>\n<p>Tina Rottb&oslash;ll (A) og Charlotte Levin (A) undlod at tage stilling.</p>\n<p>&nbsp;</p>\n<p>2a. Anbefales.&nbsp;</p>\n<p>Tina Rottb&oslash;ll (A) og Charlotte Levin (A) undlod at tage stilling.</p>\n<p>&nbsp;</p>\n<p>3. Anbefales.&nbsp;</p>\n<p>Tina Rottb&oslash;ll (A) og Charlotte Levin (A) undlod at tage stilling.</p>\n<p>&nbsp;</p>\n<p>6. Anbefales.&nbsp;</p>\n<p>Tina Rottb&oslash;ll (A) og Charlotte Levin (A) undlod at tage stilling.</p>\n<p>&nbsp;</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004202",
+      "Navn": "Lukket: Beslutning om fremadrettet drift af Langagergård Plejecenter",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9e832e8b-736f-40ed-8bd7-758dab8448fd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-004202",
+      "SourceId": null,
+      "Caption": "Lukket: Beslutning om fremadrettet drift af Langagergård Plejecenter",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Greve Kommune fordeler midler til pensionistaktiviteter efter servicelovens §79 hvert andet år. Næste gang vil være til efteråret 2023. Revisionen har angivet en bemærkning ved gennemgang af procedure for ansøgning af midlerne. I sagen orienteres Sundheds- og Omsorgsudvalget om ændringer i procedure for ansøgning af midler under §79. </div> <h3>Indstilling</h3> <div><em>Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Center for Sundhed og Pleje har to puljer til uddeling. §18-puljen som er en \"skal-pulje\", hvor alle kommuner én gang årligt er forpligtet til at afsætte et beløb til at støtte frivilligt socialt arbejde. Social- Sundheds- og Psykiatriudvalget har derudover truffet beslutning om, at uddele midler til pensionistaktiviteter efter servicelovens §9 hvert andet år. §79 puljen er en \"kan- pulje\", og Greve Kommune er derved ikke forpligtet til at prioritere denne pulje. Social- Sundheds- og Psykiatriudvalget har med puljen ønsket at tilgodese lokale foreninger og klubber, som har aktiviteter målrettet de ældre i kommunen. Ansøgerne til §79 midler er desuden karakteriseret ved, at samle ældre omkring bestemte interesser (kortspil, teater, sang, sport mv.). Det er derved en pulje, som understøtter mulighed for, at fastholde de ældre i aktiviteter over en længere årrække og på den måde forebygge ensomhed, isolation og inaktivitet hos de ældre i Greve Kommune.</div> <div> </div> <div>Administrationen har tidligere vurderet behovet for tildeling af tilskud på baggrund af en telefonisk samtale med formanden for de enkelte foreninger. I samtalen blev der spurgt ind til medlemstal samt nuværende og kommende aktiviteter hos de enkelte foreninger og pensionistcentre. Dette blev nedskrevet som et dokument; \"<em>U</em><em>ndersøgelse af medlemstal og aktiviteter\", </em>som blev vedlagt i tidligere sager til Social, Sundheds- og Psykiatriudvalget, når der skulle bevilliges §79 midler.</div> <div> </div> <div>I efteråret 2021 gennemgik revisionen puljen \"Pensionistaktiviteter under servicelovens §79 midlerne\". Greve Kommune modtog på baggrund heraf et notat fra revisionen med nye anbefalinger på området.</div> <div> </div> <div>Revisionens anbefaling er:</div> <div> </div> <div><em>? at der udarbejdes et decideret ansøgningsskema, ligesom der bør udarbejdes en intern sagsbehandlingsvejledning for vurdering og journalisering af ansøgninger.</em></div> <div><em> </em></div> <div>På baggrund af dette har administrationen besluttet, at de foreninger/klubber som ønsker at komme i betragtning til §79 midler fremadrettet skal udfylde et ansøgningsskema. Første gang foreningerne/klubberne skal søge vil være til efteråret 2023.</div> <div> </div> <div> De foreninger/klubber som ønsker at søge, vil få et brugernavn og password til hjemmesiden www.aktivigreve.dk, hvor de her kan finde ansøgningsskema samt kunne uploade deres regnskab og evalueringsskema. Dette vil desuden medføre, at de foreninger/klubber som søger §79 midler automatisk får adgang til foreningsportalen \"Aktiv i Greve\". Her kan foreningerne/klubberne bl.a. få et overblik over andre puljer som de kan søge gennem Greve Kommune, samt mulighed for at booke lokaler mv. Herudover vil de automatisk få adgang til nyheder fra Kultur- og Fritidsadministrationen.</div> <div> </div> <div>Administrationen er bevist om, at overgangen til den nye procedure kan være mere vanskelig for nogle foreninger/klubber. Derfor vil der være ekstra fokus på, at hjælpe foreningerne/klubberne med at blive fortrolige med det nye system. Center for Sundhed & Pleje har for tre år siden flyttet §18 midlerne over i samme foreningsportal, og har derved gode erfaringer med systemet.</div> <div> </div> <div>De foreninger/klubber som tidligere har fået tildelt §79 midler har desuden haft mulighed for, at få bevilliget et mindre beløb årligt, helt ned til 1.500 kr. Administrationen har truffet beslutning om, at foreningerne/klubberne fremover skal søge minimum 5000,- årligt for at komme i betragtning til §79 midler. Dette skyldes, at administrationen har vurderet, at for at foreningerne /klubberne skal kunne udføre aktiviteter/ arrangementer som opfylder de gældende kriterier er det nødvendigt, at der er afsat passende midler til dette.</div> <div> </div> <div>Desuden anbefalede revision at:</div> <div> </div> <div><em>? kommunen udarbejder skriftlige forretningsgange på dette område, hvor der bliver opstillet succeskriterier for udbyttet af de udbetalte tilskud. Dette vil være med til at sikre en god styring af kommunens tilskudsordninger og sikre, at der foretages evaluering af udbyttet af de tildelte bevillinger</em>.</div> <div> </div> <div>Kriteriet for tildeling af §79 midler er, at aktiviteten skal have et aktiverende og forebyggende formål, der fortrinsvis retter sig mod pensionister. Administrationen har på baggrund af notat fra revision valgt, at der opstilles følgende succeskriterie for §79: <em>”Foreningerne/klubberne har gennemført mindst fire aktiviteter i løbet af året, og der er minimum er seks deltagere pr. gang. Derudover skal foreningerne/klubberne, hvis der er ledige pladser, gøre en indsats for at rekruttere nye deltagere/medlemmer\".</em></div> <div> </div> <div>Som noget nyt har administrationen derudover valgt, at foreningerne/klubberne hvert år inden den 1. oktober skal uploade et kort notat til administrationen på www.aktivigreve.dk hvor de evaluerer på forrige års aktiviteter. Herunder om midlerne er blevet anvendt efter planen, hvor mange aktiviteter der er blevet afholdt, og hvad de gør for at få nye deltagere samt forventninger til det kommende år.</div> <div> </div> <div>Derudover er der, efter revisionens anbefaling blevet nedskrevet en skriftelig forretningsgang på området. Denne er vedlagt som bilag.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <h3>Lovgrundlag</h3> <div>Lov om social service § 79.</div> <h3>Kommunikation</h3> <div>De foreninger som tidligere har fået bevilliget §79 midler indenfor de seneste fire år, vil til efteråret modtage et brev i deres e-Boks, hvor de vil blive orienteret om de nye kriterier og retningslinjer.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/343aba73-d442-429a-b9bc-d94123c82058",
+          "DocumentId": "343aba73-d442-429a-b9bc-d94123c82058"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002875",
+      "Navn": "Nye kriterier og retningslinjer §79 midler",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Intern sagsbehandlingsvejledning for vurdering og journalisering af ansøgninger §79",
+          "Id": "1985d135-01f2-4111-8f80-cce963dc6142"
+        }
+      ],
+      "Documents": null,
+      "Id": "0a508b53-8dfb-4215-9aa9-bef1613d7f24",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-002875",
+      "SourceId": null,
+      "Caption": "Nye kriterier og retningslinjer §79 midler",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>I sagen orienteres om arbejdet med ”I Sikre Hænder” og de resultater der er opnået ved at arbejde systematisk med kvalitets- og forbedringsarbejde.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning. </em></div> <b></b> <h3>Sagsbeskrivelse</h3> <div>Greve Kommune blev i 2016 en del af Dansk Selskab for Patientsikkerheds koncept ”I Sikre Hænder”, hvor der systematisk arbejdes med forebyggelse af tryksår, medicinfejl og underernæring. Der er i alt 33 kommuner i Danmark, der arbejder med \"I Sikre Hænder\" konceptet.</div> <div> </div> <div>I Greve Kommune har hjemmeplejen Tune og Bøgegruppen på Møllehøj Plejecenter været pilotenheder, her har der været nedsat forbedringsteam med 4-6 medarbejdere.</div> <div> </div> <div>Forbedringsteams har gennemgået et uddannelses- og læringsforløb som har givet dem særlige kompetencer i at arbejde med kvalitets- og forbedringsarbejder, bl.a. ved at deltage i læringsseminar, sammen med de øvrige deltagende kommuner.</div> <div> </div> <div>I pilotenhederne er der arbejdet systematisk med at udvikle nye arbejdsgange, først for medarbejderne i forbedringsteamet, bagefter i resten af plejegruppen og til sidst på de andre plejecentre og i hjemmeplejeenhederne. Der er etableret forbedringsteams i alle hjemmeplejegrupper og på alle plejecentre. Der arbejdes ud fra forbedringsmodellen, med småskala afprøvninger og PDSA-cirkler.</div> <div> </div> <div>Greve Kommune gik i 2016 i gang med Tryksårspakken, efter ca. to år, var pakken implementeret i alle plejeenheder. Efter implementeringen af Tryksårspakken, blev medicinpakken implementeret, her er formålet at forebygge medicinfejl. Aktuelt arbejdes med Ernæringspakken, som Greve Kommune sammen med Dansk Selskab for Patientsikkerhed har været med til at udvikle.</div> <div> </div> <div><strong>Resultater</strong></div> <div>Arbejdet med \"I Sikre Hænder\" har vist mange flotte resultater, stort set alle deltagende enheder har opnået mere end 300 dage uden<em> tryksår,</em> mange enheder har også haft 600 dage uden tryksår og en enkelt enhed har haft mere end 1500 dage uden tryksår.</div> <div> </div> <div>Arbejdet med <em>Medicinpakken</em> har ligeledes vist gode resultater, mange enheder har haft mere end 400 dage uden medicinfejl, og en enkelt enhed har haft mere end 750 dage uden medicinfejl.</div> <div> </div> <div>Arbejdet med <em>Ernæringspakken</em> er stadig under udvikling, men de foreløbige resultater viser, at færre borgere på plejecentre får uplanlagte vægttab og er underernærede.</div> <div> </div> <div><strong>Ressourceforbrug</strong></div> <div>Deltagelsen i ”I Sikre Hænder”, har ikke været forbundet med nogle udgifter ift. deltagelse i undervisning og læringsseminar, udover lønudgifter til frikøb af medarbejdere. Omfanget af dette  har kunne rummes inden for den eksisterende budgetramme. I dagligdagen bruges der ikke ekstra ressourcer til arbejder med \"I Sikre Hænder\", da det i høj grad handler om ændrede arbejdsgange og at gøre noget andet end det man gjorde tidligere. Det er således lykkedes at opnå en højere kvalitet inden for den samme ramme.</div> <div> </div> <div>Det har ikke været muligt at indhente nogle direkte økonomiske gevinster ved deltagelsen i ”I Sikre Hænder”. Det vurderes, at de færre tryksår og medicinfejl sparer tid i hverdagen, som i nogen grad kan modsvare den stigning i plejeopgaverne som den stigende demografiske udvikling med flere ældre medfører. Det vurderes ligeledes, at det har en positiv effekt i medfinansiering af indlæggelser, da færre bliver indlagt pga. tryksår og medicinfejl, det er dog ikke muligt at måle effekten. </div> <div> </div> <div><strong>Næste skridt</strong></div> <div>Ved etablering af nye hjemmeplejegrupper og plejecentre, arbejder disse også efter principperne fra ”I Sikre Hænder”. Den nye hjemmeplejegruppe Hundige Nord er således i gang med at implementere Tryksårspakken og skal herefter i gang med Medicinpakken. Ernæringspakken er implementeret på Strandcenteret Plejecenter og er i gang med at blive implementeret på Nældebjerg Plejecenter.</div> <div> </div> <div>Etableringen af forbedringsteams i alle plejeenheder i hjemmeplejen og på plejecentre, har vist sig at være en effektiv metode til at arbejde systematisk med kvalitets- og forbedringsarbejde, arbejdet har generet nogle flotte resultater blandt andet 1500 dage uden tryksår og 750 dage uden medicinfejl. Forbedringsteamene er en effektiv ”forbedringsmotor”, som løbende er blevet brugt til andre forbedringsprojekter, for eksempel Projekt Sund Mund hvor der arbejdes der med at udvikle en pakke til bedre tandsundhed, i samarbejde med Tandlægeskolen og Københavns Universitet.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/19462fbd-b53b-4747-8457-696ad7928b6a",
+          "DocumentId": "19462fbd-b53b-4747-8457-696ad7928b6a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004510",
+      "Navn": "Status I Sikre Hænder 2022",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "20539902-dd99-49b9-8c1f-dcc0abe93e37",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "22-004510",
+      "SourceId": null,
+      "Caption": "Status I Sikre Hænder 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div> <div> </div> <div>Udvalget foreslog et temamøde i de relevante fagudvalg.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget og Skole-, Børne- og Ungevalget.</div> <h3>Resume</h3> <div>I sagen orienteres om offentliggørelse af resultatet af Sundhedsprofil 2021, der er en landsdækkende undersøgelse af danskernes trivsel, sundhed og sygdom. Sundhedsprofil 2021 viser en positiv udvikling inden for rygning, hvor andelen af rygere er faldet, samt et lavere alkoholforbrug. På andre områder går udviklingen den forkerte vej, andelen af borgere med overvægt er stigende, og den mentale trivsel er faldende, særligt blandt de unge.</div> <h3>Indstilling</h3> <div><i>Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning. </i></div> <h3>Sagsbeskrivelse</h3> <div>Sundhedsprofilen er en undersøgelse der gennemføres hver 4 år, er tidligere blevet gennemført i 2010, 2013 og i 2017.</div> <div> </div> <div>Sundhedsprofilen gennemføres som en spørgeskemaundersøgelse, i 2021 blev 180.000 tilfældigt udvalgte borgere i alderen 16 år og derover i hele Danmark udvalgt til at deltage, de fik link til spørgeskema tilsendt i deres eBoks. I Greve Kommune deltog 1.175 borgere i undersøgelsen, i Region Sjælland deltog ca. 19.000 borgere.</div> <div> </div> <div>Det er regionerne, Sundhedsstyrelsen og Statens Institut for Folkesundhed, der har gennemført undersøgelsen på baggrund af en aftale mellem Danske Regioner, KL, Sundhedsministeriet samt Finansministeriet.</div> <div> </div> <div>I Sundhedsprofilen afdækkes danskernes sundhed inden for ti kategorier: Helbred og trivsel, langvarig sygdom og multisygdom, sociale relationer og ensomhed, kost, vægt, rygning, alkohol og euforiserende stoffer, fysisk aktivitet og stilsiddende arbejder, søvn, sundhedskompetence og digital parathed.</div> <div> </div> <div>Der har siden den sidste undersøgelse været en række positive udviklinger:</div> <ul>     <li>Andelen af daglige rygere er faldet. I Region Sjælland er andelen faldet fra 18,6 % i 2017 til 16,1 % i 2021. I Greve Kommune har udviklingen været mere markant i det der har været et fald fra 15,1 % i 2017 til 10,1 %. Greve Kommune er således den kommune i regionen, der har det laveste antal daglige rygere. Andelen af borgere der bruger e-cigaretter er 2,6 %, og 1,6 % bruger snus eller lignende dagligt.</li> </ul> <div> </div> <ul>     <li>Andelen af unge rygere i aldersgruppen 16-24 år er faldet fra 18,7 % i 2017 til 11,4 % i 2021 (Region Sjælland).</li> </ul> <div> </div> <ul>     <li>Alkoholforbruget er generelt faldet. Andel der drikker mere end Sundhedsstyrelsens nye genstandsgrænse på ti genstande er faldet fra 17,8 % i 2017 til 15,6 % i 2021. Her ligger Greve Kommune højere en de øvrige kommuner i regionen med en andel på 18,7 %. For de unge fra 16-24 år er andelen 16,6 % i hele regionen.</li> </ul> <div> </div> <ul>     <li>     <div>Der er andre områder, hvor udviklingen ikke har været positiv:</div>     </li> </ul> <div> </div> <ul>     <li>Den mentale trivsel er faldet, særligt udtalt blandt de unge og kvinder. F.eks. er andelen af de 16-24-årige der føler sig tilfredse med livet er faldet fra 72,3 % i 2017 til 59,8 % i 2021. Det markante fald kan dog skyldes Covid-19, undersøgelsen blev gennemført i starten af 2021, hvor store dele af samfundet var lukket ned, det har påvirket mange unge ift. deres udfoldelsesmuligheder.</li> </ul> <div> </div> <ul>     <li>Forekomsten af borgere der føler sig stresset, er steget markant i aldersgruppen 16-24 år til 43 % mod 35 % i 2017.</li> </ul> <div> </div> <ul>     <li>Andelen af borgere der føler sig ensomme er steget fra 8,6 % i 2017 til 12,7 % i 2021 i Greve Kommune er udviklingen gået fra 6,7 % i 2017 til 10,3 % i 2021.</li> </ul> <div> </div> <ul>     <li>Andelen af overvægtige er steget. I 2021 er andelen af overvægtige steget til 58 %, heraf er 22 % svært overvægtige i Greve Kommune er det 18 %.</li> </ul> <div> </div> <ul>     <li>Andelen af borgere med et usundt kostmønster er steget fra 16,6 % i 2017 til 18,9 % i 2021.</li> </ul> <div> </div> <ul>     <li>Andelen af borgere med langvarig sygdom, multisygdom og på de opgjorte enkelte sygdomsområder er steget. Blandt andet er forekomsten af diabetes steget fra 6,5 % i 2017 til 7 % i 2021. Forekomst af KOL er steget fra 5,3 % i 2017 til 6,2 % i 2021.</li> </ul> <div> </div> <div>Sundhedsprofilen viser at der har været en positiv udvikling inden for rygning og alkohol, men at der er stigende problemer med den mentale trivsel, særligt blandt de unge, samt en stigning i andelen af borgere der er overvægtige og svært overvægtige. Det forventes at den stigende overvægt, vil medføre en øget sygdomsbyrde med blandt højere forekomst at diabetes og hjertekarsygdomme.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4a8280a6-3bf3-40a0-9091-a51d9735ae19",
+          "DocumentId": "4a8280a6-3bf3-40a0-9091-a51d9735ae19"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004515",
+      "Navn": "Orientering om Sundhedsprofilen 2021",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Sundhedsprofilen 2021",
+          "Id": "9a30f6e7-de6f-4dd7-a551-0e5396dd6340"
+        }
+      ],
+      "Documents": null,
+      "Id": "d22b6330-4ade-42ad-8c0e-fb20d53bfc56",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "22-004515",
+      "SourceId": null,
+      "Caption": "Orientering om Sundhedsprofilen 2021",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt med bemærkning om at mødet holdes onsdag den 21. september 2022.</div> <div> </div> <div>Repræsentanter fra seniorrådet inviteres.</div> <div> </div> <div>Udvalget tog seniorrådets bemærkning til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Hvert år inviterer Sundheds- og Omsorgsudvalget udvalgte foreninger og klubber til et Dialogmøde med erfaringsudveksling, og hvor frivillighedsprisen bliver uddelt. Sundheds- og Omsorgsudvalget skal i sagen træffe beslutning om rammerne og emnet for dialogmødet i 2022.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Sundhed & Pleje indstiller, at emne, målgruppe og rammerne for Dialogmødet 2022 godkendes.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Dialogmødet er en årlig begivenhed, som<span> traditionelt har været afholdt som et lukket arrangement. Sundheds- og Omsorgsudval</span><span>get har inviteret udvalgte foreninger og klubber til at deltage i et fælles arrangement, hvor der i løbet af årene er blevet drøftet relevante emner mellem foreningerne og Sundheds- og Omsorgsudvalget. På Dialogmødet uddeler formanden for Sundheds- og Omsorgsudvalget desuden årets Frivillighedspris.</span></div> <div><span> </span></div> <div><span> I 2019 blev Dialogmødet for første gang afholdt som et åbent arrangement, hvor alle borgere kunne deltage. Dialogmødet blev afholdt i samarbejde med Ældresagen og Frivilligcenter Greve, hvor dagen her blev holdt som en fælles ældredag. Emnet var ældres sundhed og trivsel og blev afholdt i Portalen. I 2020 måtte Dialogmødet aflyses som følge af nedlukning p</span><span>ga. COVID-19</span><span>. I 2021 år blev Dialogmødet igen holdt som et åbent arrangement. Emnet var Mænds Sundhed og blev holdt i Tune Hallen. </span></div> <div><span> </span></div> <div><span>De seneste to år har foreningslivet været hårdt ramt af nedlukninger og restriktioner pga. COVID-19. Dette har medført, at mange ældre ikke har kunne deltage i deres sædvandige aktiviteter og derved har tilbragt meget tid alene i hjemmet. Administrationen foreslår derfor, </span><span>at emnet i år bliver \"<em>ensomhed og social isolation\" </em>og at der<em> </em>på Dialogmødet drøftes; </span><em>Hvordan foreningerne oplever tiden efter Covid-19 og hvordan vi hjælper de borgere som har været isoleret de sidste par år med at genoptage deres deltagelse i foreningslivet?</em></div> <div><em> </em></div> <div><span>Administrationen forslår, at Dialogmødet i 2022 afholdes som et l</span>ukket Dialogmøde, hvor de foreninger som modtager §18 og §79 i midler i 2022 bliver inviteret, og at der bliver mulighed for deltagelse af to personer pr. forening/klub. Administrationen foreslår endvidere, at der til Dialogmødet vil være et oplæg omkring Covid-19's påvirkning på borgernes sundhed og sociale liv. Dette vil kunne skabe baggrund for en videre drøftelse på dagen mellem Sundheds- og Omsorgsudvalget og foreningerne.</div> <div> </div> <div><span>Dialogmødet planlægges holdt i Portalen torsdag den 22. september fra ca. kl. 15.30-19.00, hvor Sundheds-og Omsorgsudvalget afslutningsvis spiser aftenmad sammen med de inviterede foreninger. </span></div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Der er afsat 72.000 kr. til Dialogmødet samt 10.000 kr. til Frivillighedsprisen fra §18 midler.</div> <b></b> <h3>Kommunikation</h3> <div>Der vil blive annonceret om mulighed for indstilling til årets Frivillighedspris i Sydkysten i uge 27 samt i uge 32. Nyheden publiceres ligeledes på Greve Kommunes hjemmeside <a href=\"http://www.greve.dk/\" target=\"_blank\">www.greve.dk</a>.</div> <h3><span>Tidsplan</span></h3> <div> Administrationen vil ultimo juni måned sende invitationer ud til de foreninger, som modtager §18 og §79 midler om deltagelse i Dialogmødet.</div> <div> </div> <div>Sidste frist for indstilling til årets Frivillighedspris er fredag den 26. august 2022. Sundheds- og Omsorgsudvalget modtager på mødet den 12. september 2022 indstillinger til Frivillighedsprisen og beslutter her, hvem der skal have prisen til Dialogmødet.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c42cf2cb-fc17-4851-8399-e0636057cfb8",
+          "DocumentId": "c42cf2cb-fc17-4851-8399-e0636057cfb8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004391",
+      "Navn": "Dialogmøde 2022",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a2b93415-ca60-475c-a53a-6aa53e8fe0eb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "22-004391",
+      "SourceId": null,
+      "Caption": "Dialogmøde 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure<br> <span></span></h3> <div><span>Sundheds-  og Omsorgsudvalget.</span></div> </div> <div> <h3>Resume<br> <span></span></h3> <div><span>I sagen orienteres Sundheds- og Omsorgsudvalget de tilsyn,  Styrelsen for Patientsikkerhed har gennemført på plejeområdet i Greve Kommune i  2021.</span></div> </div> <div> <h3>Indstilling<br> <em><span></span></em></h3> <div><span><em>Center for Sundhed & Pleje indstiller, at orienteringen  tages til efterretning.</em></span></div> </div> <div> <h3>Sagsbeskrivelse<br> <span></span></h3> <div><span>Styrelsen for Patientsikkerhed har som en af sine  hovedopgaver at føre tilsyn på institutioner, som leverer ydelser efter  sundhedsloven. Tilsynene er tidligere kendt som risikobaseret tilsyn, som i dag  kaldes <em>sundhedsfagligt tilsyn</em>. Som supplement til disse tilsyn, blev  der i 2018 indført en fireårig forsøgsordning med et såkaldt </span><em><span>ældretilsyn</span></em><span>,  hvor der føres tilsyn med indsatser, som ydes efter serviceloven. I efteråret  2020 blev ældretilsynet forlænget til og med 2024. I 2021 er der gennemført ét  tilsyn med et behandlingssted og ét ældretilsyn i Greve Kommune.</span></div> </div> <div><span> </span></div> <div><span><strong>Om sundhedsfagligt tilsyn</strong></span><span><br> Om der skal føres et tilsyn på en given institution, afgøres ud fra et  kriterium om risiko for patientsikkerheden. Dette betyder, at Styrelsen løbende  vurderer, hvor der kan være størst risiko for patienternes sikkerhed og  udvælger institutionerne efter denne vurdering. Der kan foretages et  sundhedsfagligt tilsyn på behandlings- og plejeinstitutioner i både det  offentlige og private sundhedsvæsen. Det kan fx være et plejecenter, en  hjemmeplejeleverandør eller en fodterapeut. Ved et sundhedsfagligt tilsyn  varsles institutionen på forhånd, så tilsyn ikke foretages  uanmeldt. Tilsynet skal bidrage til læring og udvikling af de social- og  plejefaglige indsatser på plejeområdet.</span></div> <div><span> </span></div> <div><span>Styrelsen for Patientsikkerhed udarbejder en  tilsynsrapport efter hvert tilsyn, hvori det fremgår, om der er konstateret  overtrædelser eller mangler af betydning for patientsikkerheden. Når Styrelsen  gennemfører et tilsyn, får institutionen resultaterne samme dag. Hvis Styrelsen  under tilsynet finder forhold, der kræver handling fra institutionens side,  skal institutionen udarbejde en handleplan. Derfra går der typisk en til tre  måneder, før rapporten med tilsynets resultater er offentliggjort.</span></div> <div><span> </span></div> <div><span><strong>T</strong></span><span><strong>ilsyn med hjemmesygeplejen</strong></span><em><span><br> </span></em><span>Den 16. september gennemførte Styrelsen  for Patientsikkerhed tilsyn med behandling af lægemidlet <span>Methotrexat  i hjemmesygeplejen</span>. Tilsynet konkluderede, at der skulle nedlægges  midlertidigt påbud mod anvendelse af lægemidlet indtil følgende krav er opfyldt  ved et opfølgende tilsyn:</span></div> <div><span> </span></div> <ul>     <li><span>Sikre at der er gennemført sygeplejefaglige       vurderinger og opfølgning herpå</span></li>     <li><span>Sikre indhentelse af informeret samtykke       forud for pleje og behandling</span></li>     <li><span>Sikre udarbejdelse og implementering af en       tilstrækkelig instruks for medicinhåndtering samt for personalets       kompetencer, ansvars- og opgavefordeling i relation til håndtering af <span>methotrexat</span>.</span></li> </ul> <div><span> </span></div> <div><span>Påbuddet trådte i kraft den 8. november 2021. På  baggrund af påbuddet, blev der udarbejdet en handleplan, der skulle sikre at  hjemmesygeplejen levede op til kravene. Den 2. december 2021 blev der  gennemført et opfølgende tilsyn fra Styrelsen for Patientsikkerhed. Efter  tilsynet valgte Styrelsen for Patientsikkerhed, at de ikke kunne ophæve  påbuddet, hvorfor der igen blev varslet et opfølgende tilsyn den 8. </span>februar  2022. Denne gang blev tilsynet udvidet til også at omfatte øvrige målepunkter  for plejeområdet.</div> <div> </div> <div>Styrelsen for Patientsikkerhed kunne efter det opfølgende tilsyn den 8.  februar 2022 ophæve påbuddet i forhold til lægemidlet <span>Methotexat</span>.  Hjemmesygeplejen fik ved tilsynet resultatet <em>Ingen problemer af betydning  for patientsikkerheden</em>, som er det bedst mulige resultat at kunne opnå<span>. </span>Rapporten fra tilsynet viser at kunne påvises få og  spredte fejl i journalføring og medicinhåndtering, som har mindre betydning for  patientsikkerheden. Styrelsen for Patientsikkerhed konkluderer i rapporten, at  hjemmesygeplejen i Greve Kommune <span>generelt har en  patientsikkerhedsmæssig forsvarlig praksis, og de påviste mangler i tilsynet  kan rettes ud fra den rådgivning, der er givet i forbindelse med tilsynet. Den  endelige tilsynsrapporter foreligger endnu ikke, men høringsudkastet er  vedhæftet sagen. Greve Kommune har ikke haft bemærkninger til høringsudkastet.</span></div> <div><span> </span></div> <div><span><strong>Om ældretilsyn</strong></span><em><span><br> </span></em><span>Ældretilsynet har til formål at føre tilsyn med kvaliteten af de  indsatser, som ydes efter serviceloven §83-87 med undtagelse af §85. Tilsynet  har blandt andet fokus på om borgerne oplever livskvalitet og selvbestemmelse.  Ældretilsynet er et supplerende tilsyn og erstatter ikke andre tilsyn.</span></div> <div><span> </span></div> <div><span><strong>Ældretilsyn i Hundige Nord</strong></span><em><span><br> </span></em><span>I september 2021 modtager Greve Kommune en klage fra en pårørende på vegne af borger, der modtager hjemmepleje. På den baggrund  foretog Styrelsen for Patientsikker</span>hed et reaktivt  ældretilsyn i <span>Hjemmeplejen Nord den 9. december  2021.</span></div> <div><span> </span></div> <div><span>Styrelsen for Patientsikkerhed har efter  tilsynsbesøget vurderet, at Hjemmeplejen Nord indplaceres i kategorien: ’Mindre  problemer af betydning for den fornødne kvalitet’. Det vil sige den næstbedste  bedømmelse. Vurderingen skyldes, at der generelt har manglet målfastsættelse,  når en medarbejder har udført personlig og praktisk hjælpe med et aktiverende  og rehabiliterende sigte. Manglende fastsættelse af målsætning kan medvirke til  at forringe kvaliteten i indsatsen for borgerens mulighed for at blive  selvhjulpen. Hjemmeplejen Nord har på baggrund af disse bemærkninger,  udarbejdet en handleplan, som skal sikre at der opsættes målfastsættelse.</span></div> <div><span> </span></div> <div><span>Derudover bemærkede Styrelsen for Patientsikkerhed,  at Hjemmeplejen Nord understøtter borgerens livskvalitet og selvbestemmelse, og  at borgerne får den hjælp og omsorg, der er berettiget til. Desuden er det  styrelsens oplevelse, at Hjemmeplejen Nord møder borgere og pårørende i en god  og værdig tone.</span></div> <div><span> </span></div> <div><span>Styrelsen vurderede desuden, at plejeenhedens  tværfaglige organisering og dokumentationspraksis understøtter kerneopgaverne,  og at plejeenheden har arbejdsgange og metoder, der sikrer en rehabiliterende  tilgang og sammenhængende indsatser i plejen af borgerne.</span> Tilsynsrapporten er vedlagt som bilag til sagen.</div> <div> <h3>Lovgrundlag</h3> </div> <div> <span>Styrelsen for Patientsikkerhed har tilsynsansvaret  for de institutioner, der leverer indsatser efter lov om sundhed og  servicelovens §83-87.</span></div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/63dda80c-a2b6-4a5c-9584-024087ef0cae",
+          "DocumentId": "63dda80c-a2b6-4a5c-9584-024087ef0cae"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004554",
+      "Navn": "Tilsyn foretaget af Styrelsen for Patientsikkerhed i 2021",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Sundhedsfagligt tilsyn Sygeplejen",
+          "Id": "ff7a66a8-8a35-4c79-9e4a-6e7483ad2da4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Ældretilsyn Hjemmeplejen Nord",
+          "Id": "4ca3a591-da2b-44c9-98a6-0586c9d8f5ab"
+        }
+      ],
+      "Documents": null,
+      "Id": "624fe412-04f8-44ee-acd3-0a8cccb90921",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "22-004554",
+      "SourceId": null,
+      "Caption": "Tilsyn foretaget af Styrelsen for Patientsikkerhed i 2021",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>I sagen orienteres Sundheds- og Omsorgsudvalget om de uanmeldte tilsyn med plejecentre og rehabiliteringscentret Hedebo i 2021. Sagen fremlægger tilsynets konklusioner, og anbefaler Sundheds- og Omsorgsudvalget at godkende de uanmeldte tilsyn for 2021. Derudover beskriver sagen de opfølgende indsatser i forhold til tilsynets konklusioner og anbefalinger.</div> <h3>Indstilling</h3> <div><em>Center for Sundhed & Pleje indstiller, at resultatet af de uanmeldte tilsyn med plejecentre og rehabiliteringscentret Hedebo godkendes.</em></div> <h3>Sagsbeskrivelse</h3> <div>De uanmeldte tilsyn skal føre kontrol med, at borgerne får den pleje og hjælp, som de er berettigede til. Det vil sige, at ydelser udføres til borgernes bedste og i overensstemmelse med lovgivningens krav, politisk godkendte kvalitetsstandarder samt almene omsorgs- og sundhedsfaglige retningslinjer. Derudover ønsker Greve Kommune med tilsynene at skabe læring med det formål at højne fagligheden. Tilsynet gennemføres uanmeldt mindst én gang om året. Det kan suppleres med yderligere besøg, hvis det årlige tilsyn påviser forhold, som kræver opfølgning. Tilsyn bliver gennemført uanmeldt og i løbet af én arbejdsdag, hvorfor resultaterne skal ses som udtryk for et øjebliksbillede.</div> <div> </div> <div>Det er visitatorer fra Myndighed, som gennemfører de uanmeldte tilsyn. Alle tilsyn gennemføres med udgangspunkt i revideret procedure for tilsyn, som Social-, Sundheds- og Psykiatriudvalget godkendte den 9. januar 2019. Tilsynene baserer sig på gennemgang af borgerjournaler i omsorgssystemet Nexus (6 % af det samlede antal borgerjournaler hos den enkelte leverandør), to borgerinterview og to medarbejderinterview samt observationer af tavlemøder, besøg hos borger og besøg i borgernes hjem. Tilsynet laver deres bedømmelse ud fra 12 forskellige temaer herunder blandt andet <em>selvbestemmelse og livskvalitet, livets afslutning, trivsel og relationer, forebyggelse af magtanvendelse, genoptræning og rehabilitering og overdraget sygepleje</em>. Resultatet af dette indgår sammen med viden om eventuelle klagesager, utilsigtede hændelser og magtanvendelser.</div> <div> </div> <div><strong>Samlet vurdering – leverandører af personlig pleje og praktisk hjælp</strong><i><br> </i>Tilsynets vurderinger bedømmes efter en skala, som er inddelt i følgende fire kategorier: Godkendt (1), Godkendt med få bemærkninger (2), Godkendt med mangler (3) og Kritisable forhold (4). Tilsynets samlede vurderinger af leverandørerne i 2021, og til sammenligning 2020 følger af nedenstående oversigt:</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><b>Plejecenter</b></div>             </td>             <td colspan=\"2\" valign=\"top\">             <div><b>Bedømmelse</b></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div><b>2021</b></div>             </td>             <td valign=\"top\">             <div><b>2020</b></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Lokalcenter Møllehøj</div>             </td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>             <td valign=\"top\">             <div>Godkendt med mangler               (3)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Langagergård</div>             </td>             <td valign=\"top\">             <div>Godkendt                                     (1)</div>             </td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Strandcentret</div>             </td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>             <td valign=\"top\">             <div>Godkendt                                     (1)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Nældebjerg</div>             </td>             <td valign=\"top\">             <div>Godkendt                                     (1)</div>             </td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Rehabiliteringscentret Hedebo*</div>             </td>             <td valign=\"top\">             <div>Godkendt                                     (1)</div>             </td>             <td valign=\"top\">             <div>Godkendt med mangler (3)</div>             </td>         </tr>     </tbody> </table> <div><em>Note*: Dahliahuset ved rehabiliteringscentret Hedebo hører organisatorisk – og dermed tilsynsmæssigt - under Nældebjerg Plejecenter.</em></div> <div><em> </em></div> <div><strong>Tilsynets samlede bedømmelser</strong><i><br> </i>Tabellen viser, at Lokalcenter Møllehøj, Nældebjerg, Rehabiliteringscentret Hedebo og Langagergård har fået en bedre bedømmelser i 2021 sammenlignet med 2020. Langagergård og rehabiliteringscentret Hedebo har blandt andet udviklet sig positivt i forhold til dokumentation af overdraget sygeplejeopgaver. Nældebjerg er blandt andet gået frem i forhold til tilsynstemaet <em>Pleje af borgere ved livets afslutning, </em>som viser en prioritering og fokus på, at få talt med borgeren om ønsker for den sidste tid. Lokalcenter Møllehøj har udviklet sig positivt i forhold til en række tilsynstemaer herunder forbedret dokumentation af ændringer i funktionsevne og helbredstilstand hos borgeren. Kun Strandcentret er gået fra bedst mulige bedømmelse 1 i 2020 til næstbedste bedømmelse 2 i 2021. Årsagen til dette skyldes blandt andet, at tilsynet ikke fandt fyldestgørende dokumentation med ydelser for vedligeholdende træning. Tilsynet konkluderer overordnet, at der på alle centre leveres den pleje og hjælp, som borgerne har behov for og krav på.</div> <div> </div> <div><strong>Udviklingsområder</strong><em><br> </em>Der er fortsat udfordringer, når det drejer sig om dokumentationspraksis. Det er vanskeligt at generalisere på tværs af plejecentre og rehabiliteringscentret Hedebo, og dermed pege på ét område, som skal forbedres i forhold til dokumentation. Men alle plejecentre og rehabiliteringscentret Hedebo har udarbejdet en handleplan på baggrund af tilsynets fund. I handleplanerne fremgår de konkrete indsatser, som iværksættes for at rette op på tilsynets fund. Handleplaner udarbejdes umiddelbart efter, at tilsynets resultater er forelagt. Alle de beskrevne indsatser i handleplanerne er enten gennemført eller under gennemførelse.</div> <div> </div> </div> <div> <div><strong>Center for Sundhed & Plejes anbefaler</strong><br> Center for Sundhed & Pleje anbefaler på baggrund af tilsynets resultater og borgernes tilfredshed, at de uanmeldte tilsyn med plejecentre og rehabiliteringscenter Hedebo godkendes.</div> <h3>Lovgrundlag</h3> <div>§151 i lov om service forpligter kommunerne til at føre tilsyn med leveringen af plejeydelser efter servicelovens §83 og §83a og §86 vedrørende vedligeholdende træning.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c812e2bb-008e-4f6e-918d-c341c4a120c4",
+          "DocumentId": "c812e2bb-008e-4f6e-918d-c341c4a120c4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004488",
+      "Navn": "Godkendelse af uanmeldte tilsyn med ydelser leveret på plejecentre og på rehabiliteringscentret Hedebo 2021",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Tilsynsrapport Strandcentret",
+          "Id": "eeb0649d-23f9-4cb6-98aa-4e5bd3ece44e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Tilsynsrapport Nældebjerg",
+          "Id": "43b7483c-a8ea-48d5-ac1f-3e9a6574a2bc"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Tilsynsrapport Langagergård",
+          "Id": "8c06cf57-fbe6-433b-8d2a-43cbabf6feef"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - Tilsynsrapport Lokalcenter Møllehøj",
+          "Id": "88b97361-bdb0-4232-a5ed-ec47b96a998d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5 - Tilsynsrapport Rehabiliteringscentret Hedebo",
+          "Id": "dda1fde5-32a5-410a-89ed-694843fe1103"
+        }
+      ],
+      "Documents": null,
+      "Id": "60a27e14-88f2-46c9-9035-b0f074d6f900",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "22-004488",
+      "SourceId": null,
+      "Caption": "Godkendelse af uanmeldte tilsyn med ydelser leveret på plejecentre og på rehabiliteringscentret Hedebo 2021",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>I sagen orienteres Sundheds- og Omsorgsudvalget om de uanmeldte tilsyn i  2021 for leverandører af ydelser i hjemmeplejen herunder madservice, tøjvask og  indkøbsordning. Sagen fremlægger tilsynets konklusioner og udviklingsområder,  og anbefaler Sundheds- og Omsorgsudvalget at godkende de uanmeldte tilsyn for  2021. Derudover beskriver sagen de opfølgende indsatser i forhold til tilsynets  konklusioner og anbefalinger.</div> <h3>Indstilling</h3> <div><em>Center for Sundhed & Pleje indstiller, at resultatet af de uanmeldte  tilsyn i 2021 med leverandører af hjemmepleje og madservice godkendes.</em></div> <h3>Sagsbeskrivelse</h3> <div>De uanmeldte tilsyn skal føre kontrol med, at borgerne får den pleje og  hjælp, som de er berettigede til. Det vil sige, at ydelser udføres til  borgernes bedste og i overensstemmelse med lovgivningens krav, politisk  godkendte kvalitetsstandarder samt almene omsorgs- og sundhedsfaglige  retningslinjer. Derudover ønsker Greve Kommune med tilsynene at skabe læring  med det formål at højne fagligheden. Tilsynet gennemføres uanmeldt mindst én  gang om året. Det kan suppleres med yderligere besøg, hvis det årlige tilsyn  påviser forhold, som kræver opfølgning. Tilsyn bliver gennemført uanmeldt og i  løbet af én arbejdsdag, hvorfor resultaterne skal ses som udtryk for et  øjebliksbillede.</div> <div> </div> <div>Det er visitatorer fra Myndighed, som gennemfører de uanmeldte tilsyn. Alle  tilsyn gennemføres med udgangspunkt i revideret procedure for tilsyn, som  Social-, Sundheds- og Psykiatriudvalget godkendte den 9. januar 2019. Tilsynene  baserer sig på gennemgang af borgerjournaler i omsorgssystemet Nexus (6 % af det samlede antal borgerjournaler hos den enkelte leverandør), to  borgerinterview og to medarbejderinterview samt observationer af tavlemøder og  besøg i borgernes hjem. Tilsynet laver deres bedømmelse ud fra 12 forskellige  temaer herunder blandt andet <em>selvbestemmelse og livskvalitet, livets  afslutning, trivsel og relationer, forebyggelse af magtanvendelse, genoptræning  og rehabilitering og overdraget sygepleje</em>. Resultatet af  dette indgår sammen med viden om eventuelle klagesager, utilsigtede hændelser  og magtanvendelser.</div> <div> </div> <div><strong>Samlet vurdering – leverandører af personlig pleje og praktisk hjælp</strong><em><br> </em>Tilsynets vurderinger bedømmes efter en skala, som er inddelt i følgende  fire kategorier: Godkendt (1), Godkendt med få bemærkninger (2), Godkendt med  mangler (3) og Kritisable forhold (4). Tilsynets samlede vurderinger af  leverandørerne i 2021 og til sammenligning 2020 følger af nedenstående  oversigt:</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Leverandør (hjemmepleje)</strong></div>             </td>             <td colspan=\"2\" valign=\"top\">             <div><strong>Bedømmelse</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div><strong>2021</strong></div>             </td>             <td valign=\"top\">             <div><strong>2020</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Tune</div>             </td>             <td valign=\"top\">             <div>Godkendt (1)</div>             </td>             <td valign=\"top\">             <div>Godkendt med mangler (3)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Greve <span>Nord                                (</span>ny    gruppe fra juni 2020)</div>             </td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>             <td valign=\"top\">             <div>Godkendt med mangler (3)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Stranden</div>             </td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Karlslunde Landsby (ny gruppe fra september 2021)</div>             </td>             <td valign=\"top\">             <div>Godkendt med mangler (3)</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Hundige Nord (ny gruppe fra november 2021)</div>             </td>             <td valign=\"top\">             <div>Ikke gennemført</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>         </tr>     </tbody> </table> <div><span> </span></div> <div><span>Tabellen viser, at hjemmeplejegruppen i Tune er  gået fra en samlet bedømmelse på 3 i 2020 til den bedst mulige bedømmelse i  2021. Greve Nord har også fået en bedre samlet bedømmelse fra 3 i 2020 til 2  i 2021. Stranden får samme resultat i 2021 som i 2020. Den 1. juni 2021 blev  der oprettet en ny hjemmeplejegruppe i Karlslunde Landsby. Den samlede  bedømmelse på 3 skal derfor ses i lyset af, at gruppen har eksisteret i kort  tid.</span></div> <div><span> </span></div> <div> <strong>Udviklingsområder</strong><br> Dokumentationspraksis er generelt et område, som trækker ned i bedømmelserne.  Det vil sige, at der er områder af dokumentationen, som ikke udfyldes  fyldestgørende nok. Det drejer sig blandt andet om:</div> <div> </div> <ul>     <li>Manglende oplysninger om, hvilke pårørende der skal       kontaktes i forbindelse med hændelser fx hvem der varetager borgerens       interesser, hvis borgeren bliver indlagt på sygehuset. Det kunne <span>eksempelvis</span> være betaling af       regninger under en indlæggelse. Disse aftaler skal opdateres hvert halve       år.</li> </ul> <div> </div> <ul>     <li>Manglende opfølgninger på forløb for vedligeholdende       træning. Vedligeholdende træning kunne <span>eksempelvis</span> være en gåtur med borgeren, så       gangfunktionen vedligeholdes. Vedligeholdende træning skal dokumenteres,       så det er bliver muligt at følge udviklingen i borgerens funktionsniveau.</li> </ul> <div> </div> <div><strong>Leverandører af indkøbsordning, madservice og tøjvask</strong><em><br> </em>Ud over leverandørerne af hjemmeplejeydelser har Greve Kommune kontrakt med  tre leverandører, som er godkendt til at levere henholdsvis indkøb, tøjvask  eller madservice til visiterede borgere. Myndighed foretager en stikprøve på ti procent af det samlede antal borgere, som modtager ydelsen. Det vil eksempelvis sige, at Myndighed har foretaget interview med 18 borgere, som modtager varer fra Intervare. Tilsynets vurderinger bedømmes efter  samme skala som de øvrige tilsyn.</div> <div> </div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Område</strong></div>             </td>             <td valign=\"top\">             <div><strong>Leverandør</strong></div>             </td>             <td colspan=\"2\" valign=\"top\">             <div><strong>Bedømmelse</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div><strong>2021</strong></div>             </td>             <td valign=\"top\">             <div><strong>2020</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Madservice</div>             </td>             <td valign=\"top\">             <div>Det Danske <span>Madhus</span></div>             </td>             <td valign=\"top\">             <div>Godkendt (1)</div>             </td>             <td valign=\"top\">             <div>Godkendt (1)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Tøjvask</div>             </td>             <td valign=\"top\">             <div><span>Trasbo</span></div>             </td>             <td valign=\"top\">             <div>Godkendt (1)</div>             </td>             <td valign=\"top\">             <div>Godkendt (1)</div>             </td>         </tr>         <tr>             <td valign=\"top\"></td>             <td valign=\"top\">             <div>Elis Danmark</div>             </td>             <td valign=\"top\">Godkendt (1)</td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Indkøbsordning</div>             </td>             <td valign=\"top\">             <div><span>Intervare</span></div>             </td>             <td valign=\"top\">Godkendt (1)</td>             <td valign=\"top\">             <div>Godkendt med få bemærkninger (2)</div>             </td>         </tr>     </tbody> </table> <div> </div> <div>Generelt er borgerne tilfredse med maden, som leveres af Det Danske Madhus. Der er enkelte bemærkninger, der relaterer sig til personlige præferencer såsom mængden af salt og sovs til maden. Tøjvaskordningen fra Trasbo og Elis får i 2021 højest mulige samlede bedømmelse. Alle adspurgte borgere i forbindelse med tilsynet siger, at de er tilfredse med den leverede service, og eventuelle fejl hurtigt bliver håndteret på en tilfredsstillende måde. Intervare er gået fra en samlet bedømmelse på 1 i 2021 fra 2 i 2020. Borgerne oplyser, at service er god og eventuelle problemer bliver håndteret på en tilfredsstillende måde. Alle leverandører er desuden underlagt løbende kontroller fra eksterne myndigheder såsom Teknologisk Institut og Fødevarestyrelsen.</div> <div> <strong>Handleplaner</strong><br> Alle leverandører af hjemmepleje, der har fået en eller flere bemærkninger i  tilsynsrapporten, har udarbejdet handleplaner. I handleplanerne fremgår de  konkrete indsatser, som iværksættes for at rette op på tilsynets fund. Handleplaner  udarbejdes umiddelbart efter, at tilsynets resultater er forelagt. Alle de  beskrevne indsatser i handleplanerne er enten gennemført eller under  gennemførelse. Center for Sundhed & Pleje gennemfører løbende opsamlinger  på handleplanerne i forbindelse med driftsmøder.</div> <div> </div> <div><strong>Center for Sundhed & Pleje anbefaler</strong><em><br> </em>Center for Sundhed & Pleje anbefaler på baggrund af tilsynets  resultater og borgernes tilfredshed, at de uanmeldte tilsyn med leverandører af  hjemmepleje samt indkøbsordning, tøjvask og madservice godkendes. Anbefalingen  er betinget af, at leverandørerne implementerer deres indsatser, de har meldt  ud i deres høringssvar på baggrund af tilsynet.</div> <h3>Lovgrundlag</h3> <div>§151 i lov om social service forpligter kommunerne til at føre tilsyn med  leveringen af plejeydelser efter servicelovens § 83 og § 83a og § 86 vedrørende  vedligeholdende træning.</div> <h3>Økonomiske  konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <h3>Øvrige konsekvenser</h3> <div>Tilsynsrapporter fra Trasbo, Elis Danmark og Intervare er på nuværende tidspunkt til godkendelse hos leverandørerne, og de kan derfor ikke vedlægges sagen. Tilsynsrapporterne vil blive forelagt Sundheds- og Omsorgsudvalget på mødet den 30. maj 2022 under punktet <em>Orientering fra administrationen.</em></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c4d1cad6-a173-4cca-b8d3-4e34bffe5f37",
+          "DocumentId": "c4d1cad6-a173-4cca-b8d3-4e34bffe5f37"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004488",
+      "Navn": "Godkendelse af uanmeldte tilsyn med ydelser leveret i hjemmeplejen 2021",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tilsynsrapport Hjemmepleje Nord",
+          "Id": "67ec3976-1cd3-43bf-8c9e-3bdb09736442"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tilsynsrapport Karlslunde Landsby",
+          "Id": "ed64e454-9aeb-40d6-83b3-71b58d78c19e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tilsynsrapport Tune",
+          "Id": "17760b85-20cf-4aad-8a94-5fec2ff3e496"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tilsynsrapport Stranden 2021",
+          "Id": "968e8290-bc06-4b3c-8f35-15ee03895b5d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tilsynsrapport Det Danske Madhus",
+          "Id": "f5515905-ad8f-40fe-846f-1023768a8302"
+        }
+      ],
+      "Documents": null,
+      "Id": "ebbcf09d-b986-4913-b187-5648a4259ba2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "22-004488",
+      "SourceId": null,
+      "Caption": "Godkendelse af uanmeldte tilsyn med ydelser leveret i hjemmeplejen 2021",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>I sagen orienteres Sundheds- og Omsorgsudvalget om antallet af visiterede  borgere, der står på venteliste til en plejebolig eller ældrebolig i Greve  Kommune i de seneste fire år. Seneste opgørelse viser, at Greve Kommune  overholder plejeboliggarantien.</div> <h3>Indstilling</h3> <div><em>Center for Sundhed & Pleje indstiller, at orienteringen tages til  efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Sundheds- og Omsorgsudvalget orienteres årligt om antallet af visiterede  borgere, der står på venteliste til en pleje- eller ældrebolig samt, om Greve  Kommune overholder plejeboliggarantien.</div> <div> </div> <div>Greve Kommune råder over et antal ældre- og plejeboliger, som kan søges af  kommunens egne borgere og borgere fra andre kommuner. Boligerne er målrettet  ældre og borgere med et handicap, som har svært ved at klare sig i deres  nuværende bolig. Bevillingen af disse boliger sker med udgangspunkt ud fra en  konkret og individuel vurdering af den enkelte borgers samlede sociale og  sundhedsmæssige situation. Bevillingen foretages på baggrund af den politisk  godkendte kvalitetsstandard. Hvis borgeren vurderes at være berettiget til en  pleje- eller ældrebolig, bliver borgeren skrevet op på en venteliste.</div> <div> </div> <div><strong>Plejeboliger</strong><br> En plejebolig er en bolig, der ligger på et plejecenter. Greve Kommune har  anvisningsret til samtlige plejeboliger i Greve Kommune, som alle er almene  boliger. Greve Kommune råder i alt over 306 plejeboliger. 33 af disse  plejeboliger er demensboliger. Derudover findes der fire særlige boliger på  Langagergård Plejecenter, som tilbydes borgere, der f.eks. har  en udadreagerende adfærd eller et særligt behov for at blive skærmet.</div> <div> </div> <div><strong>Plejeboliggaranti</strong><br> Efter lov om almene boliger skal kommunerne tilbyde en indflytningsklar  plejebolig senest to måneder efter, at borgeren er visiteret til en sådan.  Denne forpligtelse kaldes plejeboliggarantien, hvor der er opstillet en række  betingelser. Garantien gælder også borgere fra andre kommuner, som søger en  plejebolig i Greve Kommune. Plejeboliggarantien bortfalder, hvis en borger kun  ønsker en specifik plejebolig på et specifikt plejecenter, og dermed ikke  ønsker at tage imod næste ledige bolig. Den seneste opgørelse viser, at Greve  Kommune overholder plejeboliggarantien.</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Tabel 1</strong></div>             </td>             <td valign=\"top\">             <div><strong>Marts 2022</strong></div>             </td>             <td valign=\"top\">             <div><strong>April 2021</strong></div>             </td>             <td valign=\"top\">             <div><strong>April 2020</strong></div>             </td>             <td valign=\"top\">             <div><strong>April 2019</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><strong>Antal borgere på venteliste til plejeboliger i alt</strong></div>             </td>             <td valign=\"top\">             <div>19</div>             </td>             <td valign=\"top\">             <div>22</div>             </td>             <td valign=\"top\">             <div>37</div>             </td>             <td valign=\"top\">             <div>20</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Heraf borgere fra andre kommuner</div>             </td>             <td valign=\"top\">             <div>5</div>             </td>             <td valign=\"top\">             <div>7</div>             </td>             <td valign=\"top\">             <div>13</div>             </td>             <td valign=\"top\">             <div>0</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Heraf borgere fra Greve Kommune</div>             </td>             <td valign=\"top\">             <div>14</div>             </td>             <td valign=\"top\">             <div>15</div>             </td>             <td valign=\"top\">             <div>24</div>             </td>             <td valign=\"top\">             <div>20</div>             </td>         </tr>     </tbody> </table> <div><span>Seks borgere ud af de 19 er omfattet af  plejeboliggarantien. De resterende 13 borgere er ikke omfattet </span></div> <div><strong>Ældreboliger</strong></div> <div>En ældrebolig kan bevilges til borgere, som bor i en bolig, der ikke er  mulig at indrette hensigtsmæssigt i forhold til en fysisk eller psykisk funktionsnedsættelse.  Greve Kommune råder over 245 ældreboliger. Myndighed vurderer henvendelser om  opskrivning til ældreboliger på baggrund af den politisk godkendte  kvalitetsstandard for ældre- og handicapboliger. Ældreboliger er ikke som  plejeboliger omfattet af en garanti. Det betyder, at borgerne ikke kan få  oplyst et nøjagtigt tidspunkt for indflytning i en ældrebolig.</div> <div> </div> <table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">     <tbody>         <tr>             <td>             <div><strong>Tabel 2 </strong></div>             </td>             <td>             <div><strong>Marts 2022</strong></div>             </td>             <td>             <div><strong>Marts 2021</strong></div>             </td>             <td>             <div><strong>April 2020</strong></div>             </td>             <td>             <div><strong>April 2019</strong></div>             </td>         </tr>         <tr>             <td>             <div><strong>Antal borgere på venteliste til ældreboliger i alt</strong></div>             </td>             <td>             <div> 17</div>             </td>             <td>             <div> 34</div>             </td>             <td>             <div> 45</div>             </td>             <td>             <div> 34</div>             </td>         </tr>         <tr>             <td>             <div> Heraf borgere fra andre kommuner</div>             </td>             <td>             <div> 10</div>             </td>             <td>             <div> 7</div>             </td>             <td>             <div> 11</div>             </td>             <td>             <div> 11</div>             </td>         </tr>         <tr>             <td>             <div> Heraf borgere fra Greve Kommune</div>             </td>             <td>             <div> 7</div>             </td>             <td>             <div> 27</div>             </td>             <td>             <div> 34</div>             </td>             <td>             <div> 23</div>             </td>         </tr>     </tbody> </table> <div><span>Tabellen viser, at 17  borgere står på venteliste til en ældrebolig. Der ses et fald i antallet af  borgere på venteliste til en ældrebolig sammenlignet med 202</span>1.</div> <div><strong>Et fald i antallet af borgere på venteliste til en plejeboliger og  ældreboliger</strong></div> <div>Der ses et mindre fald i antallet af borgere på venteliste til både pleje-  og ældreboliger sammenlignet med 2021. Center for Sundhed og Pleje vurderer, at  dette fald kan skyldes påvirkninger efter situationen med Covid-19. <span>Eksempelvis</span> har borgere givet  udtryk for, at de er bekymrede for at flytte i en plejebolig, fordi de frygter  at blive isolerede fra deres pårørende. Det skal bemærkes, at opgørelsen  er et øjebliksbillede, og der må forventes udsving i løbet af året.</div> <div> </div> <div><strong>Planerne for nye plejeboliger</strong></div> <div>Hvis behovet for en ældre- og en plejebolig udelukkende vurderes ud fra  antallet på ventelisten, vil det langsigtede perspektiv gå tabt. Ifølge den  lokale Befolkningsprognose for 2021 stiger antallet af 80+ årige fra  2.349 i 2021 til 4.489 i 2032. Dette svarer til en stigning på 91 % i perioden.  Med denne udvikling forventer Greve Kommune vil øge antallet af visiterede  borgere til en pleje- og ældrebolig.</div> <div> </div> <div>Greve Kommune udvider kapaciteten af pleje- og ældreboliger i de kommende  år:</div> <ul>     <li>75 nye plejeboliger på <span>Frydenhøj</span>       Allé i Hundige. Der opføres et friplejehjem, som drives af den private       leverandør <span>Altiden</span>. Greve Kommune visiterer       borgerne, men har ikke anvisningsret til boligerne. Det vil være <span>Altiden</span>, som administrerer ventelisten. Indflytning       fra sommeren 2023.</li> </ul> <ul>     <li>40 nye ældreboliger på <span>Frydenhøj</span>       Allé i Hundige. Indflytning fra sommeren 2022.</li> </ul> <ul>     <li>75 nye plejeboliger på Tune Plejehjem. Plejehjemmet       opføres som et friplejehjem, som opføres og ejes af et alment       boligselskab. Greve Kommune visiterer borgerne, men har ikke anvisningsret       til boligerne. Forventet indflytning 2025. </li> </ul> <h3>Lovgrundlag</h3> <div>Lov om social service §192 (kommunens pligt til at tilbyde en plejebolig).<br> Lov om almene boliger §54 (plejeboliggaranti).<span><br> </span>Lov om almene boliger §54a stk. 2 (plejeboliggaranti frafalder ved  opskrivning til specifik almen plejebolig eller plejehjem).</div> <h3>Økonomiske  konsekvenser</h3> <div><span>Sagen har ingen økonomiske konsekvenser.</span></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/30862fa0-d6b6-4f4d-846f-72ab54f7d172",
+          "DocumentId": "30862fa0-d6b6-4f4d-846f-72ab54f7d172"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004440",
+      "Navn": "Venteliste til pleje- og ældreboliger 2022",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "44d6bf48-40ac-4d3e-8118-3710d239ccce",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "22-004440",
+      "SourceId": null,
+      "Caption": "Venteliste til pleje- og ældreboliger 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3>Sagsprocedure<br> <span></span></h3> <div><span>Sundheds- og Omsorgsudvalget.</span></div> </div> <div> <h3>Resume<br> <span></span></h3> <div><span>I sagen  orienteres Sundheds- og Omsorgsudvalget om forløbet og erfaringer fra projektet  <em>”Nedbringelse af sygefravær i reorganiseret hjemmepleje og  sygepleje i Greve Kommune”</em> i 2020 til 2022<em>.</em></span></div> <h3>Indstilling<br> <em><span></span></em></h3> <div><em><span>Center for Sundhed & Pleje indstiller, at orienteringen tages til  efterretning</span></em><em><span>.</span></em></div> <h3>Sagsbeskrivelse<br> <span></span></h3> <div><span>Der var  med finanslovsaftalen for 2018 afsat en ansøgningspulje på i alt cirka 50 mio.  kr., som har haft til formål at støtte nye kommunale initiativer, der  systematisk skal nedbringe sygefraværet og begrænse længden af sygemeldinger i  ældreplejen</span><span>.</span></div> <div><span>  </span></div> </div> <div>Styrelsen  for Arbejdsmarked og Rekruttering (STAR) meddelte den 27. marts 2020, at Greve  Kommune fik tildelt i alt 2.249.578 kr. til projektet <em>”Nedbringelse af  sygefravær i reorganiseret hjemme- og sygepleje i Greve Kommune”.</em>  Den 25. maj 2020 godkendte Byrådet, at projektet blev igangsat efter behandling  i Social- Sundheds- og Psykiatriudvalget og Økonomiudvalget.</div> <div> </div> <div> </div> <div> <div><em><span>Kerneelementer og  krav i projektet</span></em><span><br> STAR havde på forhånd defineret en ramme, som projektet skulle tage afsæt i.</span></div> <div><span> </span></div> <div><span></span></div> <div><span> Rammen har bestået af fire forskellige kerneelementer herunder </span></div> <div><span></span></div> <div><span><em>1)</em> <em>Tiltag  til forebyggelse af arbejdsmiljøområder,</em></span></div> <div><span><em> </em></span></div> <div><span><em></em></span></div> <div><span><em>2) Systematiseret sammenarbejde mellem  ældreplejen, jobcenter og HR,</em></span></div> <div><span><em> </em></span></div> <div><span><em></em></span></div> <div><span><em>3) Anvendelse af fast-track for sygemeldte </em>og</span></div> <div><span> </span></div> <div><span></span></div> <div><span><em>4) Brug af gradvis tilbagevenden. </em></span></div> <div><span><em> </em></span></div> <div><span><em></em></span></div> <div><span><em></em>STAR stillede <span>endvidere</span> krav om udarbejdelse af en lokal analyse, som  skulle kortlægge lokale udviklingsmuligheder til at nedbringe sygefraværet.  Analysen har dannet grundlag for en strategi, som skulle godkendes politisk. Den  23. september 2020 blev Social-, Sundheds- og Psykiatriudvalget præsenteret for  resultaterne af analysen, og de gav input til strategien. Tillidsrepræsentanter  og arbejdsmiljørepræsentanter samt ledere har også været inddraget i udformning  af strategien. Strategien blev godkendt af Social-, Sundheds- og  Psykiatriudvalget den 21. oktober 2020. Strategien indeholder otte forskellige  indsatsområder, der på hver deres måde har haft til formål at nedbringe  sygefraværet og systematisere samarbejde mellem ældreplejen, HR og jobcentret omkring  sygemeldte medarbejdere. </span></div> <h3><span> </span></h3> <div><span>De otte indsatsområder har været:</span><span></span></div> <div><span></span></div> <div><span></span><em><span>1) Samspil med borgeren, </span></em></div> <div><span></span></div> <div><span><em>2) God ledelse, </em></span></div> <div><em><span></span></em></div> <div><span><em>3) Kultur og værdier,</em> </span></div> <div><span></span></div> <div><span><em>4)  Internt samarbejde,</em> </span></div> <div><span></span></div> <div><span><em>5) Eksternt samarbejde,</em> </span></div> <div><span></span></div> <div><span><em>6) Arbejdsgange og processer,</em> </span></div> <div><span></span></div> <div><em><span>7)  Fysiske rammer</span></em></div> <div><em><span> </span></em></div> <div><em><span>8) Rekruttering og fastholdelse</span></em><span>. </span></div> <h3><span> </span></h3> <div><span>Under samtlige indsatsområder har der  været opstillet målsætninger.</span></div> <div><span></span></div> <div><span>Eksterne  konsulenter fra Muusmann A/S har bistået projektets gennemførelse. Indsatser  for systematiseret samarbejde med HR og jobcenter, anvendelse af fast-track og  gradvis tilbagevenden har foregået i samarbejde med nøglemedarbejdere i HR,  jobcenter og en teamleder i jobcentret.</span></div> <div><span> </span></div> </div> <div><strong>Situationen  med COVID-19 og sygefravær</strong></div> <div><span>COVID-19 har gjort det vanskeligt at vise en sammenhæng  mellem projektets indsatser og sygefraværets udvikling. Konkret er der i  projektperioden konstateret et sygefravær, der ikke er oplevet før med udsving  over og under normalt niveau i sammenlignelige perioder. På tværs af alle hjemmeplejegruppe  var der i 2020 et gennemsnitligt sygefravær på 5,9 %. I 2021 var gennemsnittet  7,9 %, hvor december alene var på 10,3 %. I hjemmesygeplejen var  det gennemsnitlige sygefravær i 2020 på 4,1 %, og 4,5 % i 2022,  hvor december alene var på 9,1 %.</span></div> <div><span> </span></div> <div> </div> <div> <div><span><strong>Gennemførte  aktiviteter og resultater</strong></span></div> <div><span>Implementeringen er gennemført ved hjælp af PDSA-metoden (Plan-Do-<span>Act</span>-<span>Study</span>). Det betyder, at medarbejdere og ledere har  været med til at identificere og udforme konkrete aktiviteter, som  efterfølgende er blevet evalueret.</span><span> </span><span>Der er gennemført større og mindre aktiviteter  under hvert indsatsspor i projektet. Samtlige indsatser er oplistet i evalueringen.  I sagen bliver de mest væsentlige fremhævet. En fælles målsætning for alle  aktiviteter på tværs af indsatssporerne har været, at de hver især kan bidrage  til at øge trivslen og arbejdsmiljøet, for derigennem at nedbringe sygefraværet.</span></div> <div><span> </span></div> </div> <div><strong>Spor 1: Samspil med borgeren</strong></div> <div>Målet har  været at styrke medarbejdernes samspil med borgerne – herunder tonen overfor  borgerne – idet dette kan bidrage til oplevelsen af at varetage et meningsfuldt  arbejde og dermed højere trivsel blandt medarbejderne. I den forbindelse er der  udviklet og afprøvet et <em>værdikompas</em> i samarbejde med medarbejdere og  ledere i driften. Værdikompasset er et dialogredskab, der indeholder elementerne  Fokus, Faglighed og Fællesskab. De tre elementer skal forstås som opsummerende  i forhold til, hvad medarbejdere oplever som understøttende for at styrke samspillet  i mødet med borgeren. Ved at øge medarbejdernes redskaber til at møde borgeren på  en god måde, kan oplevelsen af at lykkedes i sit arbejde forstærkes, hvormed  trivsel kan højnes. Dialogredskabet understøtter, at samtalerne systematiseres,  så det kan opstilles konkrete handlinger og målsætninger i den enkelte  hjemmeplejegruppe. Muusmann har udarbejdet en simpel hvidbog til implementering  af Værdikompasset i driften. En udtalelse fra hjemmeplejen i Tune om værdikompasset: <em>”Der er sket en  udvikling i Tune, for eksempel i borgersynet, hvor vi nu taler om ”vores borgere”  og ikke ”dine borgere og mine borgere”.</em></div> <div><em> </em></div> <div><span> <strong>Spor 2: God ledelse </strong></span></div> <div><span>Målet har været at styrke ledelseskompetencer i den samlede </span><span>hjemme- og hjemmesygepleje  med fokus på at understøtte trivsel og nærvær. Der er derfor gennemført individuel  coaching af alle ledere, og den samlede ledergruppe i ældreplejen har deltaget  i workshops målrettet det tværgående samarbejde og den daglige dialog.</span><strong><span> </span></strong><span>En leder  siger på baggrund af aktiviteterne: <em>”</em></span><em><span>Vi er  blevet meget opmærksomme på at have en fælles tilgang og vide, hvad hinanden har  aftalt i hjemmet, så vi ikke bidrager til ’dem og os’”.</span></em></div> <div><em><span> </span></em></div> <div><strong>Spor 3:  Kultur og værdier</strong></div> <div>Målet har  været at styrke den sociale trivsel og kollegiale hjælpsomhed. Analysen viste,  at der var sammenhæng mellem lavt sygefravær og fokus på nærvær. Derfor har der  blandt andet været gennemført personaledage med workshop om fællesskab og  italesættelse af nærvær fremfor fravær.</div> <div> </div> <div><span><strong>Spor 4: Internt samarbejde</strong></span><em><span> </span></em></div> <div><em><span> </span></em><span>Målet har været at styrke det interne samarbejde  mellem faggrupper i Center for Sundhed & Pleje således, at de fag-faglige  kompetencer nyttiggøres på tværs af de forskellige fagligheder i hjemmeplejen  og hjemmesygeplejen. Der er gennemført temadage med medarbejdere og ledere,  hvor kompetencer og samarbejdsflader er blevet kortlagt. </span><span>Lederne i hjemme- og hjemmesygeplejen vurderer, at der som  følge af projektet både er lokale tegn på forbedringer i kendskab til og  samarbejde med andre fagligheder.</span></div> <div><span> </span></div> <div><span><strong>Spor 5: Eksternt samarbejde</strong></span><em><span> </span></em></div> <div><em><span> </span></em><span>Målet har  været <span>at styrke det tværgående samarbejde mellem  jobcenter, HR og driftsenhederne i hjemme- og hjemmesygeplejen. Der har blandt  andet været gennemført workshops mellem de tre fagcentre til rolleafklaring i  forbindelse med håndtering af sygemeldte medarbejdere og anvendelse af fast-track forløb, og HR-konsulent har  gennemført opsøgende indsats med konkret sparring med lederne. Leder siger om indsatsen  fra HR: <em>”Det er hjælpsomt, at HR er aktivt opsøgende – for så ved jeg, at  det fokus vil være der, og jeg kan så trække de medarbejdere frem, hvor der kan  være udfordringer”.</em></span></span></div> <div><span><em> </em></span></div> <div><span><em><strong> </strong></em></span><span><strong>Spor 6: Processer og arbejdsgange </strong></span></div> <div><em><span> </span></em><span>Målet  har været at sikre en højere grad af erfaringsudveksling og idégenerering på  tværs af driftsenheder, der kan styrke den samlede opgavevaretagelse for  medarbejdere og ledere. Aktiviteter i spor 6 har i stor udstrækning indgået i  forbindelse med aktiviteter relateret til spor 3 (kultur og værdier) og spor 2  (god ledelse). Sporet har således ikke haft en egentlig selvstændig  aktivitetsplan.</span></div> <div><span> </span></div> <div><span><strong>Spor 7: Fysiske rammer</strong></span><em><span> </span></em></div> <div><em><span> </span></em><span>Målet  har været at medarbejdere i hjemmeplejen i Tune oplever, at de fysiske rammer  omkring deres arbejdsplads er understøttende for deres evne til at varetage et  meningsfuldt arbejde. Byrådet </span><span>afsatte i  projektperioden midler til en omfattende renovering af de fysiske rammer i  Tune. Målet blev således opnået uden for projektets regi. Leder siger om  renovering: <em>”Man kan mærke, at der er plads – der er ikke så mange  medarbejdere, der vrisser eller tysser eller viser et irriteret kropssprog. Man  kan mærke, at folk kan trække sig lidt og bruge stillerum til stedfortræder, og  man kan mærke, at stemningen er blevet markant bedre”.</em></span></div> <div><span><em> </em></span></div> <div><span><strong>Spor 8: Rekruttering og fastholdelse </strong></span></div> <div>Målet har været at udvikle indsatserne for on-boarding af  nye medarbejdere. Der er blandt andet blevet udviklet og afprøvet en ny fælles  introduktion for nye medarbejdere. I introduktionen møder de nye medarbejdere  deres kollegaer fra visitationen, Træningsenheden, rehabilitering og ledere.  Leder siger om introduktion af nye medarbejdere<em>: <span>”Jeg  havde to sygeplejersker med på første møde, der præsenterede, og de fik helt  vildt meget ud af det. Selve formatet er godt; at det er medarbejder til  medarbejder, der fortæller om hvordan organisationen er skruet sammen. Det  bliver virkelighedsnært”.</span></em></div> <div><em><span> </span></em></div> <div><span><strong>Evalueringen  af projektet </strong></span></div> <div><em><span> </span></em><span>Muusmann har gennemført evalueringen af projektet ud fra forskellige datakilder  herunder interviews med ledere, projektmedarbejdere, medarbejdere i ældreplejen  samt observationer fra personalemøder. Evalueringen fra Muusmann er vedlagt som  bilag til sagen.</span></div> <div> </div> <div> <h3>Økonomiske konsekvenser<br> <span></span></h3> <div><span>Sagen har  ingen økonomiske konsekvenser.</span></div> <h3>Tidsplan<br> <span></span></h3> <div><span>Projektet  skulle efter planen have været gennemført fra den 1. april 2020 til og med den 31.  december 2021, men opstarten blev forsinket på grund af situationen med  COVID-19 pandemien. Efter anmodning fra Greve Kommune, godkendte STAR den 21.  august 2020, at projektperioden blev forlænget med to måneder. Projekter blev  derfor afsluttet den 28. februar 2022. Greve Kommune skal senest den 31. maj 2022  indsende slutrapport og revisorpåtegnet regnskab til STAR.</span></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f96497f9-afcb-4fe5-bf04-b69554b8c55c",
+          "DocumentId": "f96497f9-afcb-4fe5-bf04-b69554b8c55c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004647",
+      "Navn": "Evaluering af projekt \"Nedbringelse af sygefravær i reorganiseret hjemmepleje og hjemmesygepleje\" i 2020-2022",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Evaluering af MUUSMANN",
+          "Id": "685e52fc-fc00-4933-90a5-b5197aa19ffc"
+        }
+      ],
+      "Documents": null,
+      "Id": "a0496dd0-1793-4d9a-a123-6df3bb3818c2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "22-004647",
+      "SourceId": null,
+      "Caption": "Evaluering af projekt \"Nedbringelse af sygefravær i reorganiseret hjemmepleje og hjemmesygepleje\" i 2020-2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3>Sagsprocedure</h3> </div> <div>Sundheds- og Omsorgsudvalget.</div> <div> </div> <div> <h3>Resume</h3> </div> <div>I sagen skal Sundheds- og Omsorgsudvalget beslutte, om udmøntningen af  midler til ældre i 2022 fra budgetforlig 2021.</div> <div> </div> <div> <h3>Indstilling</h3> </div> <div><em>Center for Sundhed & Pleje indstiller, at anbefaling om anvendelse  af midler til ældre i 2022 fra budgetforlig 2021 godkendes.</em></div> <div> </div> <div> <h3>Sagsbeskrivelse</h3> <div>I budgetforliget 2021 blev der afsat årlige midler til at styrke trivslen  blandt ældre borgere. Byrådet har besluttet, at Sundheds-  og Omsorgsudvalget skal udmønte midlerne. I aftaleteksten står der, at midlerne  blandt andet gå til tiltag, som modvirker ensomhed. </div> <div> </div> <div>I 2021 blev midlerne  anvendt til indkøb af nye tovejs nødkald, nye TV på rehabiliteringscentret <span>Hedebo, driftsudgifter til nødkald</span> samt lønmidler til en kronikervejleder i Træningsenheden. Der blev anvist 278.000 kr. til at ansætte en kronikervejleder og 23.000 kr. til driftsudgifter til nødkald, og midlerne blev givet varigt. Kronikervejlederen viderefører de gode erfaringer fra projektet <i>Videreudvikling og styrkelse af indsatser i kommunerne med særligt fokus på ældre medicinske patienter</i>, hvor der er målrettet fokus på at styrke kommunens rehabiliteringsindsats overfor borgere med type-2 diabetes, præ-diabetes, KOL og/eller en hjertekarsygdom. Erfaringerne fra det første år viser blandt andet, at kronikervejlederens funktion har gjort, at borgerne kommer hurtigere til en afklarende samtale efter de er blevet henvist af lægen.</div> <div> </div> <div> Kronikervejlederen har derudover en koordinerende funktion i form af at have et helhedsorienteret blik på sundhed, så hele borgerens livssituation tages med i betragtning og ikke kun den kroniske lidelse. Forløb med kronikervejlederen tager som udgangspunkt 12 uger, og følger dermed de nationale retningslinjer for forløb for kronikere.</div> <div> </div> </div> <div>I 2022 er der i alt 592.000 kr. til at styrke trivslen blandt ældre borgere. Fratrukket varige midler til en kronikervejleder og driftsudgifter til nødkald er der i alt 291.000 kr. tilbage, som Sundheds- og Omsorgsudvalget skal godkende anvendelsen af. </div> <div> </div> <div><em>Center for Sundhed & Pleje anbefaler indkøb af nye tovejs nødkald på plejecentrene</em><br> Det seneste år er der opstået tiltagende udfordringer med de  eksisterende nødkald på Strandcentret, Lokalcenter Møllehøj og Nældebjerg plejecentre. Udfordringerne  består i, at løsningen oprindeligt er en teknologi, som anvendes i hjemmeplejen.  På tidspunktet for indkøb af disse nødkald fandtes der ikke bedre teknologi.  Teknologien er i dag blevet bedre, og det vil øge borgerens tryghed på  plejecentrene samt forbedre arbejdsmiljøet for medarbejderne. Administrationen  anbefaler derfor, at der med midlerne i 2022, indkøbes nye tovejs nødkald til i  alt 221 boliger på henholdsvis Nældebjerg, Lokalcenter Møllehøj og Strandcentret plejecentre. I 2021 blev der anvist 23.000 kr. varigt hvert år til driftsudgifter.</div> <div> </div> <div>Administrationen har været i dialog med Access Technology, som Greve Kommune  har indgået en indkøbsaftale med blandt andet om levering af nødkald i  ældreplejen. De har mundtligt tilkendegivet, at de kan levere nye tovejs  nødkald indenfor den økonomiske ramme, der er til rådighed. Et konkret tilbud er  ikke modtaget, før sagen bliver behandlet. Det skal ses i sammenhæng med evt. udbud af området.</div> <div> </div> <div>Hvis Sundheds- og Omsorgsudvalget følger anbefalingen fra Center for Sundhed  & Pleje, vil det blive undersøgt, om hvorvidt det vil være hensigtsmæssigt  at gennemføre et udbud i forbindelse med indkøb af nye tovejs nødkald.</div> <h3>Økonomiske konsekvenser</h3> Midlerne er optaget på budget 2022. Midler på 278.000 kr. til ansættelse af en kronikervejleder, og driftsmidler til tovejs nødkald på 23.000 kr. er givet varigt fra 2021. </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e93f35bd-9d0c-45b0-996e-a1e53114a31f",
+          "DocumentId": "e93f35bd-9d0c-45b0-996e-a1e53114a31f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004709",
+      "Navn": "Anvendelse af midler til ældre i 2022 fra budgetforlig 2021",
+      "Punktnummer": "13",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a9783ee0-ad8c-42b4-9fbf-1c800ea44145",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "22-004709",
+      "SourceId": null,
+      "Caption": "Anvendelse af midler til ældre i 2022 fra budgetforlig 2021",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Ingen orienteringspunkter.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3><span>Indstilling</span></h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Administrationen orienterer om: </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/25898fbb-3de2-49ae-af68-35559425a829",
+          "DocumentId": "25898fbb-3de2-49ae-af68-35559425a829"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014441",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "1b042ed2-aa5b-4fc4-86db-8fca7a777a17",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "21-014441",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Ingen orienteringspunkter.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget</div> <h3><span>Resume</span></h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3><span>Indstilling</span></h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3516778f-2069-4b1b-9a92-b9f9ebc18b5c",
+          "DocumentId": "3516778f-2069-4b1b-9a92-b9f9ebc18b5c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014447",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "15",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b69b7166-7927-4125-95c9-69e54c1404bf",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "21-014447",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>I sagen gives et overblik over Sundheds- og Omsorgsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Sundheds- og Omsorgsudvalgets kalender er vedlagt.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c9618b79-8649-4e1a-a4af-65e94c01f38f",
+          "DocumentId": "c9618b79-8649-4e1a-a4af-65e94c01f38f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014442",
+      "Navn": "Sundheds- og Omsorgsudvalget - mødekalender 2022",
+      "Punktnummer": "16",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Sundheds- og Omsorgsudvalgets kalender 2022 - april 2022",
+          "Id": "afab4824-b7d8-452d-9f82-23e45cc15283"
+        }
+      ],
+      "Documents": null,
+      "Id": "3bce3d96-f792-44e2-af8b-1db542831a61",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "16",
+      "Sorting": 16,
+      "IsOpen": false,
+      "CaseNumber": "21-014442",
+      "SourceId": null,
+      "Caption": "Sundheds- og Omsorgsudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Elektronisk underskriftsark.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e2bb2e36-1ca6-4c8d-a9e8-e0f665b06b30",
+          "DocumentId": "e2bb2e36-1ca6-4c8d-a9e8-e0f665b06b30"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014446",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "17",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "1cbbc89e-e784-41a0-a9b6-7897b2612658",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+      "Number": "17",
+      "Sorting": 17,
+      "IsOpen": false,
+      "CaseNumber": "21-014446",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "f586054c-50bb-40ac-8b4f-6c32307eb77f",
+    "Navn": "Sundheds- og Omsorgsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-04-25T15:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-04-25T15:00:00+02:00",
+    "Sted": "Mødelokale 6+7",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "6e868fdc-e399-45f7-b2b8-dfbf49a16b95",
+  "Lydfiler": null
+}

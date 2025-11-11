@@ -1,0 +1,163 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for ekstraordinært møde den 12. december 2022.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes.</em></div> <div><em><br> </em></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f20c1d58-a9d0-4909-8630-901b686fe3c9",
+          "DocumentId": "f20c1d58-a9d0-4909-8630-901b686fe3c9"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014454",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9a6db921-7eca-4187-b4e8-3961cfa1d618",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "73503c0b-13dd-4398-a637-4e92c506216b",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014454",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget anbefaler, at de nuværende tiltag videreføres i 2023. Udvalget ønsker at der tages løbende stilling.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3><span>Resume</span></h3> <div>Byrådet besluttede den 3. oktober, at der skulle gennemføres tre energisparetiltag i Greve Svømmehal til udgangen af 2022. Tiltagene var at slukke for saunaen, samt at varmen i de to største bassiner og luften reduceres. Byrådet skal beslutte om der ønskes en videreførsel af tiltagene i 2023. </div> <h3><span>Indstilling</span></h3> <div><em>Administrationen indstiller, at Byrådet beslutter, om energisparetiltag i Greve Svømmehal helt eller delvist skal videreføres i 2023. </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Byrådet besluttede den 3. oktober at iværksætte tre energisparetiltag i Greve Svømmehal til udgangen af 2022:</div> <div>- Saunaerne lukkes</div> <div>- Temperaturen i de to største bassiner reduceres</div> <div>- Lufttemperaturen i svømmehallen reduceres</div> <div> </div> <div>Tiltagene er beskrevet i vedhæftede notat til Økonomiudvalget fra oktober 2022. </div> <div> </div> <div>Det som taler for at videreføre tiltagene er, at KL og staten fortsat anbefaler, at der tænkes i energibesparende tiltag på de offentlige bygninger for at undgå situationer med forsyningsmangel. For eksempel arbejdes der stadig med at sikre nødberedskab som forberedelse, hvis der skulle opstå de såkaldte \"brownouts\", hvor der på skift lukkes kontrolleret ned for strømmen i 2 timer af gangen i geografiske områder. Samtidig er priserne på energi fortsat høje og der forventes fortsat et merforbrug på energi i 2023.</div> <div> </div> <div>Det som taler imod er, at der på nuværende tidspunkt sker en løbende nedregulering af energipriserne, som forventeligt endnu ikke har haft sin fulde effekt. </div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Lukning af saunaerne forventes at give en helårsbesparelse på 168.000 kr.</div> <div> </div> <div>Reduktion af varmen i de to store bassiner og rumtemperaturen forventes at give en besparelse på cirka 60.000 kr. om året.</div> <div> </div> <div>Begge priser er dog afhængigt af den aktuelle pris for energien, men kan give en ide om størrelsesorden.</div> <h3>Kommunikation</h3> <div>Afhængig af beslutningen vil der kommunikeres ud til svømmehallens brugere. </div> <h3><span>Tidsplan</span></h3> <div>Tiltagene kan iværksættes med det samme.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f6679d62-b635-436b-a4e8-80c97fbf2c67",
+          "DocumentId": "f6679d62-b635-436b-a4e8-80c97fbf2c67"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011409",
+      "Navn": "Videreførsel af energitiltag i Greve Svømmehal",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Besparelser på energiforbrug i Greve Svømmehal",
+          "Id": "c3a49927-c101-442e-85c5-ac13c35bba02"
+        }
+      ],
+      "Documents": null,
+      "Id": "aaaa2bc1-4d6d-4208-b0b1-7819a2e6b77b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "73503c0b-13dd-4398-a637-4e92c506216b",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-011409",
+      "SourceId": null,
+      "Caption": "Videreførsel af energitiltag i Greve Svømmehal",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div> <div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/227f5004-8ce7-4f22-ad23-21aed2384805",
+          "DocumentId": "227f5004-8ce7-4f22-ad23-21aed2384805"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014460",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "77f5c46b-7936-421d-b696-5c79bc077e33",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "73503c0b-13dd-4398-a637-4e92c506216b",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-014460",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "6648ace3-ba36-40bf-95ea-bd516b6bf247",
+    "Navn": "Klima-, Teknik- og Miljøudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-12-12T15:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-12-12T15:00:00+01:00",
+    "Sted": "Biblioteket",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "73503c0b-13dd-4398-a637-4e92c506216b",
+  "Lydfiler": null
+}

@@ -1,0 +1,679 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 24. april 2024.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/697293c4-1ef1-49cb-8ec8-9d3f8f1d8f6f",
+          "DocumentId": "697293c4-1ef1-49cb-8ec8-9d3f8f1d8f6f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014482",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "be815c92-1d57-4d1f-8a90-dfd5c1f56364",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014482",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning. <br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur og Fritidsudvalget besøger Portalen, Greve Teater og Musikhus. Besøget er planlagt efter Kultur- og Fritidsudvalgets ønske om at besøge eller få besøg af  Greve Kommunes foreninger og kulturinstitutioner i forbindelse med udvalgsmøder i 2024.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget tager besøget ved Portalen til efterretning.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><em><strong>Mødets indhold</strong></em></p>\n<p>Kultur - og Fritidsudvalget vil ved besøget få en kort rundvisning i nogle af Portalens faciliteter. Under rundvisningen vil udvalget blive orienteret om de forskellige aktiviteter der er i Portalen samt udviklingsplaner for fremadrettede aktiviteter.</p>\n<p><em><strong>Praktik</strong></em></p>\n<p><em>Tidspunkt</em></p>\n<p>Kl. 16.30-17.00. I forlængelse af oplæg om Portalen afholder Kultur- og Fritidsudvalget sit møde i Portalen.</p>\n<p><em>Sted</em></p>\n<p>Portalen, Greve Teater og Musikhus, Portalen 1, 2670 Greve. </p>\n<p><em>Tilstede ved besøget</em></p>\n<p>Tilstede ved besøget er direktør Ulrik Münster-Swendsen.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f3e2eb37-fbdb-4f46-84ba-43b8247102db",
+          "DocumentId": "f3e2eb37-fbdb-4f46-84ba-43b8247102db"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003966",
+      "Navn": "Besøg i Portalen",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "73137cb0-6d9d-46fc-b3d6-2cc6e74ba9ce",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "24-003966",
+      "SourceId": null,
+      "Caption": "Besøg i Portalen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1. Udvalget drøftede sagen.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget, Sundheds- og Omsorgsudvalget, Social-\nog Handicapudvalget, Skole-, Børne- og Ungeudvalget, Plan- og Tryghedsudvalget, Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Nærværende sag danner rammen for fagudvalgenes orientering og drøftelse i\nforhold til Budget 2025-28 frem mod Byrådets temamøde den 22. maj 2024. I sagen\nforelægges som baggrundsmateriale kan/skal-kataloget, oversigt over tidligere\nforeslåede effektiviseringsforslag samt opmærksomhedspunkter fra Byrådets\ntemamøde den 17. april 2024. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at </em></p>\n<ol>\n    <li><em>fagudvalget drøfter, hvordan det samlede finansieringsbehov kan tilvejebringes med særlig fokus på fagudvalgets område</em></li>\n    <li><em>Byrådet tager tilbagemelding fra fagudvalgene til efterretning </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Budgetprocessen for 2025-28 er på mange områder godt i gang.\nBudgetanalyserne er i gang, arbejdet med kan/skal-kataloget og nye\neffektiviseringsforslag <span class=\"grame\">pågår</span> i administrationen og der kigges på niveauet for tekniske\nrettelser. Økonomiudvalget og Byrådet har desuden på møderne henholdsvis\nden 28. februar (pkt. 4) og 13. marts 2024 (pkt. 7) fået forelagt sag\nvedrørende Budget 2025-28 - herunder status og måltal.</p>\n<p>I forhold til udarbejdelsen af de samlede effektiviseringsforslag anbefales det, at udvalget orienterer sig i nedenstående samt det vedlagte baggrundsmateriale og kommer med konkrete input og forslag til, hvordan det samlede finansieringsbehov kan udmøntes.</p>\n<p><em><strong>Status og finansieringsbehov</strong></em></p>\n<p>På nuværende tidspunkt forventer administrationen, at der er et samlet finansieringsbehov\ni omegnen af 40 mio. kr. i 2025. Finansieringsbehovet skal dække forventede\nmerudgifter, som vurderes at påvirke 2025, tekniske rettelser og eventuelle\nudvidelsesforslag. Der henvises til sag på Byrådsmødet den 13. marts 2024 (pkt. 7) for\nnærmere uddybning og beskrivelse.</p>\n<p>Det er vigtigt at understrege, at budgetprocessen stadig er på et tidligt\nstadie og der er flere usikkerheder og uafklarede forhold, som endnu ikke er på\nplads.</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Økonomiaftalen for 2025</li>\n    <li>Beregning af konsekvensen af den demografiske udvikling</li>\n    <li>Udvikling i pris- og lønniveau</li>\n    <li>Skattegrundlag og indtægt</li>\n    <li>Endeligt niveau for tekniske rettelser</li>\n    <li>Udvidelsesforslag samt mulige effektiviseringsforslag</li>\n</ul>\n<p>Det nuværende bud på måltal i forhold til finansieringsbehov i 2025 er\nderfor usikkert, men der er behov for at finde effektiviseringsmuligheder.</p>\n<p>Inspiration til nye effektiviseringsforslag kan findes i <span class=\"spelle\">Benchmarkanalysen</span> fra 2023,\nOplæg fra Råderumsugen 2023, Kommunale effektiviseringstiltag fra KL´s idebank for 2024, Regnskab 2023 og BO0 2024, som sammen med de enkelte\nkan/skal-kataloger danner grundlag for beskrivelsen af nye\neffektiviseringsforslag.</p>\n<p><em><strong>Kan/skal-kataloget</strong></em></p>\n<p>Byrådet besluttede på møde den 30. januar 2023 (pkt. 14), at der som en del\naf budgetprocessen for 2024-27 skulle udarbejdes en budgetanalyse med\nbeskrivelse af kommunale kan- og skal-opgaver, herunder regler for fastsættelse\naf tilskud og nuancer i forhold til skal-opgaver. Der blev for hvert fagudvalg\nudarbejdet et overordnet katalog over de enkelte budgetposter inddelt i tre\noverordnede kategorier, jf. nedenfor, som blev fremlagt sidste år, jf.\nByrådsmødet den 15. maj 2023 (pkt. 14).</p>\n<p>        A. Lovbestemt - Objektive kriterier, ekstern\nvurdering eller afledt effekt</p>\n<p>        B. Lovbestemt - Konkret intern vurdering af\nbehov eller fastlæggelse af serviceniveau</p>\n<p>        C. Ikke lovbestemt - Fri intern fastlæggelse af\nserviceniveau</p>\n<p>Kataloget er udarbejdet med henblik på at give overblik og nogle\nbudgetposter omfatter derfor flere forskellige opgaver. <span>Kataloget er blevet opdateret med </span>udgangspunkt i\nBudget 2025 og der er udarbejdet en udgave pr. fagudvalg. Samtlige kataloger er\nvedlagt denne sag, så det er muligt for fagudvalgene både at dykke ned i eget\nkatalog og også se de øvrige kataloger til orientering og inspiration.</p>\n<p>Det indstilles, at fagudvalgene drøfter kan/skal-kataloget indenfor eget område og kommer med forslag til, hvordan det samlede finansieringsbehov kan tilvejebringes.<span></span></p>\n<p><em><strong>Tidligere foreslåede effektiviseringsforslag</strong></em></p>\n<p>På baggrund af ovenstående er det administrationens vurdering, at der også\ner behov for at kigge på tidligere foreslåede effektiviseringsforslag, jf.\nnedenfor. </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Effektiviseringsforslag med gradueringsmuligheder i\n    forbindelse med Budget 2024-27</li>\n    <li>Øvrige effektiviseringsforslag fra tidligere\n    budgetprocesser, som ikke er blevet vedtaget og implementeret</li>\n</ul>\n<p>Der er vedlagt en samlet oversigt over de umiddelbare forslag, som samlet\nset summer op til ca. 35 mio. kr. i 2025 og ca. 56 mio. kr. i 2026 og\nfrem. Administrationen er i gang med at gennemgå og kvalificere samtlige\nforslag i forhold til at vurdere, om det stadig vil være muligt at\nimplementere. Der er også et vis overlap mellem en række af forslagene,\nhvorved ikke alle forslag vil kunne implementeres med de angivne beløb og\nbeløbene vil ydermere skulle omregnes til 2025-niveau.</p>\n<p>I forhold til budgetarbejdet og de samlede  effektiviserings- og besparelsesforslag (både de nye og tidligere) er der aftalt en bred MED-inddragelse i organisationen. Det gælder både i forbindelse med selve udarbejdelsen af de konkrete forslag, ligesom der i skabelonerne nu også er mulighed for indsættelse af kommentarer fra MED, og i forbindelse med arbejdet med budgetanalyserne. HovedMED inviteres ligeledes med til temamøder med Byrådet og bliver derudover løbende inddraget og orienteret på diverse øvrige møder.</p>\n<p><em>Opmærksomhedspunkter fra Byrådets temamøde den 17. april 2024</em></p>\n<p>I forhold til den samlede tids- og procesplan er der temamøde med Byrådet og <span class=\"spelle\">HovedMED</span>\nden 17. april 2024 med fokus på seneste status på kommunens økonomi for det\nkommende budgetår. Indholdet på temamødet har fokus på nuværende udfordringer samt forventede rammer og finansieringsbehov i 2025, effektiviserings- og besparelsesforslag, budgetanalyser og andre sager med konsekvenser for økonomien i 2025-28 - herunder bl.a. befolkningsprognosens betydning for forventningerne til 2025. Den nuværende velfærdsborgersamling og inddragelse i et bredere perspektiv berøres også.</p>\n<p><em><strong>Videre proces</strong></em></p>\n<p>Efter behandling i fagudvalgene vil input blive drøftet i både\nØkonomiudvalget og på ordinært møde i Byrådet. Der er desuden planlagt temamøde med\nByrådet den 22. maj 2024 primært omkring anlæg, men hvor fagudvalgenes konklusioner eventuelt også kort vil blive opsummeret. </p>\n<p>Der gælder desuden i hovedtræk nedenstående tidsplan:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>3. juni: Der åbnes op for budgetspørgsmål</li>\n    <li>12. og 26. juni: Status på budgettet på henholdsvis ØU og BY</li>\n    <li>21. august: Temamøde om direktionens budgetforslag</li>\n    <li>31. august og 4. september: Workshops om budgettet</li>\n    <li> 6. september: Frist for modtagelse af budgetspørgsmål</li>\n    <li>12. og 13. september: Budgetforhandlinger</li>\n    <li>19. og og 25. september: Frist for politiske ændringsforslag (den 19. september for forslag, der medgår i publiceringen) </li>\n    <li>26. september: Frist for politiske underændringsforslag</li>\n    <li>25. september og 2. oktober: 2. behandling af budgettet på henholdsvis ØU og BY </li>\n</ul>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har i sig selv ingen økonomiske konsekvenser.</p>\n<h4>Øvrige konsekvenser</h4>\n<p>Sagen har i sig selv ingen øvrige konsekvenser.</p>\n<h4>Kommunikation</h4>\n<p>Hvis der efter drøftelserne er behov for det, kommunikeres der eventuelt ud\ntil relevante parter.</p>\n<h4>Tidsplan</h4>\n<p>Der henvises til den overordnede tidsplan for Budget 2025-28.</p>\n<h4>Øvrige forhold</h4>\n<p>Der er ingen øvrige forhold.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22/04/2024 Beskæftigelses- og Erhvervsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Udvalget drøftede sagen og konstaterer, at en markant del af udvalgets budget er omfattet af lovgivningsbestemte indsatser og omfattet af budgetgarantien. </p>\n<p>Greve Kommune klarer sig generelt bedre end landsgennemsnittet på beskæftigelsesområdet og med en statslig refusion til kommunerne under ét betyder det, at Greve Kommune generelt profiterer økonomisk af en beskæftigelsesindsats der er bedre end landsgennemsnittet. </p>\n<p>Udvalget ser således et bidrag til finansieringsudfordringen igennem at fastholde en beskæftigelsesindsats bedre end landsgennemsnittet og konkret ved at se på udgifterne til aktiveringsindsatsen. Udvalget byder derfor ind med et servicereduktions- og effektiviseringsforslag inden for den kommunale beskæftigelsesindsats. Endelig ønsker udvalget en sag på et kommende møde vedr. de lovgivningsmæssige rammer for supplerende brøkpension.</p><br>\r\n\r\n<u>22/04/2024 Sundheds- og Omsorgsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Udvalget drøftede finansieringsbehovet med bemærkning om, at:</p>\n<p> - flere ældre på dialogmøde med Ældre Sagen oplevede, at der ofte smides bleer ud. Udvalget ønsker, at administrationen undersøger om kropsbårne hjælpemidler og sygeplejeartikler kan bevilges mere hensigtsmæssigt i forhold til behov.</p>\n<p>- administrationen redegør for, hvordan fordelingen af indsatser i hjemmeplejen er i forhold til 1) personlig pleje og 2) praktisk hjælp fordelt i procent og budget. </p>\n<p>- administrationen fremlægger opgørelse over tomgangsleje på boliger i Greve Kommune</p>\n<p>Seniorrådets bemærkninger blev taget til efterretning. Formanden inviterer Seniorrådet til et møde i juni omkring budget 2025.</p><br>\r\n\r\n<u>22/04/2024 Social- og Handicapudvalget</u><br>\r\n1) Udvalget drøftede sagen og konstaterede, at det er svært at bidrage til finansieringsbehovet inden for udvalgets budget- og ansvarsområde. Udvalget ønsker dog, at se nærmere på området ”Merudgifter og tabt arbejdsfortjeneste” for at se på, om det er muligt i højere grad at forebygge samt hvorvidt der kan hjemtages aktivitets- og samværstilbud og dermed nedbringe udgifterne på området.<br>\r\n\r\n<u>23/04/2024 Skole-, Børne- og Ungeudvalget</u><br>\r\n1. Udvalget drøftede materialet til sagen, og ønsker I den sammenhæng at få fremsendt en oversigt over kontoplanerne på det samlede udvalgsområde.<br>\r\n\r\n<u>23/04/2024 Plan- og Tryghedsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">1. Udvalget ønsker en kontoplan for alle linjer i udvalgets budget sat op i Excel og pivottabel.</p>\n<p>2. Anbefales.</p>\n<p>(C) undlader.</p>\n<p> </p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ce6bc577-7449-4cbb-acce-a045db413b64",
+          "DocumentId": "ce6bc577-7449-4cbb-acce-a045db413b64"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-000963",
+      "Navn": "Budget 2025-28 - orientering og drøftelse",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tidligere effektiviseringsforslag",
+          "Id": "6dea98aa-578f-48cb-940a-cee10a17b891"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "BEU - udvalgsbeskrivelse 2024",
+          "Id": "1c3af422-2187-4f2a-b330-918d1caebb92"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "KFU - udvalgsbeskrivelse 2024",
+          "Id": "6da8fa6f-f372-416e-8bb1-96353201e4a0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "KTMU - udvalgsbeskrivelse 2024",
+          "Id": "414f07da-a92e-4c29-ac2a-2570de78278f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "PTU - udvalgsbeskrivelse 2024",
+          "Id": "de0d63c4-ba4a-4ccc-8ac9-cc5aecbe6748"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SBU - udvalgsbeskrivelse 2024",
+          "Id": "2357319d-78b2-44e4-9d1a-936bf66c2e1d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SHU - udvalgsbeskrivelse 2024",
+          "Id": "0fecea88-f3a4-4f46-8392-75e16b99bde1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SOU - udvalgsbeskrivelse 2024",
+          "Id": "142dfbbe-c35f-4979-9eeb-dd1d11da7da4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "ØU - udvalgsbeskrivelse 2024",
+          "Id": "f7a96ac6-9187-4b8c-bde9-306855467b43"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - KFU",
+          "Id": "fc4725d6-0db2-49b6-9bb1-b498e2fccf53"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - KTMU",
+          "Id": "16a58a90-e966-4c48-8bc2-df2ec88195a4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - PTU",
+          "Id": "ffeaa7d7-7daa-4606-94a6-714489b1908d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SBU",
+          "Id": "043a10eb-3129-430f-b4ea-b87c9bc2efb3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SHU",
+          "Id": "f9e25fd6-0087-403b-9e91-54006696f20b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SOU",
+          "Id": "368ae214-e6c3-4464-a810-221577464713"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - ØU",
+          "Id": "807fd509-76aa-4c0d-94f9-c196f83ac1a6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - BEU",
+          "Id": "154a7240-d84a-481a-a90b-4e7ee7c686e1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar - Budget 2024-27",
+          "Id": "2975d451-8701-4764-b0f5-fb01e1ee1232"
+        }
+      ],
+      "Documents": null,
+      "Id": "2ca7946e-55ec-485b-a929-791f1b7b432e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "24-000963",
+      "SourceId": null,
+      "Caption": "Budget 2025-28 - orientering og drøftelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Udvalget evaluerede borgermødet.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur- og Fritidsudvalget har den 4. april 2024 afholdt borgermøde for alle foreninger i Greve Kommune for at drøfte nyt folkeoplysningsudvalg og motivation af frivillige i foreninger.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at Kultur- og Fritidsudvalget evaluerer borgermødet. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kultur- og Fritidsudvalget har afholdt borgermøde i Greve Borgerhus den 4. april 2024, hvor alle foreninger i Greve Kommune var inviteret.</p>\n<p class=\"p3\">På borgermødet blev der drøftet to forskellige temaer:</p>\n<ol>\n    <li>Etablering at et nyt folkeoplysningsudvalg i forlængelse af forligsaftalen 2024.</li>\n    <li>Rekruttering og fastholdelse af frivillige i foreninger, hvor IngerFair var inviteret til at komme og fortælle om de udfordringer mange foreninger står med i dag</li>\n</ol>\n<p>På borgermødet deltog ca. 50 borgere fra forskellige foreninger i Greve Kommune.</p>\n<h4>Lovgrundlag</h4>\n<p>Folkeoplysningsloven.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/55ef34e3-f885-45aa-bc0b-90cec949b03b",
+          "DocumentId": "55ef34e3-f885-45aa-bc0b-90cec949b03b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-004216",
+      "Navn": "Evaluering af borgermøde i Greve Borgerhus",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b3881860-1f82-4e5e-9076-2305d1391d51",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "24-004216",
+      "SourceId": null,
+      "Caption": "Evaluering af borgermøde i Greve Borgerhus",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Ikke godkendt</p>\n<p>2. Orienteringen taget til efterretning.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget, Kultur- og Fritidsudvalget og Klima-, Teknik-\nog Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>Sundheds- og Omsorgsudvalget godkendte på mødet den 13. november 2023, at\nadministrationen undersøger mulighederne for at afholde Dialogmøde 2024 som et\nfælles arrangement i samarbejde med <span class=\"spelle\">FrivilligCenter</span>\nGreve. Sundheds- og Omsorgsudvalget, Klima-, Teknik- og Miljøudvalget og\nKultur- og Fritidsudvalget skal beslutte, om Dialogmøde og Frivillig <span class=\"grame\">Fredag</span> 2024 skal afholdes som et fælles arrangement samt\norienteres om mulighed for ændring i målgruppen for Frivillighedsprisen, som\nfølge af vedtagelse af barnets lov.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<p><em>1) at Dialogmøde 2024 afholdes som et fælles arrangement sammen med\nFrivilligCenter Greve og Frivillig Fredag og programmet for dagen godkendes.</em></p>\n<p><em>2) at orienteringen om at Frivillighedsprisen også kan tildeles til\nfrivillige foreninger, organisationer og enkeltpersoner indenfor børne- og\nungeområdet tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Sundheds- og Omsorgsudvalget godkendte på mødet den 13. november 2023 (pkt.\n4), at administrationen undersøger mulighederne for at afholde Dialogmøde 2024\nsom et fælles arrangement i samarbejde med <span class=\"spelle\">Frivilligcenter</span>\nGreve, og fremlægger en sag i foråret 2024 i Sundheds- og Omsorgsudvalget med\nforslag til program for arrangementet. Hvert år inviterer Sundheds- og Omsorgsudvalget udvalgte foreninger og klubber til Dialogmøde med erfaringsudveksling, her bliver Frivillighedsprisen uddelt til en borger, der yder en stor frivillig indsats. Hvert år afholdes også Frivillig Fredag, som anerkender de frivilliges indsats.</p>\n<p><em><strong>Om Dialogmødet</strong></em></p>\n<p>Dialogmødet afholdes hvert år som et\narrangement mellem Sundheds- og Omsorgsudvalget og inviterede foreninger fra\nGreve Kommune, hvor der har været et overordnet tema fx sundhed eller\nældreboliger. Sundheds- og Omsorgsudvalget har inviteret de foreninger, som\nmodtager §18 og 79 midler efter Serviceloven.</p>\n<p><em><strong>Om Frivillig </strong></em><strong><em>Fredag</em></strong></p>\n<p>Frivillig <span class=\"grame\">Fredag</span> afholdes hvert år den sidste\nfredag i september, og er hele Danmarks festdag for frivillighed, hvor\nfrivillige bliver hyldet for deres indsats. Frivillig <span class=\"grame\">Fredag</span>\nplanlægges og afholdes af <span class=\"spelle\">FrivilligCenter</span> Greve med\ntale, oplæg, middag og fra 2023 overrækkelse af Den Grønne Fællesskabspris, som\nanerkender et fællesskab eller en forenings klimaarbejde. <span class=\"spelle\">FrivilligCenter</span>\nGreve har foreslået administrationen, at Dialogmøde og Frivillig <span class=\"grame\">Fredag</span> i 2024 bliver afholdt som et fælles arrangement, hvor\nforeninger sammen kan fejre de frivillige, da flere foreninger også inviteres\ntil Dialogmøde.</p>\n<p>Det er Klima-, Teknik- og Miljøudvalget, som godkender uddelingen af Den\nGrønne Fællesskabspris, og <span class=\"spelle\">FrivilligCenter</span> Greve\nhører under Kultur- og Fritidsudvalget. Derfor indstiller administrationen, at\nSundheds- og Omsorgsudvalget, Klima-, Teknik- og Miljøudvalget samt Kultur- og\nFritidsudvalget træffer beslutning om, hvorvidt der skal arbejdes videre med\nnedenstående oplæg til afholdelse af Frivillig <span class=\"grame\">Fredag</span>\nog Dialogmøde 2024.</p>\n<p><em><strong>Dialogmøde & Frivillig </strong></em><strong><em>Fredag</em></strong></p>\n<p><em>Dato og tema</em><em><br>\n</em>I 2024 er Frivillig <span class=\"grame\">Fredag</span> den 27. september og\ntemaet er \"<em>Frivillig fordi og Tak fordi...\".</em></p>\n<p><em>Sted</em><em><br>\n</em>Administrationen og <span class=\"spelle\">Frivilligcenter</span> Greve\nforeslår, at Dialogmøde og Frivilligfredag afholdes i Borgerhuset med middag\nfra <em>Mad med mening</em>. I Borgerhuset er der plads til 90 foreninger (én\nrepræsentant pr. forening).</p>\n<p><em>Invitation</em><em><br>\n</em>Alle foreninger, som fremgår af Greve Kommunes foreningsportal vil blive\ninviteret til at deltage. Det vil være efter først til mølle-princippet.</p>\n<p><em>Budget</em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Aktivitet</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Budget (kr.)</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Foredrag om bæredygtige\n            frivilligmiljøer med fokus på fastholdelse af frivillige ved at skabe et\n            sundt arbejdsmiljø og rolleklarhed ved konsulentvirksomheden <em>Ingerfair</em></span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>10.000</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Middag fra <em>Mad med\n            mening</em></span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>12.000*</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Musik til middagen</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2.500</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Den Grønne Fællesskabspris</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>5.000</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Frivillighedsprisen</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>8.000</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>I alt</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>37.500</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>*Prisen afhænger af deltagerantal.</p>\n<p><strong><em>Oplæg til Program for dagen 2024</em></strong></p>\n<ul style=\"list-style-type: disc;\">\n    <li>16.00: Velkomst v/ Borgmester Pernille Beckmann og <span class=\"spelle\">Forperson</span> for <span class=\"spelle\">Frivilligcenter</span>\n    Greve Freddy Christiansen, som fortæller om Dialogmøde, <span class=\"spelle\">Frivilligcenter</span> og Frivillig <span class=\"grame\">Fredag</span>.\n    Der vil være kaffe og kage ved bordene.</li>\n    <li>16.15: Uddeling af Årets Frivillighedspris ved\n    Formanden for Sundheds- og Omsorgsudvalget.</li>\n    <li>16.30: Fællessang.</li>\n    <li>16.40: Uddeling af Greves Grønne Fællesskabspris ved\n    formand for Klima-, Teknik- og Miljøudvalget.</li>\n    <li>16.55: Oplæg v/ centerchef Martin Nordentoft Rasmussen\n    omkring den nye ældrereform med fokus på <em>Sammenspil med de\n    pårørende, lokale fællesskaber og civilsamfund.</em></li>\n    <li>17.10: En forening fortæller om deres forening\n    herunder, hvordan de arbejder med frivillige<em> (udfordringer\n    samt gode oplevelser)</em></li>\n    <li>17.20: Oplæg ved <span class=\"spelle\">Ingerfair</span> om\n    bæredygtige frivilligmiljøer med fokus på fastholdelse af frivillige ved\n    at skabe et sundt arbejdsmiljø og rolleklarhed.</li>\n    <li>18.10: Drøftelse af oplæg ved bordene. Der uddeles\n    tre til fire spørgsmål som skal drøftes. Politikere er placeret ved hvert\n    deres bord og er ”bordformænd”.</li>\n    <li>18.25: Opsamling i plenum.</li>\n    <li>18.45: Middag og musik.</li>\n    <li>20.00: Tak for i aften.</li>\n</ul>\n<p><em><strong>Frivillighedspris</strong></em></p>\n<p>På Dialogmødet uddeler formanden for Sundheds- og Omsorgsudvalget årets\nFrivillighedspris til en lokal ildsjæl, som har gjort en særlig indsats.\nFormålet med Frivillighedsprisen er at påskønne den frivillige indsats bredt.\nLigeledes skal prisen være med til at give ekstra opmærksomhed om den\nfrivillige indsats i Greve Kommune. Prisen, udover æren, består af et diplom og\nen check på 8.000 kr. Kriterierne for tildeling af Frivillighedsprisen har\ntidligere været, at det kun var frivillige indenfor senior- og ældreområdet,\nsom kunne indstilles. I forbindelse med vedtagelse af barnets lov, som trådte i\nkraft 1. januar 2024, er det nu muligt, at Frivillighedsprisen fremover også\nkan tildeles til foreninger og enkeltpersoner indenfor børne- og ungeområdet.</p>\n<p><em><strong>Den grønne fællesskabspris </strong></em></p>\n<p>Prisen hylder en frivillig forening eller fællesskab som viser vej for andre\ni den grønne omstilling ved at have indarbejdet klimahensyn i deres drift eller\nkerneaktivitet. Prisen går på tværs af alle typer af foreninger og\nfællesskaber, idræt, kultur og sociale.</p>\n<p>Prisen indgår i implementeringen af kommunens klimahandlingsplan. Formålet\nmed den grønne fællesskabspris er at sprede inspiration til, hvordan foreninger\nog fællesskaber også er en del af den grønne omstilling, at motivere til at\nindtænke det, samt at påskønne og fejre de, der er godt i gang. En stor del af\nformålet løftes derfor i kraft af processen. Indledningsvist ved, at man kan\nindstille en forening/fællesskab man selv er en del af eller et man er\ninspireret af, derpå gennemgår administrationen indstillingerne på baggrund af\nfire kriterier og udvælger tre-fire nominerede, hvorved en række gode case\neksempler fremhæves, endelig er der afstemning blandt borgerne om vinderen på\nkommunens Facebookside, inden der afsluttes med prisoverrækkelsen på Frivillig <span class=\"grame\">Fredag</span>. Prisen udgør udover æren 5.000 kr. </p>\n<p>Kriterier med eksempler fremgår af Greve Kommunes hjemmeside. </p>\n<p><em><strong>Greve Awards</strong></em></p>\n<p>Tidligere har foreninger og selvorganiseret grupper i Greve Kommune også\nkunne blive indstillet og nomineret til forskellige priser ved arrangementet\n”Greve Awards”. Dette arrangement har ikke været afholdt siden 2022.\nAdministrationen anbefaler at samtlige foreninger og selvorganiseret grupper\ninviteres til at deltage i dette nye kommunale arrangement</p>\n<h4>Lovgrundlag</h4>\n<p>Lov om social service §18 samt barnets lov § 17</p>\n<p>Klimahandleplanen. Besluttet af Byrådet den 15. maj 2023 (pkt. 31)</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er 93.431 kr. i frie midler fra §18-puljen til afholdelse af Dialogmøde\n2024 og uddeling af Frivillighedspris 2024. FrivilligCenter har søgt\n20.000 kr. hos Velliv Foreningen til at gennemføre Frivillig\nFredag. FrivilligCenter modtager forventeligt svar på ansøgning slut\napril/start maj 2024. Hvis Frivilligcenter modtager tilsagn på 20.000 kr., vil\nder være 75.931 kr. i frie midler efter Dialogmødet er afholdt. Hvis\nFrivilligcenter ikke modtager tilsagn, vil der være 55.931 kr. tilbage i frie\nmidler.</p>\n<p>De 5.000 kr. til uddeling af Den Grønne Fællesskabspris indgår i puljen til\nimplementering af klimahandlingsplanen. </p>\n<h4>Kommunikation</h4>\n<p>Alle foreninger modtager en invitation til Frivillig <span class=\"grame\">Fredag</span>\nog Dialogmøde, der planlægges afholdt i august 2024.</p>\n<p>Der annonceres i Sydkysten i juni og august måned, omkring muligheden for at\nindstille til årets Frivillighedspris.</p>\n<p>Optakten til Den Grønne Fællesskabspris kører fra foråret med inspiration\nfra sidste års vindere. Der kommunikeres om nomineringsprocessen i april/maj,\nså foreninger og fællesskaber begynder at orientere sig efter, hvordan de\nindgår i den grønne omstilling. I august udsendes reminder, i sammenhængen med\nat invitationen til arrangementet kommer ud.</p>\n<h4>Tidsplan</h4>\n<p>Når Sundheds- og Omsorgsudvalget, Klima-, Teknik- og Miljøudvalget samt Kultur- og Fritidsudvalget har besluttet modellen for afholdelse af Dialogmøde 2024, går administrationen i gang med at planlægge mødet.</p>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22/04/2024 Sundheds- og Omsorgsudvalget</u><br>\r\n1. Godkendes ikke med bemærkning om, at udvalget ønsker at afholde dialogmødet som tidligere, men at der ikke skal uddeles en frivilligpris i 2024, da der har været for få indstillede de seneste år.\n<p>2. Orienteringen blev taget til efterretning.</p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8a84f6b5-57f7-4000-a1a8-ea78f790f7b2",
+          "DocumentId": "8a84f6b5-57f7-4000-a1a8-ea78f790f7b2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-001825",
+      "Navn": "Dialogmøde med frivillige foreninger - planlægning",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5d863a68-4b81-4218-98f5-8783ac641b34",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "24-001825",
+      "SourceId": null,
+      "Caption": "Dialogmøde med frivillige foreninger - planlægning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt med følgende bemærkninger;\n<p>Med afsæt i input på borgermødet ønsker udvalget, at det indarbejdes i vedtægterne at foreningerne får mulighed for at få foretræde for Folkeoplysningsudvalget.</p>\n<p>Udvalget takker for de indkomne høringssvar og de input, som blev tilvejebragt på borgermødet.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><b></b>\n<h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget, Økonomiudvalget og Byrådet.</p>\n<b></b>\n<h4>Resume</h4>\n<p>I denne sag skal der træffes beslutning om vedtægter og kommissorium for det kommende Folkeoplysningsudvalg.</p>\n<p>Kultur- og Fritidsudvalget behandlede på mødet den 20. marts 2024 et udkast til såvel vedtægter som kommissorium og administrationens har på den baggrund indarbejdet udvalgets bemærkninger.<br>\n<br>\nEndvidere har administrationen gennemført udvalgets beslutning om, at udsende det opdaterede materiale til høring i Idrætsrådet og Fritidsrådet. Høringssvarene samt opsamling på det afholdte borgermøde den 4. april 2024 i Greve Borgerhus er vedlagt sagen som bilag. </p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at kommissorium og vedtægter for det fremtidige Folkeoplysningsudvalg godkendes.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>I budgetforliget 2024-2027 blev det besluttet, at der skal ske en afbureaukratisering- og effektiviseringsproces i forhold til omfanget og frekvens af råd og nævn. På denne baggrund blev det besluttet at Idrætsrådet og Fritidsrådet skal samles i ét nyt Folkeoplysningsudvalg.</p>\n<p>Idrætsrådet og Fritidsrådet vil i den forbindelse ophører, når et nyt Folkeoplysningsvalg er oprettet.</p>\n<p>Alle nuværende borgere, foreninger og interessentgrupper skal fortsat være repræsenteret og inddrages, men i en enklere og mere effektiv struktur.</p>\n<p>Kultur- og Fritidsudvalget besluttede på mødet den 20. marts 2024, at administrationens forslag til vedtægter og kommissorium for et kommende Folkeoplysningsudvalg skulle gennemskrives i forhold til de ændringer udvalget ønskede.</p>\n<p>Udvalget besluttede endvidere, at det opdaterede materiale skulle i høring i Idrætsrådet og Fritidsrådet inden udvalgets endelige behandling af sagen. </p>\n<p>Administrationen har derfor samlet høringssvarene fra Idrætsrådet og Fritidsrådet samt de bemærkninger der var fra borgermødet den 4. april 2024 i Greve Borgerhus. Disse er vedlagt sagen som bilag</p>\n<p><b><em>Medlemssammensætning i et ny Folkeoplysningsudvalg i Greve Kommune</em><br>\n</b>Medlemssammensætningen i det kommende Folkeoplysningsudvalg efter Kultur- og Fritidsudvalgets beslutning den 20. marts 2024 fremgår i dette skema.</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"556\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><b><em>Udvalget består af 11 medlemmer</em></b></p>\n            <p><b><em> </em></b></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>2 medlemmer udpeges af Byrådet blandt dets medlemmer i Kultur- og Fritudsudvalget</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>3 medlemmer udpeges fra henholdsvis Tune Idrætsforening, Karlslunde Idrætsforening og Greve Idrætsforening.</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>2 medlemmer vælges fra de øvrige godkendte folkeoplysende idrætsforeninger</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>1 medlem vælges af de godkendte folkeoplysende fritidsforeninger, herunder kan foreninger som tilbyder folkeoplysende aktiviteter indenfor handicapområdet også vælges</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>1 medlem vælges af aftenskoler/oplysningsforbund og andre foreninger, hvis virksomhed omfatter undervisning, studiekredse og foredragsvirksomhed for voksne.</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>1 medlem udpeges af Børne- og Ungdomsorganisationernes Samråd (BUS)</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>1 medlem kan vælges fra andre foreninger/grupper, der ikke modtager tilskud og/eller anvises lokaler i henhold tilFolkeoplysningsloven, herunder selvorganiserede grupper, under forudsætning af, at der i deres virksomhed indgår folkeoplysende aktivitet, samt at foreningen/gruppen eller dennes aktivitet er hjemmehørende i Greve Kommune</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><b><em>Høringssvar fra Idrætsrådet og Fritidsrådet</em><br>\n</b>Administrationen har modtaget høringssvar fra Idrætsrådet og Fritidsrådet. Det fremgår i høringssvarene at der er vidt forskellige og modsatrettede perspektiver og holdninger til hvordan medlemssammensætningen, samt en række andre forhold bør være i et kommende Folkeoplysningsudvalg i Greve Kommune.<br>\nDet er således svært at udlede noget entydigt af høringssvarene og derfor har administrationen ikke foretaget yderligere justeringer i materialet. </p>\n<p>Administrationen har vedlagt høringssvar samt opsamling fra borgermødet som bilag til sagen.<br>\n<br>\nDet er fortsat forventningen at et nyt Folkeoplysning kan dannes inden sommeren 2024 og virke fra efter sommerferien 2024. </p>\n<b></b>\n<h4>Lovgrundlag</h4>\n<p>Folkeoplysningsloven.</p>\n<b></b>\n<h4>Økonomiske konsekvenser</h4>\n<p>Det blev i forbindelse med Budgetforlig 2024-2027 aftalt at der skulle oprettes et Folkeoplysningsudvalg, hvilket skulle medvirke til at opnå en besparelse på 200.000 kr. i 2024 og 400.000 kr. i 2025, 2026 og 2027. </p>\n<p>Denne besparelse var en del af budgetområde 1.01 afbureaukratisering, justering af struktur og ledelse. </p>\n<b></b>\n<h4>Tidsplan</h4>\n<p>Det fremgår i tids- og procesplanen, at Kultur- og Fritidsudvalget skal tage endelig stilling til vedtægter og kommissorium for et Folkeoplysningsudvalg i Greve Kommune på udvalgsmødet den 24. april 2024. Derefter skal sagen til behandling i Økonomiudvalget den 8. maj 2024 og i Byrådet den 22. maj 2024.</p>\n<b></b>\n<h4>Øvrige forhold</h4>\n<p>Sagen har været til høring i Fritidsrådet og Fritidsrådet. Derudover har der været afholdt et borgermøde den 4. april 2024 i Greve Borgerhus, hvor alle foreninger/grupper i Greve Kommune har været inviteret. Høringssvar samt opsamling fra borgermødet er vedlagt som bilag til sagen.</p>\n<p>Desuden er vedtægter og kommissorium for Folkeoplysningsudvalget vedlagt som bilag. Disse to dokumenter er blevet korrigeret efter beslutningen i Kultur- og Fritidsudvalget den 20. marts 2024. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/afd899f4-51a4-4f9a-959f-80d37609b7ef",
+          "DocumentId": "afd899f4-51a4-4f9a-959f-80d37609b7ef"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-004098",
+      "Navn": "Beslutning vedrørende vedtægter og kommissorium i forbindelse med etablering af et folkeoplysningsudvalg.",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Høringssvar fra Fritidsrådet til sag om Folkeoplysningsudvalg i Greve Kommune",
+          "Id": "1db761ad-9bc0-4bbb-bcfb-5111b83dd0b7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Høringssvar fra Idrætsrådet til sag om Folkeoplysningsudvalg i Greve Kommune",
+          "Id": "fff35d2f-824d-460a-bb1c-74ab3bc5eb78"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Opsamling fra borgermødet den 4. april 2024 samt modtaget høringssvar fra foreninger vedr. oprettelse af Folkeoplysningsudvalg i Greve Kommune",
+          "Id": "fc11e821-6d38-4373-a22d-0677427a7a3f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Vedtægter for Folkeoplysningsudvalget i Greve Kommune",
+          "Id": "6afec880-8c45-4816-a07a-294476df6cef"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5. Kommissorium for Folkeoplysningsudvalget i Greve Kommune",
+          "Id": "69259a15-ab1c-4747-8228-17f1dfe4e4f1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 6. Høringssvar fra Dansk Handicapråd Greve om det nye Folkeoplysningsudvalg i Greve Kommune",
+          "Id": "ced61061-9c89-4fbf-9dcf-97e99b3aa939"
+        }
+      ],
+      "Documents": null,
+      "Id": "0d6dffda-6718-44a2-b862-a4ca40525718",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "24-004098",
+      "SourceId": null,
+      "Caption": "Beslutning vedrørende vedtægter og kommissorium i forbindelse med etablering af et folkeoplysningsudvalg.",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1. Godkendt<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget,\nØkonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>FrivilligCenter Greve har henvendt sig til administrationen da de ønsker at\nansøge Nordea-fonden om støtte på ca. 950.000 kr. til etablering af en såkaldt\n”sansehave” i haven ved Greve Borgerhus. FrivilligCenter Greve ønsker, at Greve\nKommune tilkendegiver, at de ønsker at indgå i en positiv dialog om projektet,\nhvilket skal indgå i deres ansøgning med frist den 16. april 2024.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at:</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>Kultur- og Fritidsudvalget beslutter, om de ønsker at\n    tilkendegive en positiv dialog om projektet</em></li>\n    <li><em>Klima-, Teknik- og Miljøudvalget beslutter, om de\n    ønsker at tilkendegive en positiv dialog om projektet</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>FrivilligCenter Greve ønsker at ansøge Nordea-fonden om støtte på ca.\n950.000 kr. til at etablere en såkaldt ”sansehave” i haven ved Greve Borgerhus.\nDet er et krav fra Nordea-fonden, at der i ansøgning står angivet at der er en\npositiv dialog med den hjemmehørende kommune ift. projektet. Der ikke er\ntale om en politisk godkendelse af selve projektet, men blot en positiv\ntilkendegivelse af, om at Greve Kommune ønsker at indgå i dialog med\nFrivilligCenter Greve om projektet.</p>\n<p>Hvis det politisk besluttes at indgå i en positiv dialog om projektet og\nFrivilligCenter Greve får bevillingen fra Nordea-fonden til projektet, vil\nadministrationen fremlægge en ny sag om realisering af projektet til politisk\nbehandling i hhv. Kultur- og Fritidsudvalget og Klima-, Teknik- og\nMiljøudvalget, Økonomiudvalget og Byrådet. </p>\n<p>FrivilligCenter Greve skal ansøge Nordea-fonden senest den 16. april 2024,\nog vil allerede i maj måned 2024 få svar på om de har modtaget bevilling eller\nafslag på ansøgningen. Administrationen har oplyst FrivilligCenter Greve at det\nførst er muligt at få sagen til politisk behandling den 24. og 25. april i\nKultur- og Fritidsudvalget og Klima-, Teknik- og Miljøudvalget. Dette har\nde meddelt Nordea-fonden, hvilket er accepteret fra fondens side. </p>\n<p>FrivilligCenter Greve beskriver, at ideen med projektet er - i samarbejde\nmed borgere, frivillige og foreninger - at anlægge en fælles byhave tilgængelig\nfor alle i Greve.</p>\n<p>Projektet har fokus på biodiversitet, fællesskaber og trivsel. Der ønskes at\nskabe et grønt område centralt i Greve, der indbyder til fællesskab og samvær i\nnaturen. Ambitionen er at skabe Greves nye grønne samlingssted med plads til\ndiversitet hos mennesker, planter og dyr.</p>\n<p>Med projektet ønsker FrivilligCenter Greve at: </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Bidrage til den grønne\n    omstilling samt grønnere og smukkere byrum</li>\n    <li>Øge læring om natur og\n    biodiversitet</li>\n    <li>Skabe nye fællesskaber\n    med natur som omdrejningspunkt. Bl.a. havevandringer, dyrke sammen i\n    højbede, samle urter, udveksleerfaringer, nyde de forskellige\n    opholdssteder i haven, mødes om bålfad mm.</li>\n    <li>Øge trivsel, mindske\n    stress og ensomhed, gennem fællesskab, aktiviteter og ophold i naturen</li>\n</ul>\n<p>Projektet ønskes forankret lokalt gennem foreninger, frivillige og borgere,\nder inviteres bredt ind til at blive en del af sanse haven og dens udvikling,\ntage ejerskab og bruge haven. Målgruppen er alle Greve-borgere, og haven bliver\noffentligt tilgængelig. Målet er at etablere en frivilliggruppe på 25 borgere.\nFrivilligCenter Greve forventer at lokale foreninger, der i forvejen bruger\nborgerhusets lokaler, vil bruge haven til deres aktiviteter. FrivilligCenter\nGreve forventer at samlet set 5.000 borgere årligt vil besøge haven til\narrangementer eller på egen hånd.</p>\n<p>Projektperiode er fra august 2024 – juli 2026.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der forventes ingen kommunal medfinansiering til projektet. Foreningen forventes primært selv at stå for driften. Evt. afledt drift holdes inden for\ndriftsrammen på den grønne kontrakt. </p>\n<p>Projektet har ingen økonomiske konsekvenser for anlægsloftet i Greve\nKommune, da det er foreningen FrivilligCenter Greve som vil modtage evt.\nfondsmidler fra Nordea-fonden til projektet. Ligeledes vil Greve Kommune\nhellere ikke skulle betale fondsmoms, da det er foreningen, som modtager\nbevillingen. </p>\n<h4>Tidsplan</h4>\n<p>FrivilligCenter Greve skal ansøge Nordea-fonden senest den 16. april 2024.\nDet forventes, at der er svar på deres ansøgning i løbet af maj måned\n2024. </p>\n<h4>Øvrige forhold</h4>\n<p>Brugerrådet i Greve Borgerhus har tilkendegivet, at de støtter op om\nprojektet. </p>\n<p>Hvis projektet opnår bevilling fra Nordea-fonden og efterfølgende\npolitisk godkendelse fra Greve Kommune skal der indgås en aftale med\nFrivilligCenter Greve omkring Sansehaven, hvori rammer og vilkår mv. er\nbeskrevet. </p>\n<p>Der er til sagen vedhæftet to bilag. En beskrivelse fra FrivilligCenter\nGreve om projektet samt et oversigtskort, hvor den ønskede placering af\nsansehaven ved Greve Borgerhus fremgår. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fbb7cd4b-9d7e-4799-9739-ddb0c7d27fc7",
+          "DocumentId": "fbb7cd4b-9d7e-4799-9739-ddb0c7d27fc7"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003882",
+      "Navn": "Henvendelse fra FrivilligCenter Greve om etablering af sansehave ved Greve Borgerhus",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Beskrivelse af projekt Greve Sansehave til Greve Kommune",
+          "Id": "5d573fd0-b1a1-4a57-af79-63a5ea3cfa5a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Indtegning af område til sansehave i haven ved Greve Borgerhus",
+          "Id": "917da3fd-8dd6-49da-bdcd-d51e5c458724"
+        }
+      ],
+      "Documents": null,
+      "Id": "de3c745e-5614-40ad-95c0-bc21046729ff",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "24-003882",
+      "SourceId": null,
+      "Caption": "Henvendelse fra FrivilligCenter Greve om etablering af sansehave ved Greve Borgerhus",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Anbefales.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Gældende egnsteateraftale for Opera Hedeland udløber ved udgangen af 2024, og der skal derfor forhandles en ny aftale for perioden 2025 - 2028 mellem Opera Hedeland, Slots- og Kulturstyrelsen samt Høje-Taastrup, Roskilde og Greve kommuner.  </p>\n<p> I den forbindelse fremlægges ny egnsteateraftale i alle tre samarbejdende og tilskudsydende kommuner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at ny egnsteateraftale for Opera Hedeland godkendes for perioden 2025 – 2028. Godkendelse sker under forudsætning af, at aftalen også godkendes i Høje-Taastrup og Roskilde kommuner hvilket er sket.</em> </p>\n<h4>Sagsbeskrivelse</h4>\n<p>Slots- og Kulturstyrelsen skal have fremsendt et udkast til en ny egnsteateraftale for perioden 2025 – 2028 senest den 1. april 2024. </p>\n<p>Af tidsmæssige årsager er der truffet en beslutning (jf. Styrelsesloven §31) hvor borgmesteren den 25. marts 2024 har underskrevet ny egnsteateraftalen for at sikre overholdelse af deadline inden den 1. april 2024. </p>\n<p>Den politiske følgegruppe for Opera Hedeland der blandt andet består af forpersonerne for kulturudvalgene i henholdsvis Høje-Taastrup, Roskilde og Greve kommuner, har sammen med Opera Hedeland udarbejdet et udkast til en ny egnsteateraftale for 2025 – 2028. Udkastet skal godkendes i de tre kommuner, inden det sendes til godkendelse i Slots- og Kulturstyrelsen. </p>\n<p>Udkastet til ny egnsteateraftale er overordnet en videreførsel af gældende egnsteateraftale, både i forhold til indhold og tilskudsbeløb. Aftalen fastlægger egnsteatrets formål bl.a. antal årlige produktioner samt teatrets strategi og delmål i overensstemmelse med Slots- og Kulturstyrelsens krav og anbefalinger samt de tre kommuners ønsker. Endvidere fastlægger aftalen driftstilskuddet til teatret fra de tre kommuner i aftaleperioden.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Den politiske følgegruppe for Opera Hedeland vedtog 2. november 2023, at\nudgangspunktet for kommunernes driftstilskud i udkastet til den nye aftale skal\nvære på samme niveau som i gældende aftale, dog med en besparelse på 1%, i\nhenhold til kommunale besparelser på teater- og museumsområdet og\npristalsregulering på 3,5%, der er baseret på et gennemsnit for de seneste års\nprisreguleringer. </p>\n<p>Staten yder refusion af de kommunale tilskud til Opera Hedeland. I 2024 vil\nrefusionen være min. 35%. Refusionen for 2025 er ikke meldt ud endnu, hvorfor\ntilskudsprocenten for 2024 er anvendt i nedenstående skema over den enkelte\nkommunes tilskud i den nye aftaleperiode 2025 – 2028.</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>2025</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>2026</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>2027</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>2028</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Brutto</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>525.026 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>543.402 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>562.421 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>582.106 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Statslig refusion</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>183.759 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>190.190 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>196.847 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>203.737 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Netto </span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>341.266 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>353.211 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>365.573 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>378.368 kr.</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p> </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1c1e579c-25af-4860-ba66-f190b34a35ac",
+          "DocumentId": "1c1e579c-25af-4860-ba66-f190b34a35ac"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003866",
+      "Navn": "Egnsteateraftale for Opera Hedeland 2025-2028",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Egnsteateraftale Opera Hedeland 2025-28",
+          "Id": "a9778b6c-9195-405d-bc62-a882b80c05e1"
+        }
+      ],
+      "Documents": null,
+      "Id": "5495391f-7b70-4da3-bda8-0461469b3597",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "24-003866",
+      "SourceId": null,
+      "Caption": "Egnsteateraftale for Opera Hedeland 2025-2028",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><b></b>\n<h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Sagen redegør for slutevalueringen vedrørende den afholdte Spejdernes Lejr fra 2022. Sagen skal være med til at belyse det videre forløb om mulige afholde af Spejdernes Lejr 2026.  </p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administration indstiller, at Kultur – og Fritidsudvalget tager evalueringen til efterretning. </i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 17. januar 2024 modtog Greve Kommune en henvendelse fra Roskilde Kommune og Høje-Taastrup Kommune med en henstilling om, at Greve Kommune indtræder i partnerskabet om afholdelse af Spejdernes Lejr i 2026 samt yder et tilskud på samme niveau, som ved Spejdernes Lejr 2022, i alt 4 mio. kr.</p>\n<p>I relation til  henvendelsen fra Roskilde Kommune og Høje-Taastrup kommune har Kultur-og Fritidsudvalget på deres møde den 7. februar besluttet at få forlagt en sag med slutevalueringen fra Spejdernes Lejr 2022. Dette med henblik på om Greve Kommune skal deltage som arrangør af Spejdernes Lejr 2026. Den fulde evaluering er vedlagt sagen som bilag.</p>\n<p><i><strong>Spejderens </strong></i><i><strong>Lejr 2022</strong></i></p>\n<p>Greve Kommune indgik i 2019 en samarbejdsaftale om afholdelse af Spejdernes Lejr i 2022. Eventet blev afholdt i samarbejde med Hedeland I/S, Spejderne, Roskilde Kommune og Høje-Taastrup kommune. Eventet samlede ca. 32.000 børn og unge i Hedeland Naturpark.</p>\n<p><i><strong>Spejdernes organisering</strong> </i></p>\n<p>Spejderne er en paraplyorganisation, der repræsenterer de fem danske spejderkorps.</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Det Danske Spejderkorps</li>\n    <li>KFUM-Spejderne </li>\n    <li>De grønne pigespejdere </li>\n    <li>Danske Baptisters Spejderkorps</li>\n    <li>Dansk Spejderkorps Sydslesvig. </li>\n</ul>\n<p>\"Spejdernes Lejr\" er et projekt i foreningen Spejderne.</p>\n<p>På baggrund af Projektets (Spejdernes Lejr) størrelse og kompleksitet er projektet oprettet med et separat regnskab. I forbindelse med rapporteringer og årsregnskab bliver regnskabet konsolideret med foreningen Spejdernes øvrige aktiviteter. Spejdernes Lejres regnskab indgår, med en særskilt opgørelse i det samlede årsregnskab.</p>\n<p><i><strong>Evalueringen</strong> </i></p>\n<p>Slutevalueringen er udarbejdet af Spejderne og beskriver tilblivelse, gennemførelse og afrunding af Spejdernes Lejr 2022. Evalueringen sætter bl.a. fokus på de opmærksomhedspunkter en samarbejdspartner bør kende i forbindelse med afholdelsen af Spejdernes Lejr. Der er i denne sag taget udgangspunkt i de områder der har haft direkte indflydelse på Greve Kommune.</p>\n<p><em><strong>Formålet med Spejdernes Lejr 2022</strong></em></p>\n<p>I samarbejdet mellem Greve Kommune, Roskilde Kommune og Høje-Taastrup kommune blev der opstillet tre overordnet formål som betingelse for at stille Hedeland naturpark til rådighed.</p>\n<ol>\n    <li>Kendskabet til Hedeland Naturpark skal styrkes lokalt såvel som nationalt </li>\n    <li>Aftalen skal understøtte Hedeland Naturparks udviklingsplan og modne området til store arrangementer </li>\n    <li>Spejdernes Lejr etablerer samarbejde med erhvervsliv, borgere og foreninger, herunder sociale foreninger</li>\n</ol>\n<p>I evalueringen, er det de tre mål det bruges som udgangspunkt/parameter for lejrens succes samt hvilke elementer en værtskommune bør have indblik i, i forbindelse med afholdelsen.</p>\n<p><i>Evaluering af lejerens opstillede mål</i></p>\n<p>Samarbejdsaftalen for Spejdernes Lejr 2022 havde tre hovedformål for at anvende Hedeland Naturpark. Disse formål evalueres som \"opfyldt\" baseret på data og observationer:</p>\n<p><em>Styrkelse af kendskabet til Hedeland Naturpark:</em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Spejdernes Lejr 2022 medførte en betydelig medieomtale og tiltrak prominente besøgende, herunder statsministeren og medlemmer af kongehuset.</li>\n    <li>Deltager survey viste høj tilfredshed, hvilket forventes at sprede positiv omtale af parken.</li>\n    <li>Konklusionen er, at arrangementet har styrket både <b>et</b> lokalt og nationalt kendskab til Hedeland Naturpark.</li>\n</ul>\n<p><em>Understøttelse af udviklingsplanen for Hedeland Naturpark:</em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Lejren udfordrede Hedeland Naturpark parkens eventrammer med et stort antal besøgende.</li>\n    <li>Efterladt fysisk infrastruktur og værdifulde erfaringer for fremtidige store arrangementer.</li>\n    <li>Investering på otte millioner kroner i infrastruktur anses for at forbedre besøgsoplevelsen og mulighederne for fremtidige events.</li>\n</ul>\n<p><em>Etablering af samarbejde med erhvervsliv, borgere og foreninger:</em></p>\n<ul>\n    <li>Succesfuldt samarbejde med sociale foreninger som Solgården, hvilket har givet værdifulde erfaringer og bekræftet fokus på inklusion og tilgængelighed.</li>\n    <li>Samarbejde med over 100 lokale organisationer, men potentiale for yderligere involvering.</li>\n    <li>Resultatet er en vellykket indsats, der har placeret både Spejdernes Lejr og Hedeland Naturpark på Danmarkskortet og åbnet muligheder for fremtidige events i området.</li>\n</ul>\n<p>I relation til Greve Kommunes deltagelse som medarrangør, er følgende punkter fra evalueringen relevante.</p>\n<ul>\n    <li>Spejdernes Lejr blev afviklet for første gang af tre værtskommuner, hvilket medførte visse udfordringer. </li>\n    <li>Udfordringerne omfattede forskelle i sagsbehandling og lovgivning mellem værtskommunerne.</li>\n    <li>Opgavens omfang var større end forventet, hvilket overraskede alle parter.</li>\n    <li>Samarbejdet inkluderede beslutninger om håndtering af områder med beskyttet natur, miljøhensyn, byggetilladelser, deltageres sikkerhed, teltopsætning, forsyningsbehov, parkeringspladser, trafikpåvirkning, lokal markedsføring af lejren, og rekruttering af frivillige fra lokale foreninger.</li>\n</ul>\n<p><em>Opsummering</em></p>\n<p>Slutevalueringen af Spejderens Lejr 2022, giver et bredt billede af de mange aktiviteter der har været gennemført i forbindelse med eventet. Der gives et overordnet billede af de udfordringer der har været i forbindelse med organiseringen samt de positive elementer der var tilstede.  </p>\n<b></b>\n<h4>Økonomiske konsekvenser</h4>\n<p>Byrådet besluttet på deres møde den 13. marts 2024 at sagen oversendes til budgetprocessen for Budget 2025. Med en bemærkning om, at udvalget ønsker at der rettes formel henvendelse til Spejderne, Roskilde og Høje-Taastrup kommuner hvor der efterspørges en tydelig økonomisk ramme. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e05f6c7a-d0b1-4038-b4b0-99dbd71198f4",
+          "DocumentId": "e05f6c7a-d0b1-4038-b4b0-99dbd71198f4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003057",
+      "Navn": "Evaluering fra Spejdernes Lejr 2022",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Evaluering Spejdernes Lejr 2022",
+          "Id": "e94ce72d-4a9b-4654-addc-869dfa16b6f1"
+        }
+      ],
+      "Documents": null,
+      "Id": "56d97cca-4232-45a6-9a6d-299a33924e52",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "24-003057",
+      "SourceId": null,
+      "Caption": "Evaluering fra Spejdernes Lejr 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Formanden orienterede om henvendelser fra foreninger.</p>\n<p><br>\nRepræsentanter for Kultur- og Fritidsudvalget besøgte karateklubben i forbindelse med medaljer ved Nordisk mesterskab.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/17c1f582-13ed-4b2b-9def-f78a9c093c5a",
+          "DocumentId": "17c1f582-13ed-4b2b-9def-f78a9c093c5a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014479",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ca5345e5-c721-458a-9483-78f9c283a5b0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-014479",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p>- <em><strong>Orientering om udkast til areallejeaftale med Greve Jagtforening </strong></em></p>\n<p><em><strong>- Henvendelse fra Ulykkesfornden vedr. værtsskab for Kids Tour</strong></em></p>\n<p>Greve Kommune har modtaget en henvendelse fra Ulykkesfonden vedr. Kids Tour, se vedlagte bilag 1 og 2.</p>\n<p>\n<strong><em>- Status for lokalefordelingen</em></strong></p>\n<p>-<strong><em> Tilsynsbesøg</em></strong></p>\n<p><strong><em>- Orientering ny forpagter, Cafe Langsiden </em></strong></p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4f6e6def-54ce-46c5-9755-ebfcb4b0eb6a",
+          "DocumentId": "4f6e6def-54ce-46c5-9755-ebfcb4b0eb6a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013714",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Henvendelse fra Ulykkesfonden vedr. Kids Tour 2025",
+          "Id": "05549bd8-f1de-451f-ba82-e748f5a443ef"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Info vedr. Kids Tour 2025",
+          "Id": "f312b3d8-113d-4d6c-a468-4357ae148ef7"
+        }
+      ],
+      "Documents": null,
+      "Id": "5da34e46-8afa-48e9-a8de-9999cc3802bc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-013714",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Kultur- og Fritidsudvalgets møder og møder i tilknytning til udvalget. </p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning. </i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b9e927b2-3847-4585-803a-66fa4b762d70",
+          "DocumentId": "b9e927b2-3847-4585-803a-66fa4b762d70"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014480",
+      "Navn": "Kultur- og Fritidsudvalget - mødekalender 2024",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kultur- og Fritidsudvalget mødekalender 2024 - april",
+          "Id": "35a88e60-79e7-46a5-a730-ccafa00e1109"
+        }
+      ],
+      "Documents": null,
+      "Id": "a9fd8994-fe56-4b68-8139-e9e9a54bf5b5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-014480",
+      "SourceId": null,
+      "Caption": "Kultur- og Fritidsudvalget - mødekalender 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsblad.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cbc944dd-790c-403a-982b-33975925ae1f",
+          "DocumentId": "cbc944dd-790c-403a-982b-33975925ae1f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014481",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "13",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e6930026-e21e-4876-a2ec-9bb149d19ade",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "21-014481",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "425869ca-7441-4d9d-b497-27bc7d5bbbc2",
+    "Navn": "Kultur- og Fritidsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-04-24T16:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-04-24T16:30:00+02:00",
+    "Sted": "Portalen",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "34cb8461-750b-47e1-9eac-ab1a9125a2aa",
+  "Lydfiler": null
+}

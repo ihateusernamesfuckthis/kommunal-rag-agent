@@ -1,0 +1,520 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt med en bemærkning om, at udvalget ønsker at ændre sag nr. 4 på dagsordenen fra en orienteringssag til en beslutningssag.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 29. maj 2024.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3b963425-30ef-4de3-8d1b-63a6b1d13311",
+          "DocumentId": "3b963425-30ef-4de3-8d1b-63a6b1d13311"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014482",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e011a494-69d5-426e-b1a1-1d91dd9287fd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014482",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Efter ønske fra Kultur- og Fritidsudvalget er det planlagt, at udvalget besøger eller får besøg af Greve Kommunes foreninger og kulturinstitutioner i forbindelse med udvalgsmøder i 2024.</p>\n<p>Efter ønske fra Kultur- og Fritidsudvalget er der planlagt et besøg i Hundige Boldklub.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at Kultur- og Fritidsudvalget tager besøget i Hundige Boldklub til efterretning.</i></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><i><strong>Mødets indhold</strong></i></p>\n<p>Kultur- og Fritidsudvalget vil ved besøget få en kort rundvisning på udvalgte steder og faciliteter. Under rundvisningen vil udvalget blive orienteret om de forskellige aktiviteter og udviklingsplaner, der er i Hundige Boldklub.</p>\n<p><i><strong>Praktik</strong></i></p>\n<p>Besøge Hundige Boldklub fra kl. 16.30-17.00, Hundige Boldklub, Hedelunden 2, 2670 Hundige</p>\n<p><i>Tilstede ved besøget</i></p>\n<p>Tilstede ved besøgt er Jan Holst Andersen.</p>\n<p>I forlængelse af besøget vil Kultur- og Fritidsudvalget afholde udvalgsmøde på Greve Rådhus.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ac565637-0c00-4e86-9f1a-ad510ffc126b",
+          "DocumentId": "ac565637-0c00-4e86-9f1a-ad510ffc126b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-005212",
+      "Navn": "Besøge Hundige Boldklub",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fbc2f669-2d9d-4622-ab9c-9c56014aa652",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "24-005212",
+      "SourceId": null,
+      "Caption": "Besøge Hundige Boldklub",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Udvalget drøftede rammerne for ledelse, og synes der er en god balance og prioritering i ledelsesopgaven. Udvalget er tilfreds med den kommunikation og dialog der er med den administrative ledelse. <br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen redegøres der for rammer for ledelse på udvalgets område og de behov\nog udfordringer der ses nu og i de kommende år. Sagen fremlægges i rammen af et\ntemamøde og som opfølgning på Økonomiudvalgets protokol den 10. april 2024\n(pkt. 2).</p>\n<h4>Indstilling</h4>\n<p><em>Der skal ikke træffes beslutning på temamødet. Temamødet bruges til\ndrøftelse, orientering og dialog om rammer for ledelse på udvalgets\nområde. </em></p>\n<h4>Sagsfremstilling</h4>\n<p><strong><em>Baggrund</em></strong><em> </em><br>\nPå Økonomiudvalgets møde den 24. januar 2024 (pkt. 32) bestilte udvalget om en\nsag om ledelse i Greve Kommune og administrationen fremlagde derfor en generel\nsag om emnet på udvalgets mødet den 10. april 2024 (pkt. 2). Udvalget\nbesluttede, at der skal fremlægges sager for alle fagudvalg med henblik på at\ndrøfte ledelse på udvalgets område indenfor den eksisterende økonomiske ramme.\nDenne sag beskriver således ledelse på Kultur- og Fritidsudvalgets område.\nPointer er fremlagt i kort punktopstilling og understøttes på temamødet med\noplæg fra administrationen. Oplæg vedlægges efterfølgende protokollen. Alle\nudvalgsprotokoller samles og fremlægges i samlet sag for Økonomiudvalg, der er\nByrådets personaleudvalg. </p>\n<p>I sagen der blev fremlagt for økonomiudvalget den 10. april <span class=\"GramE\">2024</span> blev ledelse beskrevet i sondring mellem faglig\nledelse, administrativ ledelse og tværgående ledelse. Denne sondring er\nfastholdt i alle fagudvalgssager for at understøtte en tværgående og fælles\nforståelse af rammer for ledelse, ledelsesdilemmaer og understøtte et fælles\nsprog om ledelse.<br>\n<br>\nNedenfor følger eksempler inden for udvalgets område inden for hver af de tre\nledelsesdiscipliner; <br>\n<br>\n<strong><em>Faglig ledelse</em></strong><em> </em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>På Kultur- og Fritidsområdet blander de tre\n    ledelsesmæssige discipliner sig sammen i højere grad end på en række andre\n    udvalgsområder. Det kræver <span class=\"GramE\">eksempelvis</span> en høj\n    grad af faglig ledelse at lede frivillige. Frivillige har, i hvert fald\n    til at starte med, ikke noget ”baggrundstæppe” i forhold til det drive\n    forening og søger derfor faglig og administrativ hjælp og støtte ind i\n    kultur- og fritidsområdet. </li>\n    <li>På området drives en række faglige udviklingsprojekter,\n    som fordrer ledelsesmæssig nærhed og faglig ledelsesmæssig viden. Det kan <span class=\"GramE\">eksempelvis</span> handle om KaMiBe projektet, som også\n    trækker tråde over i den tværgående ledelsesdisciplin. </li>\n    <li>Den faglige ledelse kan <span class=\"GramE\">eksempelvis</span>\n    også handle om lokaletildeling, hvor modsatrettede hensyn vanskeliggør\n    processer og netop dér træder den faglige ledelse ind og hjælpe med at\n    prioritere imellem de faglige hensyn. </li>\n    <li>Faglig ledelse handler også om at understøtte\n    frivilligheden og medarbejdernes tilgang til opgaveløsningen, mødet med de\n    frivillig og hele tiden justere arbejdsgange således, at det er nemt at\n    være frivillig, og det kræver stor ledelsesmæssig nærhed i det daglige.</li>\n    <li>Der opleves i disse år et stort forventningspres fra\n    borgere. Det forhold møder den enkelte medarbejder i hverdagen – det\n    betyder, at der er behov for løbende sparring med nærmeste leder omkring\n    den konkrete opgaveløsning. </li>\n</ul>\n<p><strong><em>Administrativ ledelse</em></strong><em> </em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Noget administration er rent ”rugbrødsarbejde”, <span class=\"GramE\">eksempelvis</span> i relation til lønskemaer,\n    ansættelsesprocesser, sygefraværsindberetninger etc. </li>\n    <li>Andet administrativt arbejde er grundforudsætningen for\n    at lykkes med kerneopgaven. Det kan <span class=\"GramE\">eksempelvis</span>\n    handle om optimal arbejdstidsplanlægning, økonomistyring og strategisk\n    prioritering af økonomien, understøttelse af elevråd og bestyrelser etc.</li>\n    <li>Området er i høj grad styret af en række puljer. Dette\n    er <span class=\"GramE\">eksempelvis</span> idrætspuljen og fritidspuljen. Den\n    ledelsesmæssige nærhed til principper, dilemmaer i ansøgninger, klager og\n    generelt spørgsmål fra foreningslivet er stor.</li>\n    <li>Fastholdelse, udvikling og tiltrækning dygtige ledere\n    medarbejdere er en opgave der kræver tid og nærværende ledelse, og som til\n    tider er presset pga. de mange andre ledelsesopgaver.</li>\n</ul>\n<p><strong><em>Tværgående ledelse</em></strong><em> </em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>I Greve Kommune er der en lang række bestyrelser,\n    brugerråd, formænd etc., som har brug for ledelsesmæssig opmærksomhed og\n    der bruges en del ledelsesressourcer på relationsopbygning,\n    mødevirksomhed, besøg og sparring. De frivillige kræver – helt rimeligt –\n    synlighed fra kommunens side, og dette er ofte en ledelsesmæssig opgave\n    eller ledelsesmæssig facilitering af, at det sker.</li>\n    <li>Greve Kommune har også et Frivillighedscenter som\n    dygtigt og kompetent spiller en stor rolle i at understøtte frivillige, få\n    nye projekter til byen og skabe gode oplevelser for kommunens borgere. Der\n    er et tæt ledelsesmæssig samspil mellem lederen af Frivilligcenter Greve\n    og Kultur- og Fritidschefen. </li>\n    <li>Kultur- og Fritidsområdet har til alle tider\n    samarbejdet med en række andre områder. Det er administrationens\n    vurdering, at dette tværgående samarbejde er blevet tiltagende stærkere\n    igennem de seneste år – til glæde og gavn for foreningerne. Det handler <span class=\"GramE\">eksempelvis</span> om samarbejdet med det tekniske område i\n    relation til vedligeholdelse, anlægsprojekter og ønsker i relation hertil\n    fra brugerne, eksempelvis om udviklingen af Mosede Fort </li>\n    <li>I et tværkommunalt perspektiv skal ledelseskraften\n    sættes i spil. Dette kommer <span class=\"GramE\">eksempelvis</span> til\n    udtryk i relation til det tværkommunale samarbejde om Hedeland, Spejdernes\n    Lejr etc. Afklaringer, mødevirksomhed og konkret tværkommunal\n    opgaveløsning sker typisk på direktør- og chefniveau og ved konkret\n    mødevirksomhed, uformelle dialoger og ved produktion af generiske sager på\n    tværs af kommunerne. </li>\n</ul>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0a966f5b-84bf-4c7e-bdd5-651640fec081",
+          "DocumentId": "0a966f5b-84bf-4c7e-bdd5-651640fec081"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-004678",
+      "Navn": "Temamøde om ledelseskompleksitet",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. KFU Ledelseskompleksitet præsentation 29. maj 2024",
+          "Id": "8b6899eb-aaf6-4d30-acf6-98fd4c88df5b"
+        }
+      ],
+      "Documents": null,
+      "Id": "4838392e-cf11-4ffa-91a9-e50cb640fc98",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "24-004678",
+      "SourceId": null,
+      "Caption": "Temamøde om ledelseskompleksitet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Jf. bemærkningen under godkendelsen af dagsordenen besluttede udvalget at tildele Sydkystens karateklub lokaletilskud på 87.500 kr., jf. vedlagte orientering til udvalget fra Sydkystens karateklub.\n<p>Herudover ønsker udvalget at der forelægges en sag om handlemuligheder for at efterkomme Greve Golf Klubs ansøgning om lokaletilskud.</p>\nUdvalget ønsker, at de to henvendelser til udvalget fra henholdsvis Sydkystens karateklub og Greve Golfklub vedlægges protokollen.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen orienteres Kultur- og Fritidsudvalget om, at Greve Golfklub og Sydkystens Karate har ansøgt om lokaletilskud og at administrationen på den baggrund har afdækket, om der kan stilles lokaler til rådighed som et alternativ til lokaletilskud. Administrationen vurderer, at der kan tilvejebringes egnede lokaler og at der dermed ikke er behov for at udbetale lokaletilskud til de to foreninger.  </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Baggrund</em></strong><br>\nGodkendte foreninger kan i henhold til Greveordningen ansøge om et tilskud på op til 80 procent af driftsudgifterne, dog fratrukket andelen af de deltagere, der er over 25 år. For rideklubber er procentsatsen fastsat til 75 procent.<br>\n<br>\nSom et alternativ til udbetaling af lokaletilskud kan administrationen i stedet anvise et egnet lokale.</p>\n<p>I vurderingen af om et anvist lokale kan anses for egnet, skal bl.a. indgå, at lokalet skal ligge i foreningens lokalområde og rumme mulighed for et socialt liv ud over aktiviteten. Der skal endvidere være plads til rekvisitter og udstyr. Lokalets størrelse og standard skal svare til aktivitetens indhold.</p>\n<p>Det er efter administrationens vurdering muligt at finde egnede lokaler i Greve Kommune til Greve Golfklub og Sydkystens Karate Klub, jf. rammerne i folkeoplysningsloven.<br>\n<br>\nGreve Golfklub har ansøgt om 30.000 kr. i lokaletilskud. <br>\nSydkystens Karate har ansøgt om 153.000 kr. i lokaletilskud. <br>\n<br>\n<em><strong>Mulige lokalemæssige løsninger </strong></em><br>\nFor så vidt angår Greve Golfklub vurderer administrationen, at der kan findes egnede lokaler på Tune Skole. <br>\nLokalerne vil kunne anvendes til teoriundervisning og kursusvirksomhed, som det også er gældende for de aktiviteter Greve Golfklub bruger de nuværende lokaler til.</p>\n<p>I relation til Sydkystens Karate vurderer administrationen, at der kan findes egnede lokaler på Hedelyskolen. <br>\nHer vil to gymnastiksale (Drengesalen og Pigesalen), som på nuværende tidspunkt også benyttes af to andre kampsportsforeninger, være egnet som lokaler. <br>\n<br>\nAdministrationen er i dialog med begge foreninger herom og giver på mødet en status herpå.  </p>\n<p><b><em>Generelt om lokaletilskud</em></b><br>\nI 2023 fik ti godkendte folkeoplysende foreninger bevilget lokaletilskud. I 2024 har administrationen modtaget ansøgninger fra 11 foreninger. Heraf to nye ansøgninger fra henholdsvis Greve Golfklub og Sydkystens Karate. </p>\n<p>Jf. Greveordningen kan Kultur- og Fritidsudvalget undlade at give lokaletilskud til:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Nye ansøgninger, hvis der kan anvises et egnet kommunalt lokale.</li>\n    <li>Driftsudgifter til nye haller, herunder ridehaller.</li>\n    <li>Nye lejemål, såfremt lejemålet medfører merudgifter for kommunen.</li>\n    <li>Væsentlige udvidelser af aktivitetsgrundlaget i haller, som indebærer merudgifter for kommunen.</li>\n</ul>\n<p>I 2024 er budgettet på 1.093 mio. til lokaletilskud.</p>\n<p>For de foreninger, der er godkendt til at modtage lokaletilskud, er der pt. bevilliget 1.006. mio. kr.</p>\n<p>Det efterlader en restbudget på 87.500 kr. </p>\n<p>Lokaletilskuddet for de allerede godkendte foreninger fordeler sig som følgende:</p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"401\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Foreninger</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>LT bevilget 2024</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>NTF (Nazarerens Teen F.)</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>9.843</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Greve Roklub</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>1.915</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Sejlklubben Køge Bugt Ungdomshus</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>152.571</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Sejlklubben Køge Bugt</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>35.801</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Greve Atletik</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>14.952</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Greve jagtforening</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>39.019</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Greve Skytteforening</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>14.748</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Greve Karate</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>319.193</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Rideklubben Strøgården</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>204.248</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Adamslyst Sportsrideklub</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>213.280</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p> Hvis ansøgningerne fra Greve Golfklub og Sydkystens Karateklub imødekommes, vil det betyde en en årlig merudgift på 0,109 mio. kr.</p>\n<h4>Lovgrundlag</h4>\n<p>Folkeoplysningsloven §25</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p><span class=\"GramE\">Såfremt Greve Golfklub og Sydkystens Karateklubs ansøgning godkendes, vil det betyde en merudgift på 0,109 mio. kr.</span></p>\n<h4>Øvrige konsekvenser</h4>\n<p>Såfremt de nye ansøgere godkendes, vil det betyde, at de også fremadrettet vil være berettiget til lokaletilskud. </p>\n<p> Såfremt de nye ansøgere ikke godkendes, skal der stilles egnet kommunale lokaler til rådighed.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/65dbea4e-1eaf-4f71-852d-59357fd167c7",
+          "DocumentId": "65dbea4e-1eaf-4f71-852d-59357fd167c7"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-004631",
+      "Navn": "Ansøgning om lokaletilskud og egnede lokaler",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Notat vedr. lokaletilskud",
+          "Id": "07ac85e2-8485-4330-94de-ea720e5df5ef"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Henvendelse til udvalgsformand Anne Marie Lyduch fra Greve Golfklub",
+          "Id": "f445ae07-c160-4fb0-bf21-e20bda7d9c4a"
+        }
+      ],
+      "Documents": null,
+      "Id": "4d0d634d-80ad-41a7-aa10-110050369402",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "24-004631",
+      "SourceId": null,
+      "Caption": "Ansøgning om lokaletilskud og egnede lokaler",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1. Udvalget drøftede rammerne<br>\n2. Udvalget ønsker ikke, at der foretages ændringer i retningslinjerne. <br>\n<br>\nUdvalget ønsker en sag på dagsordenen til et kommende møde vedr. indeværende års lokalefordeling.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen beskriver retningslinjerne og praksis for udlån af kommunale lokaler og udendørsanlæg i Greve Kommune. Sagens indhold er relevant for at sikre en fortsat effektiv og retfærdig proces samt fremme lokale kulturelle, humanitære, sociale og sundhedsmæssige aktiviteter.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at </em></p>\n<ol>\n    <li><em>Kultur- og Fritidsudvalget drøfter rammerne for lokaleudlån. </em></li>\n    <li><em>Kultur- og Fritidsudvalget beslutter, om der skal foretages ændringer i forhold til de nuværende retningslinjer</em></li>\n</ol>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune tilbyder faciliteter og lokaler til en bred vifte af foreninger, institutioner og interessenter i lokalsamfundet ud fra en politisk besluttet fordelingsproces.</p>\n<p><strong><em>Fordelingsproces </em></strong> <br>\nHvert 2. år godkender Lokalefordelingsudvalget sæsonfordelingen for alle kommunale lokaler og udendørsanlæg efter prioriteret rækkefølge. Se bilag 1. I modsatte år skal alle foreninger genansøge deres tider, for at bekræfte fortsat brug. Det er i de modsatte år ikke muligt at fratage foreningernes tildelte tider, hvis foreningen fortsat gør brug af tiden. <br>\nSæsontider ansøges via kommunens bookingsystem i perioden fra den 1. januar – 31. januar. Særarrangementer godkendes én gang årligt med ansøgningsfrist den 1. april. <br>\n<br>\nEr der konflikter i tildeling af tider løses disse så vidt muligt i samråd med Lokalefordelingsudvalget og foreningerne. Kan der ikke opnås enighed, træffer Lokalefordelingsudvalget beslutning om fordeling. <br>\nNår sæsonfordeling og særarrangementer er fastlagt i løbet af april, åbnes der op for løbende serielle- og enkeltbookinger i kommende sæson.</p>\n<p>Administrationen følger disse retningslinjer ved fordeling af kommunens lokaler, dog har der de sidste par år været kutyme for, at administrationen har udsendt afgørelsen af en konfliktløsning, og ikke Lokalefordelingsudvalget.</p>\n<p><em>Udlånskategorier</em><em>:</em><br>\nGreve Kommune udlåner lokaler til følgende grupper:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Folkeoplysende foreninger</li>\n    <li>Ikke folkeoplysende foreninger</li>\n    <li>Kommunale institutioner og personaleforeningen</li>\n    <li>Andre der ønsker at leje lokalerne mod betaling. Kulturelle arrangementer med humanitært, socialt eller sundhedsmæssigt formål kan låne lokalerne uden opkrævning af leje. </li>\n</ul>\n<p> <em>Regler for benyttelse:</em><br>\nVed benyttelse af kommunens faciliteter, er der en række regler, der skal overholdes. Reglerne er listet op nedenfor jfr. retningslinjerne. Betegnelsen ”foreninger” refererer til alle ovenstående grupper: </p>\n<ol>\n    <li>Kommunale lokaler m.v. der fremgår af kommunens bookingsystem kan kun anvendes, hvis de er søgt og godkendt via kommunens bookingsystem.</li>\n    <li>Der kan rettes henvendelse til administrationen vedrørende kommunale lokaler m.v. der ikke fremgår af kommunens bookings system. Det gælder dog ikke ved udlån af bassinerne i Greve Svømmehal og faciliteterne med selvforvaltning, da disse faciliteter har egen bookingproces</li>\n    <li>Et lokale m.v. kan kun benyttes\n    <ul style=\"list-style-type: disc;\">\n        <li>Til det ansøgte formål</li>\n        <li>Hvis foreningen har udpeget mindst en ansvarlig leder/instruktør, der er til stede under hele udlånstiden. </li>\n        <li>Til personfarlige aktiviteter, hvis den er godkendt til aktiviteten og hvis mindst én sikkerhedsuddannet person er til stede inden for den specifikke aktivitet (for eksempel trampolin sikkerhedskursus og bassinprøve ved vandaktiviteter). Godkendelse skal ske gennem administrationen samt hvis muligt specialforbund (for eksempel Dansk Skytte Union, Bueskytte Danmark eller lignende) samt eventuelt politiet. Tvivlstilfælde afgøres af administrationen.</li>\n        <li>I den lånte tid, inklusive opsætning, nedtagning og oprydning, så det står klar til næste forening\n        <ul style=\"list-style-type: circle;\">\n            <li>Det er muligt at tilgå omklædningsfaciliteter fra 15 minutter før udlånstid</li>\n            <li>Faciliteten skal være forladt senest 30 minutter efter sidste udlån på faciliteten</li>\n            <li>Eventuelt ophold i lokalet udenfor egen tid må kun ske, hvis det ikke er til gene for foreningen, der låner lokalet i den pågældende tid.</li>\n        </ul>\n        </li>\n    </ul>\n    </li>\n    <li>Lån af udstyr skal altid aftales med teknisk servicepersonale samt ejeren af udstyret</li>\n    <li>Det er ikke tilladt at afholde arrangementer, der inkluderer dyr i indendørs lokaler</li>\n    <li>Foreningen skal straks meddele det tekniske servicepersonale og/eller administrationen, hvis der opdages, mangler eller beskadigelser af udstyr eller lokaler m.v.</li>\n    <li>Foreningen har ansvaret for, at d eudlånte lokaler og faciliteter behandles ordentligt og efter aftale med den tekniske servicepersonale</li>\n    <li>Greve Kommune kan kræve betaling for oprydning, hvis et lokale m.v. ikke afleveres i den stand det er overtaget eller aftalt med den tekniske servicepersonale </li>\n    <li>Hvis en forening har brug for opbevaring af udstyr aftales det med teknisk servicepersonale. Greve Kommune er dog ikke forpligtet til at stille opbevaringsplads til rådighed, og det er foreningens ansvar at opbevare og forsikre eventuelt udstyr</li>\n    <li> Foreningen har fuldt erstatningsansvar for den lånte facilitet inklusiv udstyr</li>\n    <li> Hvis en forening vil stoppe brugen af et lokale, skal det straks meddeles til administrationen.</li>\n    <li> Hvis en forening har adgang til en ellers aflåst facilitet, er det foreningens ansvar at holde faciliteten aflåst før, under og efter brug</li>\n    <li> Greve Kommune kan kræve betaling ved unødig aktivering af tyveri- eller brandalarm</li>\n    <li> Greve Kommune kan inddrage en forenings tilladelse til at bruge lokaler m.v. for specifikke tider, hvis foreningen misligholder brugen. Vurderingen om en tid er misligholdt foretages af administrationen i samarbejde med lokalefordelingsudvalget ud fra kontroloptællinger og dialog med den pågældende forening</li>\n    <li>Administrationen kan til enhver tid flytte foreningens aktivitet til et andet egnet lokale m.v. ud fra en helhedsvurdering af faciliteternes udnyttelse</li>\n    <li> Alle instrukser for faciliteterne skal nøje overholdes, ellers kan udlån ophøre øjeblikkeligt</li>\n    <li> Foreninger må gerne bytte tildelte tider indbyrdes, men det skal registreres i booking systemet. Tildelte lokaler må ikke videreudlånes eller videreudlejes</li>\n    <li>De i retningslinjerne angivet åbningstider skal overholdes af den part, der låner lokalet</li>\n</ol>\n<h4>Lovgrundlag</h4>\n<p>Folkeoplysningsloven kapitel 6. §§21-22</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f90f88c0-f24b-4a98-955d-2276412bd84d",
+          "DocumentId": "f90f88c0-f24b-4a98-955d-2276412bd84d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-004275",
+      "Navn": "Rammer for lokaleudlån",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Retningslinjer for udlån",
+          "Id": "e5d91948-12ab-42b9-8716-04b102caf620"
+        }
+      ],
+      "Documents": null,
+      "Id": "6f06e70d-7236-4b4f-959e-45a58c9ee2a0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "24-004275",
+      "SourceId": null,
+      "Caption": "Rammer for lokaleudlån",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt.</p>\n<p>2. Ikke godkendt idet udvalget ønsker, at der potentielt kan ske en ny ansøgningsrunde i efteråret.</p>\n<p>3. Taget til efterretning.</p>\n<p>Udvalget ønsker en sag på dagsordenen til et kommende møde vedr. handlemuligheder for genetablering af Greve Awards finansieret inden for udvalgets budget.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Greve Kommune indgår partnerskab med foreninger for at opnå ønskede\neffekter beskrevet i Kultur-, Idræts-, og Fritidspolitikken. Udvalget skal i\ndenne sag forholde sig til ansøgninger for 2024 og fordeling af puljen.\nEvaluering af partnerskaber fra 2023 er vedlagt sagen som bilag til\nudvalgets orientering.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<p><em>1. at de anbefalede partnerskaber godkendes</em></p>\n<p><em>2. at overskydende puljemidler tilgår kassebeholdningen</em></p>\n<p><em>3. at evalueringen fra 2023 tages til efterretning </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Et <span class=\"grame\">partnerskab</span> mellem Greve kommune og\nforeningerne kan spænde bredt. Det kan være konkrete samarbejder mellem\nforeninger og kommunale enheder som skoler, daginstitutioner, plejecentre,\nkulturinstitutioner og sundhedspleje. Det kan også være selvstændige foreningsaktiviteter,\nder med støtte via et partnerskab løfter et politisk prioriteret indsatsområde\ni en særlig grad.</p>\n<p>I alt 7 foreninger har ansøgt om 10 partnerskaber for i alt 307.000 kr. Alle\nansøgningerne er etårige partnerskaber. Der er budgetteret 382.227 kr. til\npartnerskaber med foreninger i 2024.</p>\n<p>Hvis ansøgninger <span class=\"grame\">godkendes jf. administrationens\nanbefaling,</span> gives der bevillinger for 257.000 kr.</p>\n<p>Der vil i alt være 125.227 kr. resterende i partnerskabspuljen.</p>\n<p><em><strong>Administrativ vurdering af ansøgningerne</strong></em></p>\n<p>I den administrative vurdering er lagt vægt på\nfølgende:        </p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Der er prioriteret indsatser, der understøtter\n    ambitioner og værdier i Kultur-, Idræts- og Fritidspolitikken og Byrådets\n    Vision Naturligvis Greve</li>\n    <li>Greve Gymnastisk og Trampolin har ansøgt om fire\n    partnerskaber. Administrationens anbefaling er, at alle projekterne\n    prioriteres. Det er administrationens vurdering, at alle fire indsatser\n    har stor værdi og taler direkte ind i Kultur-, Idræts- og Fritidspolitikken\n    og Byrådets Vision Naturligvis Greve. Det vurderes ligeledes at foreningen\n    både har kompetencer og ressourcer til at gennemfører alle fire\n    partnerskaber</li>\n</ol>\n<p><em><strong>Mosede Dart klub</strong></em> </p>\n<p>Mosede Dart klub har ansøgt om midler til udgifter, der jf. retningslinjerne for partnerskaber ikke kan ydes tilskud til. Administrationen vurderer, at ønsket om dækning af busaktiviteter betragtes som normale driftsudgifter. Derfor er bevilling reduceret.</p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"611\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Forening</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Titel\n            på partnerskab</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Ansøgt\n            beløb</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Administrativ\n            anbefaling til bevilling i kr.</span></strong></p>\n            <p> </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Greve Bordtennis </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Motorisk, balance og\n            koordination træning <br>\n             </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>24.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>24.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Greve Gymnastik\n            & Trampolin </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Motorisk udvikling af børn\n            i daginstitution Vuggestue og Børnehaver. </span></p>\n            <p><span> </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>30.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>30.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Greve Gymnastik\n            & Trampolin </span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Idrætsfaglig\n            parathed til eksamen, kropsforståelse og træning af unge i udskolingen 9. og\n            10. klasse.</span></p>\n            <p><span> </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>15.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>15.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Greve Gymnastik\n            & Trampolin </span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Træning med\n            unge arbejdsløse/kriminelle. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>25.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>25.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Greve Gymnastik\n            & Trampolin </span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Unge bevæger\n            foreningen - samarbejde med gymnasie og 10. klasse </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>20.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>20.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Karlslunde\n            Idrætsforening </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Ungdoms Petanque - Flere\n            børn er aktive i forenings- og fritidslivet </span></p>\n            <p><span> </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>25.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>25.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Greve Cykle Club </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span class=\"spelle\">BørneTour</span><span> i Greve </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>35.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>35.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Mosede Dart\n            Klub </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Rekruttere og fastholde\n            flere unge i dart</span></p>\n            <p><span> </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>75.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>25.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Sydkystens\n            Karate Klub </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Flere Børn,\n            Unge og Voksne øget motorik, fysik, velvære, glæde & sammenhold </span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>46.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>46.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Greve\n            Karate </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span class=\"spelle\">Skoleklar</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>12.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>12.000 kr.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><em><span>Total</span></em></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>307.000 kr.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>257.000 kr.</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><em><strong>Evaluering af partnerskaber 2022/2023</strong></em></p>\n<p>Administrationen i Kultur og Fritid har evalueret partnerskaber fra sidste\nperiode. Notat om evaluering er vedlagt sagen som bilag.</p>\n<p>Overordnet kan det konkluderes, at gennem partnerskaberne har foreningerne\nformået at fastholde og inkludere borgere i aktive fællesskaber og skabt tilbud\ntil målgrupper, der ellers kan have svært ved at indgå i foreningslivet.</p>\n<p>Evalueringen er indgået i vurderingen af nye ansøgninger, hvor det har været\nrelevant.</p>\n<h4>Lovgrundlag</h4>\n<p>De politisk besluttede retningslinjer for partnerskabsaftaler med foreninger\ni Greve Kommune.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er budgetteret med 382.227 kr. til partnerskaber med\nforeninger i 2024. Hvis ansøgninger <span class=\"grame\">godkendes,</span> bevilges\nder 257.000 kr., og de resterende 125.227 kr. tilgår kassen.</p>\n<h4>Kommunikation</h4>\n<p>Foreningerne informeres så hurtigt som muligt efter godkendelse.</p>\n<p> </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7ff027e6-ee46-4ae6-9c39-a713aa0a1799",
+          "DocumentId": "7ff027e6-ee46-4ae6-9c39-a713aa0a1799"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003743",
+      "Navn": "Partnerskaber med foreninger",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Administrativ vurdering af partnerskab ansøgninger",
+          "Id": "d47426a1-9f1f-4b8e-9505-8bbf2fcc8be0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Evaluering af partnerskaber",
+          "Id": "df95c8c8-b665-4778-9bf5-d5aab328128f"
+        }
+      ],
+      "Documents": null,
+      "Id": "3e3bacea-2414-4e93-8d3b-36f606ffd42b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "24-003743",
+      "SourceId": null,
+      "Caption": "Partnerskaber med foreninger",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt.</p>\n<p>2. Ikke godkendt idet udvalget ønsker, at der potentielt kan ske en ny ansøgningsrunde i efteråret.</p>\n<p>Udvalget ønsker en sag på dagsordenen til et kommende møde vedr. retningslinjer for Handicappuljen. Høringssvaret fra DH Greve vedlægges.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen omhandler Greve Kommunes årlig uddeling af tilskud til\nforeningsaktiviteter indenfor handicapområdet med det formål at skabe bedre tilbud\nfor personer i Greve Kommune med handicap/funktionsnedsættelser. Kultur - og\nFritidsudvalget skal tage stilling til ansøgningerne og fordelingen af puljen.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<p><em>1. at de anbefalede ansøgninger godkendes </em></p>\n<p><em>2. at overskydende puljemidler tilgår kassebeholdningen</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune giver tilskud til foreningsaktiviteter indenfor\nhandicapområdet med det formål at skabe bedre tilbud for personer i Greve\nKommune med handicap/funktionsnedsættelser.</p>\n<p>Ved tildeling af støtte tages der hensyn til alsidighed i tilbud og\nindsatser, målgruppe og geografisk placering i kommunen. Denne hensyntagen er i\ntråd med tilskud til ordinære foreningsaktiviteter støttet fra Idrætspuljen og\nFritidspuljen. Hensynet har til hensigt at fremme et varieret og inkluderende\nforeningsliv for alle Greve Kommunes borgere i deres nærområde. Der er på den\nbaggrund ingen øvre eller nedre grænse for det enkelte tilskud, dog tildeles\nstøtten med øje for, at finansiering sker via den samlede ramme for\nIdrætspuljen og Fritidspuljen og dermed reducerer puljemidlerne til øvrige\nformål</p>\n<p>Tilskud til handicapaktiviteter kan gives til alle godkendte folkeoplysende\nforeninger i Greve Kommune, som afholder aktiviteter for en målgruppe med en\nfysisk eller mental funktionsnedsættelse. Funktionsnedsættelsen kan være af\nvarierende grad og omfang, hvorfor tilskuddet beror på en vurdering af denne i\ntilknytning til den specifikke aktivitet, som tilbydes af foreningen. Tilskud\nkan gives til aktiviteter for alle aldersgrupper.</p>\n<p>I alt 2 foreninger har ansøgt om midler for i alt 80.291 kr. </p>\n<p>Der er budgetteret 135.000 kr. i handicappuljen i 2024.</p>\n<p>Hvis ansøgninger godkendes, gives der bevillinger for 36.800 kr.</p>\n<p>Der er i alt 98.200 kr. resterende i handicappuljen.</p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"582\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Forening</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Ansøgt\n            beløb</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Titel\n            på </span></strong><span class=\"spelle\"><strong><span>ansøgning</span></strong></span></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Administrativ\n            vurdering.</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Administrativ\n            anbefaling til bevilling i kr.</span></strong></p>\n            <p><span> </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Sejlklubben\n            Køge Bugt </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4.500 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Handicap\n            sejlads - løftesejl</span></p>\n            <p> </p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Administrationen vurderer at ansøgningen\n            ligger inden for retningslinjerne for puljen. </span></p>\n            <p> </p>\n            <p><span>Administrationen anbefaler at det fulde\n            beløb bevilliges.</span></p>\n            <p><span> </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4.500 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Sejlklubben\n            Køge Bugt </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>22.300 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Handicap\n            sejlads - både</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Administrationen vurderer at ansøgningen\n            ligger inden for retningslinjerne for puljen. </span></p>\n            <p> </p>\n            <p><span>Administrationen anbefaler at det fulde\n            beløb bevilliges.</span></p>\n            <p><span> </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>22.300 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Sejlklubben\n            Køge Bugt </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3491 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Handicap\n            sejlads</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Jf. Retningslinjerne kan der ikke søges\n            tilskud til aktiviteter eller materiale der også kan bruges til ordinære\n            foreningsaktiviteter.</span></p>\n            <p> </p>\n            <p><span>Administrationen anbefaler at bevillingen\n            ikke imødekommes.</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>0 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Stjernedrys </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>10.000 kr. </span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Årlige bakketur\n            med vores medlemmer</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Jf. Retningslinjerne kan der ikke søges\n            tilskud til <span class=\"SpellE\">træningsamlinger</span> eller lignende.</span></p>\n            <p> </p>\n            <p><span>Administrationen anbefaler at bevillingen\n            ikke i møde kommes.</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>0 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Stjernedrys </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>20.000 kr. </span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Udstyr</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Administrationen vurderer at ansøgningen\n            ligger inden for retningslinjerne for puljen. </span></p>\n            <p> </p>\n            <p><span>Administrationen vurderer at udgifter til\n            udstyr kan gøres for et reduceret beløb.</span></p>\n            <p> </p>\n            <p><span>Administrationen anbefaler at det det\n            reduceret beløb bevilliges.</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>10.000 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Stjernedrys </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>20.000 kr. </span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Træningslejr</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Jf. Retningslinjerne kan der ikke søges\n            tilskud til <span class=\"SpellE\">træningsamlinger</span> eller lignede.</span></p>\n            <p> </p>\n            <p><span>Administrationen anbefaler at bevillingen\n            ikke i møde kommes.</span></p>\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>0 kr. </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Total</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>80.291 kr.</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>36.800 kr.</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<h4>Lovgrundlag</h4>\n<p>De politisk besluttede retningslinjer for partnerskabsaftaler med foreninger\ni Greve Kommune.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Hvis ansøgninger godkendes, bevilges der 36.800 kr., og de\nresterende 98.200 kr. tilgår kassen.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/abc4c598-5988-4acb-9877-e15cd6b749d1",
+          "DocumentId": "abc4c598-5988-4acb-9877-e15cd6b749d1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003746",
+      "Navn": "Handicappulje 2024",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. administrativ vurdering af Handicappulje ansøgninger",
+          "Id": "f25cdd12-9388-46cd-9cfd-f01f59a2a943"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Høringssvar fra DH Greve",
+          "Id": "ad991d8a-7ba4-4961-abf6-1761ba44a9ed"
+        }
+      ],
+      "Documents": null,
+      "Id": "5fb9910a-06fd-4942-9821-da06c0c26e04",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "24-003746",
+      "SourceId": null,
+      "Caption": "Handicappulje 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I denne sag orienteres fagudvalget om indholdet i budgetopfølgning 1 2024 inden for eget udvalgsområde. Budgetopfølgning 1 2024 blev behandlet i Byrådet den 22. maj 2024.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at sagen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Denne sag skal ses i sammenhæng med den samlede budgetopfølgning 1 2024, som er udarbejdet pr. 29. februar 2024 og bliver behandlet i Byrådet den 22. maj 2024.</p>\n<p>Det korrigerede budget for Kultur- og Fritidsudvalget var pr. 29. februar 2024 på 94,9 mio. kr.</p>\n<p>Afvigelser på udvalgets område gennemgås nedenfor.</p>\n<p><strong><em>Områder under Kultur- og Fritidsudvalget</em></strong></p>\n<p>På udvalgets område forventes et samlet merforbrug på 0,429 mio. kr.</p>\n<p>Den forventede afvigelse skyldes forventet mindreindtægt for Greve Svømmehal på 0,5 mio. kr. og opkrævning af solceller i KIF på 0,1 mio. kr. Desuden forventes merudgift til løn på Tune Borgerhus på 0,1 mio. kr., samt mindreforbrug på Greve Kulturbase på -0,271 mio. kr.</p>\n<p>Der henvises til bilag 1 til sagen, der viser de enkelte forskydninger på udvalgets område.</p>\n<p><em>Merudgifter til fordrevne fra Ukraine:</em> Administrationen forventer i alt ekstraudgifter forbundet med fordrevne fra Ukraine på 11,0 mio. kr. 2024. Merudgiften indgår ikke i det samlede resultat af budgetopfølgning 1, da kommunerne forventes kompenseret for udgifter til fordrevne fra Ukraine ifm. Økonomiaftalen mellem Regeringen og KL. Isoleret på Kultur- og Fritidsudvalgets område forventes merforbrug forbundet med fordrevne fra Ukraine på 0,2 mio. kr. på klubområdet. Disse indgår i det samlede resultat på 11,0 mio. kr.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen selvstændige økonomiske konsekvenser, da disse ligger i bevillingssagen til budgetopfølgning 1, som blev behandlet af Byrådet den 22. maj 2024.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2e07091d-3b0b-47c0-8d4b-a98ffc3d7d08",
+          "DocumentId": "2e07091d-3b0b-47c0-8d4b-a98ffc3d7d08"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-013403",
+      "Navn": "Budgetopfølgning 1 (2024) - Kultur- og Fritidsudvalget",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Afvigelser på drift Kultur- og Fritidsudvalget",
+          "Id": "53a4265f-c94b-44f1-8b40-4fde1a63dbd6"
+        }
+      ],
+      "Documents": null,
+      "Id": "db62b80a-9ffa-4515-be03-939da6ee900e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "23-013403",
+      "SourceId": null,
+      "Caption": "Budgetopfølgning 1 (2024) - Kultur- og Fritidsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Udvalgsformanden orienterede om følgende;  \n<p>- henvendelser om lokalefordeling</p>\n<p>- henvendelse om cykelløb</p>\n<p>- Dialog med Greve atletik</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget. </p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/35dd15dd-bdc5-45f5-891b-91f87dbf9167",
+          "DocumentId": "35dd15dd-bdc5-45f5-891b-91f87dbf9167"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014479",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "16a667c0-1ea2-4d6b-a255-0e1fb648e7e6",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-014479",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p>\n<em><strong>- Status for Greve Bibliotek</strong></em></p>\n<p><em><strong>- Status for faglig udflugt for udvalget</strong></em></p>\n<p><em><strong>- Fugletårnet Rævebakke</strong></em></p>\n<p><em><strong>- Brug af gymnasiet</strong></em></p>\n<p><em><strong> </strong></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8f273ca8-b4b5-4d2b-87ed-8d1acf64ae7b",
+          "DocumentId": "8f273ca8-b4b5-4d2b-87ed-8d1acf64ae7b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013714",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4041beb2-c677-4dbb-bf19-a0624349b47c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-013714",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Kultur- og Fritidsudvalgets møder og møder i tilknytning til udvalget. </p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning. </i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e224128a-ed49-4da6-85cc-9ad6e7fc8129",
+          "DocumentId": "e224128a-ed49-4da6-85cc-9ad6e7fc8129"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014480",
+      "Navn": "Kultur- og Fritidsudvalget - mødekalender 2024",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kultur- og Fritidsudvalgets mødekalender 2024 - maj",
+          "Id": "36a6038e-2505-439d-8cfc-6976eda9dc64"
+        }
+      ],
+      "Documents": null,
+      "Id": "d83c902d-d9ee-4f56-a8e8-9439ea8a269f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-014480",
+      "SourceId": null,
+      "Caption": "Kultur- og Fritidsudvalget - mødekalender 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9fc2c8d3-494d-4897-804d-f3a340477cde",
+          "DocumentId": "9fc2c8d3-494d-4897-804d-f3a340477cde"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014481",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2d6dc2ad-a3e4-472e-9b25-f866e4e74cb1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-014481",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "425869ca-7441-4d9d-b497-27bc7d5bbbc2",
+    "Navn": "Kultur- og Fritidsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-05-29T16:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-05-29T16:30:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "83201ce4-ad5e-4879-8bd4-54ea5c01d525",
+  "Lydfiler": null
+}

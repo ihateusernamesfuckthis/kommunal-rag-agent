@@ -1,0 +1,695 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 23. april 2024.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6206a815-3f0d-4b15-9752-caf0a6eb61fb",
+          "DocumentId": "6206a815-3f0d-4b15-9752-caf0a6eb61fb"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014470",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "eb82492c-943a-4d60-8f2a-b8065d04b146",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014470",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Greve Kommunes Børne- og Ungepolitik sætter rammen for arbejdet med Børn, unge og deres familier. Sundhedsplejen i Greve Kommune arbejder med at omsætte politikken i konkrete handlinger. Sundhedsplejen vil fortælle om arbejdet med familierne og de indsatser der understøtter den politiske ramme</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget tager orienteringen til efterretning</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den kommunale Sundhedspleje møder som udgangspunkt alle familier og børn i Greve Kommune og har en umiddelbar adgang til at støtte, hjælpe og yde råd og vejledning. Sundhedsplejen i Greve Kommune har mange kompetencer og leverer en lang række indsatser i relation til den generelle sundhed med også tilbud af forebyggende karakter, i de tilfælde hvor familier har brug for særlig støtte. Sundhedsplejen prioriterer en tidlig, forebyggende indsats i samarbejde med familien.</p>\n<p>Greve Kommunes Børne- og Ungepolitik peger på at Familien er den vigtigste ressource, og der arbejdes ud fra en tilgang om, at børn og deres forældre hører sammen. Hvis børn og unge er i vanskeligheder i kortere eller længere tid, iværksætter Greve Kommune de rette indsatser, så vidt muligt sammen med familien, med afsæt i familiens ressourcer og opfattelse af egen situation. </p>\n<p>Greve Kommunes Børne- og Ungepolitik understøtter Byrådets vision ”Naturligvis Greve gennem helhedssyn og fællesskaber”, hvor det er et centralt omdrejningspunkt i forhold til at skabe trivsel højt.  </p>\n<p> Leder af Sundhedsplejen Henriette Weberg i Greve Kommune deltager under behandlingen af dette punkt og fortæller om arbejdet med tidligt forebyggende indsatser.</p>\n<h4>Lovgrundlag</h4>\n<p>Sundhedsloven.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p><span>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</span></p>\n<p><em><strong>Øvrige forhold</strong></em></p>\n<p>Der er afsat tid til dette dagsordenspunkt fra kl. 8.15 - 8.45.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d296082a-a51a-499e-9caf-c6a09fbf8625",
+          "DocumentId": "d296082a-a51a-499e-9caf-c6a09fbf8625"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003968",
+      "Navn": "Sundhedsplejens arbejde med Børne- og Ungepolitikken",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "12c19f82-1f07-47c4-b5ae-ce6c1c3ce3bb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "24-003968",
+      "SourceId": null,
+      "Caption": "Sundhedsplejens arbejde med Børne- og Ungepolitikken",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget evaluerede turen og udtrykker stor tilfredshed med det faglige udbytte. I forlængelse heraf ønsker udvalget, at der forelægges en sag med forslag til inddragelse af medarbejdere og bestyrelser i erfaringerne fra Norge.</p>\n<p>Orienteringen blev taget til efterretning.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Skole-, Børne- og Ungeudvalget har torsdag den 11. april og fredag den 12. april 2024 været på studietur. <br>\nI sagen evaluerer udvalget studieturen.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at udvalget tager orienteringen til efterretning. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Skole-, Børne- og Ungeudvalget har været på studietur torsdag den 11. april og fredag den 12. april 2024 med henblik på at søge inspiration til implementering af Børne- og Ungepolitikken og anbefalingerne i den specialpædagogiske analyse. På mødet evaluerer udvalget studieturen. </p>\n<h4>Lovgrundlag</h4>\n<p>Folkeskoleloven og Barnets lov er omdrejningspunktet i Børne- og Ungepolitikken og anbefalingerne i den specialpædagogiske analyse. </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0f699484-9bb8-44cf-b36a-f1ae5c205c99",
+          "DocumentId": "0f699484-9bb8-44cf-b36a-f1ae5c205c99"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-004047",
+      "Navn": "Evaluering af studietur",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b153358e-4032-46a4-9209-707fb9e1afa5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "24-004047",
+      "SourceId": null,
+      "Caption": "Evaluering af studietur",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1. Udvalget drøftede materialet til sagen, og ønsker I den sammenhæng at få fremsendt en oversigt over kontoplanerne på det samlede udvalgsområde.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget, Sundheds- og Omsorgsudvalget, Social-\nog Handicapudvalget, Skole-, Børne- og Ungeudvalget, Plan- og Tryghedsudvalget, Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Nærværende sag danner rammen for fagudvalgenes orientering og drøftelse i\nforhold til Budget 2025-28 frem mod Byrådets temamøde den 22. maj 2024. I sagen\nforelægges som baggrundsmateriale kan/skal-kataloget, oversigt over tidligere\nforeslåede effektiviseringsforslag samt opmærksomhedspunkter fra Byrådets\ntemamøde den 17. april 2024. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at </em></p>\n<ol>\n    <li><em>fagudvalget drøfter, hvordan det samlede finansieringsbehov kan tilvejebringes med særlig fokus på fagudvalgets område</em></li>\n    <li><em>Byrådet tager tilbagemelding fra fagudvalgene til efterretning </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Budgetprocessen for 2025-28 er på mange områder godt i gang.\nBudgetanalyserne er i gang, arbejdet med kan/skal-kataloget og nye\neffektiviseringsforslag <span class=\"grame\">pågår</span> i administrationen og der kigges på niveauet for tekniske\nrettelser. Økonomiudvalget og Byrådet har desuden på møderne henholdsvis\nden 28. februar (pkt. 4) og 13. marts 2024 (pkt. 7) fået forelagt sag\nvedrørende Budget 2025-28 - herunder status og måltal.</p>\n<p>I forhold til udarbejdelsen af de samlede effektiviseringsforslag anbefales det, at udvalget orienterer sig i nedenstående samt det vedlagte baggrundsmateriale og kommer med konkrete input og forslag til, hvordan det samlede finansieringsbehov kan udmøntes.</p>\n<p><em><strong>Status og finansieringsbehov</strong></em></p>\n<p>På nuværende tidspunkt forventer administrationen, at der er et samlet finansieringsbehov\ni omegnen af 40 mio. kr. i 2025. Finansieringsbehovet skal dække forventede\nmerudgifter, som vurderes at påvirke 2025, tekniske rettelser og eventuelle\nudvidelsesforslag. Der henvises til sag på Byrådsmødet den 13. marts 2024 (pkt. 7) for\nnærmere uddybning og beskrivelse.</p>\n<p>Det er vigtigt at understrege, at budgetprocessen stadig er på et tidligt\nstadie og der er flere usikkerheder og uafklarede forhold, som endnu ikke er på\nplads.</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Økonomiaftalen for 2025</li>\n    <li>Beregning af konsekvensen af den demografiske udvikling</li>\n    <li>Udvikling i pris- og lønniveau</li>\n    <li>Skattegrundlag og indtægt</li>\n    <li>Endeligt niveau for tekniske rettelser</li>\n    <li>Udvidelsesforslag samt mulige effektiviseringsforslag</li>\n</ul>\n<p>Det nuværende bud på måltal i forhold til finansieringsbehov i 2025 er\nderfor usikkert, men der er behov for at finde effektiviseringsmuligheder.</p>\n<p>Inspiration til nye effektiviseringsforslag kan findes i <span class=\"spelle\">Benchmarkanalysen</span> fra 2023,\nOplæg fra Råderumsugen 2023, Kommunale effektiviseringstiltag fra KL´s idebank for 2024, Regnskab 2023 og BO0 2024, som sammen med de enkelte\nkan/skal-kataloger danner grundlag for beskrivelsen af nye\neffektiviseringsforslag.</p>\n<p><em><strong>Kan/skal-kataloget</strong></em></p>\n<p>Byrådet besluttede på møde den 30. januar 2023 (pkt. 14), at der som en del\naf budgetprocessen for 2024-27 skulle udarbejdes en budgetanalyse med\nbeskrivelse af kommunale kan- og skal-opgaver, herunder regler for fastsættelse\naf tilskud og nuancer i forhold til skal-opgaver. Der blev for hvert fagudvalg\nudarbejdet et overordnet katalog over de enkelte budgetposter inddelt i tre\noverordnede kategorier, jf. nedenfor, som blev fremlagt sidste år, jf.\nByrådsmødet den 15. maj 2023 (pkt. 14).</p>\n<p>        A. Lovbestemt - Objektive kriterier, ekstern\nvurdering eller afledt effekt</p>\n<p>        B. Lovbestemt - Konkret intern vurdering af\nbehov eller fastlæggelse af serviceniveau</p>\n<p>        C. Ikke lovbestemt - Fri intern fastlæggelse af\nserviceniveau</p>\n<p>Kataloget er udarbejdet med henblik på at give overblik og nogle\nbudgetposter omfatter derfor flere forskellige opgaver. <span>Kataloget er blevet opdateret med </span>udgangspunkt i\nBudget 2025 og der er udarbejdet en udgave pr. fagudvalg. Samtlige kataloger er\nvedlagt denne sag, så det er muligt for fagudvalgene både at dykke ned i eget\nkatalog og også se de øvrige kataloger til orientering og inspiration.</p>\n<p>Det indstilles, at fagudvalgene drøfter kan/skal-kataloget indenfor eget område og kommer med forslag til, hvordan det samlede finansieringsbehov kan tilvejebringes.<span></span></p>\n<p><em><strong>Tidligere foreslåede effektiviseringsforslag</strong></em></p>\n<p>På baggrund af ovenstående er det administrationens vurdering, at der også\ner behov for at kigge på tidligere foreslåede effektiviseringsforslag, jf.\nnedenfor. </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Effektiviseringsforslag med gradueringsmuligheder i\n    forbindelse med Budget 2024-27</li>\n    <li>Øvrige effektiviseringsforslag fra tidligere\n    budgetprocesser, som ikke er blevet vedtaget og implementeret</li>\n</ul>\n<p>Der er vedlagt en samlet oversigt over de umiddelbare forslag, som samlet\nset summer op til ca. 35 mio. kr. i 2025 og ca. 56 mio. kr. i 2026 og\nfrem. Administrationen er i gang med at gennemgå og kvalificere samtlige\nforslag i forhold til at vurdere, om det stadig vil være muligt at\nimplementere. Der er også et vis overlap mellem en række af forslagene,\nhvorved ikke alle forslag vil kunne implementeres med de angivne beløb og\nbeløbene vil ydermere skulle omregnes til 2025-niveau.</p>\n<p>I forhold til budgetarbejdet og de samlede  effektiviserings- og besparelsesforslag (både de nye og tidligere) er der aftalt en bred MED-inddragelse i organisationen. Det gælder både i forbindelse med selve udarbejdelsen af de konkrete forslag, ligesom der i skabelonerne nu også er mulighed for indsættelse af kommentarer fra MED, og i forbindelse med arbejdet med budgetanalyserne. HovedMED inviteres ligeledes med til temamøder med Byrådet og bliver derudover løbende inddraget og orienteret på diverse øvrige møder.</p>\n<p><em>Opmærksomhedspunkter fra Byrådets temamøde den 17. april 2024</em></p>\n<p>I forhold til den samlede tids- og procesplan er der temamøde med Byrådet og <span class=\"spelle\">HovedMED</span>\nden 17. april 2024 med fokus på seneste status på kommunens økonomi for det\nkommende budgetår. Indholdet på temamødet har fokus på nuværende udfordringer samt forventede rammer og finansieringsbehov i 2025, effektiviserings- og besparelsesforslag, budgetanalyser og andre sager med konsekvenser for økonomien i 2025-28 - herunder bl.a. befolkningsprognosens betydning for forventningerne til 2025. Den nuværende velfærdsborgersamling og inddragelse i et bredere perspektiv berøres også.</p>\n<p><em><strong>Videre proces</strong></em></p>\n<p>Efter behandling i fagudvalgene vil input blive drøftet i både\nØkonomiudvalget og på ordinært møde i Byrådet. Der er desuden planlagt temamøde med\nByrådet den 22. maj 2024 primært omkring anlæg, men hvor fagudvalgenes konklusioner eventuelt også kort vil blive opsummeret. </p>\n<p>Der gælder desuden i hovedtræk nedenstående tidsplan:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>3. juni: Der åbnes op for budgetspørgsmål</li>\n    <li>12. og 26. juni: Status på budgettet på henholdsvis ØU og BY</li>\n    <li>21. august: Temamøde om direktionens budgetforslag</li>\n    <li>31. august og 4. september: Workshops om budgettet</li>\n    <li> 6. september: Frist for modtagelse af budgetspørgsmål</li>\n    <li>12. og 13. september: Budgetforhandlinger</li>\n    <li>19. og og 25. september: Frist for politiske ændringsforslag (den 19. september for forslag, der medgår i publiceringen) </li>\n    <li>26. september: Frist for politiske underændringsforslag</li>\n    <li>25. september og 2. oktober: 2. behandling af budgettet på henholdsvis ØU og BY </li>\n</ul>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har i sig selv ingen økonomiske konsekvenser.</p>\n<h4>Øvrige konsekvenser</h4>\n<p>Sagen har i sig selv ingen øvrige konsekvenser.</p>\n<h4>Kommunikation</h4>\n<p>Hvis der efter drøftelserne er behov for det, kommunikeres der eventuelt ud\ntil relevante parter.</p>\n<h4>Tidsplan</h4>\n<p>Der henvises til den overordnede tidsplan for Budget 2025-28.</p>\n<h4>Øvrige forhold</h4>\n<p>Der er ingen øvrige forhold.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22/04/2024 Beskæftigelses- og Erhvervsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Udvalget drøftede sagen og konstaterer, at en markant del af udvalgets budget er omfattet af lovgivningsbestemte indsatser og omfattet af budgetgarantien. </p>\n<p>Greve Kommune klarer sig generelt bedre end landsgennemsnittet på beskæftigelsesområdet og med en statslig refusion til kommunerne under ét betyder det, at Greve Kommune generelt profiterer økonomisk af en beskæftigelsesindsats der er bedre end landsgennemsnittet. </p>\n<p>Udvalget ser således et bidrag til finansieringsudfordringen igennem at fastholde en beskæftigelsesindsats bedre end landsgennemsnittet og konkret ved at se på udgifterne til aktiveringsindsatsen. Udvalget byder derfor ind med et servicereduktions- og effektiviseringsforslag inden for den kommunale beskæftigelsesindsats. Endelig ønsker udvalget en sag på et kommende møde vedr. de lovgivningsmæssige rammer for supplerende brøkpension.</p><br>\r\n\r\n<u>22/04/2024 Sundheds- og Omsorgsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Udvalget drøftede finansieringsbehovet med bemærkning om, at:</p>\n<p> - flere ældre på dialogmøde med Ældre Sagen oplevede, at der ofte smides bleer ud. Udvalget ønsker, at administrationen undersøger om kropsbårne hjælpemidler og sygeplejeartikler kan bevilges mere hensigtsmæssigt i forhold til behov.</p>\n<p>- administrationen redegør for, hvordan fordelingen af indsatser i hjemmeplejen er i forhold til 1) personlig pleje og 2) praktisk hjælp fordelt i procent og budget. </p>\n<p>- administrationen fremlægger opgørelse over tomgangsleje på boliger i Greve Kommune</p>\n<p>Seniorrådets bemærkninger blev taget til efterretning. Formanden inviterer Seniorrådet til et møde i juni omkring budget 2025.</p><br>\r\n\r\n<u>22/04/2024 Social- og Handicapudvalget</u><br>\r\n1) Udvalget drøftede sagen og konstaterede, at det er svært at bidrage til finansieringsbehovet inden for udvalgets budget- og ansvarsområde. Udvalget ønsker dog, at se nærmere på området ”Merudgifter og tabt arbejdsfortjeneste” for at se på, om det er muligt i højere grad at forebygge samt hvorvidt der kan hjemtages aktivitets- og samværstilbud og dermed nedbringe udgifterne på området.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a8319750-ea6b-400e-ac19-da44c277acf6",
+          "DocumentId": "a8319750-ea6b-400e-ac19-da44c277acf6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-000963",
+      "Navn": "Budget 2025-28 - orientering og drøftelse",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tidligere effektiviseringsforslag",
+          "Id": "ad37be94-eb0d-44f6-b867-80e7b1538fd9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "KFU - udvalgsbeskrivelse 2024",
+          "Id": "adc98209-300c-456c-b8d5-d4560efa52ce"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "KTMU - udvalgsbeskrivelse 2024",
+          "Id": "5748efec-87cd-4700-9fed-627c2626e5fe"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "PTU - udvalgsbeskrivelse 2024",
+          "Id": "5d56dce9-cee0-4092-867d-642532ff753e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SBU - udvalgsbeskrivelse 2024",
+          "Id": "eed9558f-3bb1-4a2a-a7b3-a52561db7c51"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SHU - udvalgsbeskrivelse 2024",
+          "Id": "9f21a402-4527-466b-bf74-e3fd5c076831"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "SOU - udvalgsbeskrivelse 2024",
+          "Id": "4a8da200-13ba-4bd7-bf2e-6b0e6f192136"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "ØU - udvalgsbeskrivelse 2024",
+          "Id": "f07fd40c-2645-47e5-bdbd-a613ec9b9a36"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - KFU",
+          "Id": "d52c838e-1871-4fd6-b0f6-482388a6322d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - KTMU",
+          "Id": "7f16068d-2a02-49c9-b2cb-118870e4bc56"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - PTU",
+          "Id": "e2cc1c80-f865-49b9-9b73-4b01be0419bd"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SBU",
+          "Id": "a3395f8b-975f-4057-a32e-1e3f53d1648c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SHU",
+          "Id": "58a5620a-348e-481d-9fcf-9a0d7e76187a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - SOU",
+          "Id": "a2b6b473-db14-456b-9e60-91f103fda86c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - ØU",
+          "Id": "7dccfa84-9230-4ace-936d-0ec8d140f190"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kan-skal-katalog - BEU",
+          "Id": "bb69c837-cf4d-464a-b00a-559720982bf1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar - Budget 2024-27",
+          "Id": "0b749ac9-36f0-4ec1-8065-aeedf99b45fe"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "BEU - udvalgsbeskrivelse 2024",
+          "Id": "e2e28efc-8857-4eb8-86ce-35bce82ed669"
+        }
+      ],
+      "Documents": null,
+      "Id": "0021f298-52fb-4008-b986-722758e62990",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "24-000963",
+      "SourceId": null,
+      "Caption": "Budget 2025-28 - orientering og drøftelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget drøftede de præsenterede scenarier. Udvalget ønsker at inddrage skolebestyrelsesformændene i dialogen om principperne for en ny model. På den baggrund vil der på Børne- og Skolerådets møde den 2. maj 2024 blive præsenteret principper for ny model, og potentielle økonomiske konsekvenser heraf.</p>\n<p>\nHandicaprådet i Greve har afgivet høringssvar til sagen. Dette er vedlagt referatet.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>I denne sag, skal der ikke træffes beslutning - men alene drøftes rammerne om en ny fordelingsmodel til fordeling af skolernes budget til specialundervisning og anden specialpædagogisk støtte.</p>\n<p>En ny fordelingsmodel er en af de 17 anbefalinger, der indgår i den specialpædagogiske analyse, der blev vedtaget på møde i Byrådet, den 15. august 2023.</p>\n<p>Administrationen fremlægger sagen med henblik på drøftelse af de grundlæggende mekanismer i en kommende model.</p>\n<h4>Supplerende sagsfremstilling</h4>\n<p>Sagen genoptages, jf. referatet. Udvalget vil på mødet blive præsenteret for konkrete scenarier.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Skole-, Børn- og Ungeudvalget drøfter grundlæggende mekanismer i en ny fordelingsmodel.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Skolernes undervisningsbudget</em></strong></p>\n<p>Skolerne har to budgetter til dækning af den undervisning samt faglige og socialpædagogisk støtte, som eleverne ifølge folkeskoleloven har krav på:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Budget til almenundervisningen</li>\n    <li>Budget til specialundervisning og anden specialpædagogisk bistand</li>\n</ul>\n<p>Budgettet til almenundervisningen udgør i alt ca. kr. 234.000.000 (2024) årligt og dækker omkostningerne til den almindelige undervisning.</p>\n<p>Budgettet til specialundervisning og anden socialpædagogisk bistand udgør i alt ca. kr. 46.000.000 (2024) årligt, og bruges til støtte af elever med behov der kan dækkes med supplerende undervisning i almenskolen, eller køb af pladser på kommunens specialrækker eller specialskole.</p>\n<p><strong><em>Henvisning til specialrække eller -skole: ”Segregering”</em></strong></p>\n<p>Kommunens specialrækker er placeret på Arenaskolen, Hedelyskolen og Holmeagerskolen, og Kirkemosegård er en specialskole. Skolernes køb af pladser på kommunens specialrækker og -skole omtales almindeligvis med begrebet segregering, som vil blive anvendt i den resterende del af sagsfremstillingen. </p>\n<p>Elever med mere vidtgående støttebehov bliver henvist (segregeret) til enten Bugtskolen, dagbehandling med intern skole eller anden mere vidtgående indsats. Disse indsatser falder under servicelovens § 52 og ligger dermed i Center for Børn og Familier og finansieres af særskilt budget hertil.</p>\n<p><strong><em>Udfordringer med den nuværende model</em></strong></p>\n<p>Med vedtagelse af den nuværende model i 2012 fik de enkelte skoler stillet et fast budget til rådighed, der svarede til deres behov for specialindsatser i forbindelse med almenundervisningen på egen skole og køb af segregering til specialrækkerne på tidspunktet for implementeringen. Hermed blev ansvaret for segregering og den tilhørende økonomi lagt ud på den enkelte skole. Dette beløb er frem til nu for den enkelte skole forblevet et fast beløb, der årligt er fremskrevet med pris- og lønudviklingen (PL-reguleringen). I 2019 <a>blev </a>den samlede pulje tilført kr. 3.000.000.</p>\n<p>I perioden frem til i dag er der sket en stigning i segregeringen, og i dag er der inden for det samlede budget til specialundervisning ikke de tiltænkte ressourcer til specialindsatser på egen skole. En oversigt over udviklingen og den aktuelle fordeling af skolernes budget til specialundervisning sammenholdt med de tilsvarende udgifter til segregering fremgår af bilag 1.</p>\n<p>Skoler med et negativt resultat er henvist til at skulle finansiere underskuddet med midler fra budgettet til almenundervisningen. Skoler med positivt resultat kan anvende overskuddet til specialundervisning og forebyggende indsatser i sammenhæng med almenundervisningen på egen skole.</p>\n<p><strong><em>Den nuværende budgetfordeling understøtter ikke længere skolernes behov</em></strong></p>\n<p>Det er administrationens vurderingen, at den nuværende model, med et fast beløb til hver skole, ikke giver lige muligheder for  at dække de nødvendige udgifter til segregering til specialrække eller -skole. Dette forhold skyldes antagelig en blanding af forskydning i skolernes rammevilkår (de sociale og økonomiske vilkår der gælder for familierne) og den tilfældighed, der er knyttet til en række af de vilkår, der indgår i det samlede rammevilkår. Eksempelvis blev midlerne i 2012 fordelt ud fra det faktiske behov på dét tidspunkt. Det er således administrationens vurdering, at behovene har ændret sig på de enkelte skoler og at den nuværende fordeling ikke er dækkende for de aktuelle behov. </p>\n<p><strong><em>Udformning af en ny model</em></strong></p>\n<p>Den ny model skal understøtte målet for de 17 indsatser, der er peget på i den specialpædagogiske analyse: At understøtte flest mulige elever tættest muligt på den almindelige skole og undervisning med den rette hjælp og støtte. Samtidig bør den kunne give skolerne lige muligheder for at afholde de nødvendige omkostninger til segregering.</p>\n<p><strong><em>De to yderpunkter: En central model og en decentral model</em></strong></p>\n<ul style=\"list-style-type: disc;\">\n    <li>I en helt central model melder skolerne deres behov for økonomisk støtte ind til et centralt udvalg, der bevilger fra en central pulje. Ansvaret for beslutning om segregering ligger således i det centrale udvalg.</li>\n    <li>I en helt decentral model meldes en budgetramme ud til de enkelte skoleledere (og skolebestyrelser), der herefter har ansvaret for beslutning om segregering (i udgangspunktet den model, der anvendes i dag).</li>\n</ul>\n<p>Udfordringen ved den helt centrale model er, at ansvaret for den enkelte elevs støtte til skolegangen ligger hos udvalget, der ikke i øvrigt er ansvarlig for elevens skolegang.</p>\n<p>Udfordringen ved den helt decentrale model er, at det er vanskeligt at pege på de elementer i rammevilkåret for den enkelte skole, der kan bruges til at fordele det samlede budget på en måde, der giver lighed mellem skolerne, og dermed også lighed for forældre og elever.</p>\n<p><strong><em>Hvem segregeres? – fokus på rammevilkår</em></strong></p>\n<p>En meget omfattende analyse af de segregerede elever udført af Indenrigs- og Sundhedsministeriets benchmarkingenhed (december 2023) udpeger en lang række vilkår for de segregerede elever, der statistisk set har haft indflydelse på, at de blev segregeret.</p>\n<p>Analysen omfatter alle segregerede elever i Danmark og udpeger de sociale og socioøkonomiske forhold, der med stor statistisk sikkerhed påvirker sandsynligheden for, at en given elev bliver segregeret.</p>\n<p>I bilag 2 er gengivet analysens opstilling af sådanne forhold. For hvert forhold er angivet en statistisk indikation af den indbyrdes vægtning af virkningen af disse forhold. Jo større tal, jo større vægt har forholdet på sandsynligheden for segregering eller ikke segregering. Positive tal (vist på rød baggrund) angiver forhold, der øger sandsynligheden for segregering i forhold til den angivne reference).  Disse vilkår udgør tilsammen den enkelte skoles rammevilkår.</p>\n<p>Sandsynligheden for, at en given elev bliver segregeret, er således ikke jævnt fordelt over alle elever.</p>\n<p><strong><em>Decentral model – behov for fordelingsmekanisme</em></strong></p>\n<p>Med en decentral model vil der være brug for en fordelingsmekanisme, der fordeler budgetterne efter det bedste vurdering af   fordelingen af de objektive behov. I den sammenhæng er to forhold vigtige: Skolens størrelse og skolens rammevilkår.</p>\n<p>Rammevilkåret – i det omfang det lader sig beregne – vil kunne bruges til at flytte midler til skoler, hvor sandsynligheden for segregering er højere. Ikke alle segregeringer vil kunne forklares ved rammevilkåret eller andre objektivt observerbare forhold, hvilket giver rum for, at behov for segregering også i en vis udstrækning er helt tilfældigt fordelt. Derfor vil store skoler have et relativt større behov for at segregere elever end mindre skoler.</p>\n<p>En fordelingsmekanisme bør derfor tage højde for både skolernes rammevilkår og skolernes størrelse. Dermed vil skolerne blive stillet mere lige med hensyn til den dobbelte opgave at skulle give eleverne den støtte, der er krav om i folkeskoleloven og samtidig respektere den økonomiske ramme, der bliver stillet til rådighed.</p>\n<p><strong><em>En hybrid model</em></strong></p>\n<p>Det er en kompliceret sag at tage stilling til, om segregering er den rigtige beslutning for en given elev.</p>\n<p>Forskningen peger på, at segregerede elever vil få ringere livsvilkår end elever, der har haft deres skolegang i almenskolen. Det er den grundlæggende tanke bag ønsket om at fastholde elever længst mulig i tættest mulige sammenhæng med almenskolen – med den rette hjælp og støtte.</p>\n<p>Det er derfor, at anbefalingerne i den specialpædagogiske analyse samlet set skal virke for, at antallet af segregerede elever nedbringes uden at kompromittere elevernes behov for støtte.</p>\n<p>Omvendt er der elever, hvor segregering med stor sikkerhed er den bedste løsning i relation til deres behov. Der vil derfor – uanset tiltagene fra den specialpædagogiske analyse – altid være elever, der fortsat vil have behov for segregering.</p>\n<p>Det er vanskeligt at gøre sig præcise forestillinger om, hvor mange elever, der vil profitere af at blive flyttet enten fra segregering til almenskole eller til et mindre indgribende segregeret tilbud. Det afhænger både af elevernes helt konkrete behov og af skolernes – både specialsporene og almenskolernes – kapacitet til at kunne løfte opgaven.</p>\n<p>Et konkret bud i forhold til en beskrivelse af en hybrid model – en blanding mellem en central og en decentral model – vil være at pege på, at maksimalt 25 % af de segregerede elever vil kunne flyttes fra år til år. Det betyder, at minimum 75 % af de elever, der på et givent tidspunkt er segregeret, også i fremtiden vil være det året efter.</p>\n<p>En hybrid model vil kunne skabe større sikkerhed for, at det ikke vil være økonomiske forhold for den enkelte skole, der står i vejen for det rette valg om  segregering.</p>\n<p>Udgangspunktet for fordelingsmekanismen i en sådan hybrid model vil så være, at midler til 75 % af de nuværende segregeringer på forhånd trækkes ud af det samlede budget, og fordeles til de skoler, hvorfra segregeringen bliver betalt.</p>\n<p>Det kan kort sammenfattes til, at når omkostningen til segregering er helt uomgængelig, bliver den afholdt i det samlede budget forud for, at restbeløbet fordeles til skolerne efter den omtalte mekanisme.</p>\n<p><strong><em>Segregering i Greve Kommune</em></strong></p>\n<p>Den omtalte analyse fra Indenrigs og Sundhedsministeriets benchmarkingenhed viser, at segregering på landsplan og for Greve Kommune har være stigende siden skoleåret 2016/17. Stigningen på landsplan er opgjort til 33 % (3,9 % til 5,1 %), og for Greve Kommune 55 % (3,4 % til 5,3 %) i samme periode.</p>\n<p>Analysen betragter treårige perioder for at få mere statistisk retvisende resultater. I denne sammenhæng viser resultater for perioden 2020/21 til 2022/23 at segregeringsprocenten i Greve Kommune er 4,9 % svarende til landsgennemsnittet.</p>\n<p>I relation til kommunernes rammevilkår viser analysen, at der i Greve Kommune bliver segregeret 12 % færre elever end forventet.</p>\n<p><strong><em>Den videre proces<br>\n</em></strong>Det er administrationens vurdering, at en ændring af den nuværende fordelingsnøgle er et centralt skridt i at skabe mere lige vilkår skolerne imellem. Det er ligeledes administrationens vurdering, at det kræver tid til drøftelser i Skole-, Børne- og Ungeudvalget, Børne-og Skolerådet, i skolebestyrelserne og blandt ledere og medarbejdere. </p>\n<p>Den videre proces vil, afhængig af drøftelse i relation til nærværende sag, være involvering af ovennævnte parter inden der fremlægges en sag til endelig beslutning. <br>\n<br>\nHåndtering af specialundervisningsmidlerne er ligeledes forudsætningen for, at der kan arbejdes med en samlet økonomimodel på området. Denne er ligeledes omtalt i den specialpædagogiske analyse og beskriver kort fortalt ønsket én samlet økonomi på børne- og ungeområdet og ikke som på nuværende tidspunkt, hvor der er en skarp opdeling af økonomierne mellem henholdsvis Center for Dagtilbud og Skole og Center for Børn og Familie. I den specialpædagogiske analyse er den samlede model omtalt som en recirkulationsmodel, hvor færre udgifter til tilbud under Center for Børn og Familier, giver flere midler til tidlige og forebyggende indsatser på kommunens dagtilbud og skoler. </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Øvrige konsekvenser</h4>\n<p>Sagen har ikke øvrige konsekvenser.</p>\n<h4>Tidsplan</h4>\n<p>Med udgangspunkt i denne sag vil administrationen fremlægge forslag til en konkret fordelingsmodel, der skal virke fra skoleåret 2024/25.</p>\n<h4> </h4></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>19/03/2024 Skole-, Børne- og Ungeudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Godkendt med følgende bemærkninger; <br>\nUdvalget anerkender behovet for en ny model til fordeling af midler til specialundervisning, som i højere grad end for nuværende beror på skolernes rammevilkår. </p>\nUdvalget ønsker, at der skabes dialog med Skolerådet om baggrunden for behovet, forudsætningerne for en ny fordeling samt en passende indfasningsperiode. Herudover ønsker udvalget, at skolebestyrelsesformændene inviteres ind til yderligere kvalificering af modellen forud for, at modellen sendes i høring. Endelig ser udvalget gerne, at modellen kan vedtages umiddelbart efter sommerferien 2024.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7258d0e0-4550-46e0-9ee3-f5c0be7a140f",
+          "DocumentId": "7258d0e0-4550-46e0-9ee3-f5c0be7a140f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-002758",
+      "Navn": "Ny budgetfordelingsmodel vedr. skolernes specialundervisning, 2024",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Segregering",
+          "Id": "09236858-1e2e-4d27-a64f-20121ca058f6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Rammevilkår",
+          "Id": "16c8964e-2435-41e2-9cd4-cefee9f8ed6f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Høringssvar fra Handicaprådet vedr. ny budgetfordelingsmodel for skolernes specialundervisning",
+          "Id": "c9a64293-ac5b-4167-a51e-bff851a3a482"
+        }
+      ],
+      "Documents": null,
+      "Id": "2629037d-42c3-4f76-8d86-685744a0d852",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "24-002758",
+      "SourceId": null,
+      "Caption": "Ny budgetfordelingsmodel vedr. skolernes specialundervisning, 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Anbefales.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, Skole-, Børne- og Ungeudvalget, Social- og Handicapudvalget, Økonomiudvalget og Byrådet</p>\n<h4>Resume</h4>\n<p>Sagen handler om, at kommunalbestyrelsen jf. Barnets lov skal godkende en beredskabsplan for æresrelaterede konflikter og negativ social kontrol. Administrationen har i samarbejde med Styrelsen for Integration og Rekruttering (fremadrettet SIRI) udarbejdet en beredskabsplan for forebyggelse, opsporing og håndtering af æresrelaterede konflikter og negativ social kontrol målrettet børn, unge og voksne. Beredskabsplanen understøtter Børne - og Ungepolitikken, som har fokus på forebyggelse, opsporing og tidlig indsats målrettet børn og unge. Ligeledes understøtter beredskabsplanen Integrations- og Hjemsendelsespolitikkens målsætning om forebyggelse af negativ social kontrol. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol>\n    <li><em>at <em>Skole-, Børne- og Ungeudvalget</em> godkender beredskabsplanen for æresrelaterede konflikter og negativ social kontrol</em></li>\n    <li><em> at <em>Plan- og Tryghedsudvalget </em>tager orienteringen til efterretning</em></li>\n    <li><em>at Social- og Handicapudvalget tager orienteringen til efterretning </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p class=\"paragraph\" paraid=\"443926637\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{47}\">Kommunen skal jf. Barnets lov udarbejde et beredskab til forebyggelse, opsporing og håndtering af æresrelaterede konflikter og negativ social kontrol blandt børn, unge og deres familier. Beredskabet skal udformes skriftligt, vedtages af kommunalbestyrelsen og offentliggøres. Kommunalbestyrelsen skal revidere beredskabet løbende efter behov, dog som minimum hvert fjerde år. </p>\n<p class=\"paragraph\" paraid=\"1543587223\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{63}\"><em><strong>Proces </strong></em></p>\n<p class=\"paragraph\" paraid=\"925750889\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{69}\">Greve Kommune har udarbejdet en beredskabsplan med processtøtte fra SIRI. Der er afholdt afdækningsworkshop med repræsentanter fra Center for Børn og Familier, Center for Dagtilbud og Skoler og Center for Job og Socialservice. Der har været enten leder - eller medarbejderrepræsentanter fra følgende områder involveret i udarbejdelsen: Familierådgivningen, Pædagogisk Psykologisk Rådgivning, Sundhedsplejen, Politiet, Greve nord projektet, Arenaskolen, Krogaardskolen, daginstitutionen Nova, Greve kulturbase, Greve Gymnasie og Gadeteam.  </p>\n<p class=\"paragraph\" paraid=\"925750889\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{69}\">Deltagernes input til, hvordan der opspores og handles når børn, unge og voksne bliver udsat for æresrelaterede konflikter og negativ social kontrol, er indarbejdet i beredskabsplanen.   </p>\n<p class=\"paragraph\" paraid=\"1884458349\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{107}\"><em><strong>Formål og indhold </strong></em></p>\n<p class=\"paragraph\" paraid=\"431281568\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{121}\">Formålet med beredskabsplanen er at sikre et grundlæggende vidensniveau hos fagpersoner i Greve Kommune i forhold til forebyggelse, opsporing, tidlig indsats og håndtering af sager om æresrelaterede konflikter og negativ social kontrol. Herunder hvordan fagpersoner indenfor børne- og ungeområdet og voksenområdet skal handle ved bekymringstegn og mistanke.  </p>\n<p class=\"paragraph\" paraid=\"424722692\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{149}\">Beredskabsplanen består af begrebsforklaringer og beskrivelse af bekymringstegn hos børn, unge og voksne. Da lovgivningen og kommunens forpligtelser er forskellige på områderne, er konkrete handlingsanvisninger opdelt i børn og unge under 18 år og voksne over 18 år.  </p>\n<p class=\"paragraph\" paraid=\"1280914260\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{165}\">Beredskabsplanen henvender sig til alle fagpersoner i Greve Kommune, der arbejder med børn, unge og voksne. Beredskabsplanen skal sikre en professionel tilgang og håndtering i situationer, hvor børn og unge bliver udsat for æresrelaterede konflikter og negativ social kontrol, eller ved bekymring og mistanke herom. </p>\n<p class=\"paragraph\" paraid=\"1755856437\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{175}\"><em><strong>Beredskabsgruppe</strong></em>  </p>\n<p>Greve Kommune har nedsat en beredskabsgruppe bestående af repræsentanter fra Center for Børn og Familier, Center for Dagtilbud og Skoler og Center for Job og Socialservice. Repræsentanterne har særlig viden om temaet og kan vejlede i konkrete situationer. Fagpersoner på tværs af centre i Greve Kommune kan kontakte beredskabsgruppen, når der opstår tvivlsspørgsmål eller hvis der er behov for en konkret indsats. Medlemmer af beredskabsgruppen og rådgivere i Familierådgivningens visitation vil løbende opkvalificeres inden for f.eks. lovgivning, håndtering af sager, psykologiske perspektiver og interkulturelle samtaler om æresrelaterede konflikter, og derved får flere kompetencer til at løfte rollen som vidensperson.</p>\n<p class=\"paragraph\" paraid=\"105442088\" paraeid=\"{cbc989ed-d586-4d56-b3fa-d23ec317d9b3}{251}\"><em><strong>Forankring</strong></em> </p>\n<p class=\"paragraph\" paraid=\"1380656580\" paraeid=\"{b9d9c560-289c-42b0-ada0-ca6b2c7dabe7}{6}\">Når beredskabsplanen er godkendt, vil administrationen påbegynde implementeringsprocessen i Greve Kommune og beredskabsplanen introduceres for fagpersoner der arbejder med børn, unge og voksne. SIRI tilbyder kurser, oplæg, webinar mv. målrettet fagpersoner på det almene børne - og ungeområde og specialområdet på børn-, unge- og voksenområdet. Det betyder, at f.eks. skoler, fritids- og uddannelsesinstitutioner samt myndighedsområdet kan tilgå forløb hos SIRI og dermed få viden om opsporing og håndtering af æresrelaterede konflikter og negativ social kontrol i praksis.  </p>\n<h4>Lovgrundlag</h4>\n<p class=\"paragraph\" paraid=\"1872273718\" paraeid=\"{b9d9c560-289c-42b0-ada0-ca6b2c7dabe7}{126}\">Barnets Lov  </p>\n<p class=\"paragraph\" paraid=\"1795799794\" paraeid=\"{b9d9c560-289c-42b0-ada0-ca6b2c7dabe7}{132}\">Lov om Socialservice  </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. Alle forløb hos SIRI er gratis for kommuner, øvrige myndigheder og civilsamfundet.  </p>\n<h4>Tidsplan</h4>\n<p>Beredskabsplanen gælder for 2024-2028 og skal revideres inden 1. april 2028. </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22/04/2024 Social- og Handicapudvalget</u><br>\r\n3) Taget til efterretning.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1faefcba-dadb-4187-9114-63f43aad0b65",
+          "DocumentId": "1faefcba-dadb-4187-9114-63f43aad0b65"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003086",
+      "Navn": "Beredskabsplan for æresrelaterede konflikter og negativ social kontrol - godkendelse",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Action card til fagprofessionelle",
+          "Id": "6e28f6ae-5778-461a-b83e-fb0a25dc956f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Beredskabsplan Greve kommune",
+          "Id": "6ccdf959-f79f-494b-a1e5-19c95e334dae"
+        }
+      ],
+      "Documents": null,
+      "Id": "ee72fbbf-8c2f-49bd-bef1-fe76f39b1110",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "24-003086",
+      "SourceId": null,
+      "Caption": "Beredskabsplan for æresrelaterede konflikter og negativ social kontrol - godkendelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Udvalget anbefaler sagen med bemærkning om, at udvalget ønsker et tema om håndtering af digitale krænkelser beskrevet i handleplanen.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget, Social- og Handicapudvalget, Økonomiudvalget og Byrådet .</p>\n<h4>Resume</h4>\n<p>Sagen handler om godkendelse af ændringer i beredskabsplanen for overgreb mod børn og unge. </p>\n<p>Jf. Barnets lov, er beredskabsplanen justeret, så den er i overensstemmelse med gældende lovgivning.  </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at beredskabsplanen godkendes.</i></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet godkendte Greve Kommunens beredskabsplan for overgreb mod børn og unge på byrådsmødet den 15. maj 2023. Som følge af Barnets lov er beredskabsplanen ændret, så den er i overensstemmelse med gældende lovgivning. Der er ikke foretages ændringer i den indholdsmæssige del af beredskabsplanen. </p>\n<h4>Lovgrundlag</h4>\n<p>Barnets lov </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22/04/2024 Social- og Handicapudvalget</u><br>\r\nBeslutning ikke frigivet<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/be6789d2-e164-49bb-be53-1559e4b3d0db",
+          "DocumentId": "be6789d2-e164-49bb-be53-1559e4b3d0db"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003272",
+      "Navn": "Beredskabsplan for overgreb mod børn og unge, revidering",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Beredskabsplan for overgreb på børn og unge i Greve Kommune - barnets lov",
+          "Id": "74528a48-86bf-4f51-a088-ac2a0e7d8fc2"
+        }
+      ],
+      "Documents": null,
+      "Id": "24be57a6-670c-4807-8320-bf6ad6a66e60",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "24-003272",
+      "SourceId": null,
+      "Caption": "Beredskabsplan for overgreb mod børn og unge, revidering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><ol>\n    <li>Anbefales </li>\n    <li>Taget til efterretning</li>\n    <li>Drøftet.</li>\n</ol><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet</p>\n<h4>Resume</h4>\n<p>I denne sag fremlægges et fælles børne- og ungesyn til godkendelse. <br>\nBørne- og ungesynet er blevet til efter dialog med en række af børne- og ungeområdets parter og efter administrativ høring i MED-systemet. Det fælles børne- og ungesyn er et fælles grundlag for arbejdet med børn og unge i Greve Kommune, og er en af anbefalingerne i den specialpædagogiske analyse. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at </em></p>\n<p><em>1. det fælles børne- og ungesyn for Greve Kommune godkendes</em></p>\n<p><em>2.  processen for udarbejdelsen af det fælles børne- og ungesyn tages til efterretning</em></p>\n<p><em>3. rammen for inddragelse og kommunikation med forældre i forhold til forankringen af et fælles børne- og ungesyn drøftes</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Skole-, Børne- og Ungeudvalget besluttede på møde den 21. november 2023 at arbejdet med et fælles børne- og ungesyn skulle prioriteres i 2024.  Det fremgik også af sagen, at konturerne af arbejdet allerede var i gang, og at der i høringssvarene i forbindelse med den specialpædagogiske analyse var meget positive tilkendegivelser omkring udarbejdelsen af et fælles børne- og ungesyn.</p>\n<p>Det foreliggende børne- og ungesyn er et arbejdsredskab for de fagprofessionelle i Greve Kommune. Børne- og ungesynet består af en række kerneværdier, som ledere og medarbejdere skal pejle efter i mødet med børn, unge og deres familier. Det skal bidrage til at sikre en fælles tilgang til arbejdet med børn og unge og skal være den måde de fagprofessionelle samarbejder på. Det skal være afsættet i den daglige praksis i de tiltag og handlinger, der er i kommunes tilbud til børn og unge i kommunen.</p>\n<p>Et fælles børne- og ungesyn understøtter tænkningen om helhedssyn som er fundamentalt i Greve Kommunes vision såvel som i Børne- og Ungepolitikken. Det er et helhedssyn på børn og unges trivsel og udvikling, hvor barnet og den unges fællesskaber, kontekster og udvikling er omdrejningspunktet. </p>\n<p>Det fælles børne- og ungesyn bygger på 3 kerneværdier:</p>\n<ol>\n    <li>Børn og unge gør det bedste de kan</li>\n    <li>Børn og unges udvikling og trivsel er relationel</li>\n    <li>Alle børn og unge har ressourcer</li>\n</ol>\n<p>Børne- og ungesynet fremgår af bilag 1.</p>\n<p><em><strong>Proces for udarbejdelse af fælle Børne- og Ungesyn</strong></em></p>\n<p>MED-organisationen og ledere har været involveret i processen med at udarbejde Børne- og ungesynet som de fagprofessionelles arbejdsgrundlag.</p>\n<p>I forbindelse med udarbejdelsen af Greve Kommunes Børne- og Ungepolitik var lederne på hele området samlet ultimo 2022 for at drøfte, hvad et børne- og ungesyn kunne bidrage med som grundlag for arbejdet med politikkens mål og indhold. Som en del af mødet blev lederne præsenteret for et oplæg om børnesyn og fællesskaber med titlen \"Alle børn er rigtige børn\". Siden har også alle medarbejdere på børne- og ungeområdet haft mulighed for at høre oplægget.</p>\n<p>I juni 2023 var ledere og MED-organisationen på hele området samlet for at bidrage til det fælles børne- og ungesyn, og børne- og ungesynet er skrevet med afsæt i de input.</p>\n<p>Der har sideløbende været afholdt 2 møder med en arbejdsgruppe bestående af ledelsesrepræsentanter fra børne- og ungeområdet samt TR for GLF, BUPL, FOA, der har bidraget til at kvalificere børne- og ungesynet samt processen på de afholdte møder.</p>\n<p>Forud for fremlæggelsen af Greve Kommunes fælles børne- og ungesyn i denne sag, har der været en høring blandt medarbejderne i Center for Børn & Familier, Center for Job & Socialservice samt Center for Dagtilbud & Skoler. Høringssvarene gav anledning til følgende opmærksomhedspunkter:</p>\n<p><em>Kommunikation:</em><strong><em></em> </strong>Der bør være fokus på kommunikation og formidling af børne- og ungesynet til forældre, børn og unge, politikere og medarbejdere.</p>\n<p><em>Kompetenceudvikling</em><strong><em>:</em> </strong>Der er behov for fokus på og udvikling af de fagprofessionelles kompetencer, til at arbejde med børne- og ungesynet i praksis.</p>\n<p><em>Tid og samarbejde</em><em>:</em> Der skal være forståelse for, at det tager tid at øve sig på - for nogle, en ny tilgang. Der skal tales sammen på egen arbejdsplads og på tværs, og der skal arbejdes med implementering over tid både blandt ledelse og medarbejdere.</p>\n<p><em>Ensartethed i arbejdsgange:</em><strong> </strong>Fokus på behov for fælles og konkrete værktøjer.</p>\n<p><em>Økonomi og ressourcer:</em> Det bør prioriteres økonomisk at arbejde med det fælles børne- og ungesyn.</p>\n<p>Administrationen vil efter beslutning om fælles børne- og ungesyn arbejde videre med implementering gennem konkrete tiltag i f.eks. beskrivelser, møder og aktiviteter med og omkring børn og unge.</p>\n<p><strong><em>Inddragelse</em></strong></p>\n<p>For at de fagprofessionelle i Greve Kommune kan lykkes med at arbejde efter det foreliggende børne- og ungesyn, er det vigtigt at inddrage forældre.</p>\n<p>Forældre og øvrige samarbejdspartnere bør kende kommunens tilgang til arbejdet med børn og unge.</p>\n<p>Administrationen vil efter beslutning om fælles børne- og ungesyn arbejde med en plan for formidling til forældre og informationsmateriale.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3a90a131-f6a1-4c44-a7ac-df8a6c822a82",
+          "DocumentId": "3a90a131-f6a1-4c44-a7ac-df8a6c822a82"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003055",
+      "Navn": "Greve Kommunes fælles børne-og ungesyn",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Børne - og ungesyn udkast april 2024",
+          "Id": "4904c068-b286-4e50-9dfb-4d81db6ceac4"
+        }
+      ],
+      "Documents": null,
+      "Id": "6855690b-ae0f-45e5-9d46-92336c9390d7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "24-003055",
+      "SourceId": null,
+      "Caption": "Greve Kommunes fælles børne-og ungesyn",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning idet udvalget ønsker, at der ved kommende afrapportering vedrørende STIME skal være særligt fokus på forældrenes rolle, og hvordan forældrene inddrages og understøttes i deres børns sager.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Regeringen indgik i september 2022 ”Aftale om en 10-årsplan for psykiatrien og mental sundhed”. I forbindelse med udmøntningen af aftalen skal alle kommuner pr 1. juli 2024 etablere et lettilgængeligt behandlingstilbud til børn og unge i psykisk mistrivsel. </p>\n<p>Der er fremsat forslag i Folketinget om, at dette bliver en ny bestemmelse i sundhedsloven. Nærmere regler om tilbuddets indhold vil derfor fremgå af en bekendtgørelse og en vejledning, der ikke er udgivet endnu. Bekendtgørelsen og vejledningen vil tage afsæt i de nationale faglige rammer “Faglig ramme for det kommunale behandlingstilbud til børn og unge i psykisk mistrivsel”, der er udarbejdet af Sundhedsstyrelsen, Social- og Boligstyrelsen og Styrelsen for Undervisning og Kvalitet. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Skole-, Børne- og Ungeudvalget tager orienteringen om implementeringen af lettere behandlingstilbud til børn og unge i psykisk mistrivsel til efterretning.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<div>\n<div>Alle kommuner skal i 2024 etablere et lettilgængeligt behandlingstilbud, som skal sikre mulighed for afklaring og behandling uden for behandlingspsykiatrien til børn og unge i alderen 5-17 år i psykisk mistrivsel. Målet er, at alle børn og unge i psykisk mistrivsel får hurtig og ensartet adgang til behandling i forhold til deres individuelle behov, inden den psykiske mistrivsel forværres. Centrale forventninger til tilbuddet er: </div>\n</div>\n<p>\n</p>\n<div>\n<ul role=\"list\">\n    <li data-leveltext=\"\" data-font=\"Symbol\" data-list-defn-props=\"{'335552541':1,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'hybridMultilevel'}\" aria-setsize=\"-1\" data-aria-posinset=\"1\" data-aria-level=\"1\" role=\"listitem\">\n    <p paraid=\"163447308\" paraeid=\"{bfeed0f2-aab2-4205-866e-27bba7172e33}{221}\">Tilbuddet skal være gratis og tilgængeligt i alle kommuner, og børn, unge og forældre skal kunne henvende sig uden henvisning.  </p>\n    </li>\n    <li data-leveltext=\"\" data-font=\"Symbol\" data-list-defn-props=\"{'335552541':1,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'hybridMultilevel'}\" aria-setsize=\"-1\" data-aria-posinset=\"2\" data-aria-level=\"1\" role=\"listitem\">\n    <p paraid=\"872809938\" paraeid=\"{bfeed0f2-aab2-4205-866e-27bba7172e33}{228}\">Det nye tilbud skal forkorte tiden fra, at børn og unge oplever symptomer på psykisk mistrivsel, til den rette behandling igangsættes.  </p>\n    </li>\n    <li data-leveltext=\"\" data-font=\"Symbol\" data-list-defn-props=\"{'335552541':1,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'hybridMultilevel'}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\" role=\"listitem\">\n    <p paraid=\"1017013525\" paraeid=\"{bfeed0f2-aab2-4205-866e-27bba7172e33}{235}\">Tilbuddet skal indeholde dokumenteret, manualbaseret behandling på baggrund af en standardiseret afdækning af behandlingsbehov og sværhedsgrad af psykisk mistrivsel, herunder afklaring af, hvor meget barnets/den unges funktionsniveau og livskvalitet er påvirket i dagligdagen.  </p>\n    </li>\n    <li data-leveltext=\"\" data-font=\"Symbol\" data-list-defn-props=\"{'335552541':1,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'hybridMultilevel'}\" aria-setsize=\"-1\" data-aria-posinset=\"4\" data-aria-level=\"1\" role=\"listitem\">\n    <p paraid=\"1665493700\" paraeid=\"{bfeed0f2-aab2-4205-866e-27bba7172e33}{250}\">Behandlingen skal være helhedsorienteret og skal, hvor det er relevant, kobles til barnets/ den unges kontekst (fx skole/ungdomsuddannelse og eventuelle indsatser i familien). </p>\n    </li>\n</ul>\n</div>\n<p><em><strong>Behandlingstilbuddet i Greve Kommune </strong></em></p>\n<p paraid=\"479671890\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{12}\">I den faglige ramme nævnes STIME ”Styrket tværsektoriel indsats for børn og unges mentale sundhed” specifikt som et tilbud, der kan imødekomme de fremsatte krav om evidensbaserede behandlingstilbud. Skole-, Børne- og Ungeudvalget godkendte den 23. oktober 2023 at Greve Kommune tilsluttes et STIME partnerskab i Region Sjælland med henblik på implementering af 4 STIME behandlingsprogrammer i perioden 2024-2026. </p>\n<p role=\"heading\" aria-level=\"2\" paraid=\"308085989\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{26}\">STIME partnerskabet i Region Sjælland består i dag af 10 kommuner og Børne- og Ungdomspsykiatrien i Region Sjælland. Det er et ligeværdigt samarbejdsforum, hvor Børne- og Ungepsykiatrien og kommuner i Region Sjælland tager fælles ansvar for at tilbyde børn, unge og familier en relevant og rettidig indsats i deres nærmiljø. Samarbejdet indebærer, at familierne tilbydes en sammenhængende og koordineret indsats med sigte på at forebygge, at problemer vokser sig så store, at der er behov for mere indgribende indsatser.  </p>\n<p role=\"heading\" aria-level=\"2\" paraid=\"1777237267\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{42}\">Implementeringen af STIME i Greve Kommune, herunder organisering og kompetenceudvikling, forløber som planlagt. Greve Kommune implementerer 4 behandlingsprogrammer: </p>\n<ul>\n    <li class=\"Paragraph SCXW126009975 BCX8\" role=\"heading\" aria-level=\"2\" paraid=\"923837774\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{76}\"><span> </span><span>Forældregruppeforløb “Forældrepiloterne” målrettet forældre til børn alderen 3-11 år der oplever uro, uopmærksomhed og impulsivitet. </span></li>\n    <li class=\"Paragraph SCXW126009975 BCX8\" role=\"heading\" aria-level=\"2\" paraid=\"923837774\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{76}\"><span> </span><span>Samtaleforløb “når bekymring eller tristhed fylder for meget” målrettet børn og unge i alderen 13-17. </span></li>\n    <li class=\"Paragraph SCXW126009975 BCX8\" role=\"heading\" aria-level=\"2\" paraid=\"923837774\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{76}\"><span> </span><span>Samtaleforløb “Når svære følelser fører til selvskade” målrettet børn og unge i alderen 12-17 år.  </span></li>\n    <li class=\"Paragraph SCXW126009975 BCX8\" role=\"heading\" aria-level=\"2\" paraid=\"923837774\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{76}\"><span> </span><span>Samtaleforløb “Når tanker om krop og mad fylder for meget” målrettet børn og unge i alderen 10-17 år. </span></li>\n</ul>\n<p class=\"Paragraph SCXW126009975 BCX8\" paraid=\"1707263745\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{148}\">Det er administrationens vurdering, at Greve Kommune er godt på vej og står fornuftigt, i forhold til at leve op til det nye krav med STIME som tilbud. Imidlertid dækker STIME ikke alle de mest hyppige udfordringer ved psykisk mistrivsel for hele målgruppen, som det er beskrevet i den faglige ramme. Ydermere skal der være én samlet indgang til tilbuddet, der varetager forsamtaler til alle tilbud inden for bestemmelsen. </p>\n<p class=\"Paragraph SCXW126009975 BCX8\" paraid=\"1707263745\" paraeid=\"{86e06fea-d5b2-4845-b6fe-180eaa6b3686}{148}\">Opgaven skal varetages med socialfaglige kompetencer eller sparring.  Administrationen vurderer, at de manglede tilbud og samlet indgang kan imødekommes ved omprioritering og organisering af eksisterende kompetencer i kommunen. Greve Kommune har blandt andet både implementeret lettere behandlingstilbud til børn og unge med angst via gruppeforløbene Cool Kids og Chilled til børn og unge i alderen 7-17 år samt gennemført lettere behandling til børn og unge i alderen 5-17 år med skolefraværsproblematikker i tegn på psykisk mistrivsel. Lovændringen betyder, at administrationen vil revurdere de eksisterende tilbud og sikre den påkrævende sammenhæng og koordination.</p>\n<p><i><strong>Sammenhæng til vision, politik og anbefalinger i den specialpædagogiske analyse</strong> </i></p>\n<p> Intentionen i lovgivningen og STIME som redskab understøtter den allerede iværksatte udviklingsretning på børne- og ungeområdet. Centrale pejlemærker i Greve Kommunes vision er helhedssyn, at skabe rammerne for et kvalitetsrigt liv og læring, udvikling og trivsel for den enkelte og fællesskabet. <br>\nBørne- og Ungepolitikkens intentioner understøttes ligeledes. Eksempelvis det store fokus på at børn og unge med behov for specialiseret støtte som udgangspunkt hjælpes så tæt på almenmiljøet som muligt, understøttes ligeledes af intentionerne i lovgivningen og STIME forløbet. <br>\nEndelig understøtter indsatserne i STIME en række af anbefalingerne i den specialpædagogiske analyse.<br>\n<br>\nDet er således administrationens vurdering, at implementering af den ny lovgivning og STIME som evidensbaseret redskab følger og understøtter udviklingsretningen i Greve Kommune. </p>\n<h4>Lovgrundlag</h4>\n<p class=\"Paragraph SCXW38102828 BCX8\" paraid=\"2109365028\" paraeid=\"{d52c5469-b76c-4bb1-be5e-898afea4671d}{32}\">Med lovændringen skal de lettere behandlingsindsatser tilbydes efter sundhedsloven.  </p>\n<p class=\"Paragraph SCXW38102828 BCX8\" paraid=\"1085909064\" paraeid=\"{d52c5469-b76c-4bb1-be5e-898afea4671d}{50}\">Indenrigs- og Sundhedsministeriet vurderer det imidlertid ikke relevant, at der skal udarbejdes kvalitetsstandarder for det lettilgængelige tilbud, men vurderer det derimod mere relevant at fastsætte nærmere regler for tilbuddet i form af en bekendtgørelse og en vejledning, som beskrevet ovenfor. </p>\n<h4>Økonomiske konsekvenser</h4>\n<p class=\"Paragraph SCXW243550650 BCX8\" paraid=\"1569219531\" paraeid=\"{d52c5469-b76c-4bb1-be5e-898afea4671d}{84}\">Med regeringens Aftale om en 10-årsplan for psykiatrien og mental sundhed fra 27. september 2022 er der afsat 100 mio. kr. i 2023, 257,5 mio. kr. i 2024 og 250,0mio. kr. varigt fra 2025 til det lettilgængelige tilbud i kommunerne. Lovforslaget indebærer, at regeringen vil skulle indgå en aftale med Kommunernes Landsforening og Danske Regioner om fordeling af den økonomiske ramme for de afsatte midler i 2024 og frem på baggrund af de nationale faglige rammer. </p>\n<p class=\"Paragraph SCXW243550650 BCX8\" paraid=\"1569219531\" paraeid=\"{d52c5469-b76c-4bb1-be5e-898afea4671d}{84}\">Det blev med Aftale om kommunernes økonomi for 2024 fra maj 2023 aftalt, at de 100 mio. kr., der blev afsat i 2023 til det lettilgængelige tilbud, skulle udmøntes til kommunerne med henblik på, at kommunerne kunne påbegynde opbygningen af tilbuddet.</p>\n<p class=\"Paragraph SCXW243550650 BCX8\" paraid=\"1569219531\" paraeid=\"{d52c5469-b76c-4bb1-be5e-898afea4671d}{84}\"> Skole-, Børne- og Ungeudvalget blev i sagen om implementering af STIME den 23. oktober 2023, orienteret om de forventede driftsudgifter i Pædagogisk Psykologisk Rådgivning (PPR) ved etableringen af et STIME-tilbud efter serviceloven § 11.3, hvor tilbuddets omfang var administrativt reguleret. Udgifterne er indtil nu blevet dækket af de midler, der er udmøntet. Det er endnu uklart, hvor meget driftsomkostningerne vil stige, når tilbuddet overgår til at være et lovbestemt tilbud og ikke længere kommunalt reguleret. Administrationen vil løbende orientere udvalget om udviklingen.  </p>\n<p class=\"Paragraph SCXW243550650 BCX8\" paraid=\"252390992\" paraeid=\"{d52c5469-b76c-4bb1-be5e-898afea4671d}{212}\"> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0a2bc37d-76c5-41f3-bcaa-c1fbb7584082",
+          "DocumentId": "0a2bc37d-76c5-41f3-bcaa-c1fbb7584082"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003830",
+      "Navn": "Etablering af lettilgængeligt kommunalt behandlingstilbud til børn og unge med psykisk mistrivsel og symptomer på psykisk lidelse",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Faglig ramme det kommunale behandlingstilbud til børn og unge i psykisk mistrivsel",
+          "Id": "3ee92652-59d8-4dd4-a368-c4395ae1c80f"
+        }
+      ],
+      "Documents": null,
+      "Id": "98c13a7e-e169-4d51-a838-73bdd58b23ae",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "24-003830",
+      "SourceId": null,
+      "Caption": "Etablering af lettilgængeligt kommunalt behandlingstilbud til børn og unge med psykisk mistrivsel og symptomer på psykisk lidelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>Taget til efterretning.<p></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015028",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a18cf7c7-1b1e-4fd0-ac0f-f7234fcf4061",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-015028",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ab5c64f8-419f-4b1c-acf2-2e58c7cbde81",
+          "DocumentId": "ab5c64f8-419f-4b1c-acf2-2e58c7cbde81"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014467",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a6900920-32dd-4e65-a333-5d9343ddabec",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-014467",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<strong></strong>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<strong></strong>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p>\n- <strong><em>Proces vedr. afklaring om budgetforligsbemærkninger om udlicitering af 10. klasse og øgning af andelen af unger i erhvervsuddannelser</em></strong></p>\n<p>- <em><strong>Program for Børneråd- og Skoleråd den 2. maj, herunder kvalitetsudvikling på dagtilbudsområdet og specialundervisningsøkonomi på skoleområdet </strong></em></p>\n<p><strong>- <em>Radikalisering og ekstremisme</em><br>\n</strong><strong></strong></p>\n<p><em>I medfør af Barnets lov § 15, stk. 3</em>, er kommunen er forpligtet til at udarbejde et beredskab for ekstremisme blandt børn, unge og deres familier. Det samme der gør sig gældende i forhold til beredskabsplan for æresrelaterede konflikter og negativ social kontrol. Beredskabet vedrørende ekstremisme skal udformes skriftligt, vedtages af kommunalbestyrelsen og offentliggøres. Beredskabet skal revideres løbende efter behov, dog som minimum hvert 4. år.</p>\n<p>Greve Kommune har en beskrivelse/beredskabsplan - handleguide <a href=\"https://handleguide.dk/bekymring-for-barns-trivsel/mistanke-om-radikalisering-og-ekstremisme#bekymringstegn-kan-eksempelvis-vaere-31\">Mistanke om radikalisering og ekstremisme | Handleguide</a> Denne vil blive revideret og fremlagt til politisk godkendelse efter sommerferien 2024. </p>\n<p><strong>- <em>Børnevenlig kommunikation – Få hjælp når du har det svært</em></strong></p>\n<p>Som en del af barnets lov skal alle kommuner pr. 1. april 2024 have etableret en let tilgængelig og børnevenlig indgang på deres hjemmeside.</p>\n<p>Har man som barn eller ung brug for hjælp og vejledning, skal det være let at finde ud af, hvordan man får kontakt til kommunen, hvis man ikke oplever, at man kan gå til de voksne, man kender.</p>\n<p>Familierådgivningen i Center for Børn & Familier, lavet en digital indgang ”Din side”. (<a href=\"https://greve.dk/dinside\">DinSide - få hjælp når det er svært | Greve Kommune</a>).</p>\n<em><strong>- Orientering om hyrdebrev vedr. åbningstider i dagtilbud. Se bilag 1.</strong></em></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c93607b5-070d-4cda-a182-75d40ee29257",
+          "DocumentId": "c93607b5-070d-4cda-a182-75d40ee29257"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013716",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Brev til alle kommuner om fastsættelse af åbningstider i dagtilbud",
+          "Id": "cbb36b28-ebc8-473d-9414-f7ffe78ed137"
+        }
+      ],
+      "Documents": null,
+      "Id": "2476ee7b-cc7c-4ca2-bc02-3cf77426fb22",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-013716",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Skole-, Børne- og Ungeudvalgets møder og møder i tilknytning til udvalget.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning. </i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/38b3d46c-10bf-4573-97d6-8a456dac6f08",
+          "DocumentId": "38b3d46c-10bf-4573-97d6-8a456dac6f08"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014469",
+      "Navn": "Skole-, Børne- og Ungeudvalget - mødekalender 2024",
+      "Punktnummer": "13",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Skole-, Børne- og Ungeudvalget mødekalender 2024 - april",
+          "Id": "007d25bc-18e6-44e7-ad05-73713eea8719"
+        }
+      ],
+      "Documents": null,
+      "Id": "9f5ff363-9711-4e12-85af-642b0cbb6e0e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "21-014469",
+      "SourceId": null,
+      "Caption": "Skole-, Børne- og Ungeudvalget - mødekalender 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>\nElektronisk underskriftsark. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c5a21972-b8b7-484d-9c7a-1620916061fc",
+          "DocumentId": "c5a21972-b8b7-484d-9c7a-1620916061fc"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014468",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "0b041abb-3fcd-40a9-b491-7be5b354a109",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "21-014468",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "473469a9-b1d4-4d5e-b869-b1ed1bbcb012",
+    "Navn": "Skole-, Børne- og Ungeudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-04-23T08:15:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-04-23T08:15:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "12a00ed7-7508-48e8-a1b6-a83e08a078ed",
+  "Lydfiler": null
+}

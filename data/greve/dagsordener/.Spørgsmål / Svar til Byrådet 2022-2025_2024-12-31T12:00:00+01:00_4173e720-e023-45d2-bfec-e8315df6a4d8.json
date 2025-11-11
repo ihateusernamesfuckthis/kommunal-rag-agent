@@ -1,0 +1,678 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6b59fd3e-a7be-45f2-831f-eafbbe961623",
+          "DocumentId": "6b59fd3e-a7be-45f2-831f-eafbbe961623"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015217",
+      "Navn": "Spørgsmål/svar til Byrådet 2024",
+      "Punktnummer": "1",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. skolefravær.",
+          "Id": "c80ad45b-d8eb-440e-95b2-2f9ac749b481"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. forbud mod private devices i folkeskolen.",
+          "Id": "e138c85e-e059-40e7-b012-3a0768396357"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. Greve Kommunes udgift for at Askerød på parallelsamfundslisten mv.",
+          "Id": "dba333d6-36bf-4534-9d11-da440b3f474f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. poster der ikke skal besættes af byrådsmedlemmer",
+          "Id": "20b1ebb1-3c46-48bb-a8bf-c0fcd70765b5"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. orientering til det samlede byråd omkring politianmeldelse for brud på tavshedspligt under udvalgsmøde i Klima-, Teknik- og Miljøudvalget",
+          "Id": "33275a10-50a4-4bd3-b30b-ad46fb3d7cf5"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar Spørgsmål /svar vedr. orientering til det samlede byråd omkring politianmeldelse for brud på tavshedspligt under udvalgsmøde i Klima-, Teknik- og Miljøudvalget: KL - Tavshedspligt",
+          "Id": "3dde9ee5-200a-4e9b-8745-58968876a443"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. beregning på hvilken økonomisk forskel der er på budgetforliget og Socialdemokratiets budget på Skole-, Børne- og Ungeudvalget.",
+          "Id": "e785de4c-4403-433f-b0e7-443855db9343"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. normering i special SFO",
+          "Id": "9f23cdfa-d0cc-4b33-84c5-cf8756699299"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. sagsbehandlingstider på det sociale område",
+          "Id": "82f536dc-3539-40ef-a1de-376ab83ba1b0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. bevoksning og vedligeholdelse af området ved Mosede Fort.",
+          "Id": "e7ff81af-3a7b-45d2-88f1-3f6fd150be0a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. udvidelse af boligkapaciteten i Greve Kommune",
+          "Id": "fa864289-ed04-4126-888a-14dcd7205a3a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. opmagasinering af tagplader (asbest)",
+          "Id": "1f2ed65b-31cf-4dd4-8f4b-c9e9de3918bf"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. antal børn og pædagogisk personale i dagtilbud. Det pågældende spørgsmål /svar har tidligere været frigivet i \"Budgetmateriale - byrådsperiode 2022-2025\"",
+          "Id": "4bb1689f-9515-4e46-bc34-c67cd3541047"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. pulje til klimatiltag",
+          "Id": "302e5213-f1b1-4760-b956-ebb4c32d0d8a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. blokering af borgere på Greve kommunes FB-side",
+          "Id": "a574f7b1-68fb-41d6-a24d-85ad6d1308b7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. økonomisk træk ved nedsættelse af lærernes undervisningstid",
+          "Id": "2e59d4af-e9c2-4049-9cc6-53034343ab9d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. byggeaffald Rendebjergvej 9, 4030 Tune",
+          "Id": "6a347426-e33c-465d-a4d1-8730e7976d68"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. socialtandpleje",
+          "Id": "f49eaac4-842e-48e4-ad82-750bc8f1de17"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar vedr. socialtandpleje - Henvendelse fra Gadejuristen",
+          "Id": "a8fca666-18e2-49e7-ae34-2069906dadbc"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. gelænder på trappen ved sydlig høfde på Mosede Fortet",
+          "Id": "2d4b6136-ece4-49ec-9b74-db20f25fd1c7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. SWAP",
+          "Id": "47667104-66ed-4456-85a0-e567f200771d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. budgettet",
+          "Id": "aeb73ae7-9d3b-40f9-ae2c-75a100623737"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. ventetid på byggetilladelse",
+          "Id": "2b71f943-9723-42c3-9524-4d73b036b794"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. antal pædagoger",
+          "Id": "464df433-e166-4431-b7c3-c59e840d5cfe"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. huller vejbelægning i Hedelyparken",
+          "Id": "83ec15bf-3bae-4081-8b3b-c4fdf6b358b1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. petanquebaner ved Borgerhuset",
+          "Id": "e1fd0f7d-c9dc-4411-896b-4b1a5e20abc2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. bøger",
+          "Id": "86042186-c2d7-46f5-bd66-6b17eee6d5ad"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar fra Claus Dyremose (C) vedr. byggeri på hjørnet af Lillevangsvej/Kildebrøndevej.",
+          "Id": "c3110374-a8fd-40ed-b4e9-a9e9e6178625"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. afrapportering på førtidspension",
+          "Id": "2adcd8ad-725f-48d8-a400-ed2e37ef297c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. reetablering af veje efter opgravning.",
+          "Id": "6aee35a0-36ca-41d6-9f10-4c2a81ead4ad"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. huller på cykelsti ved GIC",
+          "Id": "b218ba3e-2718-4faf-8db2-ab33dd5f41e1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. kommunens opgave for at holde stier rene og farbare",
+          "Id": "ffef772f-aa12-48c0-a972-e0618efa8daf"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Vedr. kommunens opgave for at holde stier rene og farbare",
+          "Id": "aa535158-c139-49e5-928b-10359c0a712c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. whistleblowerordning",
+          "Id": "b6568112-c8fc-4b35-82d7-b5bfe2cf2082"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. tilladelse til opsætning af knallertkørsel-forbudt-skilte i Gersagerparken",
+          "Id": "f8b6d30b-b687-4d97-89cf-1831aea02ef3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. tildeling af pavilloner til Krogårdsskolen",
+          "Id": "e77902d5-f7d4-4fdd-8be9-af1f9751a018"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål svar vedr. tilsynsrapporter",
+          "Id": "52b52265-799f-443b-889a-896537745822"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. kommunale garantistillelser",
+          "Id": "7f4ce04f-5973-470c-ae13-5c6578c4cc41"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar vedr. kommunale garantistillelser",
+          "Id": "61f20340-41f3-4d8b-8db8-d590ce5fa4fe"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. køreplan for bus 224",
+          "Id": "35040907-a92d-411b-81de-f511e2ca5387"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. indeksering over udgiftsniveau",
+          "Id": "59920b77-1f29-4333-abec-857230ce489b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. fakta ark skoler",
+          "Id": "856d389e-6180-43bc-b489-16b30db9c944"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. nabohøring",
+          "Id": "fe76d4cf-b668-470a-8b05-b423ab0b3778"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. minimumsnormeringer",
+          "Id": "51fe9de7-1ae0-4711-89f9-e81e65574873"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. bevilling af fysioterapi",
+          "Id": "ed24685a-72b0-47b4-a751-917b096920a7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. visitation til ekstern dagbehandling",
+          "Id": "8daa297f-5b8c-4312-a481-a1fd0e9f716d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. at økonomiudvalget har bedt om et faktaark vedr. skoleområdet",
+          "Id": "51369eb0-06d6-4691-9a0f-a176cc830633"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar vedr. fakta ark skoleområdet",
+          "Id": "ca8cd66d-4c42-4441-a7eb-27c99306d24a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. Greve Bakke jorden",
+          "Id": "9e2c4c34-a850-4a0a-9cb3-74b4ae3cf75e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar vedr. Greve Bakke jorden",
+          "Id": "27e13c17-3c18-48a8-ab42-109f394553a9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. kontrakten med Kiltin",
+          "Id": "f4a746a1-d53e-4cc2-92b4-efb8f2f5d963"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. business case på omdannelse af Tune skole Lunden til dagbehandlingsskole",
+          "Id": "f8def9f0-2e85-449f-9223-5f28d4e78742"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. rockere og bandemedlemmer på offentlig forsørgelse",
+          "Id": "0d59ce1c-9999-4f1a-9c81-d485d8340447"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. bosteder",
+          "Id": "8b9ab105-b21a-403c-bf17-7ceeae3f3bef"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 til spørgsmål /svar vedr. bosteder: Brev til Landsorganisationen for sociale tilbud",
+          "Id": "543e14e0-4f6a-4049-834d-7f51a22a0174"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 til spørgsmål /svar vedr. bosteder: Brev til Selveje Danmark",
+          "Id": "fc5a4816-a45d-41a8-b149-e47883fdbbd9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. artikel i Socialmonitor",
+          "Id": "a77bdbfc-1ad6-4780-965e-186ab6f79400"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar vedr. artikel i Socialmonitor",
+          "Id": "6864bad8-ff2f-4f2d-a35e-8a7c9e238efc"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. manglende lys",
+          "Id": "07447bb1-6b47-4c1e-9bdf-84b0eb066c04"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. pendler parkering i Karlslunde centeret",
+          "Id": "abc3b0f0-eed9-4961-8d9d-3cf3ed1ab5a6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. Europa-Parlamentsvalg 2024",
+          "Id": "8d91b149-38f7-42e1-b3d0-eeef91ec031f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. punkt 18. - infrastruktur vedr. byudvikling",
+          "Id": "479c9f94-2c50-455e-882e-f8694ff9f5ef"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål svar vedr. Skovbo Alle 1",
+          "Id": "5666746c-427c-48a4-b536-9cb1b0e08101"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. Lokalplan",
+          "Id": "e54b0faa-785b-44d2-8f9c-d8aedf43ec7f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. Erhvervscentret søger medarbejder",
+          "Id": "73949739-6e7b-401a-9da4-b3f08309580e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. anvisning af almene lejeboliger",
+          "Id": "10febd73-e8b0-4804-8df1-5a2a0f7b7234"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. aftale om parkering",
+          "Id": "eecaa7fa-12d5-42ee-bbf5-a03fae0bbb73"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. forpligtelse til tilsyn og deling af årsregnskab",
+          "Id": "31116037-48ac-4980-9558-1864c3f18435"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar vedr. forpligtelse og deling af årsregnskab",
+          "Id": "a6591bf8-81c0-4c02-aeee-752a35692111"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar fra Maria Holdt Witthøft (A) vedr. Greve Marina",
+          "Id": "8ee4e66d-f2b0-45c9-8c65-914cd0ea3794"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. finansiering af digitale læremidler og forbruget hertil i 2023",
+          "Id": "6bddb0d6-205c-4ff4-b0ca-02b9fd72513f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til spørgsmål /svar vedr. finansiering af digitale læremidler og forbruget hertil i 2023 - Samlet oversigt",
+          "Id": "00025f6a-9ad7-4c33-a2a6-25d69901a779"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. noget nyt i sagen ang. pendlerparkering ved Karlslunde Station",
+          "Id": "8de8f9c8-1345-4fcf-a0d0-7a43242d4668"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. afvanding af sti ved Greve Museum",
+          "Id": "00bef875-e03f-407e-b4d4-2bdf197963c3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. kontrakt mellem Greve Kommune og Fregatten (Greve Marina)",
+          "Id": "358a6f00-6c45-45f2-a66f-a6dd080b4b2d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål svar vedr. Garantistillelse fra Kommunekredit",
+          "Id": "8d487fb8-722e-412c-bb35-5c3f1ad47ab2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål svar vedr. kranfirmaet Maximus",
+          "Id": "40501137-74f8-4794-8e25-d29ff6227bc4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. Greve Bakke",
+          "Id": "3102e5f8-b45e-4ede-8335-02df154d9fd0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. overvågning ved personaleindgangen",
+          "Id": "2605b555-df0c-4a1d-b807-df0893a60e26"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. pendlerparkering ved Karlslunde stationscenter",
+          "Id": "730fdafa-2d17-4867-b6c5-1d79e6066d6c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Genpubliceret Svar vedrørende beskyttelsesrum i Greve",
+          "Id": "5b4e0c07-1f82-4fa4-8253-9f6a5359ddbb"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. tilskud til varmepumpe",
+          "Id": "5a8ff1bd-056d-400f-a2a6-b55f3542fdf4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. minimumsnormeringer i Greve Kommune og træer på rævebakken",
+          "Id": "20aa1af5-5ad1-4adf-bc96-fa55e3f34811"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedrørende Greve Bakke",
+          "Id": "a5320711-463f-46ce-8f7e-e2db7e90e2c9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. kranfirmaet Maximus udvidelse",
+          "Id": "0eb4f70f-508f-4dcc-9be1-76362b427204"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. hvad vil det koste Greve kommune at bevare Greve Nordprojekt som det er i dag.",
+          "Id": "2c143b38-81e5-4b21-9e62-2291a260be09"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedrørende Tilsyn med miljø",
+          "Id": "3492aa6d-defb-449b-aad3-40b4715850a1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. ny bestemmelse i Bygningsreglementet som trådte i kraft pr. 1. januar 2024",
+          "Id": "11bc4b9b-a2e5-4fe2-b80a-d453b682941d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. matrikulære forhold og grundejerforpligtelse ved strande",
+          "Id": "4cdae718-7319-4a48-8860-286600eb6843"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag. Matrikulær grænse mod havet",
+          "Id": "0c9e198f-303e-42e7-af1d-9597133b3178"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. is og vand i tunneller",
+          "Id": "a03885f6-7e79-4de1-a488-a22ba15c06fa"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. vejhuller",
+          "Id": "93645a33-42fb-481e-8809-014d2e50d3d6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. Huller i vejen",
+          "Id": "77d8b9d8-53bb-426a-92d8-5c6935a86429"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedrørende kommuneplanramme 4E20 i Tune",
+          "Id": "b06f127d-4d27-4051-b8b7-ff58f32faa51"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. udleje af lokaler i Portalen",
+          "Id": "7df56020-df81-47a9-86d6-83bd794b5bb9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag. Retningslinjer for udlån udlejning af lokaler",
+          "Id": "1205254c-ab4e-4877-a8ff-31d23be44912"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. flexjobberes frivilligt arbejde",
+          "Id": "c480a990-561a-4f9c-ad7f-5dddecc42597"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. kystsikring",
+          "Id": "5b8d210f-266c-4a4b-b61a-1ac6ae02472e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. snerydning og saltning",
+          "Id": "c39f12a6-4116-4d1c-8a72-b44ec972fbe2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. opfølgende spørgsmål ang. Hundige Boldklubs kunstbaner",
+          "Id": "bf436434-0fe5-4519-b09c-fee06baa60dd"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag. Kvalitetsbeskrivelser for grønne  områder s. 70-71",
+          "Id": "8c6e7952-88cc-424b-be87-d975fdb8ef5b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag. Kunstgræsbane i Hundige 2023",
+          "Id": "5a3ef6a3-c289-4a62-92c2-9aa4ddfd8e04"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål / svar vedr. Manglende snerydning af Skolestien, Tunehøj",
+          "Id": "d2510a09-a169-432a-b28e-c3b7f8e37059"
+        }
+      ],
+      "Documents": null,
+      "Id": "72f2f04b-e02e-4d6e-978a-255d51d3c35b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4173e720-e023-45d2-bfec-e8315df6a4d8",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-015217",
+      "SourceId": null,
+      "Caption": "Spørgsmål/svar til Byrådet 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "208fd141-1cc9-4ff4-9040-2543c7659ebb",
+    "Navn": ".Spørgsmål / Svar til Byrådet 2022-2025",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-12-31T12:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-12-31T12:00:00+01:00",
+    "Sted": "Virtuelt",
+    "Afsluttet": false,
+    "Moededeltagere": [],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "4173e720-e023-45d2-bfec-e8315df6a4d8",
+  "Lydfiler": null
+}

@@ -1,0 +1,579 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 12. januar 2022.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e46c367d-c2f1-4b11-a05a-069229cfacef",
+          "DocumentId": "e46c367d-c2f1-4b11-a05a-069229cfacef"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014482",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5e487a28-449e-45ef-bd70-3e397662d4a5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014482",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Punktet skal udg&aring; af dagsordenen (fremadrettet)</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016076",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d49bdeb1-7e47-42ad-9d92-d984f94ebe4d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "21-016076",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Den gensidige præsentation blev taget til efterretning</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <div><b>Sagsprocedure</b></div> <div> Kultur- og Fritidsudvalget.</div> <div><b>Resume</b></div> <div>Udvalgets medlemmer præsenterer sig for hinanden. Fortæl lidt om motivation for medlemskab af udvalget, politiske mærkesager og ønsker til samarbejde internet i udvalget</div> <div><b>Indstilling</b></div> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller a</em><i>t udvalgets medlemmer præsenterer sig for hinanden ift. fx motivation for medlemskab af udvalget, politiske mærkesager og ønsker til samarbejde internt i udvalget</i></div> <div><b>Sagsbeskrivelse</b></div> <div>På det konstituerende møde den 1. december 2021 valgte udvalget formand og modtog et udkast til plan for møderne i 2022. Som led i udvalgets opstart præsenterer medlemmerne sig for hinanden med særlig fokus på visioner, ønsker og politiske perspektiver på udvalgets hovedopgaver. </div> <div><span>Økonomiske konsekvenser</span></div> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/11310a27-1422-40ba-8908-222e2fde03f3",
+          "DocumentId": "11310a27-1422-40ba-8908-222e2fde03f3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016162",
+      "Navn": "Gensidig introduktion",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a2e6d991-8fad-4873-bcbd-0c368f354960",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-016162",
+      "SourceId": null,
+      "Caption": "Gensidig introduktion",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Drøftet med ønske om at der også sættes fokus på:</div> <ul>     <li>Under introduktionen til Greveordningen skal der også sættes fokus på organisationen (rådhuset, IFS, rådene) – herunder hvorfor opdelt på denne måde og hvem laver hvad. </li>     <li>Der skal også sættes fokus på udvalgets samarbejdsflader til andre udvalg. Det kan være hvilke andre fagområder samarbejdes med og om hvad (fx Kulturbasen, ungdomsskolen, klubber, motorik og det tekniske område)</li>     <li>Temamøderne skal også præsentere de steder hvor mødet afholdes.</li> </ul></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Kultur- og Fritidsudvalget.</div> <div><b>Resume</b></div> <div>Vedlagte udkast til plan for udvalgets møder i 2022 drøftes. Dagsorden for møderne i første kvartal justeres efter behov. </div> <div><b>Indstilling</b></div> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller </em><em>at udvalget drøfter den vedlagte plan for udvalgets møder i 2022 og beslutter eventuelle justeringer for møderne i første kvartal.</em></div> <div><b>Sagsbeskrivelse</b></div> <div>På sit konstituerende møde 1. december 2021 drøftede udvalget et første oplæg til plan for møderne i 2022. På nærværende første udvalgsmøde i den ny valgperiode bliver planen drøftet mere detaljeret med henblik på at præcisere dagsorden for de følgende 2- 3 møder i udvalget.</div> <div> </div> <div>Planen indeholder konkrete sager og emner af introducerende karakter.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7f531163-2cc8-4ce6-a717-4c2e332fb1d4",
+          "DocumentId": "7f531163-2cc8-4ce6-a717-4c2e332fb1d4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016162",
+      "Navn": "Drøftelse af udvalgets årsplan",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kultur- og Fritidsudvalgets årsplan",
+          "Id": "81864f8f-f2f5-4593-9196-0bac695330eb"
+        }
+      ],
+      "Documents": null,
+      "Id": "98bf8f4e-12ea-44a4-9a84-762659af5bbc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-016162",
+      "SourceId": null,
+      "Caption": "Drøftelse af udvalgets årsplan",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Kultur- og Fritidsudvalget udpegede Lone Mortensen (V) og Charlotte Levin (A) til Greve Museums bestyrelse</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Der skal vælges to medlemmer til Greve Museums bestyrelse blandt Kultur- og Fritidsudvalgets medlemmer.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at der vælges to repræsentanter fra Kultur- og Fritidsudvalget til Greve Museums bestyrelse.  </em></div> <h3>Sagsbeskrivelse</h3> <div>Greve Museum har i sin portefølje både Grevegård og Mosede Fort. Derudover har museet også et lokalhistorisk arkiv og ansvaret for kommunens §7 arkiv.</div> <div> </div> <div>Der skal vælges to medlemmer til Greve Museums Bestyrelse blandt Kultur- og Fritidsudvalgets medlemmer.</div> <div> </div> <div>Ifølge vedtægterne for Greve Museum kan et bestyrelsesmedlem maksimalt sidde i bestyrelsen i otte år.</div> <div> </div> <div>Per Lund Sørensen (V) har siddet i museets bestyrelse i de sidste to byrådsperioder og dermed i otte år. Per Lund Sørensen kan således ikke modtage genvalg til bestyrelsen.</div> <div> </div> <div>Valget foretages efter forholdstalsvalg.</div> <h3>Opgaver</h3> <div>Bestyrelsen er overordnet ansvarlig for museets drift. Bestyrelsen er endvidere ansvarlig for at forvalte museets formue. </div> <h3>Valgperiode</h3> <div>1. januar 2022 til 31. december 2025. </div> <h3>Vederlag</h3> <div>Der ydes ikke vederlag.</div> <h3>Lovgrundlag</h3> </div> Greve Museums vedtægter godkendt af Byrådet den 6. maj 2014.</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/16a7970e-d395-4200-b7db-031da9cef5f3",
+          "DocumentId": "16a7970e-d395-4200-b7db-031da9cef5f3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-011401",
+      "Navn": "Greve Museums Bestyrelse - valg af 2 medlemmer",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a97b21df-801b-4572-96bd-4fa61dc87553",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-011401",
+      "SourceId": null,
+      "Caption": "Greve Museums Bestyrelse - valg af 2 medlemmer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Kultur- og Fritidsudvalget udpegede Anne Marie Lyduch (V) og Maria Witthøft (A) til Fritidsrådet</div> <div><b> </b></div> <div>Obs på at der i indstillingen står ”Idrætsrådet”, dette er en tastefejl.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Der skal vælges to medlemmer blandt Kultur- og Fritidsudvalgets medlemmer til Fritidsrådet.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at der vælges to repræsentanter fra Kultur- og Fritidsudvalget til Idrætsrådet.</em></div> <h3>Sagsbeskrivelse</h3> <div>Fritidsrådet er sammensat af:</div> <div> </div> <ul>     <li>To repræsentanter fra Kultur- og Fritidsudvalget</li>     <li>To repræsentanter fra Børne- og ungdomsorganisationernes Samråd (BUS)</li>     <li>To repræsentanter fra fritidsforeninger/organisationer så vidt muligt fra to forskellige</li>     <li>To repræsentanter fra aftenskolerne, så vidt muligt to forskellige</li>     <li>En repræsentant fra handicaporganisationerne udpeget af handicaporganisationerne</li>     <li>En repræsentant valgt blandt formanden fra Greve Borgerhusbrugerråd, formanden for bestyrelsen i Tune Borgerhus, formanden for bestyrelsen i Karlslunde Borgerhus, formanden for bestyrelsen Hundigehuset samt formanden for brugerrådet i Aktivhuset Olsbækken.</li> </ul> <div> </div> <div>Der skal vælges to medlemmer blandt medlemmerne af Kultur- og Fritidsudvalget til Fritidsrådet.</div> <div> </div> <div>Valget foretages efter forholdstalsvalg.</div> <h3>Opgaver</h3> <div>Ifølge det gældende kommissorium er Fritidsrådets formål,</div> <ul>     <li>At rådgive og give udtalelse til det politiske niveau samt direktør- og chefniveau i Greve Kommune om alle for fritidsrådet væsentlige forhold i kommunen.</li>     <li>At deltage i udviklingen af hele fritidsområdet i Greve Kommune inden for den vedtagne politik og tilhørende handlingsplaner</li>     <li>At arbejde helhedsorienteret og skabe sammenhæng på hele fritidsområdet</li>     <li>At fungere som §35 stk. 2-udvalg i henhold til Folkeoplysningsloven.</li> </ul> <h3>Valgperiode</h3> <div>Fra 1. januar 2022 til 31. december 2025.</div> <h3>Vederlag</h3> <div>Der ydes ikke vederlag. Rådets medlemmer er diætberettigede – men politikerne får ikke diæter.</div> <h3>Lovgrundlag</h3> <div>Kommissorium af 1. januar 2020.</div> <h3> <div> </div> </h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b1e3f31d-b82c-4ad7-bc8c-e6b4532d3e31",
+          "DocumentId": "b1e3f31d-b82c-4ad7-bc8c-e6b4532d3e31"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-008819",
+      "Navn": "Fritidsrådet - valg af 2 medlemmer",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e170a6c0-ee51-435f-8b65-7cf29f5d3bd8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-008819",
+      "SourceId": null,
+      "Caption": "Fritidsrådet - valg af 2 medlemmer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Kultur- og Fritidsudvalget udpegede<b> </b>Anne Marie Lyduch (V) og Charlotte Levin (A) til Idrætsrådet</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget. </div> <h3>Resume</h3> <div>Der skal udpeges to repræsentanter fra Kultur- og Fritidsudvalget til Idrætsrådet.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at der vælges to repræsentanter fra Kultur- og Fritidsudvalget til Idrætsrådet. </em></div> <h3>Sagsbeskrivelse</h3> <div>I Idrætsrådet er de stemmeberettigede medlemmer følgende: </div> <div> </div> <ul>     <li>Et medlem valgt/udpeget af Greve Idrætsforening</li>     <li>Et medlem valgt/udpeget af Karlslunde Idrætsforening</li>     <li>Et medlem valgt/udpeget af Tune Idrætsforening</li>     <li>Tre medlemmer valgt af øvrige foreninger, hvoraf ingen forening kan repræsenteres af mere end en person</li>     <li>Tre medlemmer er repræsentanter fra de stående udvalg beskrevet under pkt. 5.3 i rådets kommissorium.</li>     <li>Når et medlem udtræder af Idrætsrådet for en kortere periode eller varigt indtræder suppleanten.</li> </ul> <div> </div> <div>Derudover deltager følgende repræsentanter, som ikke er stemmeberettigede: </div> <div> </div> <ul>     <li>Idrætsrådets sekretær fra Idræts- & Fritidssekretariatet.</li>     <li>Udpeget repræsentant fra det fagcenter, som administrativt betjener Kultur og Fritidsudvalget, deltager så vidt muligt i Idrætsrådets møder.</li>     <li>To repræsentanter fra Kultur- & Fritidsudvalget</li> </ul> <div> </div> <div>Kultur- og Fritidsudvalget skal derfor vælge de to repræsentanter til Idrætsrådet.</div> <div> </div> <div>Valget foretages efter forholdstalsvalg.<em></em></div> <h3>Opgaver</h3> <div>Idrætsrådet har til formål,</div> <ul>     <li>At rådgive og give udtalelse til det politiske niveau samt direktør- og chefniveau i Greve Kommune om alle for idrætten væsentlige forhold i kommunen.</li>     <li>At medvirke til at styrke den samlede indsats for idrætten i Greve Kommune inden for den vedtagne idrætspolitik og tilhørende handlingsplaner.</li>     <li>At fungere som §35 stk. 2-udvalg i henhold til Folkeoplysningsloven.</li>     <li>At deltage i udviklingen af, samt sikre helhedstænkning og sammenhæng på hele idrætsområdet</li> </ul> <h3>Valgperiode</h3> <div>Fra 1. januar 2022 til 31. december 2025. </div> <h3>Vederlag</h3> <div>Der ydes ikke vederlag. Rådets medlemmer er diætberettigede – men politikerne får ikke diæter.</div> <h3>Lovgrundlag</h3> <div>Folkeoplysningsloven og Idrætsrådets kommissorium af 1. januar 2020.</div> <h3> <div> </div> </h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ef78df32-9060-47a3-8309-c891eb4072c3",
+          "DocumentId": "ef78df32-9060-47a3-8309-c891eb4072c3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-012095",
+      "Navn": "Idrætsrådet - valg af 2 medlemmer",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "18eed41d-c575-4742-a112-74c0d205063f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-012095",
+      "SourceId": null,
+      "Caption": "Idrætsrådet - valg af 2 medlemmer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Kultur- og Fritidsudvalgets beslutning: </div> <div> </div> <div>Per Lund Sørensen (V) spurgte, om Per Lund Sørensen (V) er inhabil i punktets behandling da Per Lund Sørensen (V) er formand for fodboldklubben.</div> <div> </div> <div>For stemte:</div> <div>Anne Marie Lyduch (V)</div> <div>Per Lund Sørensen (V)</div> <div>Lone Mortensen (V)</div> <div>Charlotte Levin (A)</div> <div>Maria Witthøft (A)</div> <div>Kultur- og Fritidsudvalget erklærede Per Lund Sørensen (V) for inhabil i punktets behandling.</div> <div>Per Lund Sørensen (V) forlod herefter lokalet.</div> <div> </div> <div> 1.<b> </b>Godkendt med bemærkning om:</div> <ul>     <li>at administrationen skal udarbejde konkrete retningslinjer for tildeling af tilskud til handicapområdet, som skal godkendes af Kultur- og Fritidsudvalget</li>     <li>at Tune IF PARA-sport tildeles 15.000 kr. i 2022 og må til 2023 ansøge efter nye retningslinjer</li> </ul> <div>2. Godkendt at tilskuddet finansieres af idrætspuljen.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Sagen fremstiller en ansøgning fra Tune IF fodbold om et partnerskab med Greve Kommune målrettet PARA sportsaktiviteter i fodboldafdelingen. Udvalget bedes tage stilling til, om projektet skal støttes.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller,</em></div> <div><em> </em></div> <ol>     <li><em>at Kultur- og Fritidsudvalget tager stilling til, om ansøgning om partnerskab på handicapområdet fra Tune IF skal godkendes eller afvises</em></li>     <li><em>at partnerskabet finansieres via puljemidlerne som besluttet på Kultur- og Fritidsudvalgsmøde den 25. august 2021 hv<em>is ansøgningen godkendes</em></em></li> </ol> <h3>Sagsbeskrivelse</h3> <div>Kultur- og Fritidsudvalget besluttede den 25. august 2021, at fremtidige ansøgninger om støtte til handicapaktiviteter i foreningslivet skal forelægges Kultur- og Fritidsudvalget med mulighed for flerårig støtte.</div> <div> </div> <div>Med baggrund i ovenstående fremstilles i denne sag en ansøgning fra Tune IF om at understøtte PARA sportsaktiviteter i fodboldafdelingen.</div> <div> </div> <div><strong>Ansøgning</strong></div> <div>Tune IF fodbold har 25 medlemmer i deres PARA sportsafdeling. Medlemmerne træner to gange om ugen og har alle et fysisk eller psykisk handicap. Afdelingen er tilmeldt turneringer under PARA Sport Danmark og DGI, og Tune IF fungerer også som vært for stævner af og til.</div> <div> </div> <div>Afdelingen kører jævnfør ansøgningen med underskud, og Tune IF fodbold søger om en toårig bevilling på 30.000 kr. per år til at dække udgifter til træningssamlinger og stævner, kørselsgodtgørelse til to trænere og udstyr til kamp og træning. Den fulde ansøgning er vedlagt sagen som bilag.</div> <div> </div> <div>En godkendelse af ansøgningen vil give Tune IF fodbold mulighed for at fastholde aktiviteter i PARA sportsafdelingen.</div> <h3>Økonomiske konsekvenser</h3> <div>Hvis Kultur- og Fritidsudvalget godkender ansøgningen, vil puljemidlerne blive reduceret med 30.000 kr. i 2022 og 2023. Det vil derfor holdes indenfor nuværende budgetramme. Puljeudvalgene har behandlet ansøgninger for puljemidler i 2022, og der er en restbevilling på 71.155 kr. som anbefales anvendt til partnerskaber på idræts- og fritidsområdet. Finansiering af dette partnerskab kan derfor godt tilvejebringes allerede fra 2022.</div> <div> </div> <div>Der vil blive oprettet en særskilt budgetpost til samarbejdet, og der udfærdiges en samarbejdsaftale for projektet. </div> <h3>Øvrige konsekvenser</h3> <div>Et bevillingstilsagn vil sikre, at Tune IF fodbold kan fastholde aktiviteter i deres PARA sportsafdeling.</div> <h3>Tidsplan</h3> <div>Administrationen giver Tune IF besked efter politisk behandling. Hvis projektet støttes, gælder det aktiviteter i 2022 og 2023.</div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d3bb174e-36c4-4fc8-9725-2ed710c5059a",
+          "DocumentId": "d3bb174e-36c4-4fc8-9725-2ed710c5059a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016079",
+      "Navn": "Ansøgning fra Tune IF om støtte til PARA sportsaktiviteter i fodboldafdelingen",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Ansøgning, Handicapaktiviteter Tune IF Fodbold",
+          "Id": "bddeecfb-0dea-4252-bce6-ffb6cd565064"
+        }
+      ],
+      "Documents": null,
+      "Id": "e26ece49-1490-452f-9766-48ea4f29f311",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-016079",
+      "SourceId": null,
+      "Caption": "Ansøgning fra Tune IF om støtte til PARA sportsaktiviteter i fodboldafdelingen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Per Lund Sørensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "e26ece49-1490-452f-9766-48ea4f29f311"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><ol>     <li>Godkendt</li>     <li>Godkendt</li> </ol></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>På baggrund af Idrætspuljeudvalgets og Fritidspuljeudvalgets anbefalinger skal Kultur- og Fritidsudvalget fordele idræts- og fritidspuljerne og talent- og elitestøtte for 2022.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, </em></div> <ol>     <li><em>at fordelingen af 2022 puljemidler godkendes ud fra sagens beskrivelse og puljeudvalgenes konkrete anbefalinger</em></li>     <li><em>at restbudgettet på 71.155 kr. reserveres til partnerskaber på idræts- og fritidsområdet i 2022</em></li> </ol> <h3>Sagsbeskrivelse</h3> <div><strong>Baggrund</strong></div> <div>Der er forskellige muligheder for at søge tilskud som forening eller selvorganiseret gruppe hjemmehørende i Greve Kommune. En af mulighederne for støtte er via puljemidler. Der er årligt afsat et rammebeløb, der udmøntes via en idrætspulje, en fritidspulje og via talent- og elitestøtte.</div> <div> </div> </div> <div> <div>Hver pulje har en række temaer med forskellige formål, for eksempel at fastholde eller tiltrække medlemmer og frivillige, at yde materialetilskud eller at fremme udviklingen af folkeoplysningsområdet. </div> <div> </div> <div>Ansøgninger til puljemidler behandles af idrætspuljeudvalget og fritidspuljeudvalget. Puljeudvalgenes anbefalinger danner baggrund for administrationens indstilling til Kultur- og Fritidsudvalget.</div> <div> </div> <div><strong>Proces</strong></div> <div>Deadline for at ansøge Idræts- og Fritidspuljerne for 2022 var den 31. oktober 2021. Der er efterfølgende afholdt møder i Idrætspuljeudvalget og Fritidspuljeudvalget med henblik på at fordele rammen for 2022.</div> <div> </div> <div>Foruden puljeudvalgenes behandling af alle indkomne ansøgninger til idræts- og fritidspuljerne, har Idrætspuljeudvalget også midtvejsevalueret det toårige tilsagn om talent- og elitestøtte givet til 2021 og 2022 til en række foreninger.</div> <div> </div> <div>Puljeudvalgene har behandlet alle ansøgninger på baggrund af kriterierne for idræts- og fritidspuljerne, som blev godkendt af Kultur- og Fritidsudvalget den 1. oktober 2019. Kriterierne er vedlagt sagen som bilag.</div> <div> </div> <div>Denne sag fremstiller et overblik over puljeansøgninger og puljeudvalgenes anbefaling til fordeling.</div> <div><span><strong> </strong></span></div> <div><strong>Overordnet ramme</strong></div> <div>Den samlede ramme til fordeling af Idræts- og Fritidspuljerne og talent- og elitestøtte 2022 er 1.739.800 kr. </div> <div> </div> <div>Puljeudvalgene anbefaler følgende fordeling:</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td colspan=\"2\" valign=\"top\">             <div>Idrætspulje</div>             </td>             <td valign=\"top\">             <div>Fritidspulje</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Ansøgninger til idrætspulje</div>             </td>             <td valign=\"top\">             <div>Talent- og elitestøtte</div>             </td>             <td valign=\"top\">             <div>Ansøgninger fritidspulje</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>486.901 kr.</div>             </td>             <td valign=\"top\">             <div>937.308 kr.</div>             </td>             <td valign=\"top\">             <div>244.436 kr.</div>             </td>         </tr>     </tbody> </table> <div> </div> <div>Det er en samlet fordeling af 1.668.645 kr., hvilket giver et restbeløb på 71.155 kr. Idrætspuljeudvalget og Fritidspuljeudvalget anbefaler, at restbeløbet reserveres til partnerskaber på idræts- og fritidsområdet i 2022. </div> <div> </div> <div>I vedlagte bilag fremgår det konkret, hvilke beløb Idrætspuljeudvalget og Fritidspuljeudvalget anbefaler til de enkelte ansøgninger. Der er noteret en kort begrundelse for såvel tilsagn som afslag under hver ansøgning. Det fremgår også af bilagene, om medlemmerne i udvalgene er inhabile i konkrete ansøgninger.</div> <div> </div> <div><strong>Idrætspuljen - breddeområdet</strong></div> <div>Der er kommet 31 ansøgninger for i alt 989.803,40 kr. Idrætspuljeudvalget har behandlet ansøgningerne og anbefaler 21 ansøgninger helt eller delvist. Foreninger der har søgt og tidligere fået bevilget tilskud til samme materiel over en årrække anbefales en delvis bevilling. </div> <div> </div> <div>Tune IF har forhåndstilsagn på 66.000 kr. fra idrætspuljen til projektet ”Faglig fordybelse”. Beløbet er trukket fra ovenstående rammebeløb og indgår derfor ikke i puljeudvalgets indstilling.</div> <div> </div> <div>I alt for 2022 anbefales 486.901 kr. </div> <div> </div> <div><em><strong>Prioriteringer og afslag</strong></em> </div> <div>Puljeudvalget har prioriteret ansøgninger, hvor materialerne har karakter af sikkerhed og hjælp til sårbare grupper. Derudover er der givet tilskud til nye tiltag i foreningerne og materialer, som understøtter udviklingen af idrætten i foreningerne.</div> <div> </div> <div>Puljeudvalget har overordnet anbefalet afslag til tre typer ansøgninger:</div> <ul>     <li>Driftsmidler</li> </ul> <ul>     <li>Træner- og ekstern konsulentbistand</li> </ul> <ul>     <li>Ansøgninger om talent- og elitestøtte</li> </ul> <div> </div> <div><strong>Talent- og elitestøtte</strong></div> <div>Ansøgninger om talent- og elitestøtte behandles hvert andet år på baggrund af foreningers anmodninger og en dialog med Idræts- & FritidsSekretariatet. I mellemåret midtvejsevaluerer Idrætspuljeudvalget den støtte, der er givet året før. </div> <div> </div> </div> <div> <div>Midtvejsevalueringen viste i år, at Corona har haft store konsekvenser for foreningernes talent- og elitearbejde. En del foreninger har ikke kunne afvikle træningsaktiviteter, og der har været aflyst mange turneringer og mesterskaber både nationalt og internationalt. Det har betydet, at det ikke har været muligt at vurdere foreningernes samlede sportslige resultater på en retfærdig måde.</div> <div> </div> <div>Idrætspuljeudvalget har derfor vurderet, om der har været ændringer i foreningernes sportslige organisation. I den forbindelse har foreninger generelt kunne fastholde deres sportslige organisation og derfor er deres sportslige målsætninger, således stadig realistiske. En af de foreninger som har ændret deres sportslige målsætning er Greve Strands Badmintonklub som i højere grad ønsker at satse på lokale badmintontalenter fra Greve til deres elitehold i badmintonligaen, og at denne satsning formentlig vil betyde at holdet først skal have noget erfaring, før det kan begå sig i top 3 i badmintonligaen, hvor der er flere spillere i andre klubber, som er fuldtidsprofessionelle.</div> <div> </div> <div>På baggrund af midtvejsevalueringen af talent- og elitestøtte bevilget i 2021 anbefaler Idrætspuljeudvalget, at tilsagnet på 937.308 kr. til talent- og elitestøtte fastholdes og ydes indenfor rammen af 2022-puljemidlerne.</div> <div> </div> <div>Fordelingen af beløbet til talent- og elitestøtte og midtvejsevaluering er vedlagt som bilag.</div> <div> </div> <div><strong>Fritidspuljen</strong></div> <div>Der er kommet 15 ansøgninger for i alt 390.022 kr. Fritidspuljeudvalget har behandlet ansøgningerne og anbefaler 13 ansøgninger helt eller delvist. Foreninger der har søgt og tidligere fået bevilget tilskud til samme materiel over en årrække anbefales en delvis bevilling.</div> <div> </div> <div>I alt for 2022 anbefales 244.435 kr.</div> <div> </div> <div><em>Prioriteringer og afslag</em></div> <div>Puljeudvalget har prioriteret ansøgninger vedrørende nye tiltag, nye materialer der har karakter af sikkerhedsmæssige hensyn samt materialer til anvendelse i forbindelse med Spejdernes Lejr i Hedeland i 2022.</div> <div> </div> <div>Der gives ikke tilskud til forplejning og stævne-/turneringsdeltagelse.</div> <div> </div> <div>Administrationen indstiller, at Idrætspuljen og Fritidspuljen udmøntes efter puljeudvalgenes anbefalinger.  Efter at have taget midtvejsevalueringen af talent- og elitestøtten til efterretning, og i tråd med idrætspuljeudvalgets anbefaling, indstiller administrationen også at fastholde og udbetale talent- og elitestøtte i 2022.</div> <h3>Lovgrundlag</h3> <div>Kultur- og Fritidsudvalgets godkendte kriterier for idræts- og fritidspuljerne og Folkeoplysningslovens § 6,3.</div> <h3>Økonomiske konsekvenser</h3> <div>Fordelingen af puljemidlerne finansieres indenfor den tildelte ramme til idræts- og fritidspuljerne og talent- og elitestøtte i 2022 under Kultur- og Fritidsudvalgets budget.</div> <div> </div> <div>Den anbefalede fordeling af 1.668.645 kr. giver et restbeløb på 71.155 kr. Idrætspuljeudvalget og fritidspuljeudvalget anbefaler, at restbeløbet reserveres til partnerskaber på idræts- og fritidsområdet i 2022. </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/835893d9-ef76-40c2-883f-6a314e91d943",
+          "DocumentId": "835893d9-ef76-40c2-883f-6a314e91d943"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016080",
+      "Navn": "Fordeling af Idræts- og Fritidspuljer og Talent- og Elitepulje 2022",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Indstillinger fra idrætspuljeudvalget - pulje 2022",
+          "Id": "54e6908b-efa3-487f-87c8-d0ae64006dfb"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Indstillinger fra fritidspuljeudvalget - pulje 2022",
+          "Id": "81b1ea99-a46f-48ba-84e0-f74dcda0c81f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag Talent- og elitestøtte 2022",
+          "Id": "58e57b78-e27c-4e21-87d0-0b64e5334524"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kriterier for støtte, puljemidler",
+          "Id": "c24136ee-9199-41d1-9420-1dde250ba4be"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Midtvejsevaluering Elite- og talent",
+          "Id": "d3d513bb-b2ee-4ed1-8f57-326910eb3154"
+        }
+      ],
+      "Documents": null,
+      "Id": "d1db006b-7d4f-43cc-a731-c58d1c244b5b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-016080",
+      "SourceId": null,
+      "Caption": "Fordeling af Idræts- og Fritidspuljer og Talent- og Elitepulje 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><ol>     <li>I 2022 gennemføres arrangementet som hidtil med undtagelse af fyrværkeri. </li>     <li>I år 2023 skal sankthans gentænkes med fokus på det nære, det familiære og det hyggelige og med vægt på lokale foreninger med kor, musik og aktiviteter. I samarbejde med Frivilligcentret, Idræts- og Fritidssekretariatet, Portalen, Museet og kommunen.</li> </ol></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Sagen følger op på Kultur- og Fritidsudvalgets beslutning fra den 25. august 2021, hvor administrationen blev bedt om at undersøge muligheden for samarbejde med det lokale foreningsliv og fælles udvikle idéer til fremtidens sankthans. På baggrund af input fra foreninger fremstilles forslag til fejring af sankthans i 2022 og fremadrettet.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller,</em></div> <ol>     <li><em>at Kultur- og Fritidsudvalget tager stilling til, om Greve Kommune fortsat skal arrangere sankthans på Mosede Fort.</em></li>     <li><em>at, hvis Greve Kommune fortsat skal arrangere sankthans, så godkender Kultur- og Fritidsudvalget at arrangementets karakter ændres til et arrangement med indslag ved foreninger, som beskrevet i sagens scenarie 1</em></li> </ol> <h3>Sagsbeskrivelse</h3> <div><em>Baggrund</em></div> <div>Fejringen af sankthans i Greve Kommune har i en årrække været afholdt på Mosede Fort. I dagene op til sankthans har der været  tivoli på plænen ved Mosede Fort, og museet har på forskellig vis formidlet fortællinger om Mosede Fort. Selve sankthansaften er blevet fejret med bål, tale, livemusik, fyrværkeri og mad og drikke fra opstillede boder. Arrangementet har hvert år samlet mellem 5.000 og 10.000 mennesker. Administrationen bruger et væsentligt ressourcetræk på at planlægge og afholde sankthans, men grundet Corona er arrangementet ikke blevet afholdt i 2020 og 2021.</div> <div><em></em></div> <div><em>Muligt samarbejde med det lokale foreningsliv</em></div> <div>Kultur- og Fritidsudvalget besluttede den 25. august 2021, at administrationen skulle undersøge muligheden for at samarbejde med det lokale foreningsliv og fælles udvikle idéer til fremtidens sankthans. Administrationen har gjort to specifikke tiltag i denne sammenhæng: Været i dialog med arrangørerne bag Greve Sommerfestival og afholdt en workshop om fremtidens sankthans med foreninger.</div> <div> </div> <div>Greve Sommerfestival arrangeres af Frivilligcenter Greve, Greve Kultur-Base (musikskolen) og Idræts- og FritidsSekretariatet og afholdes på plænerne omkring Greve Borgerhus. Skal det etableres et samarbejde mellem de to begivenheder, er det betinget af, at de to arrangementer  kan bindes sammen men fortsat være på de to forskellige lokationer - Greve Borgerhus og Mosede Fort. Derud over skal det være muligt at ligge det på samme dato. Det er ikke muligt i 2022, hvor Greve Sommerferstival afholdes allerede den 21. maj og sankthansaften altid falder på den 23. juni.</div> <div> </div> <div>Den 24. november 2021 afholdte administrationen et åbent workshop i Greve Borgerhus. På trods af at administrationen kontaktede mange foreninger for at opfordre dem til at deltage i workshoppen, var der kun tilmeldt ni personer fordelt på fem foreninger. Det var medlemmer fra Gospelkoret Grace, Greve Harmoniorkester, Greve Gymnastik og Trampolin, Grundejerforeningen Hedebo og Hemingway Club. En opsamling fra mødet kan læses i bilag 1.</div> <div> </div> <div>Udmeldingerne fra workshoppen skal derfor ses som et udtryk for, hvad medlemmerne fra de fem foreninger mener og er ikke nødvendigvis retningsgivende for, hvad alle foreninger mener. </div> <div> </div> <div>De væsentligste perspektiver fra mødet var følgende:</div> <div> </div> <ul>     <li>Mere fokus på målgrupper, herunder at arrangementet primært skal være for borgere i Greve og at en del af sankthansfejringen skal være målrettet børn og børnefamilier. </li>     <li>Bål, tale og sankthans-traditioner er væsentlig for arrangementet. Derimod kan fyrværkeri undværes.</li>     <li>Lokale musikaktører og foreningerne kan bidrage med enkelte initiativer og aktiviteter som både kan  promovere foreningerne men også være underholdning så som bankospil, loppemarked, vandaktiviteter, hoppeborg, fakkeloptog eller fællesspisning. </li>     <li>     <div>Der var enighed om, at foreningerne ikke har ressourcer til at være tovholder på arrangementet. Det kan være en udfordring at engagere foreninger i stor stil denne dag, da medlemmerne også gerne vil være sammen med deres familier. Samtidig er der mange andre arrangementer i den periode. Det vil være mere overskueligt for foreningerne at byde ind på en afgrænset aktivitet i et afgrænset område og tidsrum.</div>     </li> </ul> <div><span> </span></div> <div><span> </span></div> <div><strong>Sankthans 2022 og fremadrettet - tre scenarier</strong></div> <div><span></span>På baggrund af den feedback som administrationen har fået fra foreningerne foreslår administrationen tre scenarier for sankthans ved Mosede Fort:</div> <div> </div> <div><strong>1) Nyt format:  \"Forenings-sankthans\"</strong> hvor foreningerne bidrager med aktiviteter og indslag på Mosede Fort den 23. juni. En del af arealet bruges til foreningsaktiviteter, hvor der tidligt på aftenen er fokus på børn. Det kan for eksempel være en gymnastikopvisning om eftermiddagen, og et musikalsk indslag om aftenen. Traditionen med bål og båltale på stranden fastholdes. Arrangementet vil formentlig primært tiltrække folk fra Greve Kommune. Arrangementet forudsætter at foreningerne vil bidrage med indslag og aktiviteter.</div> <div> </div> <div>Administrationen skal fortsat stå for planlægning og afvikling af arrangementet, herunder at indhente relevante myndighedstilladelser, samarbejde med beredskab og andre aktører, logistik og PR og koordinering af aktiviteter og indslag ved foreningerne. </div> <div> </div> <div>I 2022 må det forventes, at arrangementet bliver i mindre skala, da der først tages beslutning om arrangementets karakter i januar 2022. Det vil dog give mulighed for at afprøve nogle forskellige foreningstiltag, der i de kommende år kan bygges videre på. </div> <div><em> </em></div> <div><em>Administrative ressourcer:</em> Det nye koncept betyder fortsat et væsentligt administrativt ressourcetræk, da administrationen skal står for både udvikling, planlægning, dialog med foreninger og afvikling af selve arrangementet.</div> <div> </div> <div><strong>2) Det gamle format med tivoli og livemusik på Mosede Fort og bål på stranden. </strong>Fejringen løber over flere dage, da tivoli etablerer sig så de også er der i en weekend. Arrangementet forventes som tidligere at tiltrække folk fra Greve Kommune og udenfor kommunen. Administrationen står fortsat for at koordinere og planlægge arrangementet, herunder indhente relevante myndighedstilladelser, samarbejde med beredskab og andre aktører, logistik og PR samt livemusik, scene og lyd.</div> <div><em><em> </em></em></div> <div><em><em>Administrative ressourcer:</em> </em>Der bruges de samme administrative ressourcer som før coronanedlukningen. Det er den nuværende administrationens estimat, at der bruges omkring 200 arbejdstimer på det i foråret.</div> <div> </div> <div><strong>3) Greve Kommune afholder ikke sankthans,</strong> hvormed de afsatte penge (138.160 kr. i 2022) kan bruges til andre initiativer der understøtter kultur-og fritidsområdet. </div> <div> </div> <div><em></em></div> <div><strong>Økonomi</strong></div> <div>Der er årligt afsat 138.160 kr. (2022 niveau) til at fejre sankthans. Et nærmere budget for tidligere arrangementer blev præsenteret i sankthanssagen på Kultur- og Fritidsudvalgsmøde den 25. august 2021.</div> <div> </div> <div>En stor del af budgettet, cirka 80.000 kr., er bundet i traditionelle sankthanselementer som bål og logistik forbundet hermed. Ved at afskaffe fyrværkeri og udefrakommende underholdning, vil der frigøres en del af budgettet. Der har dog været et stigende behov for oprydning, særligt efter bål på stranden, og der må derfor også forventes at skulle afsættes flere midler til oprydning. Resterende budget kan afsættes til at støtte foreningstiltag.</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Foreløbigt budget sankthans 2022</strong></div>             </td>             <td valign=\"top\">             <div><strong>Beløb i kr.</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Bål og logistik (bl.a. materialer, heks, trafikregulering, indhegning, vagt)</div>             </td>             <td valign=\"top\">             <div>80.000</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Oprydning </div>             </td>             <td valign=\"top\">             <div>10.000</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Understøtte foreningstiltag</div>             </td>             <td valign=\"top\">             <div>48.160</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Total</div>             </td>             <td valign=\"top\">             <div>138.160</div>             </td>         </tr>     </tbody> </table> <div><span> </span></div> <div><strong>Dispensation for at afholde sankthans ved Mosede Fort</strong></div> <div>Arealet omkring Mosede Fort er et fredet fortidsminde, og der skal ved afholdelse af arrangementer på arealet ansøges om dispensation hos Slots- og Kulturstyrelsen. Greve Kommune har i 2020 opnået en femårig dispensation for at afholde sankthans som hidtil med tivoli, bål, fyrværkeri og musik. Såfremt arrangementet ændrer karakter, men stadig afholdes på området, skal Slots- og Kulturstyrelsen orienteres om dette, og en eventuel tilpasning af dispensationen skal søges.</div> <h3>Økonomiske konsekvenser</h3> <div>Der er årligt afsat 138.160 kr. (2022 niveau) til at fejre sankthans. Fremtidige arrangementer vil holdes indenfor budget.</div> <h3>Øvrige konsekvenser</h3> <div>Sankthans arrangementet ved Mosede Fort er kendt af mange borgere i Greve Kommune og konceptet med tivoli, scene, telte og bål har været en tradition gennem en årrække. En ændring af traditionen kan derfor medføre både positive og mindre positive reaktioner fra borgerne.</div> <div> </div> <div>Hvis der ikke afholdes tivoli omkring sankthans, så vil tivoli muligvis flytte sine aktiviteter på fortet til en anden weekend uden den kommunale støtte til trafikale forhold mv.. Dette vil skulle godkendes af både kommunen og Slots- og Kulturstyrelsen.</div> <h3>Tidsplan</h3> <div>Administrationen starter planlægning af kommende sankthans umiddelbart efter behandling af denne sag.</div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3de8bdeb-fe2e-4369-8866-3830e89c1533",
+          "DocumentId": "3de8bdeb-fe2e-4369-8866-3830e89c1533"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016078",
+      "Navn": "Sankthans i Greve Kommune",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Opsamling fra Åben Workshop med foreninger om fejring af Sankt Hans",
+          "Id": "60a75d44-1166-48d8-a152-d3450355fa5e"
+        }
+      ],
+      "Documents": null,
+      "Id": "0fabed61-6920-4727-83bd-efb1a3c93af5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-016078",
+      "SourceId": null,
+      "Caption": "Sankthans i Greve Kommune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Formanden orienterede om:</div> <div>Der er åbning af padelbaner i Tune IF på lørdag den 15. januar 2022 kl. 11.00. </div> <div>Hele Kultur- og Fritidsudvalget er inviteret</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3> <div><i><br> </i></div> </h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/82e3306d-2de1-42bd-a57d-a34ac841d627",
+          "DocumentId": "82e3306d-2de1-42bd-a57d-a34ac841d627"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014479",
+      "Navn": "Orientering fra formanden/ gensidig orientering",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9ee18b5f-b543-4f0b-ac59-305eb0efea52",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-014479",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/ gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringerne blev taget til efterretning.</div> <div> </div> <div>Yderligere orienterede administrationen om:</div> <div><b> </b></div> <ul>     <li>Kort status på proces om ny forpagter for Café Langsiden</li>     <li>Kort status omkring Spejdernes lejr</li> </ul></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen har følgende til orientering:</div> </div> <div> </div> <div><strong>Partnerskab om gå-fællesskaber</strong></div> <div>Greve Kommune har i december 2021 indgået en partnerskabsaftale for 2022 med DGI og Bevæg dig for livet Løb & Gang, Idræts- og Fritidssekretariatet i Greve (IFS) og FrivilligCenter Greve. Aftalen er indgået med henblik på at invitere, inspirere og motivere cirka 25 borgere til at blive frivillige gå-værter, og igennem cirka 15 gå-fællesskaber invitere cirka 250 andre borgere med ud på regelmæssige gåture. Partnerskabet har til formål at arbejde tværgående for at skabe fokus på gang som en let tilgængelig aktivitet med lav barriere for deltagelse og mange gevinster i form af forbedret fysisk og mental trivsel samt bedre sundhed. Målet er at gå-fællesskaberne forankres og fastholdes efter 2022.</div> <div> </div> <div>Bevæg dig for livet – Løb & Gang samt Nordeafonden bidrager med økonomi til projektet. Idræts- og Fritidssekretariatet og FrivilligCenter Greve står for planlægning og gennemførsel af projektet. IFS varetager projektledelsen og har ansvaret for budgetopfølgning samt evaluering af projektet.</div> <div> </div> <div><strong>Bevilling fra TrygFonden til UngeSkaber, Frivilligcenter Greve</strong></div> <div>TrygFonden har godkendt Frivilligcenter Greves ansøgning om at forlænge projektet UngeSkaber med yderligere 1 år og har givet dem en bevilling på i alt 637.188 kr. UngeSkaber arbejder for at afhjælpe og forebygge ensomhed blandt unge i Greve Kommune.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/099bcd36-5a4d-4a40-8fee-045ad05dc96e",
+          "DocumentId": "099bcd36-5a4d-4a40-8fee-045ad05dc96e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013714",
+      "Navn": "Huskeliste/ orientering fra administrationen",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8eb5d60b-88cd-4e4a-9ebc-db5abe4dd43c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-013714",
+      "SourceId": null,
+      "Caption": "Huskeliste/ orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Taget til efterretning</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Kultur- og Fritidsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> </div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><b>Aktiviteter i 2021</b></div>             </td>             <td valign=\"top\">             <div><b>Dato</b></div>             </td>             <td valign=\"top\">             <div><b>Kl.</b></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Januar</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>12. januar</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Februar</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>09. februar</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Marts</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>09. marts</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>April</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>27. april</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Maj</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Juni</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <ol>                 <li>juni</li>             </ol>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Juli</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>August</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>17. august</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>September</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>14. september</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Oktober</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>12. oktober</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>November</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Kultur- og Fritidsudvalget</div>             </td>             <td valign=\"top\">             <div>16. november</div>             </td>             <td valign=\"top\">             <div>16.30</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>December</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>             <td valign=\"top\"></td>         </tr>     </tbody> </table></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b68c7252-12fe-45da-b636-543629c95af2",
+          "DocumentId": "b68c7252-12fe-45da-b636-543629c95af2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014480",
+      "Navn": "Kultur- og Fritidsudvalgets kalender 2022",
+      "Punktnummer": "13",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "032d2c86-a849-4db5-93a6-e37db64b155b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "21-014480",
+      "SourceId": null,
+      "Caption": "Kultur- og Fritidsudvalgets kalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div> <h3> <div> </div> </h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cbbdd75c-e5ab-4d46-95c6-757ae9ab2a1a",
+          "DocumentId": "cbbdd75c-e5ab-4d46-95c6-757ae9ab2a1a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014481",
+      "Navn": "Underskriftsark.",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "7b4189c0-7c6d-43dd-b44e-d01e2645f0d5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "21-014481",
+      "SourceId": null,
+      "Caption": "Underskriftsark.",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "425869ca-7441-4d9d-b497-27bc7d5bbbc2",
+    "Navn": "Kultur- og Fritidsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-01-12T16:30:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-01-12T16:30:00+01:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "e5c0f0b2-a890-437d-a8c1-9f0965349a4c",
+  "Lydfiler": null
+}

@@ -1,0 +1,446 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p>Ikke til stede: Liselott Blixt (UP-1)</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4><span>Sagsprocedure</span></h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4><span>Resume</span></h4>\n<p>Godkendelse af dagsorden for mødet den 9. oktober 2023.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8e41538d-acc0-405b-ba65-ab679cb753ee",
+          "DocumentId": "8e41538d-acc0-405b-ba65-ab679cb753ee"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014448",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "140a3fea-b0e9-459b-a71f-6d096184eaf8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014448",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "140a3fea-b0e9-459b-a71f-6d096184eaf8"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Sagen blev taget til efterretning.</p>\n<p>Ikke til stede: Liselott Blixt (UP-1)</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4><span>Sagsprocedure</span></h4>\n<p><span>Beskæftigelses- og\nErhvervsudvalget.</span></p>\n<h4><span>Resume</span></h4>\n<p><span>I <span class=\"grame\">indeværende</span> sag\norienteres fagudvalget om indholdet i budgetopfølgning 2 2023 inden for eget\nudvalgsområde. Budgetopfølgning 2 2023 blev behandlet af Byrådet den 2. oktober\n2023.</span></p>\n<h4><span>Indstilling</span></h4>\n<p><em><span>Administrationen\nindstiller, at sagen tages til efterretning.</span></em></p>\n<h4><span>Sagsbeskrivelse</span></h4>\n<p><span class=\"grame\">Indeværende</span><span> sag skal ses i sammenhæng med\nden samlede budgetopfølgning 2 2023, som er udarbejdet pr. 31. juli 2023 og\nblev behandlet af Byrådet den 2. oktober 2023 (pkt. 10).</span></p>\n<p><span>Afvigelser på udvalgets\nområde gennemgås nedenfor.</span></p>\n<p><strong><em><span>Områder under\nBeskæftigelses- og Erhvervsudvalget</span></em></strong></p>\n<p><span>Samlet set forventes der et\nmerforbrug på 18,5 mio. kr. inden for udvalgets område. </span>De store afvigelser på\nudvalgets område er:</p>\n<p><span>- Et forventet merforbrug på 10,0 mio. kr. på\nsygedagpengeområdet</span></p>\n<p><span>- et forventet merforbrug på 7,5 mio. kr. på førtidspensionsordningen</span></p>\n<p><span>- et forventet merforbrug på\n11,7 mio. kr. på dagpenge til forsikrede ledige og </span></p>\n<p><span>- et forventet mindreforbrug\npå 4,9 mio. kr. på ressourceforløb og jobafklaring</span></p>\n<p><span>- en forventet merindtægt på  5,0 mio. kr. Kommunens\nrevision har foretaget en gennemgang af hjemtaget refusion for perioden 2019-2022, som viste, at der var hjemtaget 5,0 mio. kr. for lidt. Refusionen er nu hjemtaget.</span></p>\n<p><span>Alle afvigelser inden for\nudvalgets område kan ses i bilag 1.</span></p>\n<p>Som følge af årets midtvejsreguleringen tilføres området imidlertid 27,7 mio. kr. (indtægt), hvilket betyder, at området kommer ud med et forventet regnskabsresultat på 9,2 mio. kr. under budgettet (mindreforbrug).</p>\n<h4><span>Økonomiske konsekvenser</span></h4>\n<p><span>Sagen har ingen selvstændig\nøkonomiske konsekvenser, da det bevillingsmæssige er besluttet i\nbudgetopfølgning 2 (2023) Bevillingssag, som blev behandlet af Byrådet den 2. oktober (pkt. 11).</span></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/420524e8-6aa0-4e58-b1e1-6dd41a41b249",
+          "DocumentId": "420524e8-6aa0-4e58-b1e1-6dd41a41b249"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-003100",
+      "Navn": "Budgetopfølgning 2 (2023) Beskæftigelses- og Erhvervsudvalget",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 BO2 Budgetafvigelser Drift - Beskæftigelses- og Erhvervsudvalget",
+          "Id": "376238af-ec04-4724-a2e8-37b197d57e5f"
+        }
+      ],
+      "Documents": null,
+      "Id": "81d7857a-4f27-4bf5-b601-0619e21148f7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-003100",
+      "SourceId": null,
+      "Caption": "Budgetopfølgning 2 (2023) Beskæftigelses- og Erhvervsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "81d7857a-4f27-4bf5-b601-0619e21148f7"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget tog orienteringen til efterretning med ønske om, at handleplanen suppleres med systematisk indsats og overblik i relation til virksomheder i Greve Kommune.</p>\n<p> Herudover ønsker udvalget en sag med overblik over, hvornår udvalget bliver orienteret med data på området.</p>\n<p>Ikke til stede: Liselott Blixt (UP-1)</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationens orienterer om planer for arbejdet med Beskæftigelsespolitikken, i perioden fra 2023 til 2026. Arbejdet tager udgangspunkt i Greve Kommunes vision, politikkens temaer og de ønskede effekter, der er opstillet i politikken. Arbejdet bliver struktureret ud fra handleplaner, som ud over beskrivelse af relevante indsatser, beskriver indhold og frekvens af de opfølgninger, der præsenteres overfor fagudvalg og Byrådet.  </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning</em>. </p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet vedtog den 23. maj 2022 vision for Greve Kommune i ”Naturligvis Greve – gennem helhedssyn og fællesskaber”. Til visionen er der formuleret i alt otte politikker, som sammen med strategier på det planmæssige område, sætter retningen for Greve Kommunes planlægning, borgerettede indsatser og øvrige virke.  </p>\n<p>Byrådet godkendte den 15. maj 2023 Greve Kommunes Beskæftigelsespolitik. Politikken tager udgangspunkt i Greve Kommunes vision og kobler mere specifikt til visionens temaer om hverdag med indhold, velfærd i fællesskab og aktiv borgerinddragelse.</p>\n<p>I denne sag orienterer administrationen om arbejdet med Beskæftigelsespolitikken. </p>\n<p>Beskæftigelsespolitikken dækker flere fagområder i Greve Kommune, og administrationen vil på tværs arbejde med og følge op i forhold til de indsatser, der skal indfri politikkens ønskede effekter.</p>\n<p><em><strong>Handleplansoversigt</strong></em></p>\n<p>Arbejdet med politikkerne styres gennem administrationens handleplaner. Opfølgningen overfor fagudvalg og Byrådet fremlægges i handleplansoversigter, som giver overblik og status, på tværs af de handleplaner administrationen arbejder med. </p>\n<p>Den til sagen vedlagte handleplansoversigt (jf. bilag 1), omhandler Beskæftigelsespolitikkens temaer og ønskede effekter. I status-kolonnen fremgår de handlinger, som administrationen enten gennemfører eller planlægger at gennemføre for at arbejde med politikken. Status-kolonnen oplyser også, hvornår administrationen påtænker at orientere Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<p>Opfølgningen på arbejdet med politikkerne, bliver koordineret med budgetprocessen, så eventuelle økonomiske prioriteringer til indfrielse af ønskede effekter med videre, kan fremsættes politisk.  </p>\n<h4>Tidsplan</h4>\n<p>Administrationen udarbejder i løbet af andet halvår 2023 handleplaner for hver af de ønskede effekter, der har til formål at sikre en systematisk planlægning, gennemførelse og opfølgning. Opfølgningen på de ønskede effekter vil tilgå Beskæftigelses- og Erhvervsudvalget, gennem løbende orienteringspunkter på udvalgsmøderne.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/40fb7c17-f46d-4202-b51e-3cb0bf569f9d",
+          "DocumentId": "40fb7c17-f46d-4202-b51e-3cb0bf569f9d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-010635",
+      "Navn": "Beskæftigelsespolitik 2023-2026 - orientering",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Handleplansoversigt for Beskæftigelsespolitik 2023-2026",
+          "Id": "1f24fcf8-017d-4bef-9819-514e950bbd17"
+        }
+      ],
+      "Documents": null,
+      "Id": "9c0a9ebf-2bba-4131-bb3d-ab07fce1b880",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-010635",
+      "SourceId": null,
+      "Caption": "Beskæftigelsespolitik 2023-2026 - orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "9c0a9ebf-2bba-4131-bb3d-ab07fce1b880"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget tog orienteringen til efterretning med ønske om, at handleplanen suppleres med</p>\n<ul>\n    <li>systematisk indsats og overblik i relation til virksomheder i Greve Kommune</li>\n    <li> synlighed i forhold til samarbejdet med interesseorganisationer.</li>\n</ul>\n<p>Ikke til stede: Liselott Blixt (UP-1)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationens orienterer om planer for arbejdet med Vækst- og Erhvervspolitikken i perioden fra 2023 til 2026. Arbejdet tager udgangspunkt i Greve Kommunes vision, politikkens pejlemærker og de ønskede effekter, der er opstillet i politikken. Arbejdet bliver struktureret ud fra handleplaner, som ud over beskrivelse af relevante indsatser, beskriver indhold og frekvens af de opfølgninger, der fremlægges i fagudvalg og Byrådet.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet vedtog den 23. maj 2022 (pkt. 17) vision for Greve Kommune ”Naturligvis Greve – gennem helhedssyn og fællesskaber”. Til visionen er der formuleret i alt otte politikker, som sammen med Planstrategien, Klimahandleplanen og Ejendomsstrategien sætter retningen for Greve Kommunes planlægning og borgerrettede indsatser.  </p>\n<p>Byrådet godkendte Greve Kommunes Vækst- og Erhvervspolitik den 15. maj 2023 (pkt. 23). Formålet med Vækst- og Erhvervspolitikken er at bidrage til at indfri visionen og sætte en klar retning for det erhvervsrettede arbejde i Greve Kommune. </p>\n<p>I denne sag orienterer administrationen om arbejdet med Vækst- og Erhvervspolitikken.</p>\n<p><span>Vækst- og Erhvervspolitikken </span>dækker flere fagområder i Greve Kommune, og administrationen vil på tværs arbejde med og følge op i forhold til de indsatser, der skal indfri politikkens ønskede effekter. </p>\n<p><em><strong>Handleplansoversigt</strong></em><em> </em></p>\n<p>Arbejdet med politikkerne styres gennem  handleplaner. Opfølgningen overfor fagudvalg og Byrådet fremlægges i handleplansoversigter, som giver overblik og status, på tværs af de handleplaner som administrationen arbejder med.  </p>\n<p>Den vedlagte handleplansoversigt (jf. bilag 1) omhandler Vækst- og Erhvervspolitikkens pejlemærker og ønskede effekter. I status-kolonnen fremgår de handlinger, som administrationen enten gennemfører eller planlægger at gennemføre for at arbejde med politikken. Status-kolonnen oplyser endvidere, hvornår administrationen påtænker at orientere Beskæftigelses- og Erhvervsudvalget om arbejdet.  </p>\n<p>På Beskæftigelses- og Erhvervsudvalgets møde den 14. august 2023 (pkt. 2) blev Handlingsplan for ErhvervsCentret Greve forelagt. Beskæftigelses- og Erhvervsudvalget drøfter årligt fremdrift og justering af Handlingsplan for ErhvervsCentret Greve med bestyrelsen. Denne handlingsplan bidrager med en lang række af konkrete indsatser til indfrielse af de ønskede effekter i Vækst- og Erhvervspolitikken. Arbejdet med indsatserne sker på baggrund af et samarbejde i administrationen.</p>\n<p>Handlingsplanen er imidlertid ikke dækkende for alle nødvendige indsatser for implementeringen af Vækst- og Erhvervspolitikken. En samlet indfrielse af politikkens ønskede effekter beror således på både de konkrete indsatser i Handlingsplan for ErhvervsCentret Greve og konkrete indsatser i andre strategier, fx Klimahandlingsplanen. </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. Opfølgningen på arbejdet med politikkerne, bliver koordineret med budgetprocessen, så eventuelle økonomiske prioriteringer til indfrielse af ønskede effekter med videre kan fremsættes politisk. </p>\n<h4><strong>Tidsplan</strong> </h4>\n<p>Administrationen udarbejder i løbet af andet halvår 2023 handleplaner for hver af de ønskede effekter, der har til formål at sikre en systematisk planlægning, gennemførelse og opfølgning. Opfølgningen på de ønskede effekter vil tilgå Beskæftigelses- og Erhvervsudvalget, gennem løbende orienteringspunkter på udvalgsmøderne.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/07e5095c-00a4-48d1-8e5f-93facc600d00",
+          "DocumentId": "07e5095c-00a4-48d1-8e5f-93facc600d00"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-010506",
+      "Navn": "Vækst- og Erhvervspolitik 2023 - 2026 - orientering",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Handleplansoversigt for Vækst- og Erhvervspolitik 2023 - 2026",
+          "Id": "0fd6420d-b881-4cda-a706-8c4fd6b24f9e"
+        }
+      ],
+      "Documents": null,
+      "Id": "595f0e31-9d7a-467c-849b-14c7bdb21b6d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-010506",
+      "SourceId": null,
+      "Caption": "Vækst- og Erhvervspolitik 2023 - 2026 - orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "595f0e31-9d7a-467c-849b-14c7bdb21b6d"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning med bemærkning om at udvalget ønsker en orientering om hvordan delaftalen implementeres samt en orientering om organisationsændringens påvirkning af personaleomsætning og sygefravær.</p>\n<p>Ikke til stede: Liselott Blixt (UP1)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen handler om udmøntningen af elementerne i andet lovforslag i anden delaftale om nytænkning af beskæftigelsesindsatsen. Aftalen får betydning for den måde, hvorpå Greve Kommune fremover tilrettelægger og driver beskæftigelsesindsatsen for ledige borgere. Med aftalen har et flertal i Folketinget en forventning om, at der samlet set skal bruges færre penge på indsatsen til bekæmpelse af ledighed.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen </em><em>indstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Anden delaftale om nytænkning af beskæftigelsesindsatsen blev indgået den 24. juni 2022 og er en opfølgning på den første delaftale om nytænkning af beskæftigelsesindsatsen i 2021.  </p>\n<p>De to delaftaler skal tilsammen tilvejebringe en besparelse på 1,1 mia. kr. fra 2024 og frem, inden for jobcentrenes indsatsområder og samlet medfinansiere aftalen om ret til tidlig pension.<em></em></p>\n<p><em>Anden delaftale om nytænkning af beskæftigelsesindsatsen er udmøntet i to lovforslag</em></p>\n<p>Det første lovforslag som trådte i kraft den 22. marts, omhandler <em>mere målrettede tilbud</em> – og <em>udvidet mulighed for digitale samtaler</em>, som udvalget blev orienteret om på mødet i marts 2023.</p>\n<p>Det andet lovforslag som blev vedtaget den 2. juni 2023, træder i kraft den 1. januar 2024 og omhandler <em>forenkling af kontaktforløbet for a-dagpengemodtagere</em> og <em>lempelse af uddannelsespålægget</em>.</p>\n<p>I det følgende beskrives kort de ændringer og forenklinger i andet lovforslag: <em></em></p>\n<p><em>Et forenklet kontaktforløb for a-dagpengemodtagere</em></p>\n<p>Det forenklede kontaktforløb består i, at A-kasserne fra den 1. januar 2024 får ansvaret for kontaktforløbet i de første tre måneder af ledighedsforløbet for forsikrede ledige. Unge under 25 år som modtager dagpenge, som ikke har en erhvervskompetencegivende uddannelse, og som ikke er forsørgere, er undtaget og visiteres til kontaktforløb i Jobcenteret.</p>\n<p>A-kasserne skal i denne periode hjælpe de ledige med at finde job og hjælpe arbejdsgivere med rekruttering og jobformidling. En opgave der tidligere har ligget i Jobcentret.</p>\n<p>Derudover reduceres antallet af samtaler i de første seks måneders ledighed fra ni til seks. A-kassen afholder de første tre samtaler i løbet af de tre måneder, de har ansvaret.</p>\n<p>Jobcentrene beholder ansvaret for bevilling af tilbud efter Lov om aktiv beskæftigelsesindsats. A-kasserne vil dog fortsat være ansvarlige for seks ugers jobrettet uddannelse.</p>\n<p>Ifølge initiativet skal borgerne overgå til en indsats i Jobcentret efter tre måneder. Hvis A-kassen i samarbejde med borgerne vurderer, at borger vil have gavn af en indsats, der påbegyndes inden de første tre måneders ledighed eller igangsættes i forlængelse heraf, sender A-kassen en indstilling herom til jobcentret. Administrationen har endnu ikke kendskab til, hvordan de tre måneder opgøres.<em></em></p>\n<p><em>Lempelse af uddannelsespålægget</em></p>\n<p>Reglerne om uddannelsespålæg betyder, at unge, der søger kontanthjælp og ikke har en uddannelse, skal have et uddannelsespålæg og får uddannelseshjælp, indtil de starter på en uddannelse.<strong></strong></p>\n<p>Uddannelseshjælpsmodtagere der vurderes uddannelses- eller aktivitetsparate, kan med initiativet om lempelse af uddannelsespålæg undtages fra pålægget og i stedet få en jobrettet indsats fra Jobcentret. Med initiativet får kommunerne friere rammer og fleksibilitet til at beslutte, om indsatsen skal rettes mod uddannelse eller job for unge, der er mere motiveret for et job end en uddannelse. Formålet er at få flere unge i job og begrænse frafald fra uddannelse.</p>\n<p>Åbenlyst uddannelsesparate vil fortsat være omfattet af uddannelsespålæg. </p>\n<p>Med initiativet videreføres og permanentgøres et forsøg, der blev igangsat med Trepartsaftale om mangel på arbejdskraft i oktober 2021.<em></em></p>\n<p><em>Yderligere forenklinger på vej</em></p>\n<p>Med initiativet <em>’mindre administration og forenkling af administrative krav’</em> skal en række vejlednings- og registreringskrav reduceres. Alle elementerne i dette initiativ er ikke udmøntet i andet lovforslag, men enkelte administrative forenklingstiltag er trådt i kraft i 2023. Fx afskaffelse af krav om beskæftigelsesplan og forenklinger af opfølgningen i skærpet tilsyn. Der er yderligere forenklinger på vej, som forventes at blive fremsat i et særskilt lovforslag i efteråret 2023. Administrationen kender på nuværende tidspunkt ikke det konkrete indhold. Når lovforslaget er vedtaget, vil udvalget få en orienteringssag om dette.</p>\n<h4>Lovgrundlag</h4>\n<p>Lov om aktiv beskæftigelsesindsats </p>\n<p>Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.  </p>\n<p>Lov om sygedagpenge</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>De økonomiske konsekvenser af anden delaftale, som har virkning for 2023 og ud i overslagsårene, er indarbejdet i Budgetopfølgning 2 og DUT kataloget.</p>\n<p>De elementer af anden delaftale, som har virkning fra januar 2024, og som samlet betyder en reduktion på det administrative område i Jobcentret på 3,3 mio. kr., er indregnet som en teknisk rettelse fra 2024 og ud i overslagsårene.</p>\n<p>Reduktion på de 3,3 mio. kr., betyder en nedlæggelse af syv stillinger i Jobcentret fra 1. januar 2024. Administrationen har på nuværende tidspunkt udpeget seks af de syv stillinger i Jobcentret som skal nedlægges. Den sidste stilling der skal nedlægges i Jobcentret vil blive udpeget i løbet af efteråret, når de administrative lempelser for øvrige målgrupper kendes.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d24c9e47-21cd-4c87-bc90-3d88da79a772",
+          "DocumentId": "d24c9e47-21cd-4c87-bc90-3d88da79a772"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-010634",
+      "Navn": "Udmøntning af elementer i anden delaftale om nytænkning af beskæftigelsesindsatsen",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d713465f-e33f-4495-896b-be5f629a65fe",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "23-010634",
+      "SourceId": null,
+      "Caption": "Udmøntning af elementer i anden delaftale om nytænkning af beskæftigelsesindsatsen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "d713465f-e33f-4495-896b-be5f629a65fe"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget ønsker at administrationen kontakter Arbejdsmarkedsudvalget i Aabenraa Kommune for gensidige drøftelser og ideer i forhold til frisættelse på beskæftigelsesområdet. </p>\n<p>Ikke til stede: Liselott Blixt (UP-1)</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2493bf15-ae7e-4028-8f38-4302891ccdbd",
+          "DocumentId": "2493bf15-ae7e-4028-8f38-4302891ccdbd"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013722",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "f45ab9ea-90ec-4dcf-ab4c-29403fbd2701",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-013722",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "f45ab9ea-90ec-4dcf-ab4c-29403fbd2701"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Opfølgningen på virksomhedsbesøg og JobCAMP 2023 blev drøftet og taget til efterretning.</p>\n<p>Ikke til stede: Liselott Blixt (UP-1)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p><b></b></p>\n</div>\n<p>- Kort opfølgning på virksomhedsbesøg den 25. september 2023</p>\n<p>- Opfølgning vedr. JobCAMP 2023</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/955bb894-1d67-4189-a3bf-218f55e02674",
+          "DocumentId": "955bb894-1d67-4189-a3bf-218f55e02674"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013719",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4b6f5d1a-a867-45b1-9d67-fec200257651",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-013719",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "4b6f5d1a-a867-45b1-9d67-fec200257651"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning med bemærkning om at administrationen undersøger om mødet i november 2023 hos Erhvervshus Sjælland kan flyttes til januar, februar eller marts 2024.</p>\n<p>Ikke til stede: Liselott Blixt (UP-1)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Beskæftigelses- og Erhvervsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/11a34f7c-a2c0-495c-867c-efdfb6a31768",
+          "DocumentId": "11a34f7c-a2c0-495c-867c-efdfb6a31768"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013723",
+      "Navn": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2023",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beskæftigelses- og Erhvervsudvalgets mødekalender 2023 - oktober",
+          "Id": "28dac562-ceaa-4aa9-866b-7ad80e8db29c"
+        }
+      ],
+      "Documents": null,
+      "Id": "4f1b88fc-b5b0-4ff8-a13c-d6b95df01b48",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-013723",
+      "SourceId": null,
+      "Caption": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Liselott Blixt",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "4f1b88fc-b5b0-4ff8-a13c-d6b95df01b48"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget</p>\n<b></b>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2e14cd32-d097-455a-8d53-16a6d896a976",
+          "DocumentId": "2e14cd32-d097-455a-8d53-16a6d896a976"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-012521",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d15c61a7-e22a-477c-9f34-0b82c66bfc38",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-012521",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "d2b6711a-6c60-4f72-be63-ef69dac7e795",
+    "Navn": "Beskæftigelses- og Erhvervsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-10-09T08:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-10-09T08:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "7b28df1e-0803-4166-ab8b-9a64738c3025",
+  "Lydfiler": null
+}

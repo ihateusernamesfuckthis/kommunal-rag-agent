@@ -1,0 +1,600 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 11. januar 2022.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></div> <h3><span> <div><i><br> </i></div> </span></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a87075c4-6d96-4daa-a42a-117269cb3782",
+          "DocumentId": "a87075c4-6d96-4daa-a42a-117269cb3782"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014470",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b23fb433-0476-4ba1-8c55-a3f20e5af571",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014470",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole, Børne- og Ungeudvalget </div> <h3><span>Resume</span></h3> <div>Udvalget introduceres til de overordnede rammer og stukturer for skolevæsenet i Greve.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Dagtilbud & Skoler indstiller, at orienteringen tages til efterretning. </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>De overordnede strukturer, data og relevante samarbejdsfora præsenteres for udvalget.</div> <div> </div> <div>I overskrifter vil præsentationen omhandle:</div> <div> </div> <ul>     <li>Økonomiske hovedtal </li>     <li>Skolestrukturen i kommunen</li>     <li>Principper for indskrivning i kommunens skoler og løbende styring af klassetal </li>     <li>Orientering om skolerådet</li> </ul> <div> </div> <div>Derudover vil skoleleder Leon Mitchell deltage og give et overblik over en skoles hverdag, og de forskellige opgaver, som en skoleuge og et skoleår består af i praksis. </div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9ab6aad4-1617-4392-945f-2a8e26f90eb8",
+          "DocumentId": "9ab6aad4-1617-4392-945f-2a8e26f90eb8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016166",
+      "Navn": "Introduktion til skoleområdet",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Skoleintro til udvalg_januar 2022.pptx",
+          "Id": "fb9e5e7c-28d5-4943-9539-6b5c393c7346"
+        }
+      ],
+      "Documents": null,
+      "Id": "e6ab4873-d3a8-46e6-8bc6-d98e1ded0e96",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "21-016166",
+      "SourceId": null,
+      "Caption": "Introduktion til skoleområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>På mødet bliver udvalget introduceret til det børnesociale område, det vil sige 0-18 års området. Udvalget vil blive introduceret til de relevante hovedområder i servicelovens bestemmelser og til hvordan et sagsforløb typisk er, når der er tale om en myndighedssag.</div> <div> </div> <div>Isabel Gebuhr, leder af Familierådgivningen deltager under dette punkt.</div> </div> <h3>Indstilling</h3> <div><em>Skole-, Børne- og Ungeudvalget indstiller, at orientering tages til efterretning.</em></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e1a2a5fa-2695-44a6-9e74-1c0d64f7c831",
+          "DocumentId": "e1a2a5fa-2695-44a6-9e74-1c0d64f7c831"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016070",
+      "Navn": "Introduktion til det børnesociale område",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Oplæg Skole, Børne- og Ungeudvalget.pptx",
+          "Id": "28ef14a2-8e7c-484d-99b9-dc06a7fd7cef"
+        }
+      ],
+      "Documents": null,
+      "Id": "9478fc0d-3921-4fd9-a126-a04ddb43294a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-016070",
+      "SourceId": null,
+      "Caption": "Introduktion til det børnesociale område",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget introducerede sig og de respektive mærkesager. Udvalget vil løbende drøfte hvilke mærkesager der skal arbejdes med.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <b></b> <h3>Sagsprocedure</h3> <div> Skole-, Børne- og Ungeudvalget.</div> <b></b> <h3>Resume</h3> <div>Udvalgets medlemmer præsenterer sig for hinanden. Fortæl lidt om motivation for medlemskab af udvalget, politiske mærkesager og ønsker til samarbejde internet i udvalget</div> <b></b> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller a</em><i>t udvalgets medlemmer præsenterer sig for hinanden i forhold til f.eks. motivation for medlemskab af udvalget, politiske mærkesager og ønsker til samarbejde internt i udvalget</i></div> <b></b> <h3>Sagsbeskrivelse</h3> <div>På det konstituerende møde den 1. december 2021 modtog udvalget formand et udkast til plan for møderne i 2022. Som led i udvalgets opstart præsenterer medlemmerne sig for hinanden med særlig fokus på visioner, ønsker og politiske perspektiver på udvalgets hovedopgaver. </div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/bf09b401-95bb-4be9-960e-835b8adb3d80",
+          "DocumentId": "bf09b401-95bb-4be9-960e-835b8adb3d80"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016162",
+      "Navn": "Gensidig introduktion",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b10b8478-dc78-4580-953c-a9bb865aab53",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-016162",
+      "SourceId": null,
+      "Caption": "Gensidig introduktion",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalgets årsplan blev drøftet</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget.</div> <b></b> <h3>Resume</h3> <div>Vedlagte udkast til plan for udvalgets møder i 2022 drøftes. Dagsorden for møderne i første kvartal justeres efter behov. </div> <b></b> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at udvalget drøfter den vedlagte plan for udvalgets møder i 2022 og beslutter eventuelle justeringer for møderne i første kvartal.</em></div> <b></b> <h3>Sagsbeskrivelse</h3> <div>På det konstituerende møde den 1. december 2021 drøftede udvalget et førsteoplæg til plan for møderne i 2022. På nærværende første udvalgsmøde i den ny valgperiode bliver planen drøftet mere detaljeret med henblik på at præcisere dagsorden for de følgende 2- 3 møder i udvalget.</div> <div> </div> <div>Planen indeholder konkrete sager og emner af introducerende karakter.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5576497c-decc-4876-90b1-9756b14cee83",
+          "DocumentId": "5576497c-decc-4876-90b1-9756b14cee83"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016162",
+      "Navn": "Drøftelse af udvalgets årsplan",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag_Plan Skole Børne Ungeudvalg 221221_ASD",
+          "Id": "f1c35177-85b0-420f-87a9-b380dac3be0a"
+        }
+      ],
+      "Documents": null,
+      "Id": "f2371505-7837-4e13-ba6f-820a6fd1b58d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-016162",
+      "SourceId": null,
+      "Caption": "Drøftelse af udvalgets årsplan",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Taget til efterretning</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet.</div> <h3><span>Resume</span></h3> <div>Sagen om budget 2022-25 - godkendelse af takster blev behandlet på Økonomiudvalget den 15. november 2021 og Byrådet den 29. november 2021. Sagen forelægges til orientering. </div> <h3>Indstilling</h3> <div><em>Center for Økonomi & HR indstiller, at orienteringen tages til efterretning. </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Sagen om budget 2022-25 - godkendelse af takster blev behandlet på Økonomiudvalget den 15. november 2021 og Byrådet den 29. november 2021. Sagen forelægges til orientering.</div> <div> </div> <div>Byrådet vedtog den 11. oktober 2021 budgettet for 2022-25 og i materialet indgik bl.a. et foreløbigt takstblad for 2022, hvor Byrådet godkendte en stor del af taksterne for 2022. En del af de borgerrettede takster primært på daginstitutionsområdet kræver imidlertid en genberegning på baggrund af det vedtagne budget. Denne genberegning er nu foretaget og de genberegnede takster fremgår af det opdaterede takstblad for 2022, jf. bilag.</div> <div> </div> <div>Gebyrbladet for 2022 for husholdninger blev godkendt af Byrådet den 20. september 2021. Takster i forhold til byggesagsgebyr ændres ikke i 2022 i forhold til 2021 udover den normale pris-/lønfremskrivning og forelægges derfor ikke. KLAR Forsyning behandler på sit bestyrelsesmøde den 2. december 2021 spildevandstakstene for 2022. Disse skal legalitetsgodkendes af kommunen, hvilket forventeligt sker her i december i år. Derudover arbejdes der også på to helt nye takster omkring anvisning af erhvervsaffald og anmeldelse af flytning af jord, som også forventes fremlagt i december og efterfølgende indarbejdet i det samlede takstblad.</div> <div> </div> <div>En del af taksterne vedrørende pas, kørekort, rykkergebyrer, fuldkost samt vurderingspladser er lovbestemt og bliver fastsat af staten ultimo året. Takstbladet vil derfor først efterfølgende blive opdateret med disse takster. Der fremlægges ikke endnu en sag i forhold til dette og taksterne vil udelukkende fremgå af kommunens hjemmeside.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen direkte økonomiske konsekvenser, da taksterne er baseret på de allerede vedtagne budgetter herunder ændringer til budgettet i form af udvidelser og tekniske rettelser.</div> <h3><span>Tidsplan</span></h3> <div>Taksterne er gældende fra og med den 1. januar 2022.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-11-2021 Økonomiudvalget (slettet 10-01-2022)</u><br>\r <div>Økonomiudvalget anbefaler overfor Byrådet at administrationens indstilling godkendes.</div><br>\r \r <u>29-11-2021 Byråd</u><br>\r <div>Byrådet godkendte Økonomiudvalgets indstilling. </div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/441963d3-32fe-4360-9767-26c1cfdc9452",
+          "DocumentId": "441963d3-32fe-4360-9767-26c1cfdc9452"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-005875",
+      "Navn": "Budget 2022-25 - godkendelse af takster for 2022",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Takstblad 2022",
+          "Id": "953b71bd-454f-416e-bd98-bd864b7db250"
+        }
+      ],
+      "Documents": null,
+      "Id": "6addc735-c8fb-46c6-af8d-5b5ee1fce610",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-005875",
+      "SourceId": null,
+      "Caption": "Budget 2022-25 - godkendelse af takster for 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><ol>     <li>Godkendt</li>     <li>Godkendt</li> </ol></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet.</div> <h3><span>Resume</span></h3> <div>Skole- og Børneudvalget besluttede den 4. november 2021, at sende to spørgsmål i høring i skolebestyrelserne i Greve Kommune.</div> <div> </div> <div>Skolebestyrelserne tilslutter sig i alle høringssvar, at hver skolebestyrelse selv kan fastlægge om antallet af forældrevalgte medlemmer skal være 5 eller 7 og tilslutter sig endvidere, at hver skolebestyrelse selv kan beslutte, om forældrerepræsentanter vælges for en 2-årig eller en 4-årig valgperiode. Udvalget skal på baggrund af høringen, beslutte ændringer til skolestyrelsesvedtægten.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Dagtilbud & Skoler indstiller, at udvalget beslutter ændringer af skolestyrelsesvedtægten,</em></div> <div><em><br>  <br> 1. at hver skolebestyrelse får mulighed for at fastsætte en valgperiode på 2 eller 4 år med tilhørende ændringer af Skolestyrelsesvedtægten, og </em></div> <div><em><br>  <br> 2. at hver skolebestyrelse kan fastlægge om bestyrelsen skal bestå af 5 eller 7 forældrerepræsentanter.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Skole- og Børneudvalget besluttede den 4. november 2021 at sende to spørgsmål i høring i skolebestyrelserne i Greve Kommune. Forældrevalgte medlemmer til skolebestyrelsen kan ifølge folkeskoleloven vælges for en 2-årig eller en 4-årig valgperiode efter politisk beslutning i kommunen. Det ene høringsspørgsmål er forslag om, at den enkelte skolebestyrelse gives mulighed for selv at beslutte, hvilken model for valgperiode, der ønskes anvendt. I det andet spørgsmål ligger forslag om, at skolebestyrelsen selv kan fastlægge, om antallet af forældrevalgte medlemmer skal være 5 eller 7.</div> <div> </div> <div>Center for Dagtilbud & Skoler har modtaget høringssvar fra ti skolebestyrelser i Greve Kommune. Alle høringssvar tilslutter sig, at hver skolebestyrelse får mulighed for at fastsætte en valgperiode på 2 eller 4 år, og at hver skolebestyrelse kan fastlægge, om bestyrelsen skal bestå af 5 eller 7 forældrerepræsentanter. (Høringssvar indgår i bilag 1).</div> <div> </div> <div> Ændring af modellen for valgtidspunkt eller antallet af forældrerepræsentanter kan ske på et ordinært bestyrelsesmøde umiddelbart før et ordinært valg, det kræver, at et flertal af forældrerepræsentanterne er enige, og skal samtidig følge bestemmelserne i bestyrelsens forretningsorden for ændringer af forretningsordenen.</div> <div> </div> <div>Forslag til ændret skolestyrelsesvedtægt er vedlagt som bilag 2.</div> <h3><span>Lovgrundlag</span></h3> <div>Lov om Folkeskolen, LBK nr. 823 af 15/08/2019, §41.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser</div> <h3>Kommunikation</h3> <div>Center for Dagtilbud & Skoler orienterer skolebestyrelserne om den ændrede styrelsesvedtægt og om at indføje beslutninger i forretningsordenen, når den enkelte skolebestyrelse har besluttet, hvad der skal gælde for dem.</div> <h3></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2fbe5362-f5a4-4ef4-a7ad-7be156d93397",
+          "DocumentId": "2fbe5362-f5a4-4ef4-a7ad-7be156d93397"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-010701",
+      "Navn": "Skolebestyrelsers høringssvar om ændringer af skolestyrelsesvedtægten",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Høringssvar_SB_bilag til mødesag SBUU_januar 2022",
+          "Id": "8e19dc90-777d-4106-9493-847b9e4f7aad"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Forslag til ændring af skolestyrelsesvedtægt_gældende fra januar 2022",
+          "Id": "683f15d9-e2bd-4152-8c6d-7a9348095843"
+        }
+      ],
+      "Documents": null,
+      "Id": "ae0f95f6-778d-4c89-b796-500960ffed59",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-010701",
+      "SourceId": null,
+      "Caption": "Skolebestyrelsers høringssvar om ændringer af skolestyrelsesvedtægten",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3><span>Resume</span></h3> <div>Med finanslovsaftalerne for 2020 og 2021  er der afsat midler til at understøtte, at kommunerne løbende øger normeringerne i dagtilbud frem mod ikrafttrædelse af lovkravet om lovbundne minimumsnormeringer i 2024. </div> <div> </div> <div>Til budgetår 2022 vil der til Greve Kommune blive udmøntet 8,5 millioner kr. Dertil er det med budgetvedtagelsen i Greve besluttet at hæve forældrebetalingen med en værdi af 2,2 millioner kr., så der i alt kan udmøntes lige i underkanten af 10,7 millioner kr.</div> <h3>Supplerende sagsfremstilling</h3> <div>Skole- og Børneudvalget besluttede den 2. december 2021, at de<em> \"ønsker sagen genfremsat på Skole- og Børneudvalgets møde i januar måned 2022. Her ønskes det belyst, hvilke forventelige omkostninger der vil være til at finansiere en udvidelse af kommunens puljeordninger, herunder Basisgrupperne i dagtilbud.\"</em></div> <div> </div> <div>Notat er vedlagt som bilag<em>.</em></div> <h3><em></em><span>Indstilling</span></h3> <div><em>Center for Dagtilbud & Skoler indstiller, at midlerne til øget normering fordeles forholdsmæssigt mellem kommunens institutioner og de selvejende institutioner. </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Puljerne til indfasning af minimumsnormeringer har til formål at gøre det muligt for kommuner og daginstitutioner at fortsætte arbejdet med det normeringsløft, der skal føre til lovbundne minimumsnormeringer, og som vil være gældende fra 2024. De lovbundne minimumsnormeringer vil medføre, at der på kommuneniveau og målt som et årligt gennemsnit skal være 1 pædagogisk personale pr. 3 børn i vuggestuer og 1 pædagogisk personale pr. 6 børn i børnehaver.</div> <div> </div> <div>Tilskuddet skal anvendes til pædagogisk personale, som varetager en pædagogisk funktion i direkte tilknytning til børnene, og det anvendelsen skal ske indenfor følgende institutionstyper:</div> <div> </div> <ul>     <li>Kommunale daginstitutioner.</li> </ul> <div> </div> <ul>     <li>Selvejende daginstitutioner.</li> </ul> <div> </div> <ul>     <li>Udliciterede daginstitutioner.</li> </ul> <div> </div> <ul>     <li>Puljeordninger.</li> </ul> <div> </div> <div>Der stilles ikke krav til det pædagogiske personales uddannelsesmæssige baggrund eller ansættelsesform (heltids-, deltids- eller vikaransættelser).</div> <div> </div> <div>Privatinstitutioner vil alene modtage tilskud indirekte via de gældende regler for tilskud til privatinstitutioner som følge af, at puljetildelingen indgår i fastsættelsen af kommunens tilskud og forældrenes egenbetaling.</div> <div> </div> <div>Det er op til kommunen at beslutte, hvorledes tilskuddet skal fordeles blandt de nævnte institutionstyper, og kommunen står inde for den korrekte anvendelse af midlerne.</div> <div> </div> <div>I 2021 er der udmøntet 7,3 millioner kr. i Greve. Disse midler er fordelt forholdsmæssigt efter børnetal til de kommunale og selvejende institutioner. I 2022 skal der fordeles 10,7 millioner kr., og det er således 3,4 millioner kr. der udgør forøgelsen af midlerne i 2022. </div> <div> </div> <div>Administrationen foreslår, at midlerne fordeles i 2022 fordeles forholdsmæssigt efter børnetal til de kommunale og selvejende institutioner. Det vil give nedenstående fordeling. </div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"239\">     <tbody>         <tr style=\"\">             <td valign=\"bottom\">             <div>Distrikt Nord</div>             </td>             <td valign=\"bottom\">             <div>3.828.727</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"bottom\">             <div>Distrikt Syd</div>             </td>             <td valign=\"bottom\">             <div>4.399.704</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"bottom\">             <div>Selvejende</div>             </td>             <td valign=\"bottom\">             <div>2.458.379</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"bottom\">             <div>Samlet</div>             </td>             <td valign=\"bottom\">             <div><strong>10.686.809</strong></div>             </td>         </tr>     </tbody> </table> </div> <div> </div> <div><em>Område-MED</em></div> <div><em> </em></div> <div>Udmøntningen har været drøftet i Område-MED, og det er et enigt MED-udvalg der anbefaler, at midlerne udmøntes som beskrevet ovenstående.  </div> <div> <h3><span>Lovgrundlag</span></h3> <div>Aftale mellem regeringen og Radikale Venstre, Socialistisk Folkeparti, Enhedslisten og Alternativet om minimumsnormeringer af den 5. december 2020</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Beslutningen udmønter midlerne, der tilføres fra staten til minimumsnormeringer, samt de midler, der i Greve Kommunes budget for 2022 er besluttet at tilføre til øgede normeringer. </div> <div> </div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>02-12-2021 Skole- og Børneudvalget (slettet 10-01-2022)</u><br>\r <div>Skole- og Børneudvalget ønsker sagen genfremsat på Skole- og Børneudvalgets møde i januar måned 2022. </div> <div>Her ønskes det belyst, hvilke forventelige omkostninger der vil være til at finansiere en udvidelse af kommunens puljeordninger, herunder Basisgrupperne i dagtilbud. </div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f1693e13-4e8e-433b-a7ce-d3b5c60fec9c",
+          "DocumentId": "f1693e13-4e8e-433b-a7ce-d3b5c60fec9c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-008539",
+      "Navn": "Øgede normeringer i dagtilbud 2022",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Notat bestilt af Skole- og Børneudvalget den 2. december 2021",
+          "Id": "7c8ffb76-8cd3-4a4e-ad5a-df9ee05eb8ea"
+        }
+      ],
+      "Documents": null,
+      "Id": "e1c71276-13c4-4678-9c42-be66364c7124",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-008539",
+      "SourceId": null,
+      "Caption": "Øgede normeringer i dagtilbud 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><ol>     <li>Godkendt </li>     <li>Taget til efterretning</li> </ol></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div><span>Klima-, Teknik- og Miljøudvalget, Skole-, Børne-, og Ungeudvalget, Økonomiudvalget og Byrådet</span></div> <h3>Resume</h3> <div>Byrådet godkendte den 17. maj 2021 ved budgetanalysen for bygningsoptimering, at der skulle kigges nærmere på behov for dagtilbud, undervisning og fritidsordning for børn med specialbehov. <br> Der er allerede nu et stigende pres på kapaciteten på det specialiserede område, hvor flere børn har behov for et specialiseret tilbud.</div> <div> </div> <div>Administrationen søger i denne sag frigivelse af midler til etablering af pavilloner ved Klub Havana for at imødekomme en kapacitetsudfordring. Midlerne er afsat i budget 2022 \"Midlertidige løsninger til specialiserede område\".</div> <h3><span>Indstilling</span></h3> <div><em>Center for Teknik & Miljø indstiller til Klima-, Teknik- og Miljøudvalget,</em></div> <div><em>1. at der meddeles anlægsbevilling på 2,44 mio. kr. til etablering og leje af pavilloner ved Klub Havana finansieret af de til formålet afsatte beløb i investeringsoversigten budget 2022 - 2025.</em></div> <div><em> </em></div> <div><em>Center for Teknik & Miljø indstiller til Skole-, Børne- og Ungeudvalget,</em></div> <div><em>2. at orienteringen tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Administration har afdækket behovet for etablering af pavilloner  på Klub Havana i sammenråd med lederen. Det er muligt at etablere i omegnen af 260 m² som kan placeres på et asfaltareal ved siden af parkeringspladsen.</div> <div> </div> <div>Pavillonen vil indeholde nogle mindre grupperum, tekøkken, toiletter og et større fællesrum. Den endelig indretning vil blive afklaret sammen med brugerne og lederen.</div> <div> </div> <div>Udover dette er der også afsat midler til mindre ombygninger i deres eksisterende bygninger. Dette skyldes, at børnene skal være samlet i grupper svarende til deres alder og behov, hvorfor det kan være nødvendigt at tilpasse forholdene for de eksisterende grupper også.</div> <div> </div> <div>Varige løsninger må afvente den samlede analyse, som blandt andet også vil forholde sig til mulighederne for en udvidelse af både undervisnings- og fritidstilbud på specialskolen Kirkemosegård, som yderligere vil kunne reducere presset på Havana.</div> <div> </div> <div>Pavillonerne vil kunne stå i op til 5 år, og derved også være en del af eventuelle genhusningsbehov, når den større varige plan skal gennemføres. Pavillonerne lever op til gældende bygningsreglement, og vil være indrettet til børn med specialbehov, så de får ikke en ringere løsning end de øvrige børn i tilbuddene. </div> <h3><span>Lovgrundlag</span></h3> <div>Planloven og Bygningsreglementet.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div><em>Byggeomkostninger</em></div> <div><em> </em></div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"648\">     <tbody>         <tr style=\"\">             <td valign=\"top\">             <div><strong>Projektnavn</strong></div>             </td>             <td valign=\"top\">             <div><strong>Overslag i 1.000 kr.</strong></div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Byggeri</div>             </td>             <td valign=\"top\">             <div>1.790</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Uforudsete udgifter (25%)</div>             </td>             <td valign=\"top\">             <div>400</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Rådgiver (10%)</div>             </td>             <td valign=\"top\">             <div>160</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Inventar, bygherreleverancer</div>             </td>             <td valign=\"top\">             <div>250</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div><strong>I alt</strong></div>             </td>             <td valign=\"top\">             <div><strong>2.600</strong></div>             </td>         </tr>     </tbody> </table> <div>Alle beløb er i 1.000 kr. (2022-priser)</div> <div> </div> <div>Der er i forbindelse med vedtagelsen af budget 2022 meddelt anlægsbevilling  på 160 t. kr. til rådgivning. Med denne sag søges der om frigivelse af de resterende 2,44 mio. kr.</div> <div> </div> <div><em>Driftsudgifter </em></div> <div><em><span> </span></em></div> <div>Ca. 304.000 kr. om året i husleje, og dertil kommer udgifter til rengøring og forbrug samt evt. forsikring.</div> <div> </div> <div>Den største udgift vil være til afledte driftsudgifter til personale. I disse udgifter må der tages forbehold for at de konkrete børns behov endnu ikke kendes, men der er taget udgangspunkt i at der afsættes midler til Havana, så børnene ikke skal være på Moeskær, hvilket beløber sig til ca. 1,5 mio. kr. årligt.</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"647\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Afledte driftsudgifter (1.000 kr.)</strong></div>             </td>             <td valign=\"top\">             <div><strong>2022</strong></div>             </td>             <td valign=\"top\">             <div><strong>2023</strong></div>             </td>             <td valign=\"top\">             <div><strong>2024</strong></div>             </td>             <td valign=\"top\">             <div><strong>2025</strong></div>             </td>             <td valign=\"top\">             <div><strong>Efterfølg-ende år</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Husleje</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Forbrug</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Rengøring</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Forsikringer</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Driftsudgifter til personale -Havana</div>             </td>             <td valign=\"top\">             <div>1.500</div>             </td>             <td valign=\"top\">             <div>1.500</div>             </td>             <td valign=\"top\">             <div>1.500</div>             </td>             <td valign=\"top\">             <div>1.500</div>             </td>             <td valign=\"top\">             <div>1.500</div>             </td>         </tr>         <tr>             <td valign=\"top\">Afledte driftsudgifter i alt</td>             <td valign=\"top\"><strong>1.930</strong></td>             <td valign=\"top\">             <div><strong>1.930</strong></div>             </td>             <td valign=\"top\"><strong>1.930</strong></td>             <td valign=\"top\"><strong>1.930</strong></td>             <td valign=\"top\"><strong>1.930</strong></td>         </tr>     </tbody> </table> <div> </div> <div> Alle beløb er i 1.000 kr. (2022-priser)</div> <h3><span>Øvrige konsekvenser</span></h3> <div>Opsætning af pavilloner afhænger af en dispensation til lokalplanen, som på nuværende tidspunkt er i nabohøring med frist den 23. december.</div> <h3><span>Kommunikation</span></h3> <div>Administrationen er i løbende kontakt med lederen for Klub Havana, og vil derigennem sørge for løbende kommunikation omkring projektet.</div> <h3><span>Tidsplan</span></h3> <div>Ved godkendelse af sagen, forventes pavillonerne at kunne være opsat medio 2022. Dette er forudsat, at der gives dispensation til lokalplanen. som forventes  behandlet på et kommende møde i Klima-, Teknik- og Miljøudvalget. Der skal også søges om byggetilladelse.</div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/159548ec-d170-49dd-b998-37fdea5b06d8",
+          "DocumentId": "159548ec-d170-49dd-b998-37fdea5b06d8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015918",
+      "Navn": "Klub Havana - Frigivelse af anlægsmidler til pavilloner",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "643c5d9a-a7b6-4ab8-bdcd-b61dcab91314",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-015918",
+      "SourceId": null,
+      "Caption": "Klub Havana - Frigivelse af anlægsmidler til pavilloner",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><ol>     <li>Godkendt, dog med den ændring at første møder i Skolerådet og Børnerådet placeres i uge 10.</li>     <li>Mødetidspunktet 19-21 fastholdes</li>     <li>Mødetidspunktet 19-21 fastholdes</li> </ol></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget. </div> <h3><span>Resume</span></h3> <div>I sagen gives et overblik over Skolerådet og Børnerådets foreslåede møder i 2022.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, </em></div> <div><em> </em></div> <div><em>1. </em><em>at udvalget godkender de foreslåede mødedatoer i Skolerådet og Børnerådet for 2022,</em></div> <div><em> </em></div> <div><em>2. at mødetidspunkterne for Børnerådet 2022 rykkes til kl. 17-19 i stedet for kl. 19-21, og</em></div> <div><em> </em></div> <div><em>3. at mødetidspunkterne for Skolerådet 2022 rykkes til kl. 17-19 i stedet for kl. 19-21.</em></div> <h3><span>Sagsbeskrivelse</span></h3> </div> <div><strong><em>Forslag, Børnerådet 2022:</em></strong></div> <div> </div> <div>Møderne foregår på torsdage.</div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"\">     <tbody>         <tr>             <td valign=\"top\">             <div><b>Tidspunkt efter kvartal</b></div>             </td>             <td valign=\"top\">             <div><b>Forslag</b></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Januar/ februar</div>             <div>(inden vinterferietid fra uge 6)</div>             </td>             <td valign=\"top\">             <div>27.1.22 eller 3.2.22</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Maj</div>             </td>             <td valign=\"top\">             <div>28.4.22 eller 5.5.22</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>August</div>             </td>             <td valign=\"top\">             <div>18.8.22 eller 25.8.22</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>November</div>             </td>             <td valign=\"top\">             <div>10.11.22 eller 17.11.22</div>             <div> </div>             </td>         </tr>     </tbody> </table> <div> </div> <div><em><strong>Forslag, Skolerådet 2022:</strong></em></div> <div> </div> <div>Møderne foregår tirsdage. </div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Tidspunkt efter kvartal</strong></div>             </td>             <td valign=\"top\">             <div><strong>Forslag</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Januar/Februar</div>             <div>(inden vinterferietid fra uge 6)</div>             </td>             <td valign=\"top\">             <div>25.1.22 eller 1.2.22</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Maj</div>             </td>             <td valign=\"top\">             <div>2.5.22</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>August</div>             </td>             <td valign=\"top\">             <div>16.8.22</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>November</div>             </td>             <td valign=\"top\">             <div>8.11.22</div>             </td>         </tr>     </tbody> </table> <div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cc818a9d-79a5-4510-832d-9441a42639a3",
+          "DocumentId": "cc818a9d-79a5-4510-832d-9441a42639a3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015579",
+      "Navn": "Mødekalender for Skolerådet og Børnerådet 2022",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9e49dd91-4b6f-4b26-8250-354d736d9b00",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-015579",
+      "SourceId": null,
+      "Caption": "Mødekalender for Skolerådet og Børnerådet 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>Taget til efterretning.</div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015028",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d28f3f9b-d160-4c3b-8c5e-e15510461094",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-015028",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><span> <div><i><br> </i></div> </span></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cf185669-99a7-42ca-b97e-b5cbae780ddd",
+          "DocumentId": "cf185669-99a7-42ca-b97e-b5cbae780ddd"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014467",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "aec43e5f-4acc-4971-ab45-510931b71308",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-014467",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <div><span> <div> <h3>Sagsprocedure</h3> </div> </span></div> <div>Skole-, Børne- og Ungeudvalget.</div> <div><span> <div><strong></strong> <h3>Resume</h3> </div> </span></div> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <div><span> <div><strong></strong> <h3>Indstilling</h3> </div> </span></div> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></div> <div><span> <div> <h3>Sagsfremstilling</h3> </div> </span></div> <div><em>Administrationen har følgende til orientering:</em></div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0ecba50a-6138-4165-a3c5-6cbf5be03325",
+          "DocumentId": "0ecba50a-6138-4165-a3c5-6cbf5be03325"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013716",
+      "Navn": "Huskeliste/orientering fra administrationen",
+      "Punktnummer": "13",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a834480a-2ef4-4f2d-9be6-6f26e0edbd64",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "21-013716",
+      "SourceId": null,
+      "Caption": "Huskeliste/orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <div><span></span></div> <div> <h3><span>Sagsprocedure</span></h3> <div><span>Skole-, Børne- og Ungeudvalget.</span></div> <h3><span>Resume</span></h3> <div><span>I sagen gives et overblik over Skole-, Børne- og Ungeudvalget udvalgsmøder og møder i tilknytning til udvalget.</span></div> <h3><span>Indstilling</span></h3> <div><span><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></span></div> <h3><span>Sagsbeskrivelse</span></h3> <div> </div> <div><span><em><strong>Skole-, Børne- og Ungeudvalgets kalender</strong></em></span></div> <div><span><em></em></span></div> </div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><b>Aktiviteter i 2022</b></div>             </td>             <td valign=\"top\">             <div><b>Dato</b></div>             </td>             <td valign=\"top\">             <div><b>Kl.</b></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Januar</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>11. januar</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Februar</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>08. februar</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Marts</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>15. marts</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>April</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>26. april</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Maj</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>31. maj</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Juni</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div> -</div>             </td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Juli</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>August</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>16. august</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>September</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>13. september</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Oktober</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>11. oktober</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>November</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Skole-, Børne- og Ungeudvalget</div>             </td>             <td valign=\"top\">             <div>15. november</div>             </td>             <td valign=\"top\">             <div>08.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>December</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>             <td valign=\"top\"></td>         </tr>     </tbody> </table> <div> </div> <h3><span> <div><em> </em></div> </span></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4e486f23-67a2-4d94-a1fc-56f463bc36cd",
+          "DocumentId": "4e486f23-67a2-4d94-a1fc-56f463bc36cd"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015010",
+      "Navn": "Skole-, Børne- og Ungeudvalgets kalender 2022",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "265b8003-c133-4e13-b5c7-ccc2eb7d56d3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "21-015010",
+      "SourceId": null,
+      "Caption": "Skole-, Børne- og Ungeudvalgets kalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, og Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div> <h3><span> <div> </div> </span></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b62a8eb2-15e4-4f67-83d7-83373b150346",
+          "DocumentId": "b62a8eb2-15e4-4f67-83d7-83373b150346"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "15",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "0f02424b-52c2-499b-8604-c6adcb525872",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "473469a9-b1d4-4d5e-b869-b1ed1bbcb012",
+    "Navn": "Skole-, Børne- og Ungeudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-01-11T08:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-01-11T08:00:00+01:00",
+    "Sted": "Mødelokale 6+7",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "3be74950-b1c2-4dae-b74e-f835cd2512f9",
+  "Lydfiler": null
+}

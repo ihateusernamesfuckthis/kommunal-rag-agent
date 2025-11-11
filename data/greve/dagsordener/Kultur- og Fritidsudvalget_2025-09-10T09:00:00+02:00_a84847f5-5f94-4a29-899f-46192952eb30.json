@@ -1,0 +1,433 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p>\n<p><em></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/96f57690-4fa5-4ae4-8c54-9acf0740d1d0",
+          "DocumentId": "96f57690-4fa5-4ae4-8c54-9acf0740d1d0"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5860b4fc-2a45-43a6-af93-12e0a2922fe0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning. <br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur- og Fritidsudvalget besøger Greve Svømmehal. Besøget er planlagt\nefter Kultur- og Fritidsudvalgets ønske om at besøge eller få besøg af Greve\nKommunes foreninger og kulturinstitutioner i forbindelse med udvalgsmøder i\n2025.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget tager besøget i Greve svømmehal\ntil efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kultur- og Fritidsudvalget vil ved besøget få en orientering om centrale\ntemaer i relation til svømmehallens drift og udvikling.</p>\n<p>Herudover vil der være mulighed for en kort rundvisning i nogle af\nsvømmehallens faciliteter.</p>\n<p>Kultur- og fritidsudvalget vil efter besøget afholde det ordinære møde på\nGreve rådhus.</p>\n<p><em><strong>Tidspunkt</strong></em></p>\n<p>Besøget finder sted i Greve svømmehal i tidsrummet fra kl. 9.00 – 9.30.</p>\n<p>Efter besøget i Greve svømmehal afholder udvalget sit ordinære møde på Greve\nrådhus.</p>\n<p><em><strong>Sted</strong></em></p>\n<p>Greve svømmehal, Jørgen Bachs Plads 1, 2670 Greve.</p>\n<p><em><strong>Tilstede ved besøget</strong></em></p>\n<p>Til stede ved besøget er leder for Greve svømmehal, Bodil V. Nielsen.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/96d29b1f-00e3-41fb-be83-1a42e2358415",
+          "DocumentId": "96d29b1f-00e3-41fb-be83-1a42e2358415"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-009645",
+      "Navn": "Besøg i Greve svømmehal",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b1439303-7e60-42e4-8bd2-198e582548d0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "25-009645",
+      "SourceId": null,
+      "Caption": "Besøg i Greve svømmehal",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning. <br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur- og Fritidsudvalget ønskede på deres møde den 4. juni 2025 en sag om\nden nye museumslov. En ny museumslov trådte i kraft den 1. januar 2025. I sagen\ngives status på lovens betydning for Greve Museum. Herunder en redegørelse for,\nat Greve Museum i de kommende år kan forvente, at statstilskuddet er på ca. 2,3\nmio. kr. som hidtil.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>En ny museumslov trådte i kraft den 1. januar 2025. Formålet med den nye lov\ner blandt andet at ændre den tilskudsmodel der uddeles statsstøtte efter\nsamt at sikre en mere effektiv og relevant museumsdrift.</p>\n<p>Museerne har i den nye museumslov tre sammenhængende opgaver:\nSamlingsudvikling, formidling og vidensudvikling. Disse tre skal udvikle sig\nsammen og sikre, at museerne tilpasses en moderne tid og fremover er relevante.</p>\n<p>Den nye tilskudsmodel indebærer en præcisering af museernes opgaver inden\nfor samlingsudvikling, vidensudvikling og formidling. De statslige midler til\nstatsanerkendte museer øges permanent med 75 mio. kr. årligt, så rammen\nfremover er i alt 565 mio. kr. Den nye tilskudsmodel er sammensat af tre\nstøttemuligheder: Differentieret grundtilskud, variabelt incitamentsbaseret\ntilskud og prioritetstilskud.</p>\n<p>Differentieret grundtilskud: Størstedelen af de 565 mio. kr. (ca. 65 %)\nfordeles som differentieret grundtilskud i fem kategorier. De statsanerkendte\nmuseer er blevet inddelt i fem kategorier baseret på en vurdering af\nbetydningen af museets samling. Greve Museum er placeret i kategori 1 og\ngrundtilskuddet var i 2025 1,5 mio. kr. </p>\n<p>Variabelt incitamentsbaseret tilskud: Ca. 24 % af de 565 mio. kr. bruges på\net variabelt incitamentsbaseret tilskud som er afhængigt af museernes\npræstation ift. besøgstal, børn og unge, forskning og indtægter. Greve Museum\nmodtog i 2025 ikke incitamentstilskud. </p>\n<p>Prioritetstilskud: Ca. 12 % af de 565 mio. kr. går til et særligt\nprioritetstilskud, som fordeles politisk. Prioritetstilskuddet skal evalueres\nefter 5 år. Greve Museum modtog i 2025 0,8 mio. kr. i prioritetstilskud. </p>\n<p>Greve Museums statstilskud for 2025 er dermed:</p>\n<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td>\n            <p> Grundtilskud\n            kategori                   \n                           </p>\n            </td>\n            <td>\n            <p> 1,5\n            mio. kr.  </p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p> Prioritetstilskud</p>\n            </td>\n            <td>\n            <p> 0,8\n            mio. kr. </p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p> <strong>Samlet\n            statstilskud</strong></p>\n            </td>\n            <td>\n            <p><strong> 2,4\n            mio. kr. </strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Dette er samme tilskud, som Greve Museum hidtil er blevet tildelt og der er\ndermed ikke ændret ved museets statstilskud.</p>\n<p>Den nye museumslov stiller en række minimumskrav til statsanerkendte museer\nfor at opretholde statsanerkendelsen. Greve Museum lever fuldt op til\nminimumskravene om 10.000 besøgende, minimum 4 mio. kr. i indtægt (fra f.eks.\nkommune eller fonde) og 1 forskningspublikation hvert 3. år.</p>\n<p>Det er museumschefens og bestyrelsesformandens vurdering, at Greve Museum er\nkorrekt indplaceret i kategori 1.  </p>\n<p>Indplaceringen i grundtilskudskategorier er sket efter en vurdering af\nmuseets samling og ansvarsområde. Det er ikke muligt at rykke fra kategori 1\ntil 2 med mindre, museet har et ansvarsområde og en samling, der dækker mere\nend to kommuner. Eller der kan redegøres for, at museet har en samling med\nmuseumsgenstande af særlig betydning, der rækker ud over det lokale. Det har\nhverken Greve Museum eller Mosede Fort.</p>\n<p>Loven betyder, at museer, der samlet får det samme som tidligere eller mere\ni statstilskud først kan ansøge om ændret grundtilskudsindplacering med\nvirkning fra 1. januar 2029. </p>\n<p>Loven betyder også, at hvis museer, der modtager prioritetsbidrag, ændrer\nkategori, vil de blive modregnet i prioritetstilskuddet. Den økonomiske vinding\nved at gå fra kategori 1 til kategori 2 for Greve Museums vedkommende vil\nderfor være 200.000 kr. (ca. 2 pct. af samlede budget).</p>\n<h4>Lovgrundlag</h4>\n<p>Museumsloven.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Der er fra 2026 øgede krav til revision af 16 kontrolpunkter af bl.a. de\nindberettede data om besøgstal, aktiviteter, økonomi og samling. Det er endnu\nuklart, hvorvidt de øgede krav til revision i 2026 vil betyde en merudgift til\nGreve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cf18752f-2bb8-4290-967f-c620b9faa248",
+          "DocumentId": "cf18752f-2bb8-4290-967f-c620b9faa248"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008339",
+      "Navn": "Den nye museumslov og Greve Museum",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "6503a9f6-ffef-4dc7-8c86-0d4cca7e979b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "25-008339",
+      "SourceId": null,
+      "Caption": "Den nye museumslov og Greve Museum",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1.-2. Godkendt.</p>\n<p>3. Godkendt med bemærkning om, at reducere udgifterne via sponsorstøtte og øge billetprisen til 100 kr. </p>\n<p>4. Kan ikke godkendes idet at udvalget ønsker, at den permanente finansiering oversendes til næste års budgetforhandlinger. </p><br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen indeholder en evaluering af Greve Awards 2025, som blev afholdt den 3.\njuni 2025 i Portalen samt forslag til håndtering af finansiering af arrangementet. Derudover skal Kultur- og Fritidsudvalget tage stilling\ntil, om Greve Awards 2026 skal afholdes den 30. april 2026 i Portalen med samme\nkoncept som i 2025, samt om arrangementet skal finansieres med op til 75.000\nkr. som reserveres fra Idræts- og Fritidspuljerne samt Handicappuljen inden disse fordeles. Endelig skal udvalget tage stilling til, hvorvidt finansieringen skal gøres permanent. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at evalueringen af Greve Awards 2025 tages til\n    efterretning idet håndtering af restfinansieringen behandles i forbindelse med afrapportering på tilbageløbsmidler fra puljeudmeldinger som forventes forelagt udvalget i november 2025,</em></li>\n    <li><em>at det godkendes, at Greve Awards 2026 afholdes den 30.\n    april 2026 i Portalen med samme koncept som i 2025, </em></li>\n    <li><em>at det godkendes, at Greve Awards 2026 finansieres\n    med maksimalt 75.000 kr. som reserveres fra Idræts- og Fritidspuljerne samt Handicappuljen\n    2026 inden disse midler fordeles, og</em></li>\n    <li><em>at det godkendes, hvorvidt Greve Awards\n    permanent skal finansieres med 75.000 kr. fra Idræts- og Fritidspuljerne samt Handicappuljen som derved reduceres tilsvarende. </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Nedenfor fremgår hovedkonklusionerne fra evalueringen af Greve Awards 2025,\nafholdt den 3. juni 2025 i Portalen med 280 deltagere, samt administrationens\nkommentarer til de enkelte punkter.</p>\n<p><strong><em>Evaluering</em></strong></p>\n<p>I forbindelse med evalueringen af Greve Awards 2025 blev der udsendt et\nspørgeskema til alle, der havde tilmeldt sig via nemtilmeld.dk – i alt 260\npersoner. Ud af disse besvarede 22 deltagere spørgeskemaet, hvilket svarer til\nen besvarelsesprocent på ca. 12 %. Den relativt lave svarprocent skal tages i betragtning i forbindelse med nedenstående opsummering.</p>\n<p>Vurderingerne er givet på en skala fra 1 til 5, hvor 5 er det højeste.</p>\n<p><strong><em>Portalen som ramme</em></strong></p>\n<p>Portalen blev vurderet til 4,73 ud af 5, hvilket vidner om tilfredshed med\nbåde rammer og stemningen i Portalen. Flere deltagere fremhævede fællesskabet\nog anerkendelsen af de frivillige som særligt meningsfuldt. Arrangementets\nlængde fik en vurdering på 4,09 ud af 5, hvilket indikerer, at de fleste fandt\nvarigheden passende.</p>\n<p><strong><em>Konferencier</em></strong></p>\n<p>Konferencieren, Mette Fiirgaard Schneefeldt, trådte til med kort varsel og\nmodtog ros for sin professionelle og engagerede indsats. Konferencierrollen opnåede en\ngennemsnitlig vurdering på 4,50 ud af 5, hvilket afspejler, at deltagerne var\ntilfredse med konferencierens bidrag til arrangementets gennemførelse.</p>\n<p><strong><em>Underholdning</em></strong></p>\n<p>Den musikalske underholdning fik en gennemsnitlig vurdering på 4,05 ud af 5. De fleste deltagere var tilfredse med bandet, og flere fremhævede\ninitiativet med at give unge, lokale musikere fra Greve Kultur-Base en platform\nsom særligt værdifuldt. Quizzen blev oplevet som mindre relevant af enkelte,\nmen underholdningen bidrog generelt til en positiv stemning under\narrangementet.</p>\n<p><strong><em>Forplejning</em></strong></p>\n<p>Forplejningen fik en gennemsnitlig vurdering på 3,64 ud af 5. Nogle\ndeltagere bemærkede, at portionsstørrelserne var mindre end tidligere år. Dette\nvar dog oplyst ved tilmeldingen, hvor det fremgik, at der ville være let\nforplejning med specificeret menu samt én inkluderet drikkevare i billetprisen\npå 75 kr.</p>\n<p><strong><em>Bord- og stoleopstilling</em></strong></p>\n<p>Forplejningen blev for første gang serveret i koncertsalen frem for i\nfoyeren. Med runde caféborde og 4–5 stole pr. bord var der plads til 280\nsiddende gæster, hvilket gav en hyggelig caféstemning.</p>\n<p>Nogle deltagere oplevede, at bordene kunne føles små i forhold til\nforplejningen, og at der enkelte steder var lidt trængsel. Dette kan blandt\nandet skyldes, at stole blev flyttet mellem bordene. </p>\n<p>Der vil blive set på, hvordan rammerne kan finjusteres for at sikre endnu\nbedre oplevelser ved fremtidige arrangementer.</p>\n<p><strong><em>Videopræsentationer af de nominerede</em></strong></p>\n<p>Der var generelt tilfredshed med videopræsentationerne blandt\ndeltagerne. Nogle bemærkede, at de korte præsentationer ikke kunne rumme alle\noptagelser fra det oprindelige videomateriale på 4–10 minutter pr. nomineret,\nsom blev redigeret ned til 1–2 minutter.</p>\n<p>Der har været enkelte misforståelser om, at videoerne lå til grund for\nprisudvælgelsen. For at undgå dette fremover vil det blive tydeligere\nkommunikeret, at videoerne udelukkende har en præsentationsfunktion, mens selve\nudvælgelsen foregår ved, at Folkeoplysningsudvalget nominerer kandidaterne, og\nKultur- og Fritidsudvalget beslutter prismodtagerne i de seks priskategorier.</p>\n<p><strong><em>Indstilling af kandidater til priserne</em></strong></p>\n<p>Til Greve Awards har borgere og foreninger kunnet indstille kandidater til\nseks priser. De fleste indstillinger er modtaget til idrætspriserne, mens\nfritidspriserne har fået færre – herunder kun tre til <em>Årets Fritidsleder</em>. Alle vil fortsat kunne indstille kandidater til\npriserne, men at man ikke kan indstille sig selv til individuelle priser,\nf.eks. <em>Årets Idrætsleder</em> og <em>Årets Fritidsleder</em>.</p>\n<p><strong><em>Økonomi og politiske beslutninger</em></strong></p>\n<p>Kultur- og Fritidsudvalget godkendte på mødet 20. november 2024 (pkt. 9), hvilket\ntype hædringsarrangement der ønskes samt en ny sag, hvori finansieringsmuligheder\nfremgår. </p>\n<p>Kultur- og Fritidsudvalget godkendte på mødet den 8. januar 2025 (pkt. 5), at\nGreve Awards 2025 skulle finansieres af midler fra Idræts- og Fritidspuljerne\nsamt Handicappuljen med et maksimalt træk på i alt 75.000 kr. På dette\ntidspunkt var midlerne for Idræts- og Fritidspuljerne samt Handicappuljen udmøntet.</p>\n<p>Kultur- og Fritidsudvalget godkendte på mødet den 30. april 2025 (pkt. 6), at\noverskydende midler fra Handicappuljen 2025 på i alt 14.322 kr. tildeles\nFrivilligCenter Greve til afholdelse af Greve julemarked. </p>\n<p>Således er der ikke flere midler i Idræts- og Fritidspuljen samt Handicappuljen\ntil at finansiere Greve Awards 2025. </p>\n<p>De samlede udgifter til Greve Awards 2025 udgjorde 87.206 kr.<br>\nPå indtægtssiden har private sponsorer støttet arrangementet med 15.000 kr. og billetsalget indbragte 8.411 kr. Det betyder at der skal finansieres 63.795 kr. fra Idræts-, Fritids- og Handicappuljerne. <br>\n<br>\nAdministrationen anbefaler, at håndtering af restfinansieringen indgår i en kommende sag om tilbageløbsmidler fra Idræts- og Fritidspuljerne, som forventes forelagt udvalget i november 2025.  </p>\n<p><strong><em>Administrationens vurdering</em></strong></p>\n<p>Administrationens samlede vurdering er, at Greve Awards 2025 forløb\ntilfredsstillende. Planlægning og afvikling fungerede som forventet, og alle\npraktiske elementer – herunder modtagelse af gæster og prisuddeling – blev\ngennemført uden problemer. Stemningen på dagen var positiv og engageret, og\narrangementet forløb som planlagt.</p>\n<h4>Lovgrundlag</h4>\n<p>Folkeoplysningsloven.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Arrangementet kan finansieres af midler fra Idræts- og Fritidspuljerne, samt\nHandicappuljen. Det betyder, at den økonomiske ramme i disse puljer vil blive\ntilsvarende reduceret.</p>\n<p>I nedenstående fremgår den økonomiske ramme for 2025:</p>\n<p>Tilskud til handicapaktiviteter 135.000 kr. og tilskud til Idræts- og\nFritidspuljerne var 1.514.344 kr. Det samlede tilskud i 2025 er derfor på i alt\n1.649.344 kr.</p>\n<h4>Høring</h4>\n<p>Sagen sendes i høring i Handicaprådet og Folkeoplysningsudvalget med frist\nden 9. september 2025 kl. 15.00.</p>\n<h4>Kommunikation</h4>\n<p>Såfremt udvalget beslutter, at der skal afvikles Greve Awards i 2026, vil administrationen kommunikere ud til foreningslivet, når det er muligt at indstille kandidater til de seks priser.</p>\n<h4>Tidsplan</h4>\n<p>Såfremt udvalget beslutter, at der skal afvikles Greve Awards i 2026, vil der blive fastsat en deadline for indstillinger til de seks priser i marts\n2026. Efter fristens udløb udvælges de nominerede i de enkelte priskategorier\naf Folkeoplysningsudvalget. Vinderne af priserne udpeges af Kultur- og\nFritidsudvalget på et møde i marts eller april 2026, afhængigt af den endelige\nmødekalender.</p>\n<h4>Øvrige forhold</h4>\n<p>I Greve Kommunes Kultur-, Idræts- og Fritidspolitik står det anført, at det\ntilstræbes at <em>\"understøtte alle de frivillige ildsjæle, som\ndrives af engagement og lyst\"</em>. Et hædringsarrangement kan medvirke\ntil at motivere og anerkende de frivillige ildsjæle.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6ee99864-adee-4896-95bc-cd81bfcccc1a",
+          "DocumentId": "6ee99864-adee-4896-95bc-cd81bfcccc1a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-009161",
+      "Navn": "Greve Awards: Evaluering 2025 og beslutning om 2026",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ded38ba3-2804-4a23-9a0c-2834e732c272",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "25-009161",
+      "SourceId": null,
+      "Caption": "Greve Awards: Evaluering 2025 og beslutning om 2026",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Anbefales. <br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>En ny aftale om tilskud og samarbejde mellem FrivilligCenter Greve og Greve\nKommune er udarbejdet for perioden 2026-2028 i dialog mellem\nFrivilligCenter Greves bestyrelse og administrationen. Aftalen sendes til\ngodkendelse i Byrådet.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Aftale om tilskud og samarbejde\n2026-2028 med FrivilligCenter Greve godkendes. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune yder årligt et driftstilskud til FrivilligCenter Greve som\nudgør 0,4 mio. kr. årligt (2025-tal). Det kommunale tilskud er en\ngrundforudsætning for at FrivilligCenter Greve kan modtage en statslig\ngrundfinansiering på 0,35 mio. kr. årligt.</p>\n<p>Aftalen om tilskud og samarbejde beskriver formål og vilkår for\nFrivilligCenter Greves anvendelse af det kommunale tilskud. Aftalen skal sikre,\nat kommunens midler anvendes til det aftalte formål og beskriver\nrollefordelingen og det gensidige samarbejde mellem FrivilligCenter Greve og\nGreve Kommune. </p>\n<p>Administrationen er i dialog med FrivilligCenter Greves bestyrelse og\ndaglige ledelse blevet enige om en ny aftale om tilskud og samarbejde for\nperioden 1. januar 2026 til 31. december 2028, som hermed sendes til politisk\ngodkendelse. </p>\n<p>Der er i aftalen lavet en række mindre rettelser og ændringer som har haft\ntil formål at præcisere eller tydeliggøre aftalens vilkår og indhold. Alle\nrettelser og præciseringer kan ses i bilag 2.</p>\n<h4>Lovgrundlag</h4>\n<p>FrivilligCenter Greves grundfinansiering fra Socialstyrelsen indgår i\nfinansloven</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Der udbetales et tilskud til FrivilligCenter Greve svarende til det\nfastsatte budget under Kultur- og Fritidsudvalgets ramme der i 2025 beløber sig\ntil 0,4 mio. kr. Tilskuddet reguleres med den anvendte pris- og\nlønfremskrivning for Greve Kommune.</p>\n<p>FrivilligCenter Greve er optaget i den statslige grundfinansiering fra 1.\njanuar 2015, der sikrer FrivilligCenter Greve et tilskud på 0,35 mio. kr.\nårligt under forudsætning af minimum et tilsvarende kommunalt tilskud. </p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/129759ac-c549-4892-8d72-1c645b65c02f",
+          "DocumentId": "129759ac-c549-4892-8d72-1c645b65c02f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-009170",
+      "Navn": "Samarbejds- og driftsaftale FrivilligCenter Greve 2026-28",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Samarbejds- og driftsaftale FrivilligCenter Greve 2023-2025",
+          "Id": "7713146b-3699-498d-b2eb-f7b33e1b8adc"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Samarbejds- og driftsaftale FCG og GK med kommentarer FCG 2026-2028",
+          "Id": "1fa78654-dc2e-4b63-92b3-0aa3f61ebebd"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Samarbejds- og driftsaftale FCG og GK 2026-2028",
+          "Id": "41197612-dbc3-44b2-8245-4c6bc72e6a38"
+        }
+      ],
+      "Documents": null,
+      "Id": "a80faf79-e413-4733-9c8d-38f4c264bfbf",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "25-009170",
+      "SourceId": null,
+      "Caption": "Samarbejds- og driftsaftale FrivilligCenter Greve 2026-28",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Portalen fremlægger i henhold til tilskudsaftalen med Greve Kommune\nårsrapporten for 2024 med økonomiske nøgletal og oplysninger om årets\naktiviteter. I denne sag fremlægges en bestyrelsesgodkendt årsrapport og\noverblik over Portalens økonomi og virke i året, der er gået. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Portalens\nårsrapport 2024 tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Portalens årsrapport og årsberetning skaber sammen et overblik over årets\npositive økonomiske nøgletal og aktiviteter. Se bilag 1 og 2.</p>\n<p><strong><em>Økonomiske nøgletal 2024</em></strong></p>\n<p data-start=\"91\" data-end=\"412\">Årsrapporten viser et positivt resultat på 0,4\nmio. kr. og en omsætning på 10,7 mio. kr. I 2024 har Portalen opnået et\npositivt aktivitetsresultat på 1,5 mio. kr., en stigning på 1,0 mio. kr. i\n2023. Den positive udvikling kan indikere en øget efterspørgsel efter Portalens\ntilbud samt en fornuftig forretningsførelse. Stigningen i tilskud, fra 2023 til 2024, skyldes en PL fremskrivning på tilskudsområdet på 7,86% samt en stigning på  ca.50.000 kr. i positivliste moms.</p>\n<p data-start=\"414\" data-end=\"694\">Det fremgår af rapporten, at Greve Kommunes\ntilskud til Portalen er steget fra 6,0 mio. kr. inklusiv positivliste moms til\n6,5 mio. kr. inklusiv positivlistemoms, hvilket har gjort det muligt for\nPortalen at tilbyde flere aktiviteter af højere kvalitet, som afspejles i det\nøgede aktivitetsniveau.</p>\n<p data-start=\"696\" data-end=\"856\">Overskuddet på 0,4 mio. kr. tilføres\negenkapitalen, hvilket sikrer, at Portalen kan modstå større uforudsete\nudgifter og år med eksempelvis dårligt billetsalg.</p>\n<p><em><strong>Aktiviteter 2024</strong></em></p>\n<p>Portalens aktivitetsoversigt giver et indblik i årets arrangementer. I 2024\nblev der afholdt 292 aktiviteter, en stigning fra 289 i 2023.</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong>Aktivitetsoversigt Portalen 2024</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Antal</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Koncerter og\n            Standup/shows</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>66</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Portalens galleri</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>8</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Jazzscenen</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>18</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Udlejningsaktiviteter</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>140</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Lokal Revy</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Lokale bands</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>4</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Børnekoncerter/shows</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>16</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Foredrag AOF og FOF</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>14</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Rundvisninger</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>22</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong>I alt</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>292</strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p data-start=\"76\" data-end=\"517\">Aktivitetsoversigten for 2024 viser en mindre\nstigning i aktivitetsniveauet, fra 289 aktiviteter i 2023 til 292 i 2024.\nStigningen skyldes i følge Portalen, samarbejdet med lokale kulturinstitutioner\nsom Greve Bibliotek, KulturBasen og netværket <em data-start=\"310\" data-end=\"327\">Sammen\nom Greve</em>, samt et øget fokus på at gøre huset mere tilgængeligt og\nrelevant for en bredere målgruppe. Dette afspejles i besøgsantallet, der er\nsteget til ca. 69.000 gæster mod ca. 67.000 året før.</p>\n<p data-start=\"519\" data-end=\"705\">Samarbejdet med eksterne arrangører (udlejning)\nhar udgjort en væsentlig del af aktiviteterne og været en central faktor i\nPortalens fremgang. Indtægten fra udlejning alene udgjorde i 2024 1.532.951 kr.</p>\n<h4>Lovgrundlag</h4>\n<p>Aftale om driftstilskud mellem Greve Kommune og Portalen – Greve Teater- og\nMusikhus.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Greve Kommune har i 2024 udbetalt et tilskud på 6,5 mio. kr. inklusiv\npositivliste moms til Portalen.</p>\n<p>Sagen har ingen andre økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/abbcd5d3-40f5-43f0-87c3-e480ace69513",
+          "DocumentId": "abbcd5d3-40f5-43f0-87c3-e480ace69513"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008889",
+      "Navn": "Portalen - Årsrapport 2024",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Portalen årsberetning 2024",
+          "Id": "765cae3f-783c-4884-9bea-edf7f4534302"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Portalen S/I Greve Teater- & Musikhus, årsrapport 2024",
+          "Id": "8b4d04c2-e725-4e1a-98a6-601165a5f335"
+        }
+      ],
+      "Documents": null,
+      "Id": "e98877b7-f575-473a-ab3e-fdbafbb5a78c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "25-008889",
+      "SourceId": null,
+      "Caption": "Portalen - Årsrapport 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Der blev orienteret om følgende:</p>\n<ul>\n    <li>Status på dartklubben</li>\n    <li>Status på kunstforeningen</li>\n    <li>Henvendelse vedr. Greve i Chianti</li>\n    <li>Orientering om tilfredshed med KaMiBe</li>\n</ul>\n<p> </p><br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om aktuelle emner. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><i>Administrationen indstiller, at orienteringer tages til efterretning.</i>. </em></p>\n<p><em></em></p>\n<h4>\nSagsfremstilling</h4>\n<p>Formanden orienterer om:</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/554e1347-e794-4bd9-bff1-ef657371aad7",
+          "DocumentId": "554e1347-e794-4bd9-bff1-ef657371aad7"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "3e34c474-cc11-4365-8098-2471c798511d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Der var ingen orienteringer. <br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationen giver et kort overblik over orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><em>Administrationen indstiller, at orienteringen tages til efterretning.</em> </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:<br>\n<br>\n<strong><em>Invitation til Kick Off af Rabalder i Greve Kommune, jf. bilag 1.</em></strong></p>\n<p><strong><em>Ansøgning til Tryg Fonden vedr. midler der understøtter kultur- og fritidsaktiviteter i relation til børn og unge i udsatte positioner</em></strong></p>\n<strong><em>Greve Museum - strategi</em></strong></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/73b31957-8099-43e3-bc08-1361b0c0c7ea",
+          "DocumentId": "73b31957-8099-43e3-bc08-1361b0c0c7ea"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Invitation til Kick Off af Rabalder i Greve Kommune",
+          "Id": "3a549671-cea3-4469-a68a-0de85bbed247"
+        }
+      ],
+      "Documents": null,
+      "Id": "4569af89-5f81-4668-baef-a421d6606a09",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt idet at mødet i oktober placeres i Tune. </p>\n<p> </p><br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Kultur- og Fritidsudvalgets møder og aktiviteter i tilknytning til udvalget</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Møde- og aktivitetskalenderen er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f0b7ccfe-a732-4038-b8bd-74f2884df837",
+          "DocumentId": "f0b7ccfe-a732-4038-b8bd-74f2884df837"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Kultur- og Fritidsudvalgets møde- og aktivitetskalender 2025",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Kultur- og Fritidsudvalgets møde- og aktivitetskalender 2025",
+          "Id": "076f3b49-c237-4cdf-a2ea-c0ce308f8a94"
+        }
+      ],
+      "Documents": null,
+      "Id": "1f9f93b9-65f8-4888-9403-2f20af068683",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Kultur- og Fritidsudvalgets møde- og aktivitetskalender 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>  <br><br>Afbud: Per Lund Sørensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p>\n<p><em></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1fc801be-c12b-4851-8fb7-f324a3b5e25f",
+          "DocumentId": "1fc801be-c12b-4851-8fb7-f324a3b5e25f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "70c976b5-4e45-4a78-b127-bb16ef6582bd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a84847f5-5f94-4a29-899f-46192952eb30",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "425869ca-7441-4d9d-b497-27bc7d5bbbc2",
+    "Navn": "Kultur- og Fritidsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-09-10T09:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-09-10T09:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": true,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "a84847f5-5f94-4a29-899f-46192952eb30",
+  "Lydfiler": null
+}

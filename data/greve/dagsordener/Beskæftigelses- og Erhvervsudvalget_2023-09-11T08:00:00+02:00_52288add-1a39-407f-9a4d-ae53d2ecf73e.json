@@ -1,0 +1,349 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4><span>Sagsprocedure</span></h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4><span>Resume</span></h4>\n<p>Godkendelse af dagsorden for mødet den 11. september 2023.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/286861fa-4a2d-4bf8-9a08-8382a9798cf4",
+          "DocumentId": "286861fa-4a2d-4bf8-9a08-8382a9798cf4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014448",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "565a9560-5773-4903-9177-ef5d0dba8b02",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014448",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationen afholder temamøde om sygemeldte borgere i Greve Kommune for Beskæftigelses- og Erhvervsudvalget efter udvalgets ønske. Temamødet bidrager med viden og indsigt på området og udvalget får lejlighed til en dialog og til at stille spørgsmål. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning. </i></p>\n<p><i>Der skal ikke træffes beslutninger på temamødet.</i></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen afholder temamøde for Beskæftigelses- og Erhvervsudvalget om sygemeldte borgere i Greve Kommune, som er på sygedagpenge eller jobafklaringsforløb.  </p>\n<p>Formålet er at give udvalget en indføring i sagsområdet generelt og vil samtidig vise de udfordringer og potentialer, som området rummer. </p>\n<p>Teamleder for Fastholdelsesteamet Berit Lyed Kristoffersen deltager under punktet med oplæg om området, hvor udvalget får lejlighed til en dialog og til at stille spørgsmål. </p>\n<h4>Lovgrundlag</h4>\n<p>Lov om Aktiv Beskæftigelsespolitik.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6231952f-431d-47f8-a7dd-af126cc97f4b",
+          "DocumentId": "6231952f-431d-47f8-a7dd-af126cc97f4b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-009470",
+      "Navn": "Temamøde om sygemeldte borgere i Greve Kommune",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Temamøde om sygemeldte",
+          "Id": "b2ed29e0-d8e0-4b93-be01-b385b6a7cc89"
+        }
+      ],
+      "Documents": null,
+      "Id": "7e6625ea-2db7-4771-8e67-e87cf76617e4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-009470",
+      "SourceId": null,
+      "Caption": "Temamøde om sygemeldte borgere i Greve Kommune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt</p>\n<p>2. Godkendt</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Beskæftigelses- og Erhvervsudvalget skal tage stilling til udvalgets kalender 2024 på baggrund af den godkendte mødekalender for Byrådet og Økonomiudvalget i 2024.</p>\n<p>Udkast til udvalgets mødekalender er udarbejdet, så der tages hensyn til sagernes videre forløb i Økonomiudvalget og Byrådet.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<p><em>1.at den foreslåede mødekalender for Beskæftigelses- og Erhvervsudvalget godkendes</em></p>\n<p><em>2. at den faste mødedag bliver mandag med mødestart kl. 8.00.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 4. september 2023 godkendte Byrådet mødedatoerne for Økonomiudvalget og Byrådet i 2024. Det blev besluttet af afholde ni årlige møder i henholdsvis Økonomiudvalget og Byrådet i lighed med 2023. </p>\n<p>Møderne foreslås afholdt på følgende datoer:</p>\n<p>8. januar</p>\n<p>5. februar</p>\n<p>18. marts</p>\n<p>22. april</p>\n<p>3. juni</p>\n<p>12. august</p>\n<p>9. september</p>\n<p>7. oktober</p>\n<p>18. november</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udgifterne til mødeforplejning mv. afholdes inden for udvalgets budgetramme.</p>\n<h4>Kommunikation</h4>\n<p>Den godkendte mødekalender vil blive offentliggjort på kommunens hjemmeside og mødedagene vil blive skrevet ind i kalender for Byrådets medlemmer.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/57bdf593-2cf4-428b-bddb-2574c4f1da72",
+          "DocumentId": "57bdf593-2cf4-428b-bddb-2574c4f1da72"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005195",
+      "Navn": "Mødekalender 2024 for Beskæftigelses- og Erhvervsudvalget",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Politisk mødekalender 2024",
+          "Id": "8423139b-9236-4d76-b510-5944190e07a0"
+        }
+      ],
+      "Documents": null,
+      "Id": "e04237c1-43f3-41a0-971c-d502117ab585",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-005195",
+      "SourceId": null,
+      "Caption": "Mødekalender 2024 for Beskæftigelses- og Erhvervsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Greve Kommune har modtaget henvendelse fra beskæftigelsesministeren vedr.\nvelfærdsaftalerne på beskæftigelsesområdet. Af henvendelsen fremgår det, at\nRegeringen har besluttet ikke at gennemføre velfærdsaftalen for Greve Kommune.\nUdvalget orienteres om henvendelsen, som er vedlagt sagen som bilag.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune søgte i 2022 om at blive velfærdskommune på\nbeskæftigelsesområdet. <br>\nDet samme gjorde 51 andre kommuner og i september 2022 meddelte Regeringen, at\nGreve Kommune sammen med Aabenraa Kommune, Silkeborg Kommune og Hillerød\nKommune var blevet udvalgt til at gennemføre velfærdsforsøget.</p>\n<p>I forbindelse med udpegningen blev det ligeledes meddelt fra Regeringens\nside, at velfærdskommuneforsøget skulle starte den 1. juli 2023. </p>\n<p>Borgmesteren har den 30. august 2023 modtaget en henvendelse fra beskæftigelsesministeren\nvedrørende, at regeringen nu har nedsat en ekspertgruppe, som skal komme med\nanbefalinger til fremtidens beskæftigelsesindsats i stedet for. I dette arbejde\nvil ministeriet ikke kunne <span class=\"GramE\">nå,</span> at drage nytte af\nerfaringerne fra arbejdet med velfærdsaftalerne, der tidligst ville kunne træde\ni kraft medio 2024, henset til lovarbejdet. <br>\nI den forbindelse meddeler ministeriet, at det ikke længere giver mening af\nstarte op med forsøgene med velfærdskommuner på beskæftigelsesområdet.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/19a392b8-0dac-45f5-adaa-c31f9881a251",
+          "DocumentId": "19a392b8-0dac-45f5-adaa-c31f9881a251"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-009554",
+      "Navn": "Status på velfærdsaftaler for kommunerne",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Orienteringsbrev til kommuner om status på velfærdsaftaler Greve",
+          "Id": "cd057728-0765-4279-ac84-552af6c09f3e"
+        }
+      ],
+      "Documents": null,
+      "Id": "1dbcd936-9483-4104-8602-9ac8e41ead38",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-009554",
+      "SourceId": null,
+      "Caption": "Status på velfærdsaftaler for kommunerne",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Der var ingen orienteringer.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8438e5be-1998-4212-a07e-43a1d454a88d",
+          "DocumentId": "8438e5be-1998-4212-a07e-43a1d454a88d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013722",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "06258efb-d464-4098-8810-5143997fe732",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-013722",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n</div>\n<ul>\n    <li>Orientering om udvalgets ønske om besøg i Erhvervshus Sjælland samt eventuel afholdes af udvalgsmøde samme sted i forbindelse med besøget. </li>\n</ul></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7f7a7a8a-4fc5-4f31-9626-68e141986894",
+          "DocumentId": "7f7a7a8a-4fc5-4f31-9626-68e141986894"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013719",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b448c142-c44e-4419-964e-dd6da4d3375e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-013719",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt med bemærkning om, at udvalgsmødet i november 2023 afholdes i Erhvervshus Sjælland.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Beskæftigelses- og Erhvervsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e043f11e-b0f9-4fd1-b727-c448614dcda6",
+          "DocumentId": "e043f11e-b0f9-4fd1-b727-c448614dcda6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013723",
+      "Navn": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2023",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beskæftigelss- og Erhvervsudvalgets mødekalender - september 2023",
+          "Id": "51c42418-26d0-4616-af61-e6679d4f9920"
+        }
+      ],
+      "Documents": null,
+      "Id": "8f4f6331-9806-43e5-8b38-d4a1ddc4247e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-013723",
+      "SourceId": null,
+      "Caption": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget</p>\n<b></b>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f38f4852-dec6-45fa-b1f8-469ab09a8d5a",
+          "DocumentId": "f38f4852-dec6-45fa-b1f8-469ab09a8d5a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-012521",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "890ff426-27ac-4c56-b83a-d7bdbc6374eb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-012521",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "d2b6711a-6c60-4f72-be63-ef69dac7e795",
+    "Navn": "Beskæftigelses- og Erhvervsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-09-11T08:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-09-11T08:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "52288add-1a39-407f-9a4d-ae53d2ecf73e",
+  "Lydfiler": null
+}

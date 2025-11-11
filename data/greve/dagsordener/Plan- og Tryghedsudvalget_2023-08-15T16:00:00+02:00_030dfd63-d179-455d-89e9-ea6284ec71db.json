@@ -1,0 +1,729 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt, idet udvalget starter med punkt 10.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 15. august 2023. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at dagsordenen godkendes</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c204323e-6d91-4b81-8bf8-1261bb480a1c",
+          "DocumentId": "c204323e-6d91-4b81-8bf8-1261bb480a1c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003654",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "0e142879-fce6-4b4e-9c4c-6b658874d844",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "22-003654",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Taget til orientering.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Der holdes temamøde om indholdet i forslag til Planstrategi 2023.</p>\n<h4>Indstilling</h4>\n<p><em>Der skal ikke træffes beslutningen på temamødet, som bruges til\norientering og dialog.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p class=\"paragraph\">Byrådet godkendte den 12. december 2022 (pkt. 42) igangsætning af\narbejdet med udarbejdelse af Planstrategi 2023, og at den skulle tage\nudgangspunkt i følgende:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Vision \"Naturligvis Greve\"</li>\n    <li>Relevante politikker</li>\n    <li>Klimahandlingsplanen</li>\n</ul>\n<p class=\"paragraph\">Administrationen har på baggrund af igangsættelsessagen\nudarbejdet forslag til Planstrategi 2023, der tager udgangspunkt i de tre\npejlemærker, der blev drøftet og besluttet den 14. marts 2023 (pkt. 3) på Plan- og\nTryghedsudvalgsmødet. Pejlemærkerne omfatter: </p>\n<ul>\n    <li>Rig natur og vedvarende energi </li>\n    <li>Trygge og sammenhængende lokalområder </li>\n    <li>Boliger til hele livet</li>\n</ul>\n<p><strong><em>Rullende kommuneplanrevision </em></strong></p>\n<p>Administrationen lægger med Planstrategi 2023 op til en \"rullende\"\nkommuneplanrevision, hvor enkelte emner revideres løbende. Det betyder, at\nhvert pejlemærke vil lede til et kommuneplantillæg, hvor de emner, det enkelte\npejlemærke berører, vil blive revideret. Herved vil Byrådet skulle behandle tre\nkommuneplantillæg. Kommuneplantillæggene for hvert pejlemærke vil blive\nudarbejdet og vedtaget etapevis og ét efter ét blive indarbejdet i den\neksisterende digitale kommuneplan. </p>\n<h4>Øvrige forhold</h4>\n<p>Maja Bagge Lillelund, Enhedschef for Plan, Vej og Landskab og Mathilde Lo\nNielsen, projektleder på planstrategien deltager på temamødet.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b456c73a-97fa-4efb-8509-7bdbd2aa4615",
+          "DocumentId": "b456c73a-97fa-4efb-8509-7bdbd2aa4615"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-006479",
+      "Navn": "Temamøde om forslag til Planstrategi 2023",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2a9c9d1f-fb86-4891-bced-6a20cd126f02",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-006479",
+      "SourceId": null,
+      "Caption": "Temamøde om forslag til Planstrategi 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt</p>\n<p>Mehmet Zeki Dogru (Ø) og Kenneth Jerkel (A) undlader.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Sagen beskriver Planstrategi 2023´s pejlemærker. Pejlemærkerne danner grundlag\nfor den efterfølgende kommuneplanrevision, der sætter rammerne for, hvad Byrådet de kommende år særligt vil fokusere på i forhold til den fysiske\nudvikling af Greve kommune. Forslaget til planstrategien skal i otte ugers offentlig\nhøring. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at forslag til Planstrategi 2023 og Lokal\nAgenda-21 strategi (bilag 1) godkendes og sendes i otte ugers offentlig høring.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p class=\"paragraph\">Planloven stiller krav om, at Byrådet i første halvdel af\nhver valgperiode skal offentliggøre en planstrategi. Det betyder, at der gerne\nskal offentliggøres en ny planstrategi ultimo 2023. Strategien skal give en\nstatus på kommunens udvikling og beskrive hvilken retning, Byrådet ønsker for\nden fysiske udvikling af kommunen. Omfanget af den efterfølgende revision af\nkommuneplanen skal også beskrives. </p>\n<p class=\"paragraph\">Der er ikke formkrav til planstrategien - modsat\nkommuneplanen, hvor der er faste krav til form og indhold. Det er derfor op til Byrådet at fastlægge, hvad planstrategien skal handle om og, hvad\nambitionsniveauet skal være.</p>\n<p class=\"paragraph\"><strong><em>Foreløbig politiske proces</em></strong><em> </em></p>\n<p class=\"paragraph\">Byrådet godkendte den 12. december 2022 (pkt. 42) igangsætning af\narbejdet med udarbejdelse af planstrategien, og at planstrategien skal tage\nudgangspunkt i følgende:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Vision \"Naturligvis Greve\"</li>\n    <li>Relevante politikker </li>\n    <li>Klimahandlingsplanen </li>\n</ul>\n<p class=\"paragraph\">Administrationen har på baggrund af igangsættelsessagen\nudarbejdet forslag til Planstrategi 2023, der tager udgangspunkt i de tre\npejlemærker, der blev drøftet og besluttet den 14. marts 2023 (pkt. 3) på Plan- og\nTryghedsudvalgets møde.</p>\n<p><strong><em>Planstrategiens pejlemærker</em></strong></p>\n<p>Pejlemærkerne er grundlaget for, hvilke emner Byrådet ønsker at revidere i\nden følgende kommuneplanrevision. </p>\n<p>Planstrategien består af tre pejlemærker:</p>\n<p><em>Rig natur og vedvarende energi</em></p>\n<p>Pejlemærket handler om, at Greve\nKommune skal bidrage til den grønne omstilling, øge naturværdien i kommunen og\nplanlægge for fremtidens klima. Det skal ske ved at skabe bedre rammer for\nvedvarende energianlæg og ved at give plads til mere natur. Tiltagene skal ske\ni byerne såvel som i det åbne land.</p>\n<p><em>Trygge og sammenhængende lokalområder</em></p>\n<p>Pejlemærket handler om at skabe\nbymiljøer med høj kvalitet, som er trygge og spændende at opholde sig i, og\nhvor der er god tilgængelighed. Dette skal ske ved at have lokalområdernes\nkarakter og kvaliteter i fokus, når der udvikles og omdannes. Yderligere skal\ntilgængelighed for bløde trafikanter og lysten til at bruge grøn mobilitet som\noffentlig transport samt elbiler være i fokus.</p>\n<p><em>Boliger til hele livet</em></p>\n<p>Pejlemærket\nhandler om at sikre fremtidens boligbehov, samt at byudviklingen skal være\nlangsigtet og bæredygtig. Dette skal ske ved at fremme centralt placerede\nsenior- og ældrevenlige boliger samt ved at fremme boliger til mange\nforskellige familieformer i større byudviklingsprojekter. Yderligere skal\nudviklingen af kommunen ske balanceret, hvilket vil sige, at der skal være\nsammenhæng mellem planlægningen, kommunens fremtidige behov samt det areal, der\ner tilgængelig i kommunen. </p>\n<p><strong><em>Rullende kommuneplanrevision</em></strong><em>      \n</em></p>\n<p class=\"paragraph\">Administrationen lægger med Planstrategi 2023 op til en\n\"rullende\" kommuneplanrevision, hvor enkelte emner revideres løbende.\nDet betyder, at hvert pejlemærke vil lede til et kommuneplantillæg, hvor de\nemner, det enkelte pejlemærke berører, vil blive revideret. Herved vil Byrådet\nskulle behandle tre kommuneplantillæg. Kommuneplantillæggene til hvert\npejlemærke vil blive udarbejdet og vedtaget etapevis og ét efter ét blive\nindarbejdet i den eksisterende digitale kommuneplan. Dette er yderligere\nbeskrevet og illustreret på side 25 i forslag til Planstrategi 2023.</p>\n<p class=\"paragraph\">En rullende revision af kommuneplanen giver mulighed for i\nhøjere grad at gå i dybden med de emner, der optager borgerne og den politiske\norganisation samt bedre mulighed for borger- og interessentinddragelse.\nAdministrationen anbefaler i den forbindelse, at der for hvert\nkommuneplantillæg vil blive afholdt relevante politiske temamøder og relevante\ninddragelsesprocesser. Administrationen forventer, at første kommuneplantillæg\nvil blive igangsat i første kvartal af 2024.</p>\n<p><strong><em>Lokal Agenda-21 Strategi</em></strong></p>\n<p class=\"paragraph\">Byrådet skal jf. planloven inden udgangen af første halvdel\naf den kommunale valgperiode offentliggøre en redegørelse for kommunens Lokale\nAgenda-21 strategi, der bidrager til en bæredygtig udvikling. Denne\nvalgperiodes Lokal Agenda-21 strategi er udarbejdet som en del af\nplanstrategien. Det betyder, at den Lokale Agenda-21 strategi er en del af\nPlanstrategi 2023. </p>\n<p class=\"paragraph\">Plan- og Landdistriktsstyrelsen sendte den 15. maj 2023 et\nlovforslag med ændringer til planloven i høring. I udkastet til lovforslaget\nlægges der blandt andet op til, at kravet om, at kommunerne udarbejder en Lokal\nAgenda-21 strategi, udgår. Administrationen er ikke bekendt med, hvornår denne\nlovrevision forventes godkendt.</p>\n<p class=\"paragraph\"><strong><em>Inddragelse af </em></strong><span class=\"spelle\"><strong><em>Bystrategisk</em></strong></span><strong><em>\nRåd</em></strong><em> </em></p>\n<p class=\"paragraph\"><span class=\"spelle\">Bystrategisk</span> Råd har haft forslag\ntil Planstrategi 2023 til gennemlæsning i perioden fra den 9. juni 2023 til og med den\n14. juni 2023. Rådet har sendt deres input til hver af pejlemærkerne, som\ngennemgås nedenfor. Rådets input kan læses i fuld længde i bilag 2. </p>\n<p class=\"paragraph\">For pejlemærket <em>\"Rig natur og vedvarende\nenergi\"</em> anbefaler rådet, at Greve Kommune går i dialog med andre\nkommuner om erfaringer. Både ved udpegning af områder til solenergianlæg i det\nåbne land men også ved klimatilpasning i byerne for at sikre kvalitet og\nbæredygtighed. Yderligere anbefaler rådet, at der ved udpegning af nye områder til\nskovrejsning bevares indkig til landsbyerne. Rådet mener, at det er\nuklart, hvor den omtalte ’varme-ø-effekt’ opstår i kommunen. </p>\n<p class=\"paragraph\">For pejlemærket <em>\"Trygge og sammenhængende\nlokalområder\"</em>, synes rådet, at det er positivt, at mobiliteten for\ngående og cykellister samt at byliv og fællesskaber i lokalområderne anbefales forbedret. Rådet anbefaler, at der ved stationsnært byggeri stilles krav om\nparkeringskælder, så parkeringen fjernes fra bymiljøet. Rådet anbefaler, at cykelstien\ntil Tune prioriteres. Rådet anbefaler yderligere, at der implementeres\nhastighedsbegrænsninger for billister samt bedre belysning og udsmykning af\ntunneller for at fremme trygheden.</p>\n<p class=\"paragraph\">For pejlemærket<em> \"Boliger til hele livet\"</em>,\nsynes rådet, at det skal undersøges, om der kan skabes fællesskabsorienterede\nældreboliger. Desuden synes rådet, at der mangler økonomisk tilgængelige\nboliger i Mosede og Karlsunde til unge og ældre. Endelig synes rådet, at den\neksisterende bygningsmasse, både offentlig og privat, skal vedligeholdes frem\nfor at nedrives.</p>\n<h4>Lovgrundlag</h4>\n<p>Planloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Planstrategien medfører ikke handlepligt og har derfor som udgangspunkt ikke\nøkonomiske konsekvenser. Planstrategien kan dog indeholde idéer, der potentielt\nkan have afledte økonomiske konsekvenser, hvis man politisk vælger at handle på\ndem.</p>\n<h4>Kommunikation</h4>\n<p>Forslaget til planstrategien skal jf. planloven i otte ugers offentlig\nhøring. Høring annonceres på kommunens hjemmeside samt i avisen Sydkysten.\n </p>\n<h4>Tidsplan</h4>\n<ul style=\"list-style-type: disc;\">\n    <li>Medio september til medio november 2023: Otte ugers\n    offentlig høring af forslag til planstrategien. </li>\n    <li>Januar og februar 2024: Politisk behandling af endelig\n    planstrategi.</li>\n</ul>\n<h4>Øvrige forhold</h4>\n<p>Projektleder på planstrategien Mathilde Lo Nielsen og Enhedschef for Plan,\nVej og Landskab Maja Bagge Lillelund deltager på mødet.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f219b7bf-fa9d-46f6-9aa1-096403229fd6",
+          "DocumentId": "f219b7bf-fa9d-46f6-9aa1-096403229fd6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-006479",
+      "Navn": "Forslag til Planstrategi 2023",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Forslag til Planstragei 2023",
+          "Id": "1cfb3ac8-d8b6-4931-884c-8d891d94488f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Input fra Bystrategisk Råd",
+          "Id": "a459c403-1418-48cc-8121-a066f1213fc2"
+        }
+      ],
+      "Documents": null,
+      "Id": "c5149cf9-d108-48a9-aed2-0a39ab22b0c4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-006479",
+      "SourceId": null,
+      "Caption": "Forslag til Planstrategi 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget udskyder sagen til behandling på ekstraordinært udvalgsmøde den 23. august 2023 kl. 15.30.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Forslag til Tillæg nr. 1 til Lokalplan nr. 12.50 har været i fire ugers\noffentlig høring. I sagen fremlægges de høringssvar, der er kommet i\nforbindelse med høringsperioden, og der redegøres for, hvorvidt de har givet\nanledning til ændring af tillægget. Med endelig vedtagelse af tillægget vil\netageantallet blive nedsat i størstedelen af området langs Strandvejen.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Tillæg nr. 1 til Lokalplan nr. 12.50 for\nstrandvejsområdet vedtages endeligt, med de foreslået justeringer (jf. bilag 3).  </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Plan- og Tryghedsudvalget besluttede den 23. maj 2023 (pkt. 3) at sende forslag til\nTillæg nr. 1 til Lokalplan nr. 12.50 i fire ugers offentlig høring, dvs. fra\nden 30. maj til og med den 2. juli 2023. Af bilag 1 fremgår forslag til lokalplantillægget, der har været i offentlig høring.</p>\n<p>Lokalplantillægget er et tillæg til Lokalplan nr. 12.50 for\nstrandvejsområdet, der blev vedtaget af Byrådet i oktober 2020 (pkt. 5).</p>\n<p>Tillæg til Lokalplan nr. 12.50 bestemmer, at der kun kan bygges én etage med\nudnyttet tagetage (1½ etage) i strandvejsområdet - med undtagelse\naf B1 områderne, hvor der fortsat er mulighed for at bygge i op til tre etager\nuden udnyttet tagetage ved etagebebyggelse. B1-områderne omfatter grunden ved\nkrydset mellem Jerismosevej og Greve Strandvej, \"Bergs Hotel\" samt \"Ræveholmcenteret\". </p>\n<p>Lokalplantillægget omfatter alene delområderne A1, A4, A5 og B i Lokalplan\nnr. 12.50, der ligger langs Strandvejen, da det er her, der har været mulighed for to etager i Lokalplan nr.\n12.50.</p>\n<p><em><strong>Høringssvar</strong> </em></p>\n<p>Der er i høringsperioden kommet 47 høringssvar.</p>\n<p>Generelt er mange borgere tilfredse med, at lokalplantillægget nedsætter\netageantallet i strandvejsområdet til én etage med udnyttet\ntagetage.  </p>\n<p>Nedenfor opsummeres fire væsentlige  synspunkter fra høringssvarene samt\nadministrationens kommentar hertil. Høringssvarene fremgår i deres fulde længde\naf bilag 2 samt opsummeret og kommenteret af bilag 3. </p>\n<ol>\n    <li><em>Præcisering af én etage med udnyttet tagetage. </em>Flere borgere og\n    grundejerforeninger ønsker, at det i lokalplantillægget præciseres, hvad der forstås\n    med én etage med udnyttet tagetage. Flere af høringssvarene peger desuden på, at der\n    ønskes yderligere restriktioner i forhold til tagudformning og andel af vinduer\n    i taget. Administrationen ser ikke grund til at lave yderligere restriktioner for bygningsudformning end dem,\n    Lokalplan nr. 12.50 allerede stiller. Administrationen vurderer, at muligheden\n    for at opsætte kviste, tagvinduer, altaner mv. er tilsvarende nutidens ønsker\n    til en bolig med indretning af en velfungerende tagetage med ordentlig ståhøjde\n    samt lys og luft til de enkelte rum. Administrationen foreslår, at der i\n    lokalplanens redegørelse indsættes et afsnit, der generelt beskriver, hvordan\n    én etage med udnyttet tagetage skal forstås. Dette kan se på s. 1-3 i bilag 3.</li>\n    <li><em>Nedsættelse af etageantallet i B1-områderne. </em>Flere borgere og\n    grundejerforeninger ønsker, at etageantallet nedsættes for de tre B1-områder i\n    Lokalplan nr. 12.50. Flere af høringssvarene foreslår, at etageantallet\n    nedsættes fra tre til to etager. Administrationen bemærker hertil, at der\n    jf. Lokalplan nr. 12.50 ved enfamiliehuse og tæt-lav bebyggelse i B1-områderne\n    kun kan bygges to etager, og at det kun er ved etagebebyggelse, at der kan\n    bygges tre etager. B1-områderne har\n    nogle særlige udviklingspotentialer omfattende ny bebyggelse ved krydset mellem\n    Jerismosevej og Greve Strandvej, der har en central placering samt\n    renovering af Bergs Hotel og Ræveholmcenteret. Administrationen anbefaler, at B1-områderne beholdes.</li>\n    <li><em>Lokalplantillægget kan flade byggeriet i\n    strandvejsområdet ud. </em>En borger (høringssvar 10)\n    skriver, at en nedsættelse af etageantallet uden en nedsættelse af\n    bebyggelsesprocenten potentielt kan flade byggeriet langs Strandvejen ud.\n    Administrationen bemærker, at borgerens antagelse kan være rigtig, men at bebyggelsesprocenten er tilsvarende i A-områderne, der ligger væk fra Strandvejen.</li>\n    <li><em>Mindre attraktivt at have erhverv i\n    strandvejsområdet. </em>Erhvervscenteret Greve (høringssvar 42) vurderer,\n    at lokalplantillægget på grund af nedsættelsen af etagearealet vil medføre, at\n    erhvervsdrivende finder det mindre attraktivt at drive forretning i\n    strandvejsområdet. Administrationen vurderer umiddelbart, at det er rigtig. En nedsættelse af etageantallet, fra to etager til én\n    etage med udnyttet tagetage, kan medføre, at det bliver mindre attraktivt at\n    have erhverv i stueetagen, da boligen på første etage ikke kan have fuld\n    etagehøjde men skrå vægge.  </li>\n</ol>\n<p><em><strong>Sammenskrivning af tillægget og Lokalplan nr. 12.50</strong></em></p>\n<p>Lokalplantillægget ændrer bestemmelse 7.2 i Lokalplan nr. 12.50, da\nadministrationen efter tillæggets vedtagelse vil lave en sammenskrivning af\ntillægget og Lokalplan 12.50. Sammenskrivningen vil alene bestå af en ændring\naf bestemmelse 7.2 samt, at der vil blive tilføjet to sider efter forsiden, hvor\ndet vil fremgå, at den \"oprindelige\" Lokalplan nr. 12.50 er ændret\nefter tillæggets vedtagelse. Den sammenskrevet Lokalplan nr. 12.50 fremgår af\nbilag 4, hvor ændringen kan ses på side 32. Den sammenskrevne lokalplan og\ntillægget vil begge være offentligt tilgængelige, da dette juridisk er nødvendigt.   </p>\n<p>Administrationen har ændret måden, hvorpå lokalplantillægget og Lokalplan nr. 12.50 sammenskrives i forhold det, der blev sendt i offentlig høring se bilag 1 side 15 og bilag 4 side 32. </p>\n<p><span class=\"SpellE\"><em><strong>Bystrategisk</strong></em></span><em><strong> råd</strong></em></p>\n<p>Administrationen har orienteret Bystrategisk Råd om, den ændring administrationen foreslår til lokalplantillægget på baggrund af høringssvarene. Bystrategisk Råd har svaret, at de ikke har nogen bemærkning hertil.</p>\n<h4>Lovgrundlag</h4>\n<p>Planloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Vedtagelsen forventes ikke at have økonomiske konsekvenser for kommunen. </p>\n<h4>Kommunikation</h4>\n<p>Den endelige vedtagne lokalplan annonceres og offentliggøres på kommunens hjemmeside og på Plandata.dk efter Plan- og Tryghedsudvalgets behandling. Yderligere vil de\nborgere, der bor inden for området omfattet af Lokalplan nr. 12.50 få besked\nvia digital post.</p>\n<h4>Tidsplan</h4>\n<p>Efter annoncering og offentliggørelse af den endelige lokalplan er der fire ugers klagefrist til Planklagenævnet.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3d0ab07d-3068-4763-b893-640617420527",
+          "DocumentId": "3d0ab07d-3068-4763-b893-640617420527"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-007116",
+      "Navn": "Tillæg nr. 1 til Lokalplan nr. 12.50 for Strandvejsområdet, endelig vedtagelse",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Forslag til Tillæg nr. 1 til Lokalplan nr. 12.50 for strandvejsområder der har været i offentlig høring",
+          "Id": "73fe4cca-665e-49ca-9670-59df692ceaaf"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Høringssvar i fuld længde",
+          "Id": "0d1dd5bb-37d6-432e-bd54-a6a440f72af5"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 – Indsigelser, bemærkninger og ændringsforslag",
+          "Id": "04171674-12b5-486f-a9c1-3c6f3dc6cc2e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - Ændret Lokalplan nr. 12.50 for strandvejsområdet",
+          "Id": "447aadc9-d6e9-4828-ba7e-fff0633b0028"
+        }
+      ],
+      "Documents": null,
+      "Id": "fe15171e-fd2b-4793-9065-e8f16dc65654",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-007116",
+      "SourceId": null,
+      "Caption": "Tillæg nr. 1 til Lokalplan nr. 12.50 for Strandvejsområdet, endelig vedtagelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt, idet udvalget takker for høringssvarene.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Forslag til Lokalplan nr. 15.25 - Tune Vandværk, Nørregade 41 i Tune har\nværet i otte ugers offentlig høring. I sagen fremlægges de høringssvar, der er\nkommet i forbindelse med høringsperioden, og der redegøres for, hvorvidt de har\ngivet anledning til ændring af <span class=\"SpellE\">lokalplanforslaget</span>.\nMed endelig vedtagelse af <span class=\"SpellE\">lokalplanforslaget</span> kan Tune\nVandværk bygge en ny vandværksbygning og dermed udvide kapaciteten i forhold\ntil at kunne levere vand til kommunens borgere. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at forslag til Lokalplan nr. 15.25 for Tune\nVandværk, Nørregade 41 i Tune vedtages endeligt med de foreslåede justeringer.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Plan- og Tryghedsudvalget besluttede den 14. marts 2023 (pkt. 9) at sende\nforslag til Lokalplan nr. 15.25 i otte ugers offentlig høring. Forslaget (jf.\nbilag 1) har været i høring fra den 25. april til og med den 20. juni 2023.</p>\n<p><span class=\"SpellE\">Lokalplanforslaget</span> muliggør opførelse af en\ntilbygning, som imødekommer den nødvendige udvidelse af Tune Vandværk A.m.b.a.</p>\n<p><strong><em>De væsentligste forhold i <span class=\"SpellE\">lokalplanforslaget</span></em></strong></p>\n<p>Administrationen har nedenfor fremhævet nogle af de væsentligste forhold,\nsom <span class=\"SpellE\">lokalplanforslaget</span> regulerer. Lokalplansforslaget\nsikrer bl.a.:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Mulighed for en udvidelse af det eksisterende vandværk\n    fra nu 351 m² til samlet maks. 920 m².</li>\n    <li>Opførelse af byggeri i maks. en etage og i en højde af\n    maks. syv meter.</li>\n    <li>Indpasning af den nye tilbygning til de eksisterende\n    bygninger, som skal skabe åbenhed og indsyn til de nye vandtanke fra\n    Tunehøj/Nørregade.</li>\n    <li>Overvejende brug af røde blødstrøgne eller kulbrændte\n    mursten til facader på den nye tilbygning, som også kan genfindes på den\n    eksisterende bygning.</li>\n    <li>Min. 60 % af den samlede facade mod nord (Tunehøj) skal\n    udgøres af sammenhængende glaspartier, der skal give indblik til\n    bygningens nye vandtanke. </li>\n    <li>I øst-gavlen mod Nørregade skal der etableres et\n    sammenhængende glasparti på min. 3,6 x 3,6 meter af hensyn til indblikket\n    til bygningens vandtanke.</li>\n    <li>Taget på den nye tilbygning kan etableres med tagpap,\n    halvmatte vingetegl, skifer og/eller som \"grønt tag\". </li>\n    <li>På tagfladen gives der mulighed for at etablere\n    solenergianlæg.</li>\n</ul>\n<p><strong><em>Høringssvar</em></strong></p>\n<p>I høringsperioden er der indkommet et enkelt høringssvar fra <span class=\"SpellE\">Niras</span> A/S på vegne af Tune Vandværk (jf. bilag 2). Alle\nbemærkninger i høringssvaret og behandlingen fremgår af høringsskemaet (jf.\nbilag 3).</p>\n<p>Nedenfor følger de væsentligste bemærkninger fra Tune Vandværk.</p>\n<p>Tune Vandværk anmoder om, at delområde 1 (byggefeltet) udvides med 50 % for\nat skabe mere fleksibilitet i forhold til placering af den nye\nvandværksbygning. Administrationen indstiller en udvidelse på maks. 20 % (jf.\nbilag 4), da det er administrationens vurdering, at en udvidelse af den\nstørrelsesorden ikke udløser en ny offentlig høring af <span class=\"SpellE\">lokalplanforslaget</span>.\nTune Vandværk er indforstået med administrationens forslag.</p>\n<p>Foranlediget af ovenstående bemærkning har Tune Vandværk også anmodet om, at\netagearealet i delområde 1 opjusteres fra 512 m² til 569 m². Dette anbefaler\nadministrationen imødekommet. Samlet for hele lokalplanområdet er etagearealet\nstadig på maks. 920 m².</p>\n<p>I <span class=\"SpellE\">lokalplanforslaget</span> er der indsat bestemmelse om,\nat i facaden mod nord skal min. 60 % af den samlede facade udgøres af\nsammenhængende glaspartier, der skal give indblik til bygningens nye vandtanke.\nSamtidig er der indsat en bestemmelse om, at der i øst-gavlen mod Nørregade\nskal placeres et sammenhængende glasparti på min. 3,6 x 3,6 meter - af hensyn\ntil indblikket og proportionerne på glaspartierne. Tune Vandværk anmoder om, at\nder ikke fastsættes et min. %-andel af glas eller min. glasparti størrelse.\nAdministrationen indstiller, at bestemmelserne nedjusteres til henholdsvis 50 %\nog 3,0 x 3,0 meter. Det er administrationen vurdering, at nedjusteringen ikke\ngår ud over indblikket og helhedsindtrykket af den nye bygning. Tune Vandværk\ner indforstået med administrationens foreslåede ændringer.</p>\n<p>Tune Vandværk anmoder om mulighed for placering af et samlet solcelleanlæg\nmed en anden taghældning end selve taget. Ønsket er vurderet i forhold til\nretningslinjerne i kommuneplanen. </p>\n<p><em>Retningslinje 5.3.4: I byzone kan solenergianlæg etableres på\nbygningers klimaskærm fx på tag. Solenergianlæg skal følge taghældningen eller\nfacadens udformning. Der skal foretages en vurdering af genevirkninger, herunder\nrefleksioner, indsigt. </em></p>\n<p>Det vurderes, at ovenstående arkitektoniske løsning er i overensstemmelse\nmed kommuneplanens retningslinje 5.3.4, da der indbygges en kileformet svagt\nhældende metalramme om solcellefladen på vandværkets hovedtagflade. Løsningen\ner illustreret på bilag 5.</p>\n<p>Metalrammen ligger et stykke inde på taget, og der vil derfor ikke være\nindblik hverken til rammen eller ind under solcellerne fra Tunehøj og\nNørregade. </p>\n<p>Administrationen indstiller, at der kan placeres et solenergianlæg som\nønsket. </p>\n<h4>Lovgrundlag</h4>\n<p>Planlovens kapitel 5 om lokalplanlægning.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der foreligger en underskrevet betinget købsaftale mellem Greve Kommune og\nTune Vandværk A.m.b.a. (jf. sag på Byrådet den 3. oktober 2022 pkt. 5).\nSalgsarealet indgår i lokalplanområdet, og handlen er betinget af, at der\nvedtages det nødvendige plangrundlag.</p>\n<h4>Kommunikation</h4>\n<p>Den endelige vedtagne lokalplan annonceres og offentliggøres på kommunens\nhjemmeside og på Plandata.dk efter Plan- og Tryghedsudvalgets behandling.</p>\n<p><strong>Tidsplan</strong></p>\n<p>Efter annoncering og offentliggørelse af den endelige lokalplan er der fire\nugers klagefrist til Planklagenævnet.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0e3c29e0-e3a9-4f65-ba2e-4e71d80ffa71",
+          "DocumentId": "0e3c29e0-e3a9-4f65-ba2e-4e71d80ffa71"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-004901",
+      "Navn": "Lokalplan nr. 15.25 - Tune Vandværk, Nørregade 41 i Tune, endelig vedtagelse",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Forslag til lokalplanplan 15.25 - Tune Vandværk, Nørregade 41 i Tune  (som har været i høring)",
+          "Id": "837aa32f-8365-4923-8a71-67d5830d4ca4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Høringssvar fra Niras på vegne af Tune Vandværk",
+          "Id": "c1785e1a-10ad-45f7-819f-8dddc1c5d167"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3- Høringsskema- behandling af høringssvar 14072023",
+          "Id": "99bd25e1-0ea1-46f8-971f-2b654f0884d6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - Rettet kortbilag 2 (udvidet delområde 1 til nye byggeri)",
+          "Id": "56c9d9e6-563c-4452-af00-2e1cf9ae928e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5 - Rettet kortbilag 4B (solceller placering)",
+          "Id": "a34ab9d2-bbe0-4808-a645-e4ab5a7b5c9a"
+        }
+      ],
+      "Documents": null,
+      "Id": "348310f5-9054-43db-bf2d-38a3dc0e90b8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "23-004901",
+      "SourceId": null,
+      "Caption": "Lokalplan nr. 15.25 - Tune Vandværk, Nørregade 41 i Tune, endelig vedtagelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1.-2. ikke godkendt.</p>\n<p>Udvalget beslutter at medfinansiering tages fra udvalgets egen ramme, og at pengene bevilliges til Tune Lokalråd og Tune Centerforening. Udvalget ønsker en sag om, hvordan pengene er anvendt.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4><strong>Sagsprocedure</strong></h4>\n<p>Plan-\nog Tryghedsudvalget </p>\n<h4>Resume </h4>\n<p>Greve\nKommune har fået tildelt midler fra \"D<em>en statslige udgiftsramme til\nfornyelse af <span class=\"SpellE\">bymidter</span></em>\" til en opgradering af\nTune Bymidte. Tildelingen af midlerne forudsætter en egenfinansiering. I lyset\naf den økonomiske situation anbefaler administrationen, at udvalget ikke tager\nimod de tildelte midler, på 39 t kr., men tilbyder dem til en nabokommune. </p>\n<h4>Indstilling </h4>\n<p><em>Administrationen indstiller, at Plan- og Tryghedsudvalget beslutter</em></p>\n<p><em>1) at kommunen ikke tager imod de tildelte midler på 38.944 kr. fra den\nstatslige ramme til fornyelse af <span class=\"SpellE\">bymidter</span>. </em></p>\n<p><em>2) at kommunen i stedet tilbyder beløbet til Roskilde og Høje-Tåstrup\nkommuner til deling.</em></p>\n<h4>Sagsbeskrivelse </h4>\n<p>Som en del af finansloven 2022 blev der bevilliget 24,2 mio. kroner til\nfornyelse af mellemstore <span class=\"SpellE\">bymidter</span> i Danmark. Midlerne\nkan tildeles kommuner med byer med mellem 4.000 og 20.000 indbyggere samt fire\nø-kommuner. Den enkelte kommune får andel i den samlede udgiftsramme via\nen objektiv fordelingsnøgle udarbejdet af den tidligere Bolig- og\nPlanstyrelse. </p>\n<p>Bevillingen kan bruges til områdefornyelse, bygningsfornyelse af private\nudlejningsboliger, bygningsfornyelse af ejerboliger og andelsboliger,\nbygningsfornyelse af erhverv (herunder nedrivning af erhvervsbygninger), opkøb\naf nedslidte ejendomme med henblik på istandsættelse eller nedrivning,\nforbedring af friarealer, midlertidig og permanent genhusning samt\nkondemnering af sundheds- og brandfarlige boliger. </p>\n<p>På Plan- og Tryghedsudvalgets møde den 13. september 2022 (pkt. 8)\norienterede administrationen udvalget om, at kommunen ville søge om at få del i\nudgiftsrammen. Greve Kommune har efterfølgende fået tilsagn om tildeling af 39\nt kr.  </p>\n<p>Tildelingen af midlerne kræver egenfinansiering på minimum 40 % (jf. bilag\n2). Det vil sige, at Greve Kommune minimum skal finansiere 25.963 kr., hvilket vil\ngive samlet beløb på 64.907 kr. til fornyelse af Tune bymidte.  </p>\n<p>Administrationen indstiller, at udvalget ikke tager imod midlerne, da\nkommunens drift- og anlægsmidler i forvejen er pressede, og der ikke er nogle\naktuelle projekter i støbeskeen i Tune i den beløbsstørrelse, der går ind under\nbyfornyelsesrammen. Administrationen skal herefter lave en aftale med en anden\nberettiget kommune om, at de kan få midlerne i samarbejde med styrelsen (jf.\nbilag 1).</p>\n<p>Administrationen anbefaler, at Greve Kommune indgår en aftale med\nHøje-Taastrup og Roskilde kommuner om at overføre midlerne til dem ligeligt.</p>\n<p>Af samme årsager som ovenstående har administrationen vurderet, at det ikke\nvar hensigtsmæssigt at søge om del i den statslige udgiftsramme til fornyelse\naf <span class=\"SpellE\">bymidter</span> i 2023. Fristen var den 15. maj\n2023. </p>\n<h4>Lovgrundlag </h4>\n<p>Finansloven\n2022  </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Hvis\nudvalget vælger at modtage midlerne, vil det kræve, at kommunen finder minimum\n25.963 kr. på budgettet. Hvis udvalget ikke tager imod midlerne, har det\ningen økonomiske konsekvenser.  </p>\n<h4>Tidsplan </h4>\n<p>Greve\nKommune kan til og med fredag den 1. november 2024 indberette positivt tilsagn\npå grundlag af den tildelte statslige udgiftsramme til fornyelse af <span class=\"SpellE\">bymidter</span> for 2022.  </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/40c62241-2fa7-4176-9254-65096df2361b",
+          "DocumentId": "40c62241-2fa7-4176-9254-65096df2361b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-012399",
+      "Navn": "Beslutning om tildeling af midler til Tune Bymidte",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Bymidter 2022",
+          "Id": "1bd285ae-7097-4647-9307-c6933623db9e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Udmelding Bymidter 2022",
+          "Id": "c0c92cd2-1be8-4ed0-a0f4-17f4bc9c7738"
+        }
+      ],
+      "Documents": null,
+      "Id": "03c761ab-7ad1-4342-8efe-5ec37191263d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "22-012399",
+      "SourceId": null,
+      "Caption": "Beslutning om tildeling af midler til Tune Bymidte",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Sagen sendes tilbage til administrationen for at undersøge, hvad nabo-bebyggelsen har af adresser, og for at få uddybet muligheden for at vejen kan hedde Skovbo Alle.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4>Sagsprocedure</h4>\n</div>\n<p>Plan- og Tryghedsudvalget</p>\n<h4>Resume</h4>\n<p>I forbindelse med udstykning af arealer til opførelse af boliger i Tværhøjgård\netape tre, skal der tildeles et nyt vejnavn, som adgangsveje til den nye\nbebyggelse. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget vælger et vejnavn, som\nforeslået på Facebook og/eller af Greve Museum og ejendomsselskabet.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Plan- og Tryghedsudvalget skal i forbindelse med udstykning af\narealer til opførelse af boliger i Tværhøjgård etape tre, tildele et nyt vejnavn,\nsom adgangsveje for ny bebyggelse( jf. bilag 1a og bilag 1b).</p>\n<p>Administrationen har derfor undersøgt områdets tidligere\ngårdnavne via ældre matrikelkort og Historisk Atlas, da denne etape ligger\ntættest på den gamle Tværhøjgård.</p>\n<p>Administrationen har indhentet forslag fra Greve Museum og bygherre.\nForslagene er blevet delt med Greve borgere til afstemning og nedenstående\nviser, hvor mange stemmer de enkelte vejnavne har fået. </p>\n<p>Greve Museum og bygherre foreslår følgende mulige vejnavne:</p>\n<p>Tværhøjgårdsvej - 2 stemmer</p>\n<p>Tværhøjgårdsminde - 0 stemmer</p>\n<p>Tværhøjen - 36 stemmer</p>\n<p>Olsbæk vej - 0 stemmer</p>\n<p>Olsbæk Alle - 0 stemmer</p>\n<p>Greve Museum forslår, at vejen kommer til at hedde noget med Tværhøjgård. Fx\nTværhøjgårdsvej eller Tværhøjgårdsminde, da denne etape ligger tættest på den\ngamle Tværhøjgård. </p>\n<p>På baggrund af Facebookopslaget er der kommet flere vejnavneforslag (jf. bilag 2).</p>\n<p>Skovbo Alle - 30 stemmer</p>\n<p>Skovbovej - 3 stemmer</p>\n<p>Tværhøjsminde - 3 stemmer</p>\n<p>Den nye private fællesvej får udkørsel til den eksisterende ”Skovbo Alle” og\nligger et stykke fra etape et, som har adresse Skovbo Alle. Styrelsen for\nDataforsyning og Infrastruktur anbefaler ikke, at gå videre med vejnavnet\nSkovbo Alle, da det vurderes at ville skabe \"vej-navne-forvirring\" i\nområdet.</p>\n<p>Vejnavnet Skovbovej er i området i forvejen og etapen ligger tættest på den\ngamle Tværhøjgård, som nævnt af Greve Museum.</p>\n<p>Udvalget kan vælge andre navne, end de foreslåede.</p>\n<p>Inden endelig effektuering skal navnene reserveres og retskrivningsgodkendes\ni styrelsen for Dataforsyning og Infrastruktur. De ovenstående forslag er alle\nreserveret og retskrivningsgodkendt. Overblik kan ses (jf. bilag 3).</p>\n<h4>Lovgrundlag</h4>\n<p>Bekendtgørelse nr. 271 om vejnavne og adresser.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er ingen økonomiske konsekvenser for Greve Kommune. </p>\n<h4>Kommunikation</h4>\n<p>De foreslåede adresser er retskrivningsgodkendt i styrelse for dataforsyning\nog effektivisering (jf. bilag 3). </p>\n<p>Greve Museum og bygherrer er blevet hørt, og forslagene er blevet afstemt af\nGreve borgere på Facebook. </p>\n<p> </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/aa249edf-88ae-43b3-8fb2-d645f5856c29",
+          "DocumentId": "aa249edf-88ae-43b3-8fb2-d645f5856c29"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-006466",
+      "Navn": "Vejnavn -Tværhøjgård etape 3",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1a-kortbilag",
+          "Id": "8eb22336-0826-4952-90d0-5163901607f9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1b-Kortbilag",
+          "Id": "902db7fb-cd03-4bc1-9e3d-bf1a4811de7d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2- Facebook opslag resultater",
+          "Id": "bbeb2eeb-c58a-407a-805a-a0fb1d45c229"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3-Skema med overblik",
+          "Id": "97ddc980-dc85-428c-9a1c-eb4aca94a2b6"
+        }
+      ],
+      "Documents": null,
+      "Id": "158ef00c-fca6-486a-9858-c2264dc73b29",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "23-006466",
+      "SourceId": null,
+      "Caption": "Vejnavn -Tværhøjgård etape 3",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget beslutter vejnavnet Vandvejen.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget. </p>\n<h4>Resume</h4>\n<p>Lokalplan 14.58 er en ny lokalplan, der giver mulighed for at bygge et nyt\nvandværk. I den forbindelse etableres en ny vej, der fører til vandværket, og\ndenne vej skal tildeles et nyt vejnavn.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget vælger et vejnavn som foreslået\npå Facebook og/eller af Greve Museum og bestyrelsen af vandværket. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Lokalplan 14.58 er en ny lokalplan, der giver mulighed for at bygge et nyt\nvandværk. I den forbindelse skal der tildeles et vejnavn, til den nye vej, der\nfører til vandværket (markeret med rød på bilag 1a). Der har været et opslag på\nFacebook om afstemning af mulige navne (jf. bilag 2). Udvalget bedes beslutte\nhvilket vejnavn (fra fx forslag efter Facebook afstemning, Greve Vandværks\nbestyrelse og Greve Museum), der skal godkendes. </p>\n<p>Facebook afstemning:</p>\n<p>1. Vandvejen (Greve vandværk bestyrelse) - 59 stemmer</p>\n<p>2. Kilden (Greve Vandværk bestyrelse) - 16 stemmer</p>\n<p>3. Kirkemosevej (Greve Museum) - 21 stemmer</p>\n<p>Greve Vandværks bestyrelse foretrækker navnet Vandvejen i sammenhæng med det\nnye Vandværks navn H<sub>2</sub>O Fabrikken.</p>\n<p>Det bliver muligt at gå tur i området omkring det nye vandværk, hvor man vil\nkunne kigge ind <span class=\"GramE\">af</span> vinduerne samt læse og se\ninformationer om vand og vandets vej. Der vil desuden være mulighed for\nrundvisninger på vandværket. Bestyrelsen mener derfor, at det giver mening, at\nvejnavnet støtter op om at integrere det nye vandværk i lokalområdet, som et\nrekreativt område og et åbent teknisk anlæg med læringsformål. </p>\n<p>Greve Museum forslog Kirkemosevej, da Kirkemosegaard er det historisk\nrelevante kendetegn i området. </p>\n<p>På baggrund af Facebookopslaget er der kommet flere vejnavneforslag.\nAdministrationen har udvalgt de forslag med flest stemmer og resterende fremgår (jf. bilag 2). </p>\n<p>Greve Vandvej - 2 stemmer</p>\n<p>Kildevej - 5 stemmer</p>\n<p>Vandvej - 3 stemmer</p>\n<p>H2O - 3 stemmer</p>\n<p>Kildevej benyttes allerede i Solrød Kommune og derfor ikke muligt at\nbenytte. </p>\n<p>Udvalget kan vælge andre navne, end de foreslåede.</p>\n<p>Inden endelig effektuering skal navnene reserveres og retskrivningsgodkendes\ni styrelsen for Dataforsyning og effektivisering. De ovenstående forslag er\nalle reserveret og retskrivningsgodkendt dog ikke H2O og Kildevej. </p>\n<h4>Lovgrundlag</h4>\n<p>Bekendtgørelse nr. 271 om vejnavne og adresser.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er ingen økonomiske konsekvenser for Greve Kommune. </p>\n<h4>Kommunikation</h4>\n<p>De foreslåede adresser er retskrivnings godkendt i styrelse for\ndataforsyning og effektivisering. </p>\n<p>Greve Museum og bygherrer er blevet hørt, og forslagene har været med i en\nafstemning blandt borgere på Facebook. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4d27bfa3-e7c4-4be2-9e86-25658077e49f",
+          "DocumentId": "4d27bfa3-e7c4-4be2-9e86-25658077e49f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-006464",
+      "Navn": "Vejnavn - Nyt Greve Vandværk",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Kortbilag",
+          "Id": "63c74030-dfcf-42cd-b791-094079e3927a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2- Resultater fra Facebook opslag",
+          "Id": "18f08428-a351-43e5-8c2c-dec575032fb3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3-Oversigt over de mest valgte navne",
+          "Id": "bd9dd1ae-bace-4357-a349-6f420b2ebf15"
+        }
+      ],
+      "Documents": null,
+      "Id": "87f25388-0e59-4ef8-9193-eea39ed9bcf0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "23-006464",
+      "SourceId": null,
+      "Caption": "Vejnavn - Nyt Greve Vandværk",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget</p>\n<h4>Resume</h4>\n<p>Roskilde Kommune har anmodet Greve Kommune om fuldmagt til at navngive et mindre stykke vej beliggende i Greve Kommune, som er en del af en større vej beliggende inden for Roskilde Lufthavns område.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Greve Kommune giver fuldmagt til, at Roskilde Kommune kan navngive Greve Kommunes andel af en vej beliggende inden for Roskilde Lufthavns område. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Roskilde Kommune har henvendt til Greve Kommune med en anmodning om at få fuldmagt til at navngive et mindre stykke af en \"intern vej\" inden for Roskilde Lufthavns område, som går gennem matrikel 103a, Tune By, Tune i Greve Kommune. Vejen på Roskilde Lufthavns område ønsket navngivet \"Turbinevej\" - inkl. det stykke (midt på vejen), som går gennem Greve Kommune. </p>\n<p>Grunden er ejet af Københavns Lufthavne A/S, der også ejer og driver Roskilde Lufthavn. Vejstykket, der går gennem Greve Kommune er beliggende inden for det hegn, som omgiver Roskilde Lufthavn. Der er derfor ingen til- eller frakørsel fra vejstykket til andre veje i Greve Kommune, jf. vedlagte kortbilag.</p>\n<h4>Lovgrundlag</h4>\n<p>Vejnavne fastsættes af kommunalbestyrelsen efter de regler, som findes i Adresselovens § 3 og 4 samt Adressebekendtgørelsen §§ 3-10 samt § 28, stk. 3 og § 29, stk. 3</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5091d60e-bfb2-4da2-9312-c52476e245b5",
+          "DocumentId": "5091d60e-bfb2-4da2-9312-c52476e245b5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-007683",
+      "Navn": "Fuldmagt til vejnavn - Roskilde Lufthavn",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Vejnavn Roskilde Lufthavn",
+          "Id": "ac5c9d47-4017-443a-b4d0-61c41403432e"
+        }
+      ],
+      "Documents": null,
+      "Id": "4f297a3f-e4de-4cc8-933d-13be34968c20",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "23-007683",
+      "SourceId": null,
+      "Caption": "Fuldmagt til vejnavn - Roskilde Lufthavn",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Taget til efterretning. </p>\n<p>Udvalget ønsker en sag der belyser, hvordan arbejdet med tryghed i Greve Nord kan fokuseres. </p>\n<p>Udvalget ønsker derudover, at det belyses, hvilke indsatser der bortfalder som følge af udløbet af den boligsociale helhedsplan, samt hvilke indsatser der kan fortsættes som en del af den daglige kommunale opgaveløsning uden yderligere puljefinansiering.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, Klima-, Teknik- og Miljøudvalget, Kultur- og Fritidsudvalget, Skole-, Børne- og Ungeudvalget, Social- og Handicapudvalget, Beskæftigelses- og Erhvervsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>I denne sag orienteres der om status medio 2023 på handlingsplanens indsatser i programmet Tryghed i Greve Nord.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller overfor Plan- og Tryghedsudvalget, Klima-, Teknik- og Miljøudvalget, Kultur- og Fritidsudvalget, Skole-, Børne- og Ungeudvalget, Social- og Handicapudvalget og Beskæftigelses- og Erhvervsudvalget, at status på indsatser i forbindelse med Tryghed i Greve Nord - første halvår af 2023 - tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 12. december 2022 fik Byrådet en orientering om status på de 11 oprindelige indsatser der tilsammen arbejder for et trygt Greve Nord. I forbindelse med denne status blev de 11 indsatser samlet til fremadrettet ni indsatser. De ni indsatser er:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Tættere kobling mellem skole og fritidsliv (Indsats to)</li>\n    <li>Koordineret familierettet indsats til de mest udsatte familier (Indsats fire)</li>\n    <li>Kommunikationsindsats der arbejder med fortællingerne (Indsats fem)</li>\n    <li>Fysisk indretning (Indsats seks)</li>\n    <li>Erhvervsuddannelser (Indsats syv)</li>\n    <li>Beboersammensætning (Indsats otte)</li>\n    <li>Tryghedskampagne (Indsats ni)</li>\n    <li>Vagter (Indsats ti)</li>\n    <li>Overvågning (Indsats 11) </li>\n</ul>\n<p>De besluttede indsatser fordeler sig mellem nye tiltag, og eksisterende tiltag som administrationen allerede har iværksat.</p>\n<p>I det følgende orienteres udvalg og Byråd om status på arbejdet med indsatserne i første halvår af 2023.  </p>\n<p><em><b>Tættere kobling mellem skole og fritidsliv, i<em><b>ndsats nr. to</b></em></b></em></p>\n<p><em>Status</em></p>\n<p>Idræts- og FritidsSekretariatet har de forgangne to år arbejdet for at give flere børn og unge i Greve Nord et aktivt fritidsliv gennem projektet ”Træd ind i fællesskabet”. Indsatsen er nu slut, idet fondsmidlerne fra Trygfonden udløb den 1. august 2023. Vejledning til familier, herunder fritidsvejledning til børn og unge i Greve Nord, betragtes efter to års projektforløb som en driftsopgave hos fondene. Det er derfor ikke lykkes at hente nye fondsmidler til at bevare indsatsen, hvorfor den ikke længere varetages i det omfang, som projektet tillod. </p>\n<p>Fra august 2021 til august 2023 har 175 børn fået vejledning, hvoraf 83 børn er startet til en ny aktivitet, og for mere end 100 børn har økonomisk støtte fra BROEN Greve været en forudsætning for deres deltagelse i en fritidsaktivitet. </p>\n<p>Dertil har projektet bidraget til en lang række aktiviteter for børn og unge i samarbejde med foreninger i den nordlige del af Greve samt med helhedsplanen i Greve Nord, ligesom projektet har gjort det muligt at afvikle foreningsaktiviteter på tværs af fire skoler. I projektperioden har 190 elever fra hhv. Krogårdskolen, Hundige Lilleskole, Greve Privatskolen og Arenaskolen mødt hinanden for at prøve kræfter med fritidsaktiviteter på tværs. </p>\n<p>Ved projektets afslutning er alle involverede foreninger, kommunale institutioner og afdelinger blevet informeret om den fremadrettede situation. Vejledningen er forsøgt lagt ud til foreninger og fagpersoner i Greve Kommune, som i forbindelse med deres kerneopgave møder familierne, børnene og de unge. Håbet er, at foreningerne og medarbejderne i de kommunale institutioner, skoler og øvrige relevante afdelinger kan vejlede, henvise og ansøge om kontingentstøtte fra BROEN Greve til de børn og unge, som har behov. Udliciteringen af opgaven sker velvidende at praksiserfaring på området har vist, at den håndholdte og vedvarende vejledning og kontakt til ubemidlede familier har stor betydning for, om børn og unge har et aktivt fritidsliv. På baggrund af projektets forløb og erfaringer, er det Idræts- og Fritids Sekretariatets faglige vurdering, at koblingen mellem skole og fritidslivet i den nordlige del af Greve Kommune ikke kan vedligeholdes eller udbygges under de nuværende ressourcer og økonomiske vilkår.</p>\n<p><em><b>Koordineret familierettet indsats til de mest udsatte familier, i<em><b>ndsats nr. fire</b></em></b></em></p>\n<p><em>Status</em></p>\n<p>Den 15. november 2022 godkendte Byrådet handlingsplanen for Tryghed i Greve Nord. I denne handlingsplan er et af tiltagene \" Koordineret familierettet indsats til de mest udsatte familier\". </p>\n<p>På familieområdet er der peget på at etablere individbaserede støttefunktioner for de mest udsatte familier. Der er stærke indikatorer på, at mistrivsel hos børn og unge har en sammenhæng med brugen af rusmidler, risikoadfærd og kriminalitet. Det peger på et behov for en mere koordineret og familierettet indsats, og dermed en bredere koordineret kommunal indsats for de familier hvor børn og unge i familierne udviser en tydelig risiko-adfærd i gadebilledet. </p>\n<p>Af handlingsplanen fremgår det, at det skal undersøges, hvad der skal til for at hjælpe de mest udsatte familier. I et samarbejde mellem børne- og voksen-området, beskæftigelsesområdet og den boligsociale helhedsplan i Greve Nord, er det afdækket, om der kunne gøres mere inden for lovgivningens rammer og de økonomiske muligheder, for de mest udsatte familier.</p>\n<p>Det kan konstateres, at alle de mest udsatte familier har modtaget indsatser i form af støtte efter Serviceloven, støtte til at komme i beskæftigelse efter Lov om aktiv beskæftigelsesindsats, eller støtte til misbrugsbehandling. Det vurderes derfor, at der for de mest udsatte familier allerede er tilbudt individrettede indsatser indenfor lovgivningens og Greve Kommunes økonomiske rammer.</p>\n<p>Det skal her tages i betragtning, at Greve Kommune ikke har forpligtigelser for personer, der ikke er bosiddende i Greve Kommune. Ligeledes har Greve Kommune ikke forpligtigelse overfor borgere, der er førtidspensionister, og som alene modtager ydelser fra Udbetaling Danmark. Der er derfor ikke en lovgivningsmæssig og et økonomisk grundlag for en indsats overfor disse borgergrupper. </p>\n<p>En intensiveret indsats for de mest udsatte familier vil være mulig, men vil kræve en økonomisk ramme, som ikke er afdækket. </p>\n<p>Fremadrettet vil administrationen fortsat sikre den tværgående indsats, når der afdækkes behov for familierettede indsatser bl.a. via den boligsociale helhedsplan, og vende tilbage til udvalget, hvis nye muligheder viser sig.   </p>\n<p><em><b>Kommunikationsindsats der arbejder med fortællingerne, i<em><b>ndsats nr. fem</b></em></b></em></p>\n<p><em>Status</em></p>\n<p>Efter byrådsmødet i juni 2023 blev pressemeddelelsen ”Byråd skærper kampen mod parallelsamfund” afsendt til lokale og nationale medier. Der er efterfølgende registreret omtale hos Radio 4, DRs P4 og P3, Dagbladet Roskilde (Sjællandske Medier), Berlingske og Tv2Kosmopol.</p>\n<p>En nyhed med tilsvarende indhold blev publiceret på Greve Kommunes facebookside, hvilket genererede 83 kommentarer, ni delinger, 252 reaktioner og dermed en rækkevidde på 7211 personer, som fik vist nyheden i deres facebook-feed.</p>\n<p>Hjemmesiden greve.dk/tryghedigrevenord er opdateret med link til pressemeddelelsen, ligesom punktet ”Beboersammensætning” på siden er opdateret. </p>\n<p><em><b>Fysisk indretning, i<em><b>ndsats nr. seks </b></em></b></em></p>\n<p><em>Status</em></p>\n<p>Administrationen fremlægger særskilt sag om forbedringer af tunneller på Klima-, Teknik- og Miljø-udvalgets møde i august 2023.  Der har løbende været dialog med DSB om ønsket om og muligheder for renovering af DSB's arealer i området, herunder sikring af fartdæmpende foranstaltninger ved gangbroen over banen, renovering af selve stationsbygningen mv., men der er endnu ikke opnået konkrete aftaler eller løfter om en opgradering af arealerne. Dialogen med DSB om håndtering af konkrete problemstillinger på Hundige Station fortsætter.</p>\n<p><em><b>Erhvervsuddannelser, i<em><b>ndsats nr. syv</b></em></b></em></p>\n<p><em>Status</em></p>\n<p>Skolerne arbejder som hidtil for, at flere elever motiveres til at vælge en erhvervsuddannelse. </p>\n<p>Der arbejdes på at skabe et fremtidigt samarbejde mellem skoler og virksomheder, der sikrer, at alle elever i kommunen i løbet af deres skolegang møder og arbejder med udfordringer fra en lokal virksomhed.</p>\n<p><em>Kommende skoleår 2023/24</em></p>\n<p>Alle elever på 8. årgang fra folkeskoler i Greve Kommune deltager til april i <em>DM i </em><i>Skills</i>, der er et mesterskab for unge i erhvervsuddannelser og en messe, der præsenterer en lang række fag og erhvervsuddannelser. Mange aktiviteter er særligt målrettet folkeskoleelever i udskolingen. DM i Skills foregår i Roskilde i 2024.</p>\n<p><em><b>Beboersammensætning, i<em><b>ndsats nr. otte</b></em></b></em></p>\n<p><em>Status</em></p>\n<p>Den 1. december 2022 offentliggjorde Regeringen de årlige lister over udsatte boligområder i Danmark. Gersagerparken er på listen over forebyggelsesområder og Askerød er på listen over parallelsamfundsområder.</p>\n<p>På denne baggrund har der i første halvår 2023 pågået politiske drøftelser om forskellige handlemuligheder. Den 19. juni 2023 besluttede Byrådet at indgå aftaler med Greve Boligselskab og Vridsløselille Andelsboligforening om 100 % kommunal boliganvisning i Gersagerparken og Askerød. Formålet er at forbedre beboersammensætningen med henblik på, at Gersagerparken kommer af listen over forebyggelsesområder og Askerød kommer af listen over parallelsamfundsområder.</p>\n<p>Sideløbende hermed foregår en proces om indgåelse af nye aftaler om fleksibel udlejning hvad angår de øvrige boligområder i Greve Kommune. Administrationen forventer at forelægge et oplæg til drøftelse på det fælles styringsdialogmøde i september. Der lægges op til en databaseret tilgang til den fleksible udlejning, som har det overordnede sigte, at opnå en balanceret beboersammensætning i alle de almene boligområder i kommunen.</p>\n<p><em><b>Tryghedskampagne, i<em><b>ndsats nr. ni</b></em></b></em></p>\n<p>Administrationen har undersøgt mulighederne for en tryghedskampagne for borgerne i Greve Nord, der gør det muligt for borgerne anonymt at henvende sig til Greve Kommune med mistanke om:</p>\n<ul style=\"list-style-type: circle;\">\n    <li>          Snyd med sociale ydelser</li>\n    <li>          Social kontrol</li>\n    <li>          Snyd med lejemål</li>\n    <li>          Utrygge steder</li>\n</ul>\n<p>Det skal sagligt begrundes, hvorfor Greve Kommune vælger at iværksætte en kampagne for en begrænset del af Greve Kommune. Hvis der skal gennemføres en Tryghedskampagne er det administrationens vurdering, at der er en risiko for at nogle grupper beboere i Greve Nord kan føle sig udsat for diskrimination. Derfor er det administrationens vurdering at indholdet i en eventuel Tryghedskampagne skal gennemgå en konkret juridisk vurdering når denne er udfærdiget. </p>\n<p><em>Snyd med sociale ydelser</em></p>\n<p>Greve Kommune kan og modtager allerede i dag anonyme henvendelser. En sag om snyd med social ydelser kan startes på baggrund af en anonym anmeldelse. En anonym anmeldelse kan være anledning til, at kommunen iværksætter en undersøgelse af en borger, men den kan ikke i sig selv indgå som et bevis i sagen. Der skal således flere oplysninger til, som ikke er anonyme for at kommunen kan fortage videre handling i sagen.</p>\n<p>Kommunen har pligt til at partshøre en borger, inden kommunen træffer afgørelse i den pågældende borgers sag, hvis der i sagen indgår væsentlige faktiske oplysninger, der taler til ugunst for borgeren, og som borgeren ikke kan antages at være bekendt med. Efter omstændighederne bør en sådan partshøring foregå skriftligt. </p>\n<p><em>Social kontrol</em></p>\n<p>Hvis Greve Kommune modtager oplysninger om social kontrol, skal kommunen reagere på henvendelsen, hvis der er hjemmel. Der vil sandsynligvis ikke være hjemmelsgrundlag i alle sager.</p>\n<p><em>Snyd med lejemål</em></p>\n<p>Der kan alene gives oplysninger videre til et boligselskab, hvis der er hjemmel dertil, eller hvis den pågældende person, hvis oplysninger videregives, har givet sit udtrykkelige samtykke hertil. Greve Kommune vil i de fleste tilfælde ikke kunne foretage en indsats overfor snyd med lejemål, men må henstille til, at boligselskaberne sikrer, at der ikke snydes med lejemålene. </p>\n<p><em>Utrygge steder</em></p>\n<p>En tryghedsvandring gennemført i 2022 afdækkede utrygge steder i Greve Nord, og en sag om forbedring af tunneller behandles af Klima-, Teknik- og Miljøudvalgets møde i august 2023.</p>\n<p><em><b>Vagter, i<em><b>ndsats nr. ti </b></em></b></em></p>\n<p>Med virkning fra 15.juni 2023 vedtog Folketinget den 1. juni lov om vagtvirksomhed og kommunale tryghedsvagter. Det betyder, at Byrådet i en treårig periode kan gøre brug af tryghedsvagter, som enten skal være godkendte kommunalt ansatte eller ansatte i autoriserede vagtvirksomheder, som Greve Kommune indgår aftale med. Tryghedsvagter kan udøve vagtvirksomhed på steder, hvortil der er almindelig adgang og vagternes virksomhed sker under kommunens instruktion og ansvar.</p>\n<p>Tryghedsvagternes ansvarsområder kan jf. loven være følgende:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Kan henstille til personer, der forstyrrer den offentlige orden, om at indstille den forstyrrende adfærd</li>\n    <li>Kan foretage foto- og videooptagelse af personer, der befinder sig på offentlige steder, for at dokumentere forstyrrelser af den offentlige orden og lignende og skal på begæring af politiet overdrage sådanne dokumentationsmaterialer til politiet </li>\n    <li>Kan anvende hunde, hvis politiet har givet særlig tilladelse hertil</li>\n</ul>\n<p>Der er ikke afsat midler til vagter i budgettet for 2023. </p>\n<p><em><b>Overvågning, i<em><b>ndsats nr. 11</b></em></b></em></p>\n<p>Plan- og Tryghedsudvalget besluttede i oktober 2022, at udvalget skal forelægges en sag, der belyser kommunens muligheder for tryghedsskabende overvågning. Sagen planlægges forelagt i efteråret 2023.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Der blev med Budget 2021-2024 afsat årligt 800.000 kr. (i 2020-PL). Det svarer til 828.000 kr. i 2023-PL. Ved Budgetopfølgning BO0 blev bevillingen reduceret med 300.000 kr. i 2023.</p>\n<p>I forbindelse med indsats 8 – beboersammensætning godkendte Byrådet udgifter til indkøb og drift af it-system til kommunal boliganvisning samt øgede personaleudgifter. Samlet forventes dette at beløbe sig til 415.000 kr. i 2023. </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Indkøb af it-system og drift i tre måneder i 2023: 290.000 kr. </li>\n    <li>Øgede personaleudgifter i tre måneder i 2023: 125.000 kr.</li>\n</ul>\n<p>Der resterer således 113.000 kr., hvoraf der skal anvendes ca. 28.000 kr. til gennemførelse af tryghedskampagne.</p>\n<p>Udgifterne finansieres af midler fra budgettet til Tryghed i Greve Nord, som dermed tilsvarende reduceres. </p>\n<p>Der udarbejdes en teknisk rettelse til budget 2024-27, hvor der flyttes 600.000 kr. fra Tryghed i Greve Nord budgettet til budgettet for kommunal boliganvisning. De 600.000 kr. skal dække et årsværk i Borgerservice og drift af it-system.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-08-2023 Beskæftigelses- og Erhvervsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p><br>\r\n\r\n<u>14-08-2023 Social- og Handicapudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p><br>\r\n\r\n<u>15-08-2023 Skole-, Børne- og Ungeudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/75300f30-cb02-451f-8bb9-2ee9831857cf",
+          "DocumentId": "75300f30-cb02-451f-8bb9-2ee9831857cf"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-010677K",
+      "Navn": "Tryghed i Greve nord - Halvårsstatus 2023",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fff39ed9-a83f-427d-9bc6-4b82cb9c4630",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "20-010677K",
+      "SourceId": null,
+      "Caption": "Tryghed i Greve nord - Halvårsstatus 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003650",
+      "Navn": "Lukket: Henvendelser til formanden ",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "16e9baad-9ad1-4dbc-8841-7879768a4ce7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "22-003650",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden ",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget. </p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle\nemner. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til\nefterretning.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5d801822-fc9a-46c7-8e67-f9a7e9f96d6b",
+          "DocumentId": "5d801822-fc9a-46c7-8e67-f9a7e9f96d6b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003659",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "0a472d94-a819-4fa8-92a3-a007a393c3b4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "22-003659",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget ønsker en sag på et kommende udvalgsmøde om et nyt medlem til Bystrategisk Råd, idet de tidligere ansøgere genfremlægges.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens\norienteringspunkter. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til\nefterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen orienterer om følgende: </p>\n<p><strong><em>Referat fra seneste møde i Lokalrådet</em></strong></p>\n<p><em>Lokalrådet\nhar holdt møde den 20. april 2023, og referatet kan ses på Greve.dk under <a href=\"https://greve.dk/politik/raad-og-saerlige-udvalg/lokalraadet\">Lokalrådet\n| Greve Kommune</a> og er vedlagt som bilag 1.</em></p>\n<p><strong><em>Udmeldelse af Bystrategisk Råd</em></strong></p>\n<p><em>Jørgen Fuchs har den 26. juni 2023 valgt at melde sig ud af Bystrategisk Råd. Jørgen Fuchs begrunder sin udmelding med, at han finder sig bedre stillet ved at kunne udtrykke sine holdninger om udviklingen af kommunen som borger end som en del af rådet. Administrationen har kvitteret og orienteret de øvrige medlemmer i rådet om Jørgen Fuchs udmeldelse.</em></p>\n<p><strong><em>Henvendelse til Transportministeren og Ministeren for landdistrikter vedr. byudviklingsmulighederne i Tune, motorvejsafkørsler og trafikstøj samt svar.</em></strong></p>\n<p><em>Henvendelse og svar vedlagt som bilag 2 og 3.</em></p>\n<p><strong><em>Orientering om Støjrådets arbejde</em></strong></p>\n<p>Støjrådet har nået langt i arbejdet med et forslag til en ny støjhandleplan for Greve Kommune. Efter en kortlægning af støj fra overordnede veje i kommunen og en række faglige oplæg, er støjrådet nu i gang med at prioritere de handlinger, de ønsker ind i planen.</p>\n<p>Støjrådets arbejde kan følges på kommunens hjemmeside, hvor der løbende bliver lagt referater fra møder og oplæg fra fagpersoner der har været indkaldt på møderne.: https://greve.dk/politik/raad-og-saerlige-udvalg/stoejraadet</p>\n<p>\nDet er planen, at der fremlægges et forslag til en handleplan for Plan- og Tryghedsudvalget i slutningen af 2023.</p>\n<p><em><strong>Henvendelse fra Det Nære Sundhedsvæsen, Region Sjælland vedrørende lokation til omsorgscenter for hjemløse</strong></em></p>\n<p><em>Greve Kommune har modtaget denne henvendelse vedr. lokation til omsorgscenter. Henvendelse vedlagt som bilag 4.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/723c3815-c509-42e4-b31f-4d16ea229e74",
+          "DocumentId": "723c3815-c509-42e4-b31f-4d16ea229e74"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003655",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "13",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Referat af lokalrådsmøde 20. april 2023",
+          "Id": "2603ae1c-a4ba-4125-b873-cd24f4266ff0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Borgmesterbrev til transportministeren og ministeren for landdistrikt vedr. byudviklingsmulighederne i Tune, motorvejsafkørsler og trafikstøj",
+          "Id": "a3fde568-9e3f-41af-954a-237427b6d76c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Svar til Pernille Beckmann vedr. byudviklingsmulighederne i Tune, motorvejsafkørsler og trafikstøj",
+          "Id": "c37ba881-7afb-4e13-92f6-b7580ae976b3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Henvendelse vedrørende lokation til omsorgscenter - brev Greve Kommune",
+          "Id": "dad48701-eae5-467f-9feb-422b13b62907"
+        }
+      ],
+      "Documents": null,
+      "Id": "83faeb51-7958-4159-9fa6-b39966c5ca58",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "22-003655",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget. </p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Plan- og Tryghedsudvalgets møder og møder i\ntilknytning til udvalget. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til\nefterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kalenderen er vedlagt som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f10fc057-ec20-4e60-9702-6fe0b0e49850",
+          "DocumentId": "f10fc057-ec20-4e60-9702-6fe0b0e49850"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003652",
+      "Navn": "Plan- og Tryghedsudvalgets mødekalender 2023",
+      "Punktnummer": "14",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Plan- og Tryghedsudvalgets kalender 2023",
+          "Id": "d73fd9d2-43db-4ea4-8e37-0a1860cf39ea"
+        }
+      ],
+      "Documents": null,
+      "Id": "4e42c63e-6f58-4899-b312-989ebdbdced9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "22-003652",
+      "SourceId": null,
+      "Caption": "Plan- og Tryghedsudvalgets mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/914a0750-0352-405d-adcb-2644798f8919",
+          "DocumentId": "914a0750-0352-405d-adcb-2644798f8919"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003657",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "15",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "faa6663f-ecea-4523-b12b-e4a422adfc4f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "030dfd63-d179-455d-89e9-ea6284ec71db",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "22-003657",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "4177b34e-2db6-4652-a0e0-075bb7a88efa",
+    "Navn": "Plan- og Tryghedsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-08-15T16:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-08-15T16:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Ronni Mark Nielsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "030dfd63-d179-455d-89e9-ea6284ec71db",
+  "Lydfiler": null
+}

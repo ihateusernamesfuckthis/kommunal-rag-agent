@@ -1,0 +1,168 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nGodkendt.</p><br><br>Afbud: Liselott Blixt, Mehmet Zeki Dogru</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/54e6b2c5-4102-45b8-a200-f30a48370ef9",
+          "DocumentId": "54e6b2c5-4102-45b8-a200-f30a48370ef9"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "41b6a9f1-ecf7-45c8-8922-710116355e79",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "f4407d93-1e7c-4ffd-8acd-b7c53a140be8",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>&Oslash;konomiudvalget anbefaler overfor Byr&aring;det, at administrationens indstilling godkendes.<p>Afbud: Liselott Blixt, Mehmet Zeki Dogru<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-003374",
+      "Navn": "Lukket: Salg af Hundige Bygade - Valg af køber",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4e442570-9f17-4e65-83ba-0df584c3193e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "f4407d93-1e7c-4ffd-8acd-b7c53a140be8",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "25-003374",
+      "SourceId": null,
+      "Caption": "Lukket: Salg af Hundige Bygade - Valg af køber",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><br><br>Afbud: Liselott Blixt, Mehmet Zeki Dogru</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><strong>Sagsprocedure</strong></p>\n<p>Økonomiudvalget.</p>\n<p><strong>Resume</strong></p>\n<p>Elektronisk underskriftsblad.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f680e449-f4eb-439f-a135-4b73e48f9dbf",
+          "DocumentId": "f680e449-f4eb-439f-a135-4b73e48f9dbf"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ae5b034c-bc34-4bfa-ade4-bb48a44212b3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "f4407d93-1e7c-4ffd-8acd-b7c53a140be8",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "49a1c3b3-741b-4c22-86a1-f27bf55df8d1",
+    "Navn": "Økonomiudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-06-25T16:15:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-06-25T16:15:00+02:00",
+    "Sted": "Biblioteket EO",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": true,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": true,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Ekstraordinær dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "f4407d93-1e7c-4ffd-8acd-b7c53a140be8",
+  "Lydfiler": null
+}

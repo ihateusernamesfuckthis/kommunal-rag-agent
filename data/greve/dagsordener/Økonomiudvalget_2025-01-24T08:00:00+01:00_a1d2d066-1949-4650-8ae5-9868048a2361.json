@@ -1,0 +1,135 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><strong>Sagsprocedure</strong></p>\n<p>Økonomiudvalget.</p>\n<p><strong>Resume</strong></p>\n<p>Økonomiudvalgets møde flyttes fra den 5. marts 2025, kl. 8:00 til den 10.\nmarts 2025, kl. 16:15. Sagen afgøres ved skriftlig tilkendegivelse. Enighed i\nindstillingen tilkendegives ved underskrivning af underskriftsarket for mødet,\nsenest 24. januar 2025.</p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller, at flytning af økonomiudvalgets møde den 5.\nmarts 2025, kl. 8:00 rykkes til den 10. marts 2025, kl. 16:15</em> <em>godkendes.</em></p>\n<p><strong>Sagsbeskrivelse</strong></p>\n<p>Byrådet besluttede Økonomiudvalgets mødeplan for 2025 på Byrådsmødet den 26.\njuni 2024 (pkt. 15). Herefter er mødeplanen bindende, medmindre der er i\nenighed, træffes beslutning om at flytte et møde.</p>\n<p>Økonomiudvalgets medlemmer har udtrykt ønske om at flytte mødet.\nAdministrationen har derfor foreslået en ny dato og tidspunkt for mødets\nafholdelse, som også sikrer at økonomiudvalgets anbefalinger kan ledsage sager,\nder afgøres af byrådet. </p>\n<p>Da sagen om mødets flytning er ukompliceret, kan den afgøres\nskriftlig. </p>\n<p><strong>Lovgrundlag</strong></p>\n<p>Kommunestyrelseslovens § 20.</p>\n<p><strong>Økonomiske konsekvenser</strong></p>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<p><strong>Høring</strong></p>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9ac0634e-d78c-41a9-aefc-5ccb90385a0d",
+          "DocumentId": "9ac0634e-d78c-41a9-aefc-5ccb90385a0d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-005210",
+      "Navn": "Flytning af ØU-møde marts 2025",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5073921e-7750-4f4c-97a0-a5bdda89e08a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a1d2d066-1949-4650-8ae5-9868048a2361",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "24-005210",
+      "SourceId": null,
+      "Caption": "Flytning af ØU-møde marts 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsblad.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/59f1f580-e68f-452e-aa28-eda70cf10fb5",
+          "DocumentId": "59f1f580-e68f-452e-aa28-eda70cf10fb5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5d48f106-a89d-435c-b30e-91951910e0fa",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a1d2d066-1949-4650-8ae5-9868048a2361",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "49a1c3b3-741b-4c22-86a1-f27bf55df8d1",
+    "Navn": "Økonomiudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-01-24T08:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-01-24T08:00:00+01:00",
+    "Sted": "Skriftligt møde",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "a1d2d066-1949-4650-8ae5-9868048a2361",
+  "Lydfiler": null
+}

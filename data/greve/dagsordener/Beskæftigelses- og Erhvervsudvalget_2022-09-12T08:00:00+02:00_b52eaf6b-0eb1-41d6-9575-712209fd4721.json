@@ -1,0 +1,481 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt.</div> <div> </div> <div>Udvalget blev orienteret om, at Greve Kommune er velfærdskommune i forsøget på beskæftigelsesområdet.</div> <div>Udvalget ønsker en inkluderende proces, hvor både medarbejdere udvalg og andre aktører bliver inddraget.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 15. august 2022. </div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation og Borgerbetjening indstiller, at dagsordenen godkendes. </em></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/239d935e-8ffd-44c3-a194-bb9371af14a4",
+          "DocumentId": "239d935e-8ffd-44c3-a194-bb9371af14a4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014448",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ea871fe3-3210-4397-bd94-0c096f54c033",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014448",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget valgte Simon Østergaard (V) som ny formand.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3><span>Resume</span></h3> <div>Formand for Beskæftigelses- og Erhvervsudvalget Morten Dahlin (V) har den 2. september oplyst over for administrationen, at han med henvisning til varetagelse af andet offentligt hverv ikke længere ønsker at være formand for Beskæftigelses- og Erhvervsudvalget.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation og Borgerbetjening indstiller, at d</em><em>er vælges en ny formand for Beskæftigelses- og Erhvervsudvalget. D<i>et indstilles endvidere, at hvis den nuværende næstformand vælges som ny formand, da vælges en ny næstformand.</i></em></div> <h3><em><strong></strong></em><span><strong>Sagsbeskrivelse</strong></span></h3> <div>Der skal vælges en ny formand for Beskæftigelses- og Erhvervsudvalget da den nuværende formand, Morten Dahlin (V) har oplyst over for administrationen, at han ikke længere ønsker at varetage formandsposten med henvisning til varetagelse af sit hverv som medlem af Folketinget.</div> <div> </div> <div>Det fremgår af styrelseslovens § 22, stk. 1, at udvalgene selv vælger deres formand. Det skal i den forbindelse bemærkes, at loven ikke indeholder bestemmelser om formandens funktionsperiode, og at et stående udvalg, som Beskæftigelses og Erhvervsudvalget, til enhver tid kan vælge en ny udvalgsformand. Valg af formand sker ved flertalsvalg, med mindre der i udvalget er enighed om noget andet. </div> <div> </div> <div>Det skal endvidere bemærkes, at hvis formanden er midlertidigt fraværende, da overtager næstformanden automatisk formandshvervet, indtil udvalget måtte beslutte at vælge en ny midlertidig formand.</div> <h3><span>Lovgrundlag</span></h3> <div>Styrelsesloven.</div> <div> </div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/25e624a9-aab1-42cc-9949-b616a298d3f8",
+          "DocumentId": "25e624a9-aab1-42cc-9949-b616a298d3f8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011507",
+      "Navn": "Valg af ny formand i Beskæftigelses- og Erhvervsudvalget",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4c953665-4c11-46f9-9deb-e86ba0411e37",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-011507",
+      "SourceId": null,
+      "Caption": "Valg af ny formand i Beskæftigelses- og Erhvervsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget evaluerede opstarten med følgende bemærkninger; </div> <ul>     <li>Grundigt introduktionsforløb</li>     <li>Udvalgsintroduktionen på fagudvalgsmøderne har været god</li>     <li>Opmærksomhed på, at der er kommet mange møder til og der skal findes en bedre balance </li>     <li>Særligt marts måned var for tæt pakket med lokale møder samt KL-møder </li>     <li>Der er udviklingspotentiale for Byrådets budget- og visionsseminar</li> </ul></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><b>Sagsprocedure</b></h3> <div>Alle fagudvalg.</div> <h3><b>Resume</b></h3> <div>Med denne sag ønskes en evaluering af introduktionsforløbet for Byrådet 2022-2025, så eventuelle justeringer til opstart af nyt Byråd ved næste valgperiode kan indarbejdes.</div> <h3><b>Indstilling</b></h3> <div><i>Administrationen indstiller, at introduktionsforløbet for Byrådet 2022-2025 drøftes.</i></div> <h3><b>Sagsbeskrivelse</b></h3> <div>For at klæde først de nye kandidater og siden det nyvalgte Byråd på til byrådsopgaven, har administrationen afholdt et onboarding-forløb, som er defineret ved de aktiviteter og informationer, der er gennemført og givet for at understøtte, at Byrådet kommer godt fra start. Udover introduktion til roller, rammerne og regler ift. byrådsarbejdet og samarbejdet med administrationen har der været lagt vægt på at danne et godt fundament for samarbejde, opbygning af relationer og en fælles retning i byrådet samt en grundig introduktion til fagområderne.</div> <div> </div> <div>Spørgsmål til drøftelse:</div> <ul>     <li style=\"\">Har vægtningen mellem det faglige og sociale indhold været passende?</li>     <li style=\"\">Har I fået de informationer, I havde brug for, på de rigtige tidspunkter?</li>     <li style=\"\">Har I fået tilstrækkelig information og hjælp til it-systemer og it-pakke?</li>     <li style=\"\">Var der elementer i forløbet, I kunne have ønsket jer anderledes?</li>     <li style=\"\">Hvordan er den samlede oplevelse af introduktionsforløbet?</li> </ul> <div> </div> <div>Nedenfor følger en oversigt over forløbets hovedelementer:</div> <ul>     <li style=\"\">Informationsmøde for kandidater den 21. september 2021</li>     <li style=\"\">Udlevering og intro til it-pakke og -programmer 29. november 2021</li>     <li style=\"\">Konstituerende møde i byrådet og fagudvalgene 1. december 2021</li>     <li style=\"\">1. intro-møde/julemøde + fotografering den 14. december 2021</li>     <li style=\"\">2. intro-møde den 24. januar 2022</li>     <li style=\"\">Kattegatkursus v. Komponent 20.-22. januar og 10.-13. marts 2022</li>     <li style=\"\">Kommunalpolitisk Topmøde i Aalborg 17.-19. marts 2022</li>     <li style=\"\">Budget- og visions-seminar 4.-5. marts 2022</li>     <li style=\"\">Samarbejdet mellem udvalgsformand og direktør v. Komponent 20.-21. maj 2022</li>     <li style=\"\">Temamøder og besøg i marken som led i introduktionsforløbet til fagområderne fra januar 2022</li>     <li style=\"\">Online-webinarer om regnskab 2021, befolkningsprognoser, centrale begreber ift. budgetlægning, budgetopfølgning, marts-maj 2022.</li> </ul> <div> </div> <div>Materiale til understøttelse af byrådsarbejdet:</div> <ul>     <li style=\"\">Det politiske arbejde i kommunalbestyrelse og udvalg, KL</li>     <li style=\"\">Kend din kommune, KL</li>     <li style=\"\">It-sikkerhed og databeskyttelse for byrådsmedlemmer, Greve Kommune</li>     <li style=\"\">Vejledning til Min Kørsel, Greve Kommune </li>     <li style=\"\">ABC for medlemmer af byrådet, Greve Kommune</li>     <li style=\"\">Administrationsgrundlag, Greve Kommune</li>     <li style=\"\">Delegationsplan, Greve Kommune</li> </ul> <h3><b>Økonomiske konsekvenser</b></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3ef480e3-de43-4778-b168-baf24cb2e847",
+          "DocumentId": "3ef480e3-de43-4778-b168-baf24cb2e847"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-007839",
+      "Navn": "Evaluering af opstart og onboarding af nyt Byråd 2022-2025",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "3075d572-5628-408f-bde4-3d31cbbac586",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-007839",
+      "SourceId": null,
+      "Caption": "Evaluering af opstart og onboarding af nyt Byråd 2022-2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.<b></b></div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3><span>Resume</span></h3> <div>Udvalget orienteres om anden og sidste delaftale kaldet nytænkning af beskæftigelsesindsatsen 2022, som blev indgået den 24. juni 2022. Delaftalen er en opfølgning på den første delaftale nytænkning af beskæftigelsesindsatsen 2021. De to delaftaler skal tilsammen tilvejebringe en besparelse på 1,1 mia. kr. fra 2024 og frem inden for jobcentrenes indsatsområder og samlet medfinansiere aftalen om ret til tidlig pension fra 2020. I sagen beskrives hovedinitiativerne samt de økonomiske konsekvenser for Greve Kommune.   </div> <h3><span>Indstilling</span></h3> <div><i>Center for Job & Socialservice indstiller, at orienteringen tages til efterretning</i></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Med aftale om ny ret til tidlig pension (2020) blev der indført en ret til tidlig pension for danskere med lange og hårde arbejdsliv - i daglig tale kaldet \"Arne-pensionen\". Som led i aftalen blev det aftalt, at Arne-pensionen delvist finansieres af en nytænkning af beskæftigelsesindsatsen, der samlet set skal tilvejebringe en besparelse på 300 mio. kr. i 2022, 750 mio. kr. i 2023 og en årlig besparelse på 1,1 mia. kr. fra 2024 og frem inden for jobcentrenes samlede indsatsområde. Aftalepartierne indfriede med første delaftale om nytænkning af beskæftigelsesindsatsen (2021) en årlig besparelse på ca. 345 mio. kr. i 2022 og ca. 370 mio. kr. årligt fra 2023, ved blandt andet at lempe proceskrav til indsatsen for uddannelseshjælpsmodtagere og at indføre mulighed for digitale samtaler efter seks måneders ledighed.</div> <div> </div> <div>Med anden delaftale om nytænkning af beskæftigelsesindsatsen vil aftalepartierne indfri den resterende del af besparelsen fra 2023 og fremover. Formålet er, at Jobcentrene uden unødigt bureaukrati, skal bruge ressourcerne der, hvor de har størst effekt og kommer flest ledige til gavn.</div> <div> </div> <div>I nedenstående beskrives hovedinitiativerne og deres ikrafttrædelsesdato;</div> <div><i> </i></div> <div><i>Mere målrettede tilbud</i></div> <div>Aftalen understøtter en omlægning af en del af indsatsen, der i dag gives som vejledning og opkvalificering, i retning af ordinære løntimer, ordinær uddannelse og virksomhedsrettede tilbud i beskæftigelsesindsatsen (gælder ikke uddannelseshjælpsmodtagere og udlændinge i program). Vejledning og opkvalificering betragtes fremover ikke som et krav i aktivitetsfrekvensen og tæller dermed ikke som et aktivt tilbud. Samtidig sænkes grænsen for, hvornår ordinære løntimer kan træde i stedet for et aktivt tilbud. Forslaget træder i kraft 1. januar 2023.</div> <div><i> </i></div> <div><i>Kontaktforløb og udvidet mulighed for digitale samtaler</i></div> <div>Antallet af samtaler for den ledige reduceres fra 9 til 6 de første 6 måneder. Derudover kan alle samtaler, på nær den første, fremover afholdes digitalt, hvis borgeren ønsker det. Samtaleformen kan ændres til personligt fremmøde, hvis der vurderes behov for det. Initiativet træder i kraft 1. januar 2023.</div> <div><i> </i></div> <div><i>Lempelse af uddannelsespålægget</i></div> <div>Der gives friere rammer for den unge og jobcenteret til at beslutte, om indsatsen skal rettes mod uddannelse eller job. Initiativet træder i kraft 1. januar 2023.</div> <div><i> </i></div> <div><i>Mindre administration og forenkling af administrative krav </i></div> <div>I aftalen lægges op til mindre administration i kommunerne og forenkling af de administrative krav, herunder fjernes en række vejlednings- og registreringskrav. Der gennemføres en analyse af jobcentermedarbejdernes registreringsbyrde og analysen skal pege på forslag til at forenkle eller reducere mængden af registreringer, uden at borgerens retssikkerhed kompromittere. Det nuværende krav om ekstern sagsgennemgang, hvis kommunen kommer i skærpet tilsyn, afskaffes. Ligeledes afskaffes kravet om udvikling af beskæftigelsesplaner og resultatrevisioner. Detaljerne i aftalen er ikke præciseret endnu. Der igangsættes et samarbejde mellem Beskæftigelsesministeriet og KL om at understøtte kommunerne i udmøntningen af initiativet.</div> <div><i> </i></div> <div><i>A-kasserne overtager</i> <i>kontaktforløbet for de forsikrede ledige de første 3 måneder </i></div> <div>Kontaktforløbet for de forsikrede ledige skal forenkles og a-kasserne får ansvaret for indsatsen i de første tre måneders ledighed (som det kendes fra A-kasseforsøget). Derefter overgår dagpengemodtagerne til jobcentret i kommunen. Jobcentrene beholder ansvaret for bevilling af tilbud. Detaljerne i denne del af aftalen er ikke afklaret og initiativet træder i kraft 1. januar 2024.</div> <div> </div> <div>Initiativerne i aftalen forventes at blive udmøntet i to lovforslag;</div> <div> </div> <div>- Det første lovforslag om målrettede tilbud og mindre administration i kommunerne samt forenklinger af administrative krav som træder i kraft den 1. januar 2023, forventes at blive fremsat i november 2022.</div> <div> </div> <div>- Det andet lovforslag om forenkling af kontaktforløbet som træder i kraft 1. januar 2024, forventes at blive fremsat i februar 2023.</div> <div> </div> <div>Administrationen vil orientere udvalget om den konkrete udmøntning når lovforslagene er vedtaget.</div> <h3><span>Lovgrundlag</span></h3> <div>Lov om aktiv beskæftigelsesindsats. </div> <h3><span>Økonomiske konsekvenser</span></h3> <div>I anden delaftale fremgår om økonomien, at der på landsplan skal spares 375 mio. kr. i 2023 stigende til 775 mio. kr. fra 2024. I 2023 skal besparelsen næsten udelukkende hentes på vejlednings- og opkvalificeringskurser til borgerne, mens der fra 2024 også bliver tale om en betydelig besparelse på jobcentrene. Besparelsen på jobcentrene skal hentes dels ved at ansvaret for kontaktforløbet i de første tre måneder overgår til a-kasserne, dels ved lempede krav over for alle målgrupper.   </div> <div> </div> <div>De forventede økonomiske konsekvenser for Greve Kommune (0,86% af landstallet) fremgår af denne oversigt:  </div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"427\" style=\"\">     <tbody>         <tr style=\"\">             <td valign=\"bottom\">             <div>Besparelse (beløb i 1.000 kr.)</div>             </td>             <td valign=\"bottom\">             <div>2023</div>             </td>             <td valign=\"bottom\">             <div>2024?</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"bottom\">             <div>Vejledning og opkvalificering til borgerne</div>             </td>             <td valign=\"bottom\">             <div>-3.200</div>             </td>             <td valign=\"bottom\">             <div>-3.200</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"bottom\">             <div>Administration og omlægninger i jobcentrene</div>             </td>             <td valign=\"bottom\">             <div>-23</div>             </td>             <td valign=\"bottom\">             <div>-3.500</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"bottom\">             <div><b>Besparelse Greve i alt</b></div>             </td>             <td valign=\"bottom\">             <div><b>-3.223</b></div>             </td>             <td valign=\"bottom\">             <div><b>-6.700</b></div>             </td>         </tr>     </tbody> </table> <div> </div> <div>De økonomiske konsekvenser kendes dog først endeligt, når Folketinget har omsat den politiske aftale til konkret lovgivning. De endelige økonomiske konsekvenser bliver derfor først indarbejdet i Greves budget som en del af Budgetopfølgningen (for 2023) og i budgetproceduren (for Budget 2024-27).</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/044c1edf-351b-43fb-b6e7-e1383eae405f",
+          "DocumentId": "044c1edf-351b-43fb-b6e7-e1383eae405f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011052",
+      "Navn": "Orientering om anden delaftale om nytænkning af beskæftigelsesindsatsen",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Anden delaftale om nytænkning af beskaeftigelsesindsatsen",
+          "Id": "d461fb57-e510-47c1-b6a5-ab0feabc7aaa"
+        }
+      ],
+      "Documents": null,
+      "Id": "33cb7822-8f95-41eb-8fac-d1865a72ecc0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-011052",
+      "SourceId": null,
+      "Caption": "Orientering om anden delaftale om nytænkning af beskæftigelsesindsatsen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget ønsker ikke at tilslutte sig hensigtserklæringen med bemærkning om, at udvalget vil koncentrere ressourcerne på velfærdsforsøget på beskæftigelsesområdet og herunder inddrage virksomhederne.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><b>Sagsprocedure</b></h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3><b>Resume</b></h3> <div>Varde Kommune har initieret drøftelser om, hvorvidt der eventuelt kan etableres frikommuneforsøg på erhvervsområdet. Indeværende sag skitserer et eventuelt frikommuneforsøg, hvor Beskæftigelses- og Erhvervsudvalget tager stilling til, om Greve Kommune skal tilslutte sig hensigtserklæringen om et eventuelt frikommuneforsøg på erhvervsområdet, som ikke i øjeblikket er specifikt defineret.</div> <h3><b>Indstilling</b></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at Beskæftigelses- og Erhvervsudvalget drøfter forslaget om et eventuelt frikommuneforsøg på erhvervsområdet og tilkendegiver, om Greve Kommune skal tilslutte sig hensigtserklæringen om et eventuelt frikommuneforsøg på erhvervsområdet på en række udvalgte områder.</em></div> <h3><b>Sagsbeskrivelse</b></h3> <div>Varde Kommune har initieret drøftelser med en række kommuner om, at der eventuelt kan etableres frikommuneforsøg på erhvervsområdet. Dansk Industri er gået ind i drøftelserne og der har været afholdt drøftelser mellem en række borgmestre i første halvdel af 2022.</div> <div> </div> <div>Målet med drøftelserne har været at få etableret et forsøg, hvor kommunerne kan dispensere fra en række af de regler og rammer, som kommunerne i dag er underlagt, blandt andet når det gælder behandling af byggesager, miljøsager, sygedagpengesager, etablering og udnyttelse af erhvervsarealer, klimatilpasning med videre.</div> <div> </div> <div>Drøftelserne har udmøntet sig i en hensigtserklæring, der rummer ønsket om at forbedre vilkårene for kommunernes virksomheder ved at fjerne unødige administrative benspænd og skabe mere plads til vækst og velfærd, idet forhåbningen med hensigtserklæringen er, at et frikommuneforsøg kan skabe øget erhvervsvenlighed og lettere arbejdsgange i kommunerne og inspirere til forenkling og forbedring af statslig regulering på erhvervsområdet.</div> <div> </div> <div>Der er ikke i dag givet mulighed for frikommuneforsøg på erhvervsområdet, men Beskæftigelses- og Erhvervsudvalget i Greve Kommune kan med indeværende sag tilkendegive, hvorvidt Greve Kommune skal tage del i at indfri den vedlagte hensigtserklærings mål om, at etablere et frikommuneforsøg på erhvervsområdet, hvormed kommunerne frisættes fra statslig lovgivning på en række udvalgte områder i en forsøgsperiode.</div> <div> </div> <div>Et eventuelt frikommuneforsøg er ikke specifikt beskrevet, og der er således ikke i dag klarhed over, hvilke områder og aktiviteter, som potentielt måtte blive en del af et eventuelt frikommuneforsøg på erhvervsområdet. </div> <h3><b>Lovgrundlag</b></h3> <div>Kommunerne er i dag underlagt statslig lovgivning på nævnte områder. Der er i dag ikke givet mulighed for at have frikommuneforsøg på erhvervsområdet.</div> <h3><b>Økonomiske konsekvenser</b></h3> <div>En positiv tilkendegivelse vil medføre, at administrationen kan holde arbejdet inden for den eksisterende økonomiske ramme men vil kræve, at der frigives tid til arbejdet med et eventuelt frikommuneforsøg på erhvervsområdet.</div> <h3><b>Øvrige konsekvenser</b></h3> <div>Der kan være afledte konsekvenser ved de konkrete initiativer i et eventuelt frikommuneforsøg på erhvervsområdet, men idet rammen for et eventuelt frikommuneforsøg er ukendt, kan eventuelle konsekvenser ikke for nuværende præciseres yderligere.</div> <div>Såfremt det besluttes at forfølge et eventuelt frikommuneforsøg på erhvervsområdet, skal det indtænkes i en kommende politik på erhvervsområdet, så der sikres sammenhæng i politikken. </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/67b852af-f11d-43fd-bff1-8db6d5793ebf",
+          "DocumentId": "67b852af-f11d-43fd-bff1-8db6d5793ebf"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-010981",
+      "Navn": "Frikommuneforsøg på erhvervsområdet",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Udkast til hensigtserklæring",
+          "Id": "b2339abb-06a4-4521-9537-f1dbf3e58bb0"
+        }
+      ],
+      "Documents": null,
+      "Id": "688266af-0907-4973-8e72-8dad5ca1a4d1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "22-010981",
+      "SourceId": null,
+      "Caption": "Frikommuneforsøg på erhvervsområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1.-3. Godkendt</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3><span>Resume</span></h3> <div>Greve Kommune har siden 2019 haft et samarbejde med nonprofitorganisationen Code of Care om udviklingen af samarbejdet med Greve Kommunes virksomheder og udbredelse af social ansvarlighed. Formålet med denne sag er, at udvalget beslutter, om Greve Kommune skal fortsætte samarbejdet med Code of Care i 2022-2024. Medfinansieringen dækkes gennem det budget, der er afsat til den kommunale beskæftigelsesindsats for 2022-2024.</div> <h3><span>Indstilling</span></h3> <div><i>Center for Job & Socialservice indstiller,</i></div> <ol>     <li><i>at administrationen forhandler og indgår en samarbejdsaftale med Code of Care fra september 2022 til september 2024</i></li>     <li><i>at samarbejdet omhandler alle udsatte borgere</i></li>     <li><i>at medfinansieringen til samarbejdet på op til </i><i>140.000 kr. dækkes via budgettet afsat til den kommunale beskæftigelsesindsats for 2022-2024</i></li> </ol> <h3><span>Sagsbeskrivelse</span></h3> <div>Integrations-, Beskæftigelses- og Ungdomsudvalget besluttede i 2020, at Greve Kommune skulle fortsætte samarbejdet med nonprofitorganisationen Code of Care om udbredelsen af social ansvarlighed til lokale virksomheder. Aftalen udløb i juni 2022 og formålet med denne sag er, at udvalget beslutter, om administrationen skal fortsætte samarbejdet fra september 2022 til udgangen af september 2024. </div> <div> </div> <div>Code of Care har i samarbejde med Greve Kommune etableret en Task Force, der i dag består af omkring 20-25 virksomheder. Task Forcen kommer med input og idéer til at få flere udsatte borgere ind på arbejdsmarkedet i ordinære timer. Code of Care bidrager med vidensdeling mellem alle de aktive Task Forces, der forefindes i Danmark, bringer nye input ind i Task forcen samt sikrer, at ideerne videreudvikles og tilpasses Greve virksomheders og kommunens ønsker. </div> <div> </div> <div>Samarbejdet omhandler alle målgrupper, der har behov for en håndholdt indsats for at komme ind på arbejdsmarkedet. Code of Care Task Forcen udvikler nye veje for borgernes kontakt til virksomhederne og dermed øgede muligheder for varigt job gennem etablering af jobs. Ét af aktiviteterne i samarbejde med Task Forcen har f.eks. været, at borgerne har været på virksomhedsbesøg, hvor borger og virksomhed har mødt hinanden. Unge har mødt andre unge som er kommet i ordinær beskæftigelse. Task Forcen har samtidig fået indblik i de unges ressourcer og muligheder, samt hvilken betydning disse har for en arbejdsgiver i opgaveløsningen. Siden opstart af samarbejdet med Code of Care i 2019, er 79 borgere startet i ordinære timer. </div> <div> </div> <div>I samarbejdet skal Code of Care konkret bidrage med konsulentbistand i forhold til planlægning, oplæg, erfaringer fra andre virksomhedsnetværk, facilitering af møderne og kommunikation om de gode historier og erfaringer fra samarbejdet. Derudover følger Code of Care i samarbejde med jobcentret løbende op med virksomhederne mellem møderne i forhold til de tiltag og handlinger, som virksomhederne iværksætter på møderne. Code of Care har mange års erfaring med at få virksomhederne til at tage socialt ansvar og administrationen vurderer, at der fortsat er behov for, at Code of Care bidrager med deres tilgang til hvordan virksomhederne i Greve kan være med til at udvikle den arbejdskraft de efterspørger. </div> <div> </div> <div>Erfaringerne viser, at virksomhederne gør en stor indsats for at udbrede social ansvarlighed, når de først er blevet en del af Task Forcen og at det fortsat kræver en stor indsats at få flere virksomheder til at tage et socialt ansvar. Administrationen vurderer derfor, at det er vigtigt at fortsætte samarbejdet med Code of Care i 2022-2024 for at kunne opnå effekten af det arbejde, der er lagt i at bygge en Task Force op med Code of Care og udvikle den virksomhedsrettede indsats i samarbejde med virksomhederne. </div> <div> </div> <div>Administrationen foreslår, at samarbejdet med Code of Care forlænges fra den 1. september 2022 til udgangen af september 2024. Greve Kommune vil i 2022-2024 samlet set skulle medfinansiere op til 140.000 kr. årligt til projektet samt ledelsesressourcer til at videreføre Task Forcen i Greve. De 140.000 kr. årligt vil finansiere udvikling og drift af Task Forcen fra september 2022 til og med 30. september 2024. Derudover skal Greve Kommune dække Code of Cares udgifter i forbindelse med lokaleleje og forplejning til møder med virksomhederne, hvis virksomhederne ikke selv ønsker at dække denne udgift. Der foreslås derfor afsat 20.000 kr. til kørsel og forplejning til projektet fra Greve Kommune. </div> <div> </div> <div>Center for Job & Socialservice anbefaler, at udvalget godkender, at administrationen forhandler og indgår en samarbejdsaftale med Code of Care, og at medfinansieringen dækkes via budgettet, der er afsat til den kommunale beskæftigelsesindsats for 2022-2024. </div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Code of Care drift og udvikling op til 140.000 kr. årligt fra september 2022 til september 2024.</div> <div> </div> <div>Kørsel og forplejning op til 20.000 kr. årligt fra september 2022 til september 2024.</div> <div> </div> <div>Udgiften anbefales afholdt inden for budgettet afsat til den kommunale beskæftigelsesindsats for 2022 - 2024 på budgetområde 8.02 Aktivitetstilbud.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/be9cb1ef-7cc4-40ae-9087-b5e4ca465f03",
+          "DocumentId": "be9cb1ef-7cc4-40ae-9087-b5e4ca465f03"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011058",
+      "Navn": "Godkendelse af samarbejdet med Code of Care 2022-2024",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "7fcfdf6b-785b-491b-8a71-009cef843d45",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "22-011058",
+      "SourceId": null,
+      "Caption": "Godkendelse af samarbejdet med Code of Care 2022-2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1. Godkendes med bemærkning om at velfærdskommuneforsøget på beskæftigelsesområdet skal indtænkes udbudsstrategien</div> <div>2. Godkendt</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3><span>Resume</span></h3> <div>Formålet med sagen er, at Beskæftigelses- og Erhvervsudvalget godkender en udbudsstrategi for genudbuddet af beskæftigelsesfremmende ydelser samt godkender en forlængelse af de eksisterende rammeaftaler, således at der er tid til implementering af ny aftale fra 1. oktober 2023.</div> <div> </div> <div>Center for Job & Socialservice ønsker at indgå en rammeaftale med én leverandør med underliggende spor svarende til de behov Jobcentret har for ekstern bistand til den beskæftigelsesrettede indsats. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Job & Socialservice indstiller, </em></div> <ol>     <li><em>at udbudsstrategien for beskæftigelsesfremmende tilbud i Greve Kommune godkendes</em></li>     <li><em>at de aktuelle rammeaftaler forlænges indtil forventet kontraktopstart 1. oktober 2023</em></li> </ol> <h3><span>Sagsbeskrivelse</span></h3> <div>De nuværende rammeaftaler på beskæftigelsesfremmende tilbud udløber juni 2023 og Center for Job & Socialservice skal genudbyde beskæftigelsesindsatsen målrettet kommunens ledige borgere. </div> <div> </div> <div>Indsatserne for de ledige er i dag opdelt på to delaftaler med hver sin målgruppe. Målgruppen for delaftale 1 er kontanthjælpsmodtagere, uddannelseshjælpsmodtager og borgere i ressourceforløb, mens målgruppen for delaftale 2 er sygedagpengemodtagere og borgere i jobafklaringsforløb. Derudover indkøbes der en del enkeltpladser hos forskellige specialiserede leverandører.</div> <div> </div> <div>Som led i udbudsprocessen har Center for Job & Socialservice afholdt evalueringsmøder med nuværende leverandører og markedsdialog med en række store, mellemstore og små leverandører på området for at udarbejde et udbudsmateriale, der er konformt med markedets formåen, har den bedst mulige kvalitet i indsatserne og i samarbejdet med kommunens jobcenter.</div> <div> </div> <div><em>Målgruppe</em></div> <div>Markedsdialogen viser, at leverandørerne i mindre grad er optaget af borgerens forsørgelsesgrund og kan arbejde bredt med indsatser for ledige uanset målgrupper i beskæftigelsesindsatsen. Dialogen viser også, at det er hensigtsmæssigt at konsolidere indkøbet hos en enkelt leverandør, som grundet stabil omsætning kan investere i sin organisation, bemanding og tilbudsvifte. Den interne evaluering viser at samarbejde med mange leverandører besværliggør en løbende opfølgning på kvalitet og effekt samt ensartet processer for visitation og dokumentation.</div> <div> </div> <div>Center for Job & Socialservice anbefaler derfor, at beskæftigelsesindsatsen udbydes i en samlet rammeaftale med underliggende spor svarende til de overordnede behov, der findes blandt de ledige. Et spor svarer således til en målgruppe med særlige behov og karakteristika og ikke (nødvendigvis) til en målgruppe i beskæftigelsesindsatsen eller et forsørgelsesgrundlag.</div> <div> </div> <div>Sporene skal målrettes borgere, der efter en individuel vurdering kan betragtes som;</div> <ul>     <li>Spor 1: <em>Borgere tættere på arbejdsmarkedet</em>, dvs. borgere som med mindre hjælp og støtte kan indgå på arbejdsmarkedet eller i uddannelse, enten på fuldtid eller i deltidsarbejde</li> </ul> <div> </div> <ul>     <li>Spor 2: <em>Borgere længere væk fra arbejdsmarkedet, </em><em>dvs. borgere er ikke umiddelbart er parate til at indgå på arbejdsmarkedet eller uddannelsessystemet, som kræver en større og ofte mere individuel indsats.</em></li> </ul> <div> </div> <div>Målet er at kunne tilbyde mere individuel indsats, styrke samarbejdet med leverandøren i forhold til udvikling af indsatser, målinger og standarder for dokumentation. Ved at begrænse antallet af leverandører forventer Center for Job & Socialservice, at der vil være mere kontinuitet, fremdrift og kvalitet i opgaveløsningen.</div> <div> </div> <div>Jobcentrets interne tilbud JAT vil fortsat varetage indsatsen for en del af jobcentrets målgrupper, herunder blandt andet sygedagpenge- og uddannelseshjælpsmodtagere. Administrationen forventer, at der fortsat vil være borgere, som har helt særlige behov, for eksempel hjerneskade, autisme med mere, som ikke kan dækkes inden for rammeaftalen. Derfor vil der fortsat være et forbrug hos andre leverandører. </div> <div> </div> <div><em>Pris og kvalitet</em></div> <div>Administrationen anbefaler, at de to spor har underliggende tilbud / indsatser svarende til et differentieret behov. For at sikre gennemsigtighed i, hvad der leveres for prisen, skal de underliggende tilbud / indsatser indeholde mindstekrav til leverandørens indsats for eksempel antallet af konfrontationstimer, forholdet mellem individuel og holdtimer mm. Den tilbudte indsats skal kunne varetage både individuelle forløb, holdforløb og mentorforløb. </div> <div> </div> <div>Tilbudsgiverne skal prissætte de forskellige pakker under sporene som en del af deres tilbud.</div> <div> </div> <div>For at sikre priser som ligger indenfor budget og priser som afspejler den kvalitet, der ønskes, fastsættes der et prisspænd for pakkerne. Tilbudsgiverne skal afgive et tilbud, som ligger mellem en mindstepris og en max pris.</div> <div> </div> <div>For at sikre høj kvalitet i opgaveløsningen anbefales det, at tilbudsgiverne, som en del af deres tilbud beskriver indholdet af pakkerne med de ovennævnte mindstekrav. Desuden anbefales det, at tilbudsgiverne besvarer borgercases, som skal demonstrere deres kendskab til målgruppernes behov, samt at de beskriver deres tilbudte organisation og bemanding.</div> <div> </div> <div>Administrationen anbefaler, at pris og kvalitet vægtes 40/60.</div> <div> </div> <div><em>Kontraktstyring</em></div> <div>Evalueringen af de nuværende rammeaftaler har vist, at systematisk kontraktstyring og opfølgning er nødvendig for at sikre, at den fulde værdi af rammeaftalen realiseres i kontraktperioden. Opgavens karakter kræver tæt samarbejde og løbende justering af tilbud og indsatser for til stadighed at leve op til målsætningerne om at levere den målrettede og individuelle indsats, der skal til for at bringe ledige borgere i selvforsørgelse.</div> <div>Administrationen kan forudse et behov for opfølgning på effekter af borgerforløb, evaluering af og med leverandørens indsatser, samt generel håndhævelse af rammeaftalens priser og vilkår. Det kræver en tæt forbrugs- og aftalestyring, som sikrer, at arbejdsgange i forbindelse med visitation, tilsyn og dokumentation følges. </div> <div> </div> <div><em>Udbudsform</em></div> <div>Administrationen anbefaler, at udbuddet gennemføres som et udbud med forhandling med en prækvalifikationsrunde, hvor 3 ansøgere ud af de interesserede virksomheder opfordres til at afgive tilbud. For at opnå prækvalifikation skal ansøgere gennem referencer dokumentere erfaring med beskæftigelsesfremmende indsatser for de omfattede spor. Udbud med forhandling giver mulighed for tilpasning af pris og kvalitet i processen, således at de endelige tilbud i højere grad matcher Greve Kommunes behov og forventninger.</div> <div> </div> <div><em>Løbetid</em></div> <div>Administrationen anbefaler, at rammeaftalen udbydes for 4 år med to års option, idet et længere samarbejde er at foretrække set i forhold til fælles udvikling, administrative omkostninger og indkøringstid.</div> <div> </div> <div><em>Forlængelse af nuværende rammeaftaler</em></div> <div>Administrationen anbefaler, at de nuværende rammeaftaler forlænges med to måneder frem til udgangen af september 2023, idet der ellers med aftalestart 1. juli 2023 vil være kort tid til implementering. Ligesom det ikke er hensigtsmæssigt i forhold til hverken leverandør eller jobcenter at opstart ligger i forbindelse med sommerferien.</div> <h3><span>Lovgrundlag</span></h3> <div>Udbudsloven – § 186-189 i Lov nr. 1564 af 15/12/2015.</div> <div> </div> <div>Lov om aktiv beskæftigelsesindsats § 31 b, § 32, stk.1, nr. 2, § 42, stk. 1.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Der forventes ikke en umiddelbar økonomisk gevinst ved udbuddet. Formålet med udbuddet er at sikre en bedre kvalitet og effekter af de forløb indenfor den økonomiske ramme, som der i dag er afsat til køb af tilbuddene. På sigt formodes det, at effekten af udbuddet vil være, at flere borgere bliver helt eller delvist selvforsørgende, og at der dermed vil være et fald i forsørgelsesydelserne. </div> <div> </div> <h3><span>Tidsplan</span></h3> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"597\" style=\"\">     <tbody>         <tr style=\"\">             <td valign=\"top\">             <div><strong>Aktivitet:</strong></div>             </td>             <td valign=\"top\">             <div><strong>Dato:</strong></div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>BEU politisk behandling af udbudsmateriale</div>             </td>             <td valign=\"top\">             <div>14. november 2022</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>ØU politisk behandling af udbudsmateriale</div>             </td>             <td valign=\"top\">             <div>28. november 2022</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>BY politisk behandling af udbudsmateriale </div>             </td>             <td valign=\"top\">             <div>12. december 2022</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Offentliggørelse af udbud</div>             </td>             <td valign=\"top\">             <div>20. december 2022</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Ansøgningsfrist prækvalifikation</div>             </td>             <td valign=\"top\">             <div>23. januar</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div><strong>Tilbudsafgivelse</strong></div>             </td>             <td valign=\"top\"></td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Budopfordring</div>             </td>             <td valign=\"top\">             <div>31. januar 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Frist indledende tilbudsfrist</div>             </td>             <td valign=\"top\">             <div>8. marts 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Forhandlinger</div>             </td>             <td valign=\"top\">             <div>Medio marts</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Tilbudsfrist (endeligt tilbud)</div>             </td>             <td valign=\"top\">             <div>24. marts</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Politisk behandling i Beskæftigelses- og Erhvervsudvalg</div>             </td>             <td valign=\"top\">             <div>April 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Politisk behandling i Økonomiudvalget</div>             </td>             <td valign=\"top\">             <div>Maj 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Politisk behandling i Byrådet</div>             </td>             <td valign=\"top\">             <div>Maj 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div><strong>Kontraktindgåelse</strong></div>             </td>             <td valign=\"top\"></td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Forventet underretning </div>             </td>             <td valign=\"top\">             <div>Ultimo maj 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Forventet stand-still periode</div>             </td>             <td valign=\"top\">             <div>Primo juni 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Forventet kontraktindgåelse</div>             </td>             <td valign=\"top\">             <div>Primo juni 2023</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Forventet kontraktopstart</div>             </td>             <td valign=\"top\">             <div>1. oktober 2023</div>             </td>         </tr>     </tbody> </table> <div><em>Tidsplanen kan ændre sig.</em></div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/78f67ed0-f64a-49fc-a9cc-b71816a4dd95",
+          "DocumentId": "78f67ed0-f64a-49fc-a9cc-b71816a4dd95"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011060",
+      "Navn": "Godkendelse af udbudsstrategi på beskæftigelsesområdet",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "69717db6-e04c-49d7-949b-791a8faa4042",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "22-011060",
+      "SourceId": null,
+      "Caption": "Godkendelse af udbudsstrategi på beskæftigelsesområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1.-4. Anbefales</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3><span>Sagsprocedure</span></h3> </div> <div>Alle fagudvalg, Økonomiudvalget og Byrådet.</div> <div> </div> <div> <h3><span>Resume</span></h3> </div> <div>Som følge af stigende energipriser forventes der i 2022 pt. et merforbrug på ca. 17 mio. kr. på bygninger og 2,5 mio. kr. på vejbelysning. Merforbruget i 2022 er en stigning på 8,1 mio. kr. i forhold til det som var meldt ind i den første budgetopfølgning. Det endelige resultat og påvirkningen ind i 2023 er usikker, da priserne ændres og der  fra statens side arbejdes med strukturelle tiltag. Men det anbefales, at der arbejdes med at indføre forskellige tiltag for at reducere energiudgifterne i kommunen.  </div> <div> </div> <div> <h3><span>Indstilling</span></h3> </div> <div><em>Center for Teknik og Miljø indstiller,</em></div> <ol>     <li><em>at det godkendes at administrationen arbejder med vedhæftede katalog for energispare tiltag</em></li>     <li><em>at det tages til efterretning at administrationen har igangsat at der reguleres ned for varme og varmt vand til håndvask på kommunale bygninger</em></li>     <li><em>at det godkendes at regulering af varme og varmt vand også gælder bygninger som kommunen lejer og betaler tilskud til</em></li>     <li><em>at tiltag med markant forringelse af service for foreninger og borgere i kommunen, besluttes politisk i en opfølgende sag </em> </li> </ol> <div> </div> <div> <h3><span>Sagsbeskrivelse</span></h3> </div> <div>For at undgå stigninger i udgifter til forbruget på kommunale bygninger og bygninger, som får tilskud fra kommunen til at dække driftsudgifter, foreslås det, at der igangsættes en række tiltag for at reducere energiforbrug. For at tiltagene får effekt allerede i 2022 kræves det, at der tages beslutning hurtigst muligt, da bygningernes opvarmning igangsættes pr. 1. oktober. </div> <div> </div> <div>Administrationen vil derfor sideløbende med indeværende indstilling sende forslagene i høring hos MED udvalg for alle centre i kommunen, hvor forslagene vedrører medarbejdernes fysiske arbejdsmiljø. Høringen i MED vil samtidig igangsætte en dialog om, hvordan brugerne selv kan ændre deres adfærd, så der tænkes i energibesparende løsninger. Derudover vil der igangsættes en dialog med kultur og fritidsområdet om de forslag der konkret berører brugerne af idrætshaller og svømmehaller. </div> <div> </div> <div>Godkendes alle forslagene er det estimeret, at forslagene vil udgøre en effekt på ca. 1 mio. kr. i 2022 og ca. 5 mio. kr. i 2023. Administrationen tager dog forbehold for effekten af forslagene ud fra brugernes adfærd, stigning i energipriser og øvrige forhold der påvirker energiforbruget. </div> <div> </div> <div>Overordnet er der tale om følgende tiltag gældende for alle bygninger:</div> <div> </div> <div>1. Varmen for alle bygninger skrues ned fra 21 grader til 19-20 grader, som anbefalet af Energistyrelsen. Undtaget for dette er plejecentrene og botilbuddene, hvor beboerne er sårbare. Derudover vil det ikke have den store økonomiske effekt, da beboerne selv betaler for deres varmeregning for bolig og fællesareal, så kommunen kun betaler for varmen i servicearealerne. Arbejdstilsynets retningslinier for varme ved stillestående arbejde vurderes fortsat at være overholdt, da der som minimum skal være 18 grader ved stillestående arbejde men helst være mellem 20-22 grader. Det bemærkes at der blandt andet i Tyskland er fastsat regler om, at offentlige bygninger kun opvarmes til maksimalt 19 grader.  </div> <div> </div> <div>2. Sæsonen for opvarmning af bygninger mindskes med 1 måned svarende til to uger om efteråret og to uger om foråret. Normalt igangsættes opvarmningen af bygningerne omkring 1. oktober og standses senest 1.  maj. </div> <div> </div> <div>3. Ekstra fokus på at være energibevidst i dagligdagen. Dette tiltag vedrører, at brugerne selv er opmærksomme på deres energiforbrug, herunder at slukke lys, hvor dette ikke sker automatisk, slukke for pc'er, kaffemaskiner mv. </div> <div> </div> <div>4. Skrue ned for varmt brugsvand til håndvask mv. i alle bygninger. Dette skal dog vurderes ift. at sikre tilstrækkelige hygiejniske forhold. </div> <div> </div> <div>Derudover er der følgende tiltag som vedrører Rådhuset:</div> <div> </div> <div>5. Det undersøges om det er muligt at skrue ned for varmen på Rådhuset allerede torsdag aften, så der ikke er opvarmning på bygningen om fredagen, hvor de fleste arbejder hjemme og Borgerservice er lukket. Det vil stadig være muligt at være i bygningen om fredagen. </div> <div> </div> <div>Derudover er der følgende konkrete tiltag som vedrører kultur- og fritidsområdet:</div> <div> </div> <div>6. Svømmehallen - sænkelse af vandtemperatur i bassiner, begrænsning af driftstid for sauna, begrænse badetid, samt at begrænse temperaturen i badevandet ved omklædning. Alle forslag skal ses i sammenhæng med hvilken effekt, det vil have på svømmehallens indtjening. </div> <div> </div> <div>7. Generelt for idrætscentre og haller - skrue ned for temperatur i haller til 19-20 grader fra nuværende 21 grader, begrænse vandtemperatur i omklædning, slukke lys ved stadion og kunstgræsbaner. </div> <div> </div> <div>Derudover i der i kataloget et forslag om at reducere i forbrugsudgifterne ved at nedlukke enkelte ejendomme i perioder. Dette vil som udgangspunkt medføre, at der reduceres i åbningstider for skoler og borgerhuse i perioder med få brugere, hvilket oftest vil have betydning for foreningslivet og andre fritidsbrugere. Derfor vil det kræve en nærmere dialog for at vurdere om der er et potentiale i forhold til de bookinger der er på lokalerne, herunder om der er nogen muligheder for at  samle aktiviteter på færre bygninger.</div> <h3><span><strong>Lovgrundlag</strong></span></h3> <div>Opvarmning af bygninger skal følge Arbejdstilsynets vejledning om indretning af arbejdspladser. </div> <div> </div> <div> <h3><span>Økonomiske konsekvenser</span></h3> </div> <div>Hvis der ikke gøres noget for at reducere forbruget på de kommunale bygninger, samt bygninger kommunen giver forbrugstilskud til, kan der risikere at være et merforbrug på ca. 18 mio. kr. i 2022 og måske i samme størrelsesorden i 2023. De foreslåede tiltag forventes at have en effekt på ca. 1 mio. kr. i 2022 og ca. 5 mio. kr. i 2023. Dette er dog afhængig af energipriserne udvikling samt brugernes adfærd. </div> <div> </div> <div> <h3><span>Øvrige konsekvenser</span></h3> </div> <div>Tiltagene vil medføre en ændring i indeklimaet for alle brugerne af kommunens bygninger, og derved det fysiske arbejdsmiljø for medarbejderne. Det vil opleves meget forskelligt for brugerne dels fordi mennesker oplever temperaturer forskelligt, men også fordi bygningerne er af forskellig stand. Hvor der er utætte facader og/eller tag kan der være skruet op for varmen for at mindske bygningsskader, som opstår ved fugtdannelser, eller for at kompensere for træk eller anden kuldepåvirkning på brugerne. </div> <div> </div> <div>Nedreguleres vandtemperatur i brusere og svømmebassiner vil det medføre en mindsket komfort for brugerne, og eventuelt en mindsket brug. </div> <div> </div> <div>Nedreguleres vandtemperatur i almindeligt brugsvand vil det også medføre en mindsket komfort. Det skal undersøges om det kan give udfordringer ift. hygiejne og rengøring. </div> <div> </div> <div> <h3><span>Kommunikation</span></h3> </div> <div>Der sker en høring af MED udvalgene i kommunen om de foreslåede tiltag. Hvis der er konkrete tilfælde, hvor tiltagene ikke kan gennemføres, vil dette blive behandlet politisk.</div> <div> </div> <div>Hvor tiltaget betyder en markant servicereduktion for foreninger eller brugere vil beslutningen blive fremlagt til politisk beslutning. Det kunne f.eks. være lavere temperaturer i svømmehallen og slukket vejbelysning.</div> <div> </div> <div>Alle medarbejdere og brugere orienteres så vidt muligt om tiltagene og baggrunden, ligesom der laves en kampagne for at tænke i de generelle råd for energibesparelser, som i øvrigt også vil være gældende for de fleste i deres eget hjem.  </div> <div> </div> <div>Hvor bygningerne ikke ejes af kommunen gås i dialog med de foreninger kommunen har aftale med (herunder KIF, TIF og spejderforeningerne) om hvad der skal ske på bygningerne. Derudover gås i dialog med Greve Boligselskab som ejer nogen af de bygninger, hvor kommunen har daginstitutioner, samt private udlejere blandt andet i Greve Main. </div> <div> </div> <div> <h3><span>Tidsplan</span></h3> </div> <div>Tiltagene gennemføres så hurtigt som muligt for at få den ønskede effekt. Varmen kan de fleste steder reguleres med det samme da kommunen har bygningsautomatiske systemer (såkaldt CTS), hvor indstillinger sker på en computer. Hvor der skal reguleres manuelt kan der dog gå længere tid. </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5107f872-a738-4880-81bb-b26680f7196b",
+          "DocumentId": "5107f872-a738-4880-81bb-b26680f7196b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011409",
+      "Navn": "Tiltag på energi som følge af stigende energipriser",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Indsatser som følge af øget energipriser",
+          "Id": "156318ae-689b-4cbe-a45b-07c1cc7b6643"
+        }
+      ],
+      "Documents": null,
+      "Id": "959bdbde-853d-4ddd-a48a-17cfb23a69dd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "22-011409",
+      "SourceId": null,
+      "Caption": "Tiltag på energi som følge af stigende energipriser",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning med bemærkning om, at administrationen ønsker at trække ansøgningen til STAR.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <div> </div> <h3><span> <div> <h3>Sagsprocedure</h3> </div> </span></h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3><span> <div> <h3>Resume</h3> </div> </span></h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3><span> <div> <h3>Indstilling</h3> </div> </span></h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen har følgende til orientering:</div> <div> </div> <ul>     <li style=\"\">Der vil på udvalgsmødet den 12. september være kort præsentation af mulige virksomheder til udvalgets besøg den 24. oktober.</li> </ul> <div> </div> <ul>     <li style=\"\">     <div>STAR har udmeldt en pulje rettet mod opsporing af ordblinde og personer med læse-, skrive-, regnevanskeligheder blandt både beskæftigede og ledige. Der er afsat 10 mio kr. til en 2 årig projektperiode fra december 2022 til december 2024. Greve Kommune vil gå sammen med 7 andre kommuner i region Sjælland om at lave en fælles ansøgning og dermed lave en fælles indsats på tværs i kommunerne i forhold til ordblinde og personer med læse-, skrive og regnevanskeligheder.</div>     </li> </ul> <h3><span> <div> </div> </span></h3> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/22502a00-614a-4168-bac4-73502b14f8bc",
+          "DocumentId": "22502a00-614a-4168-bac4-73502b14f8bc"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013719",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "12fdef2b-12c9-4ae8-a7a5-723ab686a25c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-013719",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Der var ingen orienteringer fra formanden eller gensidige orienteringer.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><i><br> </i></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/965cd57e-1b13-4264-83bf-dff2eaedd043",
+          "DocumentId": "965cd57e-1b13-4264-83bf-dff2eaedd043"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013722",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "582a743c-a72e-496e-9f29-23dc4786ddc8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-013722",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning med bemærkning om at </div> <ul>     <li>den 24.oktober skal der ikke afholdes møde med Greve Solrød Erhverv og Erhvervscentrets bestyrelse </li>     <li>Liselott Blixt melder afbud til mødet den 10.oktober </li> </ul></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Beskæftigelses- og Erhvervsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Kalenderen er vedlagt som bilag.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7cfcfbc5-faaa-4d18-8edd-8c078557a456",
+          "DocumentId": "7cfcfbc5-faaa-4d18-8edd-8c078557a456"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013723",
+      "Navn": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2022",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beskæftigelses- og Erhvervsudvalgets kalender 2022 - september 2022",
+          "Id": "896e2223-f98a-4e32-a2aa-47c9ba450382"
+        }
+      ],
+      "Documents": null,
+      "Id": "2c0607d4-88c7-4024-abf6-848934177489",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-013723",
+      "SourceId": null,
+      "Caption": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div> <h3><span> <div> </div> </span></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fc27c748-fee0-4eac-91b2-79993edbbb64",
+          "DocumentId": "fc27c748-fee0-4eac-91b2-79993edbbb64"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-012521",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ac020186-2818-405a-8773-b0226d904748",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-012521",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "d2b6711a-6c60-4f72-be63-ef69dac7e795",
+    "Navn": "Beskæftigelses- og Erhvervsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-09-12T08:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-09-12T08:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Morten Dahlin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "b52eaf6b-0eb1-41d6-9575-712209fd4721",
+  "Lydfiler": null
+}

@@ -1,0 +1,850 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nGodkendt.</p><br><br>Afbud: Kenneth Jerkel<br>Fraværende: Mehmet Zeki Dogru</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 2. oktober 2024.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at dagsordenen godkendes.</em></p>\n<p>\n</p>\n<div> </div>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f42b4267-a591-4102-bfd1-52bfc6741d88",
+          "DocumentId": "f42b4267-a591-4102-bfd1-52bfc6741d88"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014420",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "dc0f1374-66b1-45b4-a5ed-b2f4fa19252b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014420",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "dc0f1374-66b1-45b4-a5ed-b2f4fa19252b"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.</p><p>Afbud: Kenneth Jerkel<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013720",
+      "Navn": "Lukket: Orientering",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9fbca636-60d8-42ea-8b55-06e87e805a94",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "21-013720",
+      "SourceId": null,
+      "Caption": "Lukket: Orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">\nOrienteringen om </p>\n<ul>\n    <li>\n    <p>Dialog med Sj&aelig;llandske Medier</p>\n    </li>\n    <li>\n    <p>Strandskolens renovering</p>\n    </li>\n</ul>\n<p>\nblev taget til efterretning.</p><p>Afbud: Kenneth Jerkel<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013712",
+      "Navn": "Lukket: Orientering fra administrationen",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5dc9d5ca-58c9-4aa1-9253-33763bb2e4c4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-013712",
+      "SourceId": null,
+      "Caption": "Lukket: Orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Spørgsmål blev besvaret på mødet.<br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet. </p>\n<h4>Sagsbeskrivelse</h4>\n<p>Borgere i Greve Kommune har mulighed for at stille spørgsmål til byrådet inden byrådets ordinære møde.</p>\n<p>Retningslinjerne for afvikling af spørgetiden fremgår af spørgeregulativ for Greve Byråd, som kan findes på Greve.dk. Af regulativet fremgår bl.a. følgende:</p>\n<ul>\n    <li>Der er afsat 30 minutter til spørgsmål og svar</li>\n    <li>Spørgsmål kan stilles mundtligt eller skriftligt. Skriftlige spørgsmål skal være byrådet i hænde senest mandag ugen før spørgetiden</li>\n    <li>Borgmesteren er forpligtiget til at afvise spørgsmål, der indeholder angreb på borgere eller vedrører enkeltpersoner eller andre forhold af fortrolig art</li>\n    <li>Eventuelle happenings, demonstrationer eller øvrige meningstilkendegivelser skal afvikles på Rådhuspladsen</li>\n    <li>Tilhørerne i byrådssalen skal forblive på tilhørspladserne, og hvis de ønsker at aflevere effekter til medlemmerne af byrådet, skal disse afleveres til betjenten i Borgerservice forud for mødet. Borgere må derfor ikke medbringe diverse effekter i byrådssalen.</li>\n</ul>\n<p>Spørgsmål til byrådet skal vedrøre kommunale forhold i Greve Kommune og have almen interesse for kommunens borgere. </p>\n<p>Eventuelt ubesvarede spørgsmål bliver besvaret skriftligt senest otte dage efter spørgetidens afholdelse.</p>\n<h4>\n<div> </div>\n</h4></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e3f6a7fd-4b71-4541-b569-a7da8a8efd49",
+          "DocumentId": "e3f6a7fd-4b71-4541-b569-a7da8a8efd49"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014418",
+      "Navn": "Spørgetid",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "15716490-3466-41d8-8bbc-5e7b038f6a19",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-014418",
+      "SourceId": null,
+      "Caption": "Spørgetid",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.</p><br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet.</p>\n<h4>Resume</h4>\n<p>Borgmesteren orienterer om eventuelle emner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Borgmesteren orienterer om:</p>\n<ul>\n    <li>Miljøminister og minister for ligestilling Magnus Heunickes svar til Køge Bugt-Alliancen på henvendelse af 9. september 2024.</li>\n</ul></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/367510f7-499c-45ac-b3df-735a4644c247",
+          "DocumentId": "367510f7-499c-45ac-b3df-735a4644c247"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013721",
+      "Navn": "Borgmesteren orienterer",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Miljøminister og minister for ligestilling Magnus Heunickes svar på din henvendelse af 9. september 2024",
+          "Id": "4d20c7a6-be99-48d2-bce8-92aa506db723"
+        }
+      ],
+      "Documents": null,
+      "Id": "3f03bea4-dbb3-4d67-9343-28f355bc19d0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-013721",
+      "SourceId": null,
+      "Caption": "Borgmesteren orienterer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><strong><span>Sagsprocedure</span></strong></p>\n<p><span>Økonomiudvalget og Byrådet</span></p>\n<p><strong><span>Resume</span></strong></p>\n<p><span>Administrationen fremlægger budgetopfølgning 2,\n2024. Budgetopfølgningen indeholder et estimat på det forventede regnskab for\n2024, opfølgning på budgetforliget for 2024 samt aktivitetsopfølgning for de\nspecialiserede socialområder.</span></p>\n<p><span>Resultatet af budgetopfølgning 2 viser, at den\nøkonomiske situation samlet set er forbedret siden budgetopfølgning 1. Der er\nfortsat udfordringer på skoleområdet og det specialiserede børneområde, men\nsamtidig er der på en række andre områder forventning om <span class=\"spelle\">mindreforbrug</span>,\nsom betyder, at budgettet forventes overholdt.</span></p>\n<p><strong><span>Indstilling</span></strong></p>\n<p><em><span>Administrationen indstiller,</span></em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at budgetopfølgning 2\n    tages til efterretning.</em></li>\n    <li><em>at oversigten for\n    implementering af budget 2024-27 tages til efterretning jf. bilag 1</em></li>\n    <li><em>at aktivitetsopfølgning\n    på det specialiserede børneområde tages til efterretning jf. bilag 2</em></li>\n    <li><em>at aktivitetsopfølgning\n    på det specialiserede voksenområde tages til efterretning jf. bilag 3</em></li>\n</ol>\n<p><strong><span>Sagsbeskrivelse</span></strong></p>\n<p><span>Budgetopfølgning 2 tager udgangspunkt i\nforbrugstallene ultimo juli måned 2024 samt et estimat for forbruget den\nresterende del af året. Dermed gives et bud på det forventede regnskabsresultat\nfor 2024.</span></p>\n<p><span>Trepartsaftalen om løn- og arbejdsvilkår og\nreguleringer i 2024 jf. økonomiaftalen (ØA25) indgår i det forventede resultat\ni budgetopfølgning 2. Resultatet er derfor forudsat bevillinger jf. indstilling\ni bevillingssagen.</span></p>\n<p><span>Kompensation til fordrevne fra Ukraine fremgår\nsærskilt, og er derfor ikke indregnet i det forventede resultat. KL har i år\nmeddelt, at udgifter til fordrevne fra Ukraine ikke indgår i det korrigerede\nsigtepunkt for servicerammen, men opgøres separat. Dette betyder, at det\nforventede regnskabsresultat i denne Budgetopfølgning 2 opgøres både med og\nuden Ukraine.</span></p>\n<p><span>Som bilag til sagen forelægges aktivitetsdata på\nde specialiserede socialområder og en opfølgning på implementering af\nbudgetforliget for budget 2024-27. Fagudvalgene får sideløbende en opfølgning\npå de handleplaner, der er udarbejdet i forbindelse med overførsel af\nmerforbrug på mere end 2 pct. fra regnskab 2023.</span></p>\n<p><em><strong><span>Hovedkonklusioner</span></strong></em></p>\n<p><span>Resultatet af budgetopfølgning 2 viser, at den\nøkonomiske situation samlet set er forbedret siden budgetopfølgning\n1. Ved budgetopfølgning 1 var det samlede forventede merforbrug 13,0 mio. kr.\nmens der ved budgetopfølgning 2 er et forventet <span class=\"spelle\">mindreforbrug</span>\npå <br>\n-0,7 mio. kr. (-4,3 inkl. Ukraine) svarende til en forbedring på -13,7 mio. kr.\n(17,3 inkl. Ukraine). Forbedringen følger af <span class=\"spelle\">mindreforbrug</span>/merindtægt\npå flere områder, samt en samlet positiv midtvejsregulering og\nDUT-kompensation. </span></p>\n<p><span>Der er fortsat udfordringer på skolernes\nspecialundervisning og mellemkommunale afregninger, samt på anbringelsesområdet\npå det specialiserede børneområde. Det samlede resultat er afhængig af, at de\nøvrige områder kan opretholde de forventede <span class=\"spelle\">mindreforbrug</span>.</span></p>\n<p><span>De primære konklusioner er opsummeret i\nnedenstående tabel.</span></p>\n<p><span>Tabel 1. Hovedkonklusioner </span></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"595\">\n    <tbody>\n        <tr>\n            <td>\n            <p><span>Servicerammen</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Servicerammen\n            forventes overholdt med et <span class=\"spelle\">mindreforbrug</span> på<br>\n            -12,3 mio. kr. Heri indgår servicerammepulje på 20 mio. kr., som i\n            budgettet ikke er finansieret. I budgetopfølgning 2 anvendes 7,7 mio. kr. af\n            servicerammepuljen, hvilket indgår i den samlede kassepåvirkning. Brug af den\n            fulde serviceramme, vil betyde yderligere finansiering fra kassen.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Overførselsudgifter</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Der forventes\n            et <span class=\"spelle\">mindreforbrug</span> udenfor servicerammen på\n            samlet -15,3 mio. kr., der medgår som finansiering af årets\n            midtvejsregulering.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Anlægsudgifter</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Der\n            forventes <span class=\"spelle\">mindreforbrug</span> på anlægsudgifter\n            på -4,9 mio. kr. (netto). Herunder forskydning af salgsindtægter på 20,4 mio.\n            kr., merudgift vedr. DUT på 0,3 mio. kr. og forskydning af anlægsprojekter på\n            samlet -25,0 mio. kr. til 2025-28.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Kassepåvirkning</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Der forventes\n            en kasseopbygning på 4,3 mio. kr. i 2024 og ledig likviditet på 77,5 mio. kr.\n            i 2027 ud over likviditetskravet på 200 mio. kr.</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><em><strong><span>Serviceramme</span></strong></em></p>\n<p><span>Servicerammen forventes overholdt med et <span class=\"spelle\">mindreforbrug</span> på -12,3 mio. kr.</span></p>\n<p><span>Tabel 2. Serviceramme</span></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">\n    <tbody>\n        <tr>\n            <td>\n            <p><strong><span>Serviceudgifter\n            (mio. kr.)</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Oprindelig\n            Serviceramme</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Korrigeret\n            Serviceramme</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Forventet\n            regnskab</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Afvigelse</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Afvigelse\n            (%)</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Serviceudgifter</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>2.598,6</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>2.615,3</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>2.603,0</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>-12,3</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>-0,47%</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span>Der forventes et regnskabsresultat indenfor service\nsom ligger -12,3 mio. kr. under det udmeldte sigtepunkt for servicerammen (ex.\nUkraine).</span></p>\n<p><span>Sigtepunkt for servicerammen indeholder den\nudmeldte DUT og midtvejsregulering, som i alt hæver rammen med 16,7 mio. kr.\nHeraf tegner pris- og lønfremskrivning sig for 10,0 mio. kr., mens de øvrige\nændringer primært har baggrund i ny lovgivning eller tekniske rettelser.</span></p>\n<p><span>I den samlede opgørelse af servicerammen indgår\nden afsatte pris- og lønsumspulje på 3,5 mio. kr. Puljen er afsat til at\nimødegå en midtvejsregulering med en nedadgående pris- og lønudvikling, samt\nøgede lønudgifter ved trepartsaftalen. Desuden er den afsatte servicerammepulje\npå 20 mio. kr. indregnet. Puljen blev afsat til at skabe luft i servicerammen\ntil overførsel af serviceudgifter fra 2023 til 2024. Puljen er ikke\nfinansieret, da forudsætningen for puljen er, at overførsler fra 2023 til 2024\nfinansieres af <span class=\"spelle\">mindreforbrug</span> i 2023.</span></p>\n<p><span>Det forventes, at der skal anvendes 7,7 mio. kr.\naf servicerammepuljen i 2024 i budgetopfølgning 2, hvilket indgår i den samlede\nkassepåvirkning. Brug af den fulde serviceramme vil i 2024 kræve yderligere\nfinansiering fra kassen.</span></p>\n<p><span>De anførte serviceudgifter er eksklusive udgifter\ntil fordrevne fra Ukraine. Serviceudgifter til fordrevne fra Ukraine har et\nsamlet resultat på 0,5 mio. kr. i merudgift. Herudover forventes <span class=\"spelle\">mindreforbrug</span> på Ukraineudgifter på -4,1 mio. kr.\nudenfor servicerammen.</span></p>\n<p><em><strong><span>Drift</span></strong></em></p>\n<p><span>I alt forventes der i budgetopfølgning 2 en\nsamlet merudgift på driften på 4,2 mio. kr. ekskl. Ukraine.</span></p>\n<p><span>Det samlede merforbrug på den\nordinære drift er sammensat af et merforbrug på 35,7 mio. kr. på service\nog <span class=\"spelle\">mindreudgifter</span> på -22,5 mio. kr. uden\nfor servicerammen. Heraf er -7,2 mio. kr. renter og realiseret kursgevinst.\nDesuden indgår samlet kompensation via Økonomiaftalen (ØA25) på -9,0 mio. kr.</span></p>\n<p><span>I det samlede merforbrug forventes merudgift på\nnetto 4,8 mio. kr. vedrørende opgaver tilknyttet Trepartsaftalen på løn, DUT og\nmidtvejsreguleringen. I denne sag indstilles bevilget den tilhørende\nkompensation i 2024 på driften via Økonomiaftalen (ØA25) på netto 4,8 mio. kr.</span></p>\n<p><span>Den samlede forventede merudgift på drift\nindeholder ikke det samlede <span class=\"spelle\">mindreforbrug</span> på\n-3,6 mio. kr. vedrørende fordrevne fra Ukraine. </span></p>\n<p><em><strong><span>Strukturelle udfordringer</span></strong></em></p>\n<p><em><span>Fortsat udfordringer på det specialiserede\nbørneområde og skoler</span></em></p>\n<p><em><span>Skoleområdet</span></em><span> viste i budgetopfølgning 1 udfordringer på\nspecialundervisning og mellem-kommunale afregninger med et samlet merforbrug på\n20,5 mio. kr. Ved Budgetopfølgning 2 er det forventede merforbrug steget til\n23,1 mio. kr. Det øgede merforbrug skyldes øgede omkostninger til\nspecialundervisning og mellemkommunale afregninger, herunder udgifter til\nelever i 10. klasse. I skolernes forventede merforbrug indgår overført\nmerforbrug fra 2023 på 7,9 mio. kr. </span></p>\n<p><span>Der er stor forskel i størrelsen på skolernes\nmerforbrug. Enkelte skoler har oparbejdet yderligere merforbrug, mens enkelte\nskoler er lykkes med at nedbringe deres merforbrug.</span></p>\n<p><span>Skolerne arbejder jf. opfølgning på deres\nhandleplaner aktivt med at nedbringe merforbruget.</span></p>\n<p><span>På <em>dagtilbuds- og pasningsområdet</em> forventes\net samlet merforbrug på 1,5 mio. kr. Merforbruget skyldes primært udgifter til\ntilskud til privat pasning samt ændring i børnetal. Heri er indregnet\nforventede merudgifter til løn vedr. Trepartsaftalen og den indstillede\ntilsvarende finansiering via økonomiaftalen (ØA25).</span></p>\n<p><span>Skole-, Børne- og Ungeudvalget bliver i møderækken\ni oktober præsenteret for opfølgning på de handleplaner, der er udarbejdet i\nforbindelse med overførsel af merforbrug på mere end 2% fra regnskab 2023.</span></p>\n<p><em><span>Det specialiserede børneområde</span></em><span> viste i budgetopfølgning 1 et forventet\nnettomerforbrug på anbringelses- og forebyggelse for børn og unge på 16,9 mio.\nkr. Ved Budgetopfølgning 2 er dette forventede merforbrug steget til 23,2 mio.\nkr. heraf 17,8 mio. kr. til anbringelser og 5,4 mio. kr. vedrørende\nforebyggelse.</span></p>\n<p><span>Den stigende udgift på\nanbringelsesområdet er primært en følge af øget tilgang af børn på området,\nsamt en stigning i pris på anbringelser. Trods den øgede udgift, ligger Greve\nKommune fortsat under landsgennemsnittet på udgifter på anbringelsesområdet.</span></p>\n<p><em><span>Øvrige driftsområder</span></em></p>\n<p><em><span>Ældre- og sundhedsområdet </span></em><span>forventer <span class=\"spelle\">mindreforbrug</span> på\nsamlet -6,0 mio.kr. </span>Heri er indregnet forventede merudgifter til løn\nvedr. Trepartsaftalen og den indstillede tilsvarende finansiering via\nmidtvejsreguleringen.</p>\n<p><span>Den primære årsag til <span class=\"spelle\">mindreforbruget</span> er\nfærre beboere i de selvejende og private ældre- og plejeboliger, samt <span class=\"spelle\">mindreforbrug</span> til borgerrettet kørsel.</span></p>\n<p><em><span>Det specialiserede voksenområdet </span></em><span>forventer <span class=\"spelle\">mindreforbrug</span> på\nsamlet -11,4 mio. kr. Der er primært tale om <span class=\"spelle\">mindreforbruget</span> vedr.\nbotilbud som følge af afgang af borgere. </span></p>\n<p><span>Det forventede resultat af budgetopfølgning 2 er\nafhængig af, at det indmeldte <span class=\"spelle\">mindreforbrug</span> på de\nøvrige områder kan opretholdes.</span></p>\n<p><em>Vakante stillinger – udskydelse af genansættelse</em></p>\n<p>Byrådet vedtog ifm. Budget 2024-25 en besparelse på 1 mio. kr. årligt ved at\nudskyde genansættelse af administrative stillinger, således, at administrative\nstillinger holdes vakante i tre måneder, hvor en stilling ellers er vakant i\n1-2 måneder inden genbesættelse. Den vedtagne besparelse er indarbejdet i\nbudgettet og fordelt på kommunens centre svarende til fordelingen af\nadministrative arbejdspladser. Budgetopfølgning 2 viser, at der fortsat er\nforventning om, at besparelsen er realiseret. </p>\n<p><em><strong><span>Fordrevne fra Ukraine og energipriser</span></strong></em></p>\n<p><em><span>Fordrevne fra Ukraine</span></em></p>\n<p><span>Med den igangværende krig i Ukraine er det fortsat\nnødvendigt at huse fordrevne fra Ukraine, derfor er der i 2024 opført\nyderligere pavilloner til husning af <span class=\"spelle\">kvoteflytninge</span>.\n</span></p>\n<p><span>Der er med DUT udmeldt en samlet ramme til\nfordrevne fra Ukraine på 900 mio. kr. for kommunerne under ét, som fordeles\nefter DUT-nøglen for 2024. Greve Kommunes andel er en indtægt på -7,7 mio. kr.\nDen udmeldte kompensation vedr. fordrevne fra Ukraine indregnes ikke i\nsigtepunkt for servicerammen. I denne budgetopfølgning 2 indgår udgifter til\nfordrevne fra Ukraine særskilt i forhold til driftsresultat, men indgår i den\nforventede samlede kassepåvirkning.</span></p>\n<p><span>Budgetopfølgning 2 viser, at der forventes en\nsamlet merudgift vedrørende fordrevne fra Ukraine på 4,1 mio. kr. Heraf er 8,2\nmio. kr. indenfor servicerammen og -4,1 mio. kr. udenfor servicerammen.\nMerudgiften finansieres med kompensationen på -7,7 mio. kr. Da hele\nkompensationen ligger inden for servicerammen, medføre det en samlet <span class=\"spelle\">mindreudgifter</span> til fordrevne fra Ukraine på -3,6 mio.\nkr., men et samlet merforbrug på 0,5 mio. kr. på servicerammen.</span></p>\n<p><span>Tabel 3. Merudgifter til boligplacering,\nundervisning og forsørgelsesudgifter til fordrevne fra Ukraine.</span></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">\n    <tbody>\n        <tr>\n            <td>\n            <p><strong><span>Udvalg                                        \n                                          </span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Forventede udgifter 2024</span></strong></p>\n            <p><em><strong><span>mio.kr.</span></strong></em></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Økonomiudvalget\n            (DUT)</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>-7,7</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Klima-,\n            Teknik- og Miljøudvalget</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>8,3</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Beskæftigelses-\n            og Erhvervsudvalget</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>-7,8</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Kultur-\n            og Fritidsudvalget</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>0,2</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Skole-,\n            Børne- og Ungeudvalget</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>3,3</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>I alt</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>-3,6</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span>Opgørelsen af udgifter til fordrevne fra Ukraine\nindeholder <span class=\"spelle\">mindreudgifter</span> til\nSelvforsørgelses- og Introduktionsprogram, samt huslejeindtægter under\nBeskæftigelses- og Erhvervsudvalget.</span></p>\n<p><em><span>Energipriser</span></em></p>\n<p><span>I budgetopfølgning 2 er der forventning om <span class=\"spelle\">mindreudgifter</span> på energiforsyningsområdet, mens der\nfortsat er usikkerhed på området forårsaget af den usikre verdenssituation.</span></p>\n<p><em><strong><span>Anlæg</span></strong></em></p>\n<p><span>Der forventes et samlet netto-<span class=\"spelle\">mindreforbrug</span> på -4,9 mio. kr. på kommunens\nanlægsprojekter i 2024. Der er kendte forskydninger af anlægsprojekter på\nsamlet 25,0 mio. kr. i 2024, som forventes at kunne gennemføres i 2025-28.\nHerudover forventes merudgift på 0,3 mio. kr. vedr. DUT, samt salg på 20,4 mio.\nkr. i 2024, der først forventes gennemført i 2025. Der tages kun\nbevillingsmæssigt stilling til forskydning af salgsindtægt på 19,1 mio. kr. i\ndenne budgetopfølgning 2.</span></p>\n<p><span>Ved Budgetopfølgning 2 forventes et samlet forbrug\npå anlæg på 181 mio. kr. i 2024, hvilket er inklusiv allerede kendte\nforsinkelser og fremrykninger. Administrationen vurderer, at der må forventes\nyderligere forsinkelser af anlæg for i omegnen af 30-50 mio. kr., og at det\nsamlede realiserede forbrug på anlæg dermed, vil blive lavere. Det er endnu\nikke muligt at fastlægge hvilke projekter der konkret vil blive forsinket,\nestimatet på de 30-50 mio. kr. baserer sig på tidligere års resultat</span></p>\n<p><span>Administrationen følger løbende op på de\nigangværende anlægsprojekter i forhold til eventuelle forsinkelser f.eks. som\nfølge af leveranceproblemer.</span></p>\n<p><em><strong><span>Finansiering</span></strong></em></p>\n<p><span>Det samlede resultat på finansiering viser\nbudgetoverholdelse.</span></p>\n<p><span>Følgende gennemgang vedrørende afkast på\nkapitalforvaltning og renter indgår i det forventede resultat under driften\n(udenfor servicerammen) med samlet -7,2 mio. kr. (merindtægt).</span></p>\n<p><em><span>Afkast kapitalforvaltning</span></em></p>\n<p><span>For kommunens kapitalforvaltning er der foreløbig\nen realiseret gevinst på kapitalbeholdningen pr. ultimo juli på -8,5 mio. kr.\nForventningen til resultatet for året er fortsat meget usikker, på trods af en\nrealiseret gevinst pr. ultimo juli, kan et evt. realiseret kurstab senere på\nåret, medføre et samlet realiseret tab.</span></p>\n<p><em><span>Renter</span></em></p>\n<p><span>Merindtægt vedr. renter fra lån til betaling af\nejendomsskatter på -1,4 mio. kr. skyldes stigende renter. Opkrævning af\nejendomsskat er overgået til Skattestyrelsen fra 2024, mens lån til betaling af\nejendomsskatter forventes at overgå til Skattestyrelsen fra 2026/27.</span></p>\n<p><span>Der forventes en <span class=\"spelle\">mindreudgift</span> vedr.\nrenter på kommunens langfristede gæld til <span class=\"spelle\">KommuneKredit</span> på\n-0,4 mio. kr.</span></p>\n<p><em><strong><span>Det samlede forventede regnskab og\nkassepåvirkning</span></strong></em></p>\n<p><span>Resultatoversigten nedenfor viser det samlede\nforventede regnskab for 2024 på baggrund af indmeldingerne til budgetopfølgning\n2.</span></p>\n<p><span>Den ordinære drift består af indtægter (skatter og\n<span class=\"grame\">tilskud)-</span> herunder\nreguleringer for 2024 i Økonomiaftalen (ØA25), driftsudgifter indenfor og udenfor\nservicerammen samt renter og kursreguleringer. Samlet set forventes der i\nbudgetopfølgning 2 en negativ forskydning på 0,6 mio. kr. i forhold til\ndet korrigerede budget. Heri er indregnet en negativ forskydning på 4,2 mio.\nkr. på den ordinære drift, samt en positiv forskydning på -3,6 mio. kr. vedr.\nfordrevne fra Ukraine.</span></p>\n<p><span>Udover den ordinære drift forventes der på\nanlægsområdet et <span class=\"spelle\">mindreforbrug</span> på -4,9 mio.\nkr. som primært afspejler forventede forskydninger til 2025 og frem.</span></p>\n<p><span>Tabel 4. Resultatoversigt 2024 –\nbudgetopfølgning 2</span></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>1.000 kr.</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Oprindeligt\n            budget</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Korrigeret\n            budget</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Forventet\n            regnskab</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Forventet\n            afvigelse fra korrigeret budget (ex. <span class=\"spelle\">Ukkraine</span>)</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Afvigelser\n            (UKRAINE)</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>I alt\n            afvigelser som tillægsbevilliges (TB)</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Indtægter\n            - skatter og generelle tilskud</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-3.606.675</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-3.627.175</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-3.636.153</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-8.978</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-7.686</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-16.664</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Drift\n            indenfor servicerammen</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>2.598.615</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>2.590.842</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>2.626.525</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>35.683</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>8.159</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>21.023</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Drift\n            udenfor servicerammen</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>898.124</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>914.591</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>899.344</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-15.247</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-4.059</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-8.210</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Renter og\n            kursgevinster/-tab</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>8.131</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>6.437</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-803</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-7.240</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>0</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-1.380</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Ordinær\n            drift i alt</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-101.805</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-115.305</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-111.086</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>4.218</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-3.586</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-5.231</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Anlægsprojekter</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>123.388</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>206.671</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>181.402</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-25.269</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Køb og salg af\n            jord og ejendomme</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-4.648</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-24.999</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-4.671</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>20.328</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>19.128</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Anlæg</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>118.740</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>181.671</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>176.730</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-4.941</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>0</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>19.128</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Det\n            skattefinansierede område i alt</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>16.935</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>66.367</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>65.644</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-723</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-3.586</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>13.897</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td></td>\n            <td valign=\"bottom\"></td>\n            <td valign=\"bottom\"></td>\n            <td valign=\"bottom\"></td>\n            <td valign=\"bottom\"></td>\n            <td valign=\"bottom\"></td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Finansieringsoversigt</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Det\n            skattefinansierede område i alt</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>16.935</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>66.367</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>65.644</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-723</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-3.586</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>13.897</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span class=\"spelle\">Låneoptagelse</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-33.750</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-33.750</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-33.750</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Realkreditobligationer,\n            kursregulering</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Afdrag på lån</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>55.798</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>55.462</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>55.462</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Kassetræk\n            </span></strong><span class=\"spelle\"><strong><span>eksl</span></strong></span><strong><span>. finansforskydninger</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>38.983</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>88.078</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>87.355</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-723</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-3.586</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>13.897</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\"></td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Likviditetsopgørelse</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Kassetræk <span class=\"spelle\">eksl</span>. finansforskydninger</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>38.983</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>88.078</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>87.355</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-723</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-3.586</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>13.897</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Deponeringer,\n            netto</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>37.793</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Øvrige\n            Finansforskydninger</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>195</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>5.806</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>5.806</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>Opsparing fra\n            tidligere år, forbrug</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-20.000</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-20.000</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>-20.000</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"bottom\">\n            <p><strong><span>Kassetræk\n            inkl. finansforskydninger</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>56.971</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>73.885</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>73.162</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-723</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>-3.586</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>13.897</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span>Negativt beløb = <span class=\"spelle\">mindreudgifter</span>\n/ merindtægter</span></p>\n<p>Det samlede resultat af budgetopfølgning 2 viser en opbygning af\nlikviditeten på 4,3 mio. kr. (<span class=\"spelle\">Mindreforbrug</span>\nvedrørende fordrevne fra Ukraine -3,6 mio. kr. og <span class=\"spelle\">mindreforbrug</span>\npå driften på -0,7 mio. kr.). Kasseopbygningen skyldes primært kompensation\nvedrørende DUT og midtvejsreguleringen for 2024. Der søges om bevillingsmæssige\ntiltag ved denne opfølgning på 13,9 mio. kr. jfr. Tabel 4 ovenfor. Herunder\nudgifter til Trepartsaftalen, forskydning af salg på anlæg og forskydning af\nrenteindtægter.</p>\n<p><em><strong><span>Likviditet</span></strong></em></p>\n<p>Tabel 5. Likviditetsopgørelse – budgetopfølgning 2</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">\n    <thead>\n        <tr>\n            <td>\n            <p><strong><span>Likviditet primo 2024\n            (mio. kr.)</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>426,8</span></strong></p>\n            </td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>\n            <p><span>Regnskab 2023 - Resteffekt\n            af likviditetsopbygning i 2023</span></p>\n            </td>\n            <td>\n            <p><span>8,4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Regnskab 2023 - <span class=\"spelle\">Urealiseret</span> kursgevinst</span></p>\n            </td>\n            <td>\n            <p><span>21,8</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Budget 2024 - Budgetlagt\n            likviditetstræk 2024</span></p>\n            </td>\n            <td>\n            <p><span>-73,9</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Budget 2024 - Budgetlagt\n            likviditetstræk 2025-27</span></p>\n            </td>\n            <td>\n            <p><span>-130,9</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Ekstra provenu for\n            grundskyld i 2024</span></p>\n            </td>\n            <td>\n            <p><span>24,0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>BO2 - Afvigelse Drift 2024\n            eks. trepart og DUT</span></p>\n            </td>\n            <td>\n            <p><span>-13,2</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>BO2 - Afvigelse Anlæg 2024\n            eks. DUT</span></p>\n            </td>\n            <td>\n            <p><span>4,6</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>BO2 - Anlæg forskydninger\n            til 2025-27</span></p>\n            </td>\n            <td>\n            <p><span>-0,4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>BO2 - Anlæg salg afsluttet</span></p>\n            </td>\n            <td>\n            <p><span>-4,6</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Ukraine inkl. kompensation\n            ifm. Økonomiaftale 2025</span></p>\n            </td>\n            <td>\n            <p><span>3,6</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Regulering ifm.\n            Økonomiaftale 2025 - DUT ex. Ukraine</span></p>\n            </td>\n            <td>\n            <p><span>9,3</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>BY-beslutninger med\n            likviditetspåvirkning, indarbejdes i BO og budget 2025-28</span></p>\n            </td>\n            <td>\n            <p><span>1,9</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Disponibelt\n            beløb ultimo 2027</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>277,5</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Den disponible\n            likviditet ligger over målsætningen på 200 mio. kr. med</span></p>\n            </td>\n            <td>\n            <p><span>77,5</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Ved budgetopfølgning 1 var der en forventet likviditet ultimo 2027 på 231,9\nmio.kr. Stigningen mellem BO1 og BO2 indeholder 17,0 mio. kr. vedr.\nøkonomiaftalen (ØA25) inkl. kompensation vedrørende fordrevne fra Ukraine,\nændring i det forventede forbrug i 2024 vedr. drift, anlæg og finansiering,\nsamt likviditet fra indtægt på grundskyld.</p>\n<p><strong><span>Sagsproces</span></strong></p>\n<p>Budgetopfølgningen er opbygget med en hovedsag, der indeholder de\nvæsentligste konklusioner, efterfulgt af en bevillingssag, som indeholder de\nbevillingsmæssige konsekvenser, og det uddybende bilagsmateriale med alle\nenkeltafvigelser.</p>\n<p><strong><span>Lovgrundlag</span></strong></p>\n<p>Greve Kommunes Økonomiregulativ.</p>\n<p><strong><span>Økonomiske konsekvenser</span></strong></p>\n<p>Budgetopfølgning 2 viser et samlet <span class=\"spelle\">mindreforbrug</span>\npå -0,7 mio. kr. ekskl. Ukraine. </p>\n<p>Inklusive Ukraine er det samlede resultatet -4,3 mio. kr., som ifm.\nbudgetopfølgning 2 er indregnet i likviditeten.</p>\n<p>Servicerammen forventes overholdt med et <span class=\"spelle\">mindreforbrug</span>\npå -12,3 mio. kr.</p>\n<p>Anlægsrammen forventes overholdt.</p>\n<p>Merudgifter til trepartsaftale vedrørende løn finansieres via reguleringer\nfor 2024 i økonomiaftalen (ØA25).</p>\n<p>De bevillingsmæssige konsekvenser indgår i særskilt sag.</p>\n<p><strong><span>Tidsplan</span></strong></p>\n<p>Budgetopfølgning 2 forelægges til behandling i Økonomiudvalget den 25.\nseptember og Byrådet den 2. oktober og efterfølgende til orientering for de\nrespektive fagudvalg i oktober møderækken.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>25/09/2024   Økonomiudvalget</u><br>\r\nOrienteringen blev taget til efterretning.<br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/51611617-316f-4f6a-b71a-45a0e8f4434b",
+          "DocumentId": "51611617-316f-4f6a-b71a-45a0e8f4434b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-013405",
+      "Navn": "Budgetopfølgning 2 (2024)",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 Budget 2024-27 - Forligstekst og implementeringsoversigt udvidelses- og eff.forslag",
+          "Id": "8a54b568-f886-47d5-9c23-20528f66b4cf"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 Aktivitetsopfølgning på det specialiserede socialområde, børn BO2",
+          "Id": "cb5c65c1-d45c-4e9d-96ff-038cc13941e0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 Aktivitetsopfølgning på det specialiserede socialområde, voksne BO2",
+          "Id": "03caf3b6-f44a-4786-bc0d-d4b353a37fb0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 Borgmesterbrev om forventet regnskab for 2024",
+          "Id": "cfd1efa4-50ee-40bf-a966-0e30ad24d5ae"
+        }
+      ],
+      "Documents": null,
+      "Id": "a3e09fdd-e189-4970-a87f-041df51ed959",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "23-013405",
+      "SourceId": null,
+      "Caption": "Budgetopfølgning 2 (2024)",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Byrådet har den 1. november 2021 besluttet, at der skal gives status på\nvedtagne anlægsprojekter sammen med anden og tredje budgetopfølgning. Status\nomfatter økonomi og tidsplan, samt en kort beskrivelse af risici. Det kan,\nudover økonomi og tid, handle om proces for bruger- og borgerinddragelse\nsamt kommunikation.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at status på anlægsprojekter tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Samlet set er der på investeringsoversigten i 2024 85 bevillinger, der\nvedrører kommunens bygninger (jf. bilag 1), og 47 bevillinger der vedrører\nøvrige projekter (jf. bilag 2). De øvrige projekter er primært projekter på\nveje, stier og udendørsarealer, salg og bevilling på IT-projekter samt\nmiljøprojekter. I alt er der afsat 179,9 mio. kr. i budgettet i 2024, hvoraf\ndet på nuværende tidspunkt forventes at kunne gennemføre projekter for i alt\nca. 157,4 mio. kr. </p>\n<p>Overblik over projekterne er opdelt på de kommunale ejendomme (jf. bilag 1)\nog øvrige projekter (jf. bilag 2). I begge overblik fremgår forventet tidsplan,\nbudget og forbrug. I overblikket over projekterne for de kommunale ejendomme\nfremgår desuden:</p>\n<p><strong><em>Projektets risikovurdering</em></strong></p>\n<p>Vurderes i tre niveauer: Lav, mellem og høj. Hvis risikovurdering er mellem\neller høj, er risici beskrevet i yderste højre kolonne.</p>\n<p><strong><em>Projektets fase</em></strong></p>\n<p>Vurderes fra fase 0-5, hvor fase 0-2 er forberedende faser, fase 3 er\nentrepriseudbud, fase 4 er udførsel og fase 5 er afsluttede projekter. </p>\n<p><strong><em>Hvilken bygningstype projektet udføres på</em></strong></p>\n<p>Sorteret ud fra kategorierne: Administration, dagtilbud, flygtninge, flere\nformål, skoler, social eller pleje.</p>\n<p>Der er på nuværende tidspunkt projekter, hvor administrationen vurderer, at\ndet afsatte budget ikke kan bruges i 2024. Det skyldes blandt andet, at\ntidsplanerne er forsinket på grund af uforudsete forhold i projektet som fx\nmiljøsanering, manglende ressourcer hos rådgiver eller entreprenør,\nleveranceudfordringer og manglende ressourcer i administrationen.</p>\n<p><em><strong>Forventede større <span class=\"SpellE\">reperiodiseringer</span></strong></em></p>\n<p>De projekter, hvor administrationen forventer at <span class=\"SpellE\">reperiodisere</span> beløb\npå mere end én mio. kr. til kommende budgetår, er:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Dagtilbud - renovering af klimaskærm</li>\n    <li>Lunas Ark (herunder genhusning)</li>\n    <li>Krogårdsskolen, renovering af tage </li>\n    <li>Besparelser på udgifter til el - ved udskiftning til\n    LED</li>\n    <li>Pulje til nye klimatiltag</li>\n</ul>\n<p>For renovering af klimaskærm på dagtilbud er projekterne igangsat og\nforventes afsluttet i 2025.</p>\n<p>Årsagen til at der <span class=\"SpellE\">reperiodiseres</span> beløb på\nLunas Ark og Krogårdsskolen er, at <span class=\"grame\">der er udarbejdet konkrete\nbetalingsplaner for hvornår udgifterne forventes at falde, efter</span> at\nder er indgået kontrakt med entreprenører på projekterne. Projekterne forløber\nstadig efter <span class=\"spelle\">tidsplanen</span>.</p>\n<p>Der er fremlagt separate sager om effektueringen på varmegenindvinding,\nklima og LED lys. Det bliver desuden løbende fremlagt sager for Klima- Teknik-\nog Miljøudvalget om prioritering af anlægsprojekter på vej- og\nlandskabsområdet.</p>\n<h4>Lovgrundlag</h4>\n<p>Bygningsreglementet, vejloven, tilbudsloven og udbudsloven. </p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser, da der alene gives en orientering.</p>\n<h4>Kommunikation</h4>\n<p>Hvor der er ændringer i tidsplaner for projekter, eller der er udfordringer\nmed at løse projektet indenfor eksisterende anlægsøkonomi drøftes dette i\nprojektorganiseringen, hvor brugerne ofte også er repræsenteret. </p>\n<h4>Tidsplan</h4>\n<p>Forventet afslutningstidspunkt for de enkelte projekter fremgår (jf. bilag 1\nog 2). Der fremlægges en ny status for anlægsprojekterne i forbindelse med\nbudgetopfølgning tre. </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>05/09/2024   Klima-, Teknik- og Miljøudvalget</u><br>\r\nOrienteringen blev taget til efterretning.<br>\r\n\r\n<u>25/09/2024   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget anbefaler, overfor Byrådet, at Klima-, Teknik- og Miljøudvalget indstilling godkendes.</p><br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8a3062f8-7792-4b11-83bb-7976c98880ad",
+          "DocumentId": "8a3062f8-7792-4b11-83bb-7976c98880ad"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003392",
+      "Navn": "Anlægsprojekter 2024 - status",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Status på Anlægsprojekter - Bygninger BO2",
+          "Id": "05da218a-93ed-4d5a-b358-2d70db558a50"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Status på Anlægsprojekter - Øvrige BO2",
+          "Id": "f23588ab-6912-400d-92da-9c9954725acd"
+        }
+      ],
+      "Documents": null,
+      "Id": "1a660876-59cc-4bf3-b37f-b199be51b060",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "24-003392",
+      "SourceId": null,
+      "Caption": "Anlægsprojekter 2024 - status",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><strong>Sagsprocedure</strong></p>\n<p>Økonomiudvalget og Byrådet. </p>\n<p><strong>Resume</strong></p>\n<p>Sagen indeholder de bevillingsmæssige\nkonsekvenser af budgetopfølgning 2 i 2024, som er behandlet på samme møde\numiddelbart forud for denne sag.</p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at alle kasseneutrale omplaceringer godkendes for 2024\n    samt 2025-27 jf. bilag 2</em></li>\n    <li><em>at der godkendes en udgiftsneutral indtægts- og\n    udgiftsbevilling til projekt vedr. faste teams i hjemmeplejen på 0,258\n    mio. kr. i 2024 og 1,033 mio. kr. i 2025-2027.  Finansieret i\n    Økonomiaftalen for 2025 jf. bilag 3.</em></li>\n    <li><em>at der godkendes en indtægtsbevilling på netto -16,986\n    mio. kr. vedr. midtvejsreguleringer og regulering af generelle bloktilskud\n    i 2024, herunder kompensation for trepartsaftalen og fordrevne fra\n    Ukraine. Heraf udmøntes 12,755 mio.kr. jf. punkt 3a, 3b og 3c. Resten\n    tilgår kassen.</em></li>\n    <ol style=\"list-style-type: lower-alpha;\">\n        <li><em>der gives bevilling på\n        7,686 mio. kr. vedrørende fordrevne fra Ukraine, som placeres på en\n        central pulje til udmøntning i budgetopfølgning 3 i 2024, jf. bilag\n        4c </em></li>\n        <li><em>der gives en\n        nettobevilling på 4,744 mio. kr. på tværs af udvalg for de områder der\n        skal kompenseres som følge af midtvejsreguleringen og regulering af\n        generelle bloktilskud i 2024, jf. bilag 4a og 4b</em></li>\n        <li><em>der afsættes et\n        rådighedsbeløb og gives en anlægsbevilling på 0,325 mio. kr. i 2024 til\n        indsats vedrørende digital kontakt til det samlede sundhedsvæsen, jf.\n        bilag 4b</em></li>\n    </ol>\n    <li><em>at der godkendes en indtægtsbevilling på -1,380 mio.\n    kr. til Renteindtægter - lån borgernes lån til betaling af ejendomsskatter\n    i 2024 (udenfor servicerammen) jf. bilag 4a. Pengene tilgår kassen. </em></li>\n    <li><em>at der godkendes en tillægsbevilling på 0,350 mio. kr.\n    i 2024 jf. Byrådsbeslutninger finansieret af kassen. Heraf</em></li>\n    <ol style=\"list-style-type: lower-alpha;\">\n        <li><em>0,250 mio. kr. til\n        medarbejder til kystsikring jf. punkt nr. 28 Byrådsmøde den 26.06.24.,\n        Jf. bilag 4a</em></li>\n        <li><em>0,100 mio. kr. til\n        opfølgning på Kommuneplan 2025, jf. punkt nr. 28 Byrådsmøde den 17.04.24.\n        Jf. bilag 4a</em></li>\n    </ol>\n    <li><em>at det godkendes at salgsindtægt på i alt 19,128 mio.\n    kr. overføres fra 2024 til 2025, jf. bilag 4b.</em></li>\n</ol>\n<p><strong>Sagsbeskrivelse</strong></p>\n<p>Sagen indeholder tekniske rettelser\nidentificeret i forbindelse med budgetopfølgning 2, 2024, som er behandlet på\nsamme møde umiddelbart forud for denne sag. Den\nsamlede resultatopgørelse fremgår af bilag 1.</p>\n<p>I nedenstående tabel ses sum af de tekniske\nrettelser på driften, der indstilles tillægsbevilliget i denne sag, anført\nudvalgsfordelt.</p>\n<p><strong><em>Udvalgsfordelt tekniske rettelser på\ndrift</em></strong></p>\n<p><em>Minus indtægt/mindreforbrug. Plus\nudgift/merforbrug</em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">\n    <tbody>\n        <tr>\n            <td>\n            <p><strong><span>Udvalg</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Tillægsbevilling\n            i 2024</span></strong><strong><span><br>\n            <strong>inkl. Ukraine serviceudgifter</strong></span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Tillægsbevilling\n            i 2024</span></strong><strong><span><br>\n            <strong>inkl. Ukraine Udenfor servicerammen</strong></span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Tillægsbevilling\n            i 2024 samlet</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Tillægsbevilling\n            i 2025 udenfor servicerammen</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>Samlet</span></strong></p>\n            <p><em><span>1.000 kr.</span></em></p>\n            </td>\n            <td>\n            <p><strong><span>-3.433</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>17.300</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>13.867</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>-19.128</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Økonomiudvalget</span></p>\n            </td>\n            <td>\n            <p><span>8.973</span></p>\n            </td>\n            <td>\n            <p><span>17.748</span></p>\n            </td>\n            <td>\n            <p><span>26.721</span></p>\n            </td>\n            <td>\n            <p><span>-19.128</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Klima, Teknik-\n            og Miljøudvalget</span></p>\n            </td>\n            <td>\n            <p><span>348</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n            <td>\n            <p><span>348</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Skole, - Børne-\n            og Ungeudvalget</span></p>\n            </td>\n            <td>\n            <p><span>6.514</span></p>\n            </td>\n            <td>\n            <p><span>-1.555</span></p>\n            </td>\n            <td>\n            <p><span>4.959</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sundheds- og\n            Omsorgsudvalget</span></p>\n            </td>\n            <td>\n            <p><span>4.761</span></p>\n            </td>\n            <td>\n            <p><span>325</span></p>\n            </td>\n            <td>\n            <p><span>5.086</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Beskæftigelses-\n            og Erhvervsudvalget</span></p>\n            </td>\n            <td>\n            <p><span>34</span></p>\n            </td>\n            <td>\n            <p><span>-6.655</span></p>\n            </td>\n            <td>\n            <p><span>-6.621</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Social- og\n            Handicapudvalget</span></p>\n            </td>\n            <td>\n            <p><span>360</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n            <td>\n            <p><span>360</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Økonomiaftalen\n            (ØA25) inkl. Ukraine</span></p>\n            </td>\n            <td>\n            <p><span>-24.423</span></p>\n            </td>\n            <td>\n            <p><span>7.437</span></p>\n            </td>\n            <td>\n            <p><span>-16.986</span></p>\n            </td>\n            <td>\n            <p><span>0</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><strong>Økonomiske konsekvenser</strong></p>\n<p>Der søges om en samlet bevilling på 13,9 mio.\nkr., der finansieres af kassen i 2024, mens -19,1 mio. kr. tilføres kassen i\n2025.</p>\n<p>Bevillingerne påvirker serviceudgifterne med\n-3,4 mio. kr. i 2024, mens -2,1 mio. kr. er bevillinger på driften udenfor\nservicerammen. Anlægsrammen påvirkes med 19,4 mio. kr. i 2024.</p>\n<p>Tillægsbevillinger indberettes i kommunens\nøkonomisystem og bliver dermed en del af det korrigerede budget.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>25/09/2024   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget anbefaler punkt 1-6.</p>\n<p>I forlængelse af Budgetforliget for Budget 2025-28 mellem Venstre, Konservative, Liselott Blixt (UP), Moderaterne og SF indstiller Økonomiudvalget videre, at 15 mio. kr. af den ledige likviditet disponeres til at afskrive skolernes samlede forventede merforbrug ved budgetopfølgning 2.</p>\n<p> Herudover disponeres den resterende ledige likviditet på 1,9 mio. kr. og 0,1 mio. kr. fra ’Udskiftning af it-arbejdspladser’ til støjindsats (anlægsbevilling) med 0,5 mio. kr. hver år i perioden 2025-28. De 0,1 mio. kr. vedrører et mindreforbrug på anlægsprojektet ’Udskiftning af it-arbejdspladser’, som ville have været meldt ind i Budgetopfølgning 3.</p>\n<p>Enhedslisten stemmer for bevilling af 15 mio. kr. til at afskrive skolernes samlede forventede merforbrug ved budgetopfølgning 2, finansieret af den ledige likviditet, men ikke for midler til støjindsats, da Enhedslisten allerede har afsat midler til støjindsats i deres ændringsforslag til Budget 2025-28.</p><br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1653524e-231a-4454-98dc-9fd3943a1ada",
+          "DocumentId": "1653524e-231a-4454-98dc-9fd3943a1ada"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-013405",
+      "Navn": "Budgetopfølgning 2 (2024) - bevillingssag",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Resultatoversigt 2024 (BO2)",
+          "Id": "15315972-8429-4e40-bd36-7d1bc303bd27"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Kasseneutrale omplaceringer",
+          "Id": "826fa59d-4d32-49fc-aa5b-88422b449ca4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Eksternt finansieret projekter",
+          "Id": "db219019-c383-4d52-b5b7-718de8ef6bda"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4a - Afvigelser på ordinær drift inkl. DUT",
+          "Id": "2e255d48-1203-4b36-9aae-dcc7272689a0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4b - Afvigelser på anlæg",
+          "Id": "738c1faf-4260-4c55-ab12-c6b427c73f9d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4c - Afvigelser på ordinær drift vedr. Ukraine",
+          "Id": "635c0875-fa85-402f-bf87-8e4874c16590"
+        }
+      ],
+      "Documents": null,
+      "Id": "eacc9464-24a2-4177-ae61-bc0d5e269476",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "23-013405",
+      "SourceId": null,
+      "Caption": "Budgetopfølgning 2 (2024) - bevillingssag",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1 a. Ikke godkendt</p>\n<p>For stemte: Ø</p>\n<p>Imod stemte: V, A, C, Liselott Blixt (UP), M og F</p>\n<p> </p>\n<p>1 b. Ikke godkendt</p>\n<p>For stemte: A</p>\n<p>Imod stemte: V, C, Liselott Blixt (UP), M , F og Ø</p>\n<p> </p>\n<p>1 c. Godkendt</p>\n<p>For stemte: V, C, Liselott Blixt (UP), M og F </p>\n<p>Imod stemte: A og Ø</p>\n<p> </p>\n<p>2. Selvbudgettering for 2025 blev godkendt.</p>\n<p> </p>\n<p>3. Godkendt</p>\n<p>For stemte: V, C, Liselott Blixt (UP), M og F</p>\n<p>Imod stemte: A og Ø</p>\n<p> </p>\n<p>4. -14. Godkendt.</p>\n<p> </p>\n<p>Jette Andersen deltog som suppleant for Kenneth Jerkel i behandlingen af punktet.</p><br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet</p>\n<h4>Resume</h4>\n<p>Med denne sag vedtager Byrådet Greve Kommunes budget for perioden 2025-28,\nherunder tager Byrådet stilling til valg mellem statsgaranteret\nudskrivningsgrundlag og selvbudgettering, godkender skattesatser og takster for\n2025 samt afsætter rådighedsbeløb og giver anlægsbevilling til anlægsprojekter\npå maksimalt 2 mio. kr. </p>\n<p>Forud for 2. behandlingen er der indgået budgetforlig om budget 2025-28.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller Budget 2025-28 til 2. behandling i Byrådet,\nherunder at Byrådet godkender</em></p>\n<p><em>1. Budgetforlig/ændringsforslag fremsendt af, </em></p>\n<p><em>                      a. \nEnhedslisten, jf. bilag 3 </em></p>\n<p><em>                      b.\nSocialdemokratiet jf. bilag 2 </em></p>\n<p><em>                      c. Forligsparterne;\nVenstre, Det Konservative Folkeparti, Liselott Blixt (UP),\nModeraterne og                       Socialistisk\nFolkeparti, jf. bilag 1</em></p>\n<p><em>2. Tager stilling i valget mellem Statsgaranti og Selvbudgettering\nfor 2025, jf. bilag 5</em></p>\n<p><em>3. Udskrivningsprocenten forhøjes med 0,07 procentpoint til i alt\n24,59 pct. i overensstemmelse med tidligere beslutning truffet\nifm. vedtagelsen af budget for 2021-24</em></p>\n<p><em>4. Grundskyldspromillen fastholdes til 5,5 promille for øvrige\nejendomme (alle andre ejendomme end produktionsjord), mens grundskyldspromillen\npå produktionsjord fastholdes på 2,144 promille</em></p>\n<p><em>5. Dækningsafgiftspromillen på 3,000 promille i 2025 og\ndækningsafgift for alle offentlige ejendomme afregnes i 2025-28 med samme beløb\nsom i 2024</em></p>\n<p><em>6. Kirkeskat forhøjes med 0,08 procentpoint til i alt 0,81 pct.</em></p>\n<p><em>7. Taksterne i Takstblad 2025, jf. bilag 6</em></p>\n<p><em>8. At administrationen pba. budgetforliget bemyndiges til\nat genberegne takster, der er berørt at forliget, samt publicere de\nlovregulerede takster, når de foreligger</em></p>\n<p><em>9. At der indarbejdes en servicerammepulje på 15 mio. kr. i 2025\nog at administrationen får mandat til at tilpasse servicerammepuljen i\nforbindelse med den fælles budgetkoordinering, <span class=\"GramE\">således at</span>\nkommunernes samlede budgetlægning overholder rammerne i Økonomiaftalen for 2025</em></p>\n<p><em>10. At det afsatte rådighedsbeløb frigives til anlægsprojekter på\nmaksimalt 2,0 mio. kr., jf. bilag 7</em></p>\n<p><em>11. At administrationen bemyndiges til at foretage tekniske\njusteringer i forbindelse med indberetning i økonomisystemet </em></p>\n<p><em>12. At en eventuel sanktion i forbindelse med overskridelse af\nkommunernes samlede anlægsramme håndteres administrativt, idet borgmesteren\nbemyndiges til, efter den politiske budgetvedtagelse, at gennemgå\nperiodiseringen på anlægsprojekter i 2025 med henblik på at udskyde nogle\nprojekter til 2026</em></p>\n<p><em>13. At en eventuel sanktion i forbindelse med overskridelse af\nkommunernes samlede skatteudskrivning finansieres af kassebeholdningen og\nfremgår som et træk på likviditeten</em></p>\n<p><em>14. At udvalgsbeskrivelser af budgettet konsekvensrettes i\noverensstemmelse med 2. behandlingen af budget 2025-28.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 19. september 2024 er der indgået budgetforlig mellem Venstre, Det\nKonservative Folkeparti, Liselott Blixt (UP), Moderaterne og Socialistisk\nFolkeparti. Budgetforliget er modtaget rettidigt og vedlagt som bilag 1.</p>\n<p>Socialdemokratiet og Enhedslisten har rettidigt fremsendt ændringsforslag.\nÆndringsforslagene er vedlagt som henholdsvis bilag 2 og 3.</p>\n<p>Den 19. september 2024 kl. 8.00 var der frist for indsendelse af politiske\nændringsforslag, hvis de skulle medgå i det publicerede materiale til\nØkonomiudvalgets behandling. Den 25. september 2024 kl. 8.00 var der frist for\npolitiske ændringsforslag, hvis de skulle direkte til Byrådets behandling. </p>\n<p>Økonomiudvalget har den 25. september 2024 (pk. 2) oversendt direktionens\nbudgetforslag, budgetforliget og ændringsforslagene til 2. behandling i\nByrådet. </p>\n<p>Den 26. september 2024 kl. 8.00 var der frist for indsendelse af politiske\nunderændringsforslag til allerede fremsendte ændringsforslag, hvis de skulle\nmedgå i det publicerede materiale til Byrådsmødet.</p>\n<p><em><strong>Proces</strong></em></p>\n<p>Økonomiudvalget og Byrådet vedtog henholdsvis den 28. august og 4. september\n2024, at afstemningen til 2. behandling af budgettet skal ske således, at der\nstemmes om det samlede budgetforlig og om det/de samlede\nændringsforslag fremsendt af øvrige partier. Afstemningen sker således, at\nder stemmes om det mest vidtgående forslag først.</p>\n<p>Selve budgetbehandlingen forløber efter følgende proces:</p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Borgmesterens budget tale</li>\n    <li>Partiernes gruppeformænd får ordet (rækkefølge efter\n    partistørrelse: V, A, C, UP, Ø, M og F</li>\n    <li>Debat/replik om budgettet</li>\n    <li>Afstemning</li>\n    <li>Beslutning om øvrige indstillingspunkter til\n    dagsordenspunktet</li>\n</ol>\n<p><em><strong>Afstemning om budgettet</strong></em></p>\n<p>Underændringsforslag sættes til afstemning før ændringsforslag\n(budgetforlig/budgetforslag), og det mest vidtgående forslag sættes til\nafstemning først. Ændringsforslaget fra Enhedslisten indeholder det største\nkassetræk og en skattestigning på 0,41 <span class=\"GramE\">pct.point</span>,\nhvorfor det betragtes som mest vidtgående. Ændringsforslaget fra\nSocialdemokratiet indeholder en skattestigning på 0,36 <span class=\"GramE\">pct.point</span>,\nog  betragtes som det næstmest vidtgående. Rækkefølgen for afstemning er\nderfor: </p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Budgetforslag fra Enhedslisten (bilag 3)</li>\n    <li>Budgetforslag fra Socialdemokratiet (bilag 2)</li>\n    <li>Budgetforslag fra forligsparterne; Venstre, Det\n    Konservative Folkeparti, Liselott Blixt (UP), Moderaterne og Socialistisk\n    Folkeparti (bilag 1)</li>\n</ol>\n<p><em><strong>Præciseringer af budgettet (underændringsforslag)</strong></em></p>\n<p>Forligsparterne, Socialdemokratiet og Enhedslisten kan\nfremsende præciseringer af budgetforliget/budgetforslagene. Budgetteknisk\nkaldes dette underændringsforslag. Der kan kun stilles underændringsforslag til\nallerede fremsatte ændringsforslag, med mindre hele Byrådet er enige om at\nændre den godkendte procedure for budgetprocessen. Deadline for\nunderændringsforslag var den 26. september 2024. </p>\n<p><em><strong>Valg mellem statsgaranti og selvbudgettering</strong></em></p>\n<p>Greve Kommunes indtægter er i direktionens budgetforslag baseret på\nstatsgaranti for 2025 og overslagsårene er baseret på KL´s skatte- og\ntilskudsmodel. I bilag 5 fremgår beregning af en evt. effekt ved at vælge\nselvbudgettering i stedet for statsgarantien i 2025. Beregningen indikerer en\npotentiel gevinst på netto 13,4 mio. kr.</p>\n<p>Valget mellem statsgaranti og selvbudgettering er et valg mellem den\nindtægt, som staten garanterer, og den indtægt som borgerne i Greve Kommune\nforventeligt kommer til at svare skat af. I valget skal Greve Kommunes\nbefolkningsvækst ift. befolkningsvæksten på landsplan tages i betragtning, og\ntilsvarende Greve Kommunes økonomiske vækst ift. væksten på landsplan. Det\nsamlede resultat af valg af finansieringsform er påvirket af antallet af\nkommuner, der vælger selvbudgettering.</p>\n<p>Valget af finansieringsform er i år påvirket af, at vækstskønnet for 2025 er\nopjusteret fra Økonomisk Redegørelse i maj på 1,6 pct. til 2,3 pct. i Økonomisk\nRedegørelse i august. Det lavere vækstskøn fra maj ligger til grund for\nstatsgarantien, mens det nye og højere vækstskøn vil ligge til grund for en\neventuel selvbudgettering. I begge tilfælde er der tale om skøn.</p>\n<p>I beregningen lægges det til grund, at Greve Kommune vil have en\nøkonomisk vækst i 2025, der svarer til landsgennemsnittet. Usikkerheden\nrelateret til vækstskønnet er dermed både om vækstskønnet på landsplan bliver\nrealiseret, og om væksten i Greve Kommune svarer til vækstskønnet på\nlandsplan. For yderligere uddybning af konsekvenserne af valget mellem\nselvbudgettering og statsgaranti henvises til bilaget.</p>\n<p>Valget mellem statsgaranti og selvbudgettering er alene byrådets, idet\nselvbudgettering indeholder en betydelig risiko, som Byrådet bær i hele 2025 –\nog videre frem mod 2028, <span class=\"GramE\">såfremt</span> der skal spares op\ntil at betale en negativ efterregulering i 2028. Administrationen anbefaler\nstatsgaranti, hvis Byrådet vil have sikkerhed for skatteindtægten. Hvis Byrådet\nvil forsøge at få gevinsten af det højere vækstskøn, skal Byrådet vælge selvbudgettering.</p>\n<p><em><strong>Skatter og afgifter</strong></em></p>\n<p>De indarbejdede skatter og afgifter for 2025 er:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Indkomstskatteprocent på 24,59 pct.\n    Udskrivningsprocenten er forhøjet med 0,07 i overensstemmelse med\n    tidligere beslutning truffet ifm. vedtagelsen af budget for 2021-24\n    (ændret)</li>\n    <li>Grundskyldspromille på 5,5 promille (uændret)</li>\n    <li>Grundskyldspromille produktionsjord på 2,144 promille\n    (uændret)</li>\n    <li>Dækningsafgift på erhvervsejendomme på 3,000 promille\n    (uændret)</li>\n    <li>Dækningsafgift for alle offentlige ejendomme afregnes i\n    2025-28 med samme beløb som i 2024 (uændret)</li>\n    <li>Kirkeskat på 0,81 pct. Forhøjet fra 0,73 til 0,81\n    (ændret)</li>\n</ul>\n<p>Til orientering vedtog Folketinget den 21. december 2021 et lovforslag om\nfastsættelse af promiller vedrørende dækningsafgift for erhvervsejendomme\nm.v. Dækningsafgift på erhvervsejendomme er i konsekvens heraf nedjusteret\ntil 3 promille. Med lovændringen beregnes satsen nu af et højere beløb, men med\nen nedjusteret promille, hvorved provenuet fastholdes.</p>\n<p>Videre vedtog Folketinget den 30. maj 2023 Lovforslag om opkrævning og\ninddrivelse af grundskyld og dækningsafgift m.v. (L113), statens afregning af\ngrundskyld og dækningsafgift til kommunerne, foreløbige vurderinger som\nmidlertidigt beskatningsgrundlag i 2024 og 2025, og forenkling af\nejendomsvurderingerne for 2024 og 2025. Af L113 fremgår det, at alle offentlige\nejendomme for kalenderårene 2024-2028 opkræves en dækningsafgift svarende til\ndet beløb, der blev opkrævet for skatteåret 2023. Opkrævning i 2025 er dermed\nlig opkrævning i 2024 og 2023. </p>\n<p>Med L113 blev beskatningen for boligejerne omlagt fra afgiftspligtige\ngrundværdier til beskatning direkte på grundværdien for ejendomsejere. Med\nloven blev der fastsat et loft for de kommunale grundskyldspromiller.\nBudgetforliget indeholder den af ministeriet udmeldte grundskyldspromille på\n5,5 promille i Greve Kommune i 2025. Med lovændringen beregnes satsen nu af et\nhøjere beløb, men med en nedjusteret promille, hvorved provenuet fastholdes.</p>\n<p>Produktionsjord er ikke omfattet af ejendomsskattereformen, og\ngrundskyldspromillen på produktionsjord fastholdes derfor på 2,144 promille.</p>\n<p>Administrationen har modtaget information fra Provstiet om, at Provstiet fra\n2025 hæver kirkeskatten fra 0,73 pct. til 0,81 pct. grundet stigende\nudgifter til byggeri, renovering og indkøb af provstebolig. Byrådet skal\ngodkende den sats for kirkeskat, som Provstiet fastsætter. Byrådet har ikke\nmandat til at ændre Provstiets beslutning.</p>\n<p><em><strong>Godkendelse af takstblad for 2025</strong></em></p>\n<p>Vedlagt som bilag 6 er det foreløbige takstblad til vedtagelse. Takster, som\nikke skal genberegnes på baggrund af det vedtagne budget, men som alene bliver\npris- og lønfremskredet, fremgår uden farvemarkering. Når budgettet er\nvedtaget, genberegnes de øvrige takster (markeret med gult) og de lægges på\nkommunens hjemmeside og meldes ud til relevante parter og borgere sammen med de\ntakster, som opdateres administrativt, når de lovregulerede takster\nforeligger.</p>\n<p><em>Servicerammepulje</em></p>\n<p>Administrationen anbefaler, at der i budget 2025 indarbejdes en\nservicerammepulje på 15 mio. kr., <span class=\"GramE\">således at</span> overførte\nmidler fra 2024 til 2025 kan anvendes i 2025 uden, at det udfordrer\noverholdelse af servicerammen. For ikke at påvirke likviditeten finansieres\npuljen af overførte midler og oprettes rent regnskabsteknisk med en modpost på\nbudgettets finansforskydninger. Det indstilles, at administrationen får mandat\ntil at tilpasse servicerammepuljen i forbindelse med den fælles\nbudgetkoordinering, <span class=\"GramE\">således at</span> kommunernes samlede\nbudgetlægning overholder rammerne i Økonomiaftalen for 2025.</p>\n<p><em><strong>Anlægsbevillinger</strong></em></p>\n<p>Vedlagt som bilag 7 er en oversigt over rådighedsbeløb og anlægsbevillinger\ntil anlægsprojekter på maksimalt 2,0 mio. kr., som søges frigivet direkte ved\nbudgetvedtagelsen uden en særskilt bevillingssag. Der søges om frigivelse af\nanlægsbevilling på de konkrete projekter med effekt pr. 1. januar 2025.</p>\n<p>Bilag 8 indeholder en investeringsoversigt med de anlæg, der er indeholdt i\nBudgetforliget for 2025-28.</p>\n<p><em><strong>Bemyndigelse til teknisk justering i økonomisystemet</strong></em></p>\n<p>Efter budgetvedtagelsen bliver konsekvenserne af det vedtagne budget\nindarbejdet i økonomisystemet. Her kan konsekvenserne af en genberegning af\ntaksterne på dagtilbudsområdet og de dertilhørende konsekvenser for udgifterne\ntil fripladstilskud og søskenderabat erfaringsmæssigt give anledning til mindre\npåvirkning af kassebeholdningen. Hertil kan indberetningen i overslagsårene\n2026-28 give mindre udsving grundet forskellige pris- og lønreguleringssatser\npå de enkelte arter.</p>\n<p>Det indstilles, at administrationen bemyndiges til at foretage ovennævnte\ntekniske justeringer, <span class=\"GramE\">således at</span> budgettet\npå de enkelte fagområder bliver retvisende. Eventuelle bevillingsmæssige\nkonsekvenser af disse justeringer foretages med modpost på kassebeholdningen.</p>\n<p><em><strong>Eventuel sanktion og behov for ændret anlægsperiodisering</strong></em></p>\n<p>I forhold til overholdelse af den samlede service-/anlægsramme og den\nsamlede skatteudskrivning ses landets kommuner under ét. I forhold til en\neventuel budgetsanktion vedrørende service- og anlægsrammen gælder\nnedenstående.</p>\n<ul style=\"list-style-type: disc;\">\n    <li>3 mia. kr. af bloktilskuddet er betinget af, at\n    kommunerne overholder den aftalte serviceramme</li>\n    <li>1 mia. kr. af bloktilskuddet er betinget af, at\n    kommunerne overholder den aftalte anlægsramme i budgetterne</li>\n    <li>En evt. sanktion er kollektiv og kommunerne\n    sanktioneres krone for krone ved overskridelse af budgetterne for\n    kommunerne under ét</li>\n</ul>\n<p>På baggrund af kommunernes foreløbige indmeldinger til KL (pr. 12.\nseptember) tyder det på, at kommunerne samlet set overholder den fastsatte\nserviceramme og ligger 0,7 mia. kr. under aftalen, mens der er et betydeligt\npres på anlægsrammen, hvor der på kommunalt plan samlet set stadig er en\noverbudgettering på omkring 1,6 mia. kr. KL opfordrer til at sænke det samlede\nanlægsbudget, og om nødvendigt at foretage korrigerende handlinger, så\nanlægsrammen samlet set kan overholdes. Hvis det samlede anlægsbudget ikke\ntilpasses udgør Greve Kommune 0,875 pct. af en mulig samlet overskridelse\npå 0,9 mia. kr., svarende til en sanktion på ca. 7,9 mio. kr. Resultatet af\nindmelding til KL som offentliggøres ifm. Borgmestermødet den 26. september\n2024 var ikke kendt, da denne sagsfremstilling blev offentliggjort. </p>\n<p>Det er endnu uvist, om der bliver behov for, at Greve Kommune reducerer\nanlægsbudgettet i 2025 for at medvirke til at kommunerne under ét overholder\nanlægsrammen, men det kan vise sig at blive nødvendigt. Det indstilles derfor,\nat Borgmesteren bemyndiges til, efter den politiske budgetvedtagelse, at\ngennemgå periodiseringen af anlægsprojekterne med henblik på at udskyde\nprojekter fra 2025 til overslagsårene.</p>\n<p>Skattesanktionsloven medfører, at der sker en modgående regulering af\nbloktilskuddet svarende til overskridelsen, hvis der sker en skatteforhøjelse\nfor kommunerne under ét. Modregning sker som en kombination af individuel\nmodregning af kommuner, som har overskredet en evt. tildelt ramme til\nforhøjelser, og kollektiv modregning af alle kommuner. Den kollektive del udgør\nsom udgangspunkt 25 pct. af provenustigningen i 2025, 50 pct. i 2026 og 2027\nsamt 75 pct. i 2028 og 100 pct. i 2029.</p>\n<p>På skattesiden balancerer ønsket om at hæve og sænke skatterne nogenlunde.\nStatus pr. 12. september 2024 er en mindre samlet stigning på ca. 10 mio.\nkr. Greve Kommunes andel af den kollektive sanktion vil i 2025 udgøre ca.\n22 t.kr.</p>\n<p>Det anbefales, at en eventuel sanktion i forbindelse med overskridelse\naf den samlede kommunale skatteudskrivning finansieres af kassebeholdningen med\npåvirkning på den gennemsnitlige likviditet.</p>\n<p><em><strong>Udvalgsbeskrivelser</strong></em></p>\n<p>Beskrivelse af de enkelte udvalgs budget 2025-28 konsekvensrettes i\noverensstemmelse med 2. behandlingen af budgettet.</p>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven. Det fremgår af den kommunale styrelseslov, at budgettet\nskal behandles af Byrådet to gange med minimum tre ugers mellemrum.\nFørstebehandlingen fandt sted den 4. september 2024 og 2. behandlingen\nsker den 2. oktober 2024.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Greve Kommunes økonomiske politik indeholder en række strategiske\nmålepunkter for budgetarbejdet. Disse tilsiger et overskud på den ordinære\ndrift (før anlæg og finansielle poster) på mindst 120 mio. kr. i 2025 og frem,\net anlægsbudget på mindst 70 mio. kr. årligt set over budgetperioden, en\ngennemsnitlig likviditet på mindst 200 mio. kr., overholdelse af den tekniske\nservice- og anlægsramme og endelig en nettoreduktion af kommunens langsigtede\ngæld.</p>\n<p>Budgetforliget overholder de strategiske målepunkter bortset fra, at den\ntekniske serviceramme overskrides med 20,2 mio. kr. og den tekniske anlægsramme\noverskrides med 13,2 mio. kr. Greve Kommune overskrider ikke servicerammen,\nhvis der tages udgangspunkt i kommunens befolkningsmæssige andel, mens\nanlægsrammen overskrides med 11,1 mio. kr.</p>\n<p>Både budgetforliget og ændringsforslagene tager udgangspunkt i direktionens\nbudgetforslag, som indeholder en skærpet risikoprofil. Risici ved budget 2025\ner beskrevet i bilag 9.</p>\n<p>Greve Kommunes budget beskriver den økonomiske ramme for kommunens\naktiviteter for perioden 2025-28. Efter behandlingen vil alle vedtagne\nændringsforslag blive indarbejdet i budgettet. Økonomiske konsekvenser ved\nbudgetforliget er indarbejdet i budgettets hovedoversigt, som fremgår af bilag\n10.</p>\n<h4>Øvrige konsekvenser</h4>\n<p>Eventuelle personalemæssige konsekvenser m.v. er beskrevet i det\nbudgetmateriale, der ligger til grund for de indsendte budgetforslag.</p>\n<h4>Kommunikation</h4>\n<p>Det vedtagne budget, herunder den endelige resultatoversigt og øvrigt\ntilhørende materiale, vil blive offentliggjort på Greve Kommunes hjemmeside.</p>\n<h4>Tidsplan</h4>\n<p>Der henvises til den overordnede tidsplan for Budget 2025-28.</p>\n<h4>Høring</h4>\n<p>Direktionens budgetforslag inkl. samlet materiale har været i høring hos\neksterne parter og i MED-organisationen i perioden fra den 22. august 2024 til\nden 8. september 2024. Høringsmateriale og høringssvar fremgår af Greve\nKommunes hjemmeside. Budgetforliget har ikke personalemæssige\nkonsekvenser, der giver anledning til yderligere høring.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>25/09/2024   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Indstilles godkendt, med den tilføjelse, at Venstre, Konservative, Liselott Blixt (UP), Moderaterne og SF har indgået budgetforlig om Budget 2025-28. Budgetaftalens dokumenter vedhæftes referatet og danner grundlag for Økonomiudvalgets oversendelse af budgetforslaget til Byrådets 2. behandling.</p>\n<p>Herudover oplyses, at administrationen rettidigt har modtaget ændringsforslag til Budget 2025-28 fra henholdsvis Socialdemokratiet og Enhedslisten, som ligeledes vedhæftes referatet og oversendes til Byrådets 2. behandling.</p><br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c6b93484-2e12-4aa0-9936-376026f20c8f",
+          "DocumentId": "c6b93484-2e12-4aa0-9936-376026f20c8f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-000963",
+      "Navn": "2. behandling af Budget 2025-28",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Forligspartiernes budgetforslag 2025-28",
+          "Id": "f016539d-d25b-4a32-b8c0-a41e3c36316e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Socialdemokratiets budgetforslag 2025-28",
+          "Id": "894e8822-b42e-4be2-9a1d-cf73ee040551"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Enhedslistens budgetforslag 2025-28",
+          "Id": "73b702d5-26a8-4c1d-aab7-91cc139aab2a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Direktionens budgetforslag 2025-28",
+          "Id": "067d3c13-e2f4-49f6-b0a1-2bb0cef8a77e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5. Valg af selvbudgettering vs. statsgaranti for 2025",
+          "Id": "3c008fcc-3956-4571-a571-e3c504eef39b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 6. Takstblad 2025",
+          "Id": "f4fe9984-c96a-4990-a952-f625b01ac60f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 7. Anlægsbevillinger på maksimalt 2 mio. kr. ved budgetvedtagelsen 2025-28",
+          "Id": "ec464d7a-f004-4baf-abc2-bc4c09cdd04e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 8. Investeringsoversigt anlæg 2025-28",
+          "Id": "f0e71502-6401-40d2-8490-2d926f1e486b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 9. Risici ved Budget 2025",
+          "Id": "a6e76605-7e61-49ef-8454-f198c74694be"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 10. Hovedoversigt Budget 2025-2028",
+          "Id": "c5af995b-ca57-4243-a15a-da6c448ffa5a"
+        }
+      ],
+      "Documents": null,
+      "Id": "221de1b9-deb0-4247-933f-05abfc6c5a33",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "24-000963",
+      "SourceId": null,
+      "Caption": "2. behandling af Budget 2025-28",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget, Byrådet</p>\n<h4>Resume</h4>\n<p>Det almene plejecenter, i Lundegårdsparken i Tune, er i en kritisk fase i\nforhold til krav og økonomi. Administrationen indstiller at fristen for\ngrundsalg og fremsendelse af skema B forlænges for at arbejde videre med\nløsninger på disse udfordringer.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at tillæg om forlængelse af betinget grundkøbsaftale\n    godkendes</em></li>\n    <li><em>at godkende at  frist for godkendelse af skema B forlænges til 1.\n    maj 2025</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Det almene plejecenter, som Boligselskabet Sjælland skal opføre og eje i\nLundegårdsparken i Tune, er i en kritisk fase. Boligselskabet har fremlagt en\nprojektøkonomi, som Greve Kommunes revisor har vurderet gør det muligt at\nopføre plejecenteret, indenfor den aftalte økonomiske ramme. Dog vil\nprojektøkonomien give et højere huslejeniveau i plejeboligerne end forventet,\nmed risiko for tomgang og tilhørende kommunal merudgift. I den fremlagte\nprojektøkonomi, er der endnu ikke taget højde for de krav, lokalplanen stiller\ntil facadelængde og terrænregulering. Der er derfor behov for omprojektering,\nhvis projektet skal gennemføres. Dette kræver som minimum, at fristen for\ngrundsalget forlænges og at fristen for ansøgningen om kommunalt tilsagn til\nskema B, forlænges.</p>\n<p>Nedenfor gennemgås kort problemstillingerne omkring projektøkonomien og\nheraf evt. afledte fravigelser fra de vilkår, Greve Kommune har udbudt grunden\nog opgaven med. </p>\n<p><em><strong>Baggrund</strong></em></p>\n<p>Greve Kommune indgik den 22. juni 2022 en betinget aftale med Boligselskabet\nSjælland om salg af en grund i Lundegårdsparken i Tune. Formålet med\ngrundsalget er at boligselskabet skal opføre og eje et alment plejecenter med\n72 boliger. </p>\n<p>Projektet er blevet forsinket over sommeren 2023, da boligselskabet måtte\nopsige aftalen med den entreprenør, der oprindeligt var tildelt opgaven. </p>\n<p>På byrådsmødet den 2. oktober 2023 (pkt. 7), blev tillæg til\ngrundkøbsaftalen godkendt, hvor fristen for opfyldelse af betingelserne i\ngrundkøbsaftalen blev forlænget til den 31. oktober 2024. Fristen for at opnå\nGreve Kommunes tilsagn til skema B blev samtidigt forlænget til samme dato.\nTilsagn til skema B er en forudsætning i alment byggeri, for at boligselskabet\nkan opnå støtte til opførelse af plejeboligerne. </p>\n<p>Boligselskabet Sjælland har i perioden fra august 2023 og frem til 13.\nseptember 2024 sammen med en ny entreprenør arbejdet videre med projektering af\nplejecenteret. </p>\n<p>Byrådet blev orienteret om projektforslaget før sommerferien 2024 (Byrådet\nden 26. juni 2024, pkt. 25).</p>\n<p>Klima-, Teknik- og Miljøudvalget behandlede den 15. august, (pkt. 12) sag\nom dispensationsansøgning, hvor der blev givet dispensation til én af fire\nforhold jf. nedenfor. </p>\n<p><em><strong>Status på projektet</strong></em></p>\n<p>Det har vist sig, at projektøkonomien er presset. Budgettet til at opføre\nplejecenteret er dels bestemt af det maksimumbeløb et støttet alment byggeri af\nplejeboliger må opføres indenfor, dels af den lejeomkostning Greve Kommune har\nbudgetteret med, for at råde over plejecenterets serviceareal. Huslejebudgettet\nfor servicearealerne er fastlagt ud fra den husleje, som Boligselskabet\nSjælland bød ind med. </p>\n<p>Fire væsentlige forudsætninger giver dog en stor usikkerhed for om byggeriet\nkan realiseres, både fordi de udgør væsentlige fravigelser fra det udbudte\nbyggeprogram, og samtidig udgør væsentlige økonomiske udfordringer for\nrealisering af projektet. Disse er:</p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Krav om at boliger på max 65 m<sup>2</sup> for at undgå\n    en høj husleje i plejeboligerne </li>\n    <li>Anlægsudgift til serviceareal skal holdes nede, for at\n    kommunens husleje kan holde sig indenfor det afsatte huslejebudget</li>\n    <li>Øgede udgifter til bortskaffelse af jord og ny løsning\n    for handicaptilgængelig adgang </li>\n    <li>Behov for eventuel omprojektering, for at imødekomme\n    krav om let adgang fra boligerne til fællesareal, i boenhed på første sal</li>\n</ol>\n<p>Administrationen anbefaler derfor, at der gives en tidsfristforlængelse frem\ntil 1. maj 2025 til at boligselskabet skal fremsende skema B, og at der inden\nda fremlægges fagudvalgssager om, hvordan de beskrevne udfordringer kan\nhåndteres, med henblik på at holde sig indenfor økonomien. </p>\n<p><em><strong>Udbudsvilkår - udfordringer </strong></em></p>\n<p>Det skal sikres, at boligerne og servicearealerne får en størrelse/husleje,\nsom ligger inden for de ønskede rammer. Alternativt skal der reduceres i\nservicearealer.</p>\n<p>Boligselskabet Sjælland ansøgte i august 2024 Greve Kommune om at få fire\ndispensationer fra den vedtagne lokalplan 15.24. Klima-, Teknik- og\nMiljøudvalget afviste den 15. august 2024 (pkt. 12) tre af de fire\ndispensationer. En ansøgning omhandler etablering af en ekstra\noverkørsel/udkørsel, to af dispensationerne omhandler selve bygningen, mulighed\nfor terrænregulering på grundens nordøstlige hjørne og en øget facadelængde på\nbygningens østlige side. Der blev ikke givet dispensation til disse tre. Der\nblev givet dispensation til at undlade håndlister.</p>\n<p>Boligselskabet har den 2. september 2024 meddelt administrationen, at\nprojektets økonomi uden mulighed for de to dispensationer vedr. selve\nbygningen, forventeligt vil overskride budgettet med mellem 5 og 6,5 mio.kr.\nDer er ikke på nuværende tidspunkt plads til denne udgift i økonomien. Den\nprimære udgift skyldes, at der uden dispensation til terrænregulering må\nforventes en stor udgift til deponering af jord. Hvis bygningen yderligere skal\ngraves ned, kan dette også kræve dispensation og vil udgiften også øges.  \n</p>\n<p>Der skal derfor arbejdes med, hvordan byggeriet kan tilpasses for at\nreducere byggeudgifterne og samtidig sikre niveaufri adgang og let adgang\nmellem fællesarealer og boenheder.</p>\n<p><em><strong>Nedslag i grundprisen </strong></em></p>\n<p>I forbindelse med forberedelse til byggesagsbehandlingen, har Tune Vandværk\noplyst, at vandtrykket i området er mindre, end det var forudsat på tidspunktet\nfor grundudbuddet. Det lavere vandtryk betyder, at opbygningen af\nplejecenterets sprinkleranlæg skal ændres. Denne ændring har boligselskabet\nopgjort til 1,4 mio.kr. Greve Kommune har bedt en advokat vurdere om det\nændrede udbudsvilkår skal have betydning for den grundpris Greve Kommune har\nudbudt grunden til. Advokaten har vurderet, at grundprisen skal reduceres\nsvarende til den dokumenterede udgift til etablering af en sprinklerløsning med\net reservoir, som krævet af brandmyndigheden.</p>\n<p>Administrationen vil fremlægge sag til politisk stillingtagen, når der er\narbejdet videre med ovenstående forhold.</p>\n<h4>Lovgrundlag</h4>\n<p>Lov om almene boliger</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er ingen økonomiske konsekvenser for kommunen af den aktuelle\nindstilling. </p>\n<h4>Tidsplan</h4>\n<p>En forlængelse af frist for godkendelse af skema B, betyder en forsinkelse\naf byggeriet på omkring syv måneder. </p>\n<p>Der fremlægges fagudvalgssager om mulig tilretning af projektet forventet\nultimo 2024, primo 2025.</p>\n<p>Plejecentret vil efter en revision af tidsplanen kunne tages i brug i\nsommeren 2027.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>25/09/2024   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Punkt 1: Økonomiudvalget anbefaler overfor Byrådet at godkende administrationens indstilling.  </p>\n<p>Punkt 2: Økonomiudvalget anbefaler overfor Byrådet, at frist for godkendelse af skema B forlænges til 1. marts 2025.</p><br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f532df4a-a09e-4610-ac02-3a7745f82f67",
+          "DocumentId": "f532df4a-a09e-4610-ac02-3a7745f82f67"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-008928",
+      "Navn": "Forlængelse af frist for skema B og nedslag i Grundpris - nyt plejehjem i Tune",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c2190b6f-5977-48b2-babe-aa865c0117d9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "24-008928",
+      "SourceId": null,
+      "Caption": "Forlængelse af frist for skema B og nedslag i Grundpris - nyt plejehjem i Tune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nByrådet godkendte Økonomiudvalgets indstilling.</p>\n<p>For stemte: V, A, C, Liselott Blixt (UP) M og F </p>\n<p>Imod stemte: Ø</p><br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Hvert år ultimo oktober indleveres en trafikbestilling til Movia, for det\nkommende års busbetjening i kommunen. Administrationen anbefaler, at\nbusbetjeningen fortsætter, som den er nu.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at det godkendes, at Movia meddeles,\nat der ingen ændringer er til Trafikbestillingen 2025.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Hvert år i slutningen af oktober er der frist for ændringer til\nbustrafikbestilling til det kommende år. Ændringerne, der\nmeddeles Movia i oktober, vil blive implementeret ultimo juni året\nefter. Der har ikke været analyser eller andet grundlag for ændringer til\nbusbetjening i 2025.</p>\n<p>Der er kommet en del henvendelser ind som følge af reduktionen på buslinje 224 fra to til en gang i timen ved sidste års busbestilling. Reduktionen har betydning for både skolebørn og arbejdspladser i kommunen, da der kan opstå ventetid på op mod en time i forbindelse med mødetider og frihed.</p>\n<p>Klima-, Teknik- og Miljøudvalget har på mødet den 15. august (pkt. 23)\nbesluttet, at administrationen kontakter Movia om, at buslinje 224 tilpasses\nbedre til skolernes mødetider i kommunen. Dette sker med henblik på at opnå\nevt. forbedringer ved køreplanskiftet i december og er uafhængigt af\nbusbestillingen for 2025 i øvrigt.</p>\n<p>En ændring i trafikbestillingen kræver normalt, at der har været igangsat\nen indledende analyse i god tid op til trafikbestillingsfristen, så\nløsninger og konsekvenser er belyst.</p>\n<p>Trafikbestillingen til Movia følger et fast årshjul, hvor\ntrafikbestillingen for det næstkommende år starter op i november/december med\nindledende analyser. Ønsker til ændringer fra Greve Kommune, som skal\nundersøges nærmere, kan fremføres de kommende måneder, så de kan indgå i Greve\nKommunes og Movias årsplan for trafikbestilling 2026.</p>\n<p>Trafikbestilling for 2025 er startet op den 30. juni 2024. Linje 225 er\nforlænget til Ishøj Station og er forberedt til åbning af Letbanen. Ændringerne\npå linje 224 er implementeret, blandt andet ved at linjen er reduceret til kun\nat køre én gang i timen i Greve Kommune. </p>\n<h4>Lovgrundlag</h4>\n<p>Lov om trafikselskaber.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Kommunikation</h4>\n<p>Administrationen orienterer Movia.</p>\n<h4>Tidsplan</h4>\n<p>Fristen for tilbagemelding til Trafikbestilling 2025 er den 31. oktober\n2024. Administrationen skal også meddele Movia, hvis der ikke skal foretages\nnogen ændringer.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>05/09/2024   Klima-, Teknik- og Miljøudvalget</u><br>\r\nGodkendt.<br>\r\n\r\n<u>25/09/2024   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget anbefaler overfor Byrådet at godkende Klima-, Teknik- og Miljøudvalgets indstilling.</p>\n<p> Mehmet Zeki Dogru (Ø) stemte imod med bemærkning om, at Ø ønsker flere afgange på busrute 224.</p><br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c2adab88-86e7-4d6a-988e-1305779fb040",
+          "DocumentId": "c2adab88-86e7-4d6a-988e-1305779fb040"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-006786",
+      "Navn": "Bustrafikbestilling 2025 til Movia",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5d9f5bfb-0456-41f7-9bce-9536a102c567",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "24-006786",
+      "SourceId": null,
+      "Caption": "Bustrafikbestilling 2025 til Movia",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Strandparkkommunerne besluttede i december 2023, at igangsætte et projekt om\nøget kystbeskyttelse i Strandparken. Kystdirektoratet har nu udtalt sig om\nprojektet, og der fremlægges et samlet projekt, hvor der skal besluttes en\nretning for det videre arbejde om linjeføring, beskyttelseshøjde,\nbidragsfordeling og ansøgning af statens kystpulje. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at det <span class=\"GramE\">godkendes</span> at fremme\n    projektet med en linjeføring svarende til nuværende kystbeskyttelse og en\n    sikringshøjde på 3,5 meter, plus bølgetillæg på 0,5 meter, og graduerende\n    ned til 3,2 meter efter Greve Marina, hvor diget i dag går i land ved\n    Sælstien.</em></li>\n    <li><em>at det godkendes, at administrationen arbejder videre\n    på en samlet model for bidragsfordeling på tværs af kommunegrænserne i\n    Brøndby, Vallensbæk, Ishøj og Greve kommune. </em></li>\n    <li><em>at det godkendes, at Vallensbæk Kommune gives fuldmagt\n    til at ansøge Statens Kystpulje 2024 om støtte til det samlede projekt på\n    vegne af Brøndby, Vallensbæk, Ishøj og Greve kommune.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Da Strandparken blev etableret i 1979, blev det vurderet, at digernes højde\nkunne beskytte mod det, der svarede til en 1872-hændelse. 1872-hændelsen\nbetragtes som en ekstremhændelse for Køge Bugt. Køge Bugt er udpeget som et\nsærligt risikoområde for stormflod, og der er behov for at revurdere sikringen\nsom følge af nye prognoser for vandstand og stormflod.</p>\n<p>Byrådet i Greve Kommune besluttede den 11. december 2023 (pkt. 19) parallelt\nmed Brøndby, Vallensbæk og Ishøj kommuner at opstarte et fælles projekt om\nkystbeskyttelse i Strandparken. Projektforslaget havde tre forslag til\nsikringshøjder, der tog udgangspunkt i en levetid på hhv. 25, 50 og 75 år.\nByrådet skal træffe beslutning om, hvilket projekt der skal fremmes i det\nvidere arbejde. Der træffes derfor ikke endelig beslutning om projektet, men\nalene om retning for det videre arbejde med nogle af de emner, som også skal\nafstemmes internt mellem de fire kommuner.</p>\n<p>Der er tale om et fællesprojekt for kystsikring, som går på tværs af kommunerne. Processen for et fællesprojekt kan ses (jf. bilag 4). Projektet er nu i fase 2 om Kystbeskyttelseslovens §2 \"Udtalelse og afgørelse om kystbeskyttelsesprojektet\".</p>\n<p><em><strong>Udtalelse fra Kystdirektoratet</strong></em><br>\n<span class=\"spelle\">Kystdirektoratet</span> har givet en udtalelse til\nprojektet, som en del af processen for denne type projekter. Kystdirektoratet\nvurderer, at der i Strandparken er behov for at forstærke de eksisterende diger\nog har givet en række anbefalinger til projektet (jf. bilag 1). Kystdirektoratet\nanbefaler blandt andet at genberegne sikringshøjden på baggrund af nye data, og\nat projektet tager udgangspunkt i en længere tidshorisont end 25 år.\nAnbefalingerne er fulgt i det fremlagte projektforslag.</p>\n<p><em><strong>Linjeføring</strong></em><br>\nKystbeskyttelsesprojektets udgangspunkt er den eksisterende linjeføring (jf.\nbilag 2) for kystbeskyttelse i Strandparken, som naturbaseret løsning med\nstrandklitter som ydre klitdiger og indre jorddiger, der går bag om havnene.\nDenne linjeføring er valgt ud fra tidligere rapporter, der viser, at det vil\nvære mest samfundsøkonomisk fordelagtige. Det betyder, at havnene dermed\nfortsat ikke er sikret mod kommende stormfloder. Administrationerne har holdt\nmøder med havnebestyrelserne, om at fortsætte denne linjeføring for havnene,\nder derfor må finde andre veje til løbende at tilpasse havnene til risikoen for\nstormflod. Dialogen om dette fortsætter i det kommende arbejde.</p>\n<p>I Greve Kommune vil der være lodsejere, der hvor diget går ind i landet, der\nikke bliver omfattet af beskyttelsen, selv om de ligger i nogenlunde samme\nniveau som de naboer, der ligger inde bag diget. Det vil kræve et fornyet\nprojekt, hvis diget skal have en anden linjeføring, hvor fx flere bliver\nomfattet. Administrationen anbefaler derfor, at projektet fremmes, som det\nforeligger i den nuværende linjeføring, og at der evt. opstartes et\nselvstændigt projekt om at koble et nyt dige på fra syd, hvis der viser sig at\nvære interesse og behov for det.<span> </span><br>\n<br>\n<em><strong>Sikringshøjde</strong></em><br>\nI det tekniske notat fra 2023 er beskrevet tre forslag til sikringshøjder,\nder tog udgangspunkt i en levetid på hhv. 25, 50 og 75 år. Administrationen\nanbefaler, at kystbeskyttelsen gennemføres med en levetid på 50 år, hvilket er\ni overensstemmelse med Kystdirektoratets anbefaling på mere end 25 år. Dette\nskal ses i sammenhæng med effekten af et samlet projekt, og at naturen i\nstrandparken kan nå at blive rodfæstet, inden sikringshøjden evt. igen skal\nforhøjes.</p>\n<p>Efter en genberegning af scenariet med en fremskrevet\n\"1872-hændelse\" i en levetid på 50 år, vil sikringshøjden være 3,5\nmeter med et bølgetillæg på de ydre klitdiger, så de får en konstruktionshøjde\npå op til 4,0 meter. Højden afhænger af den endelige konstruktion af\nklitdigerne. I Greve Kommune, syd for Greve Marina, vil det være nødvendigt at\nnedtrappe fra 4,0 meter til et dige på 3,2 meter, hvilket er 0,3 m lavere end\nde øvrige indre diger. Diget går her fra at være ydre klitdige til at gå ind\nlangs Sælstien, og tilkoblingen til baglandet tillader ikke en højere\nsikringshøjde, da Strandvejen oversvømmes flere steder ved en stormflod over\n3,2 meter. <span>Hvis en stormflod på mellem 3,2 og 3,5\nmeter rammer kysten, vil der ske en oversvømmelse fra Greve Kommunes side af de\nkystnære arealer i Strandparken, der strækker sig ind mod Ishøj Kommune. </span></p>\n<p><span>Det samlede projekt etableres med levetid på 50\når, og med den samlede forventede vandstandsstigning på 0,6 meter forventes der\nved lineær fremskrivning at gå omkring 25 år før dimensioneringen på 3,2 meter\ner utilstrækkelig. Dette minimerer gener af et tværdige for borgerne ved\nSælstien og giver tid for en adaptiv løsning på en sammenhængende beskyttelse i\nGreve Kommune. Sikringen kan også forhøjes ved at implementere\nberedskabstiltag.</span><br>\n<br>\nAdministrationen anbefaler på baggrund af kystdirektoratets udtalelse, at det\nprojekt, der fremmes, er projektet med en linjeføring svarende til nuværende\nkystbeskyttelse og en sikringshøjde på 3,5 meter, plus bølgetillæg på ca. 0,5\nmeter, og graduerende ned mod 3,2 meter efter Greve Marina, hvor diget går ind\ni landet ved Sælstien. </p>\n<p>For det laveste område ved Sælstien betyder det, at diget skal være 90 cm\nhøjere end terrænet i dag, og det kan udføres som højvandsmur for at minimere\nfodaftryk af diget. De ydre diger skal forhøjes med op til en meter og gøres\nbredere. </p>\n<p><em><strong>Finansiering</strong></em> <br>\nKystbeskyttelsesloven giver mulighed for, at de der bliver beskyttet af\ndigerne, kan pålægges udgiften til etableringen. Kommunerne skal beslutte,\nhvordan udgifterne skal fordeles (bidragsfordeling) mellem grundejere,\ninfrastrukturejere (fx ledningsejere og forsyning) og kommunen.\nAdministrationen anbefaler, at der arbejdes videre med en bidragsfordeling for\ngrundejerne og ledningsejere, og at den ensrettes på tværs af kommunegrænser,\nså man som naboer på tværs af kommunegrænsen, kommer til at betale samme\nandel. </p>\n<p>Kommunen har udgifter til inddragelsesprocessen og myndighedsbehandling, som\nikke kan pålægges andre. Byrådet kan derudover vælge at betale en del af de\nudgifter, borgerne kan pålægges. Hvis Byrådet vælger at betale en del af\nde udgifter, borgerne kan pålægges, skal der afsættes anlægsbudget med\ntilsvarende beløb. Det afsatte anlægsbudget vil indgå i anlægsrammen på lige\nfod med kommunens øvrige anlægsprojekter, og dermed skal beløbet ligeledes\nafholdes indenfor den gældende anlægsramme.</p>\n<p>Oplæg til bidragsfordeling vil blive fremlagt som en selvstændig sag på et\nsenere tidspunkt. Der skal også først senere tages stilling til, om kommunen\nønsker at tage del i de udgifter, der kan pålægges borgerne. <br>\n<br>\n<em><strong>Statens Kystpulje 2024</strong></em><br>\nFor at reducere udgifterne til kystbeskyttelsesprojekter er der mulighed for at\nansøge om tilskud fra Statens Kystpulje 2024 senest 3. oktober 2024. Der er i\når lagt særlig vægt på, at projekter, der bygger på naturbaseret kystsikring,\nkan få tilskud. Derfor anbefaler administrationen, at der søges om tilskud til\nkystbeskyttelsen i Strandparken. Der søges tilskud til et sammenhængende\nprojekt på tværs af de fire kommuner, da projektet i den enkelte kommune ikke\nhar værdi, hvis ikke de øvrige kommuner er med. Administrationen anbefaler, at\nVallensbæk Kommune ansøger samlet på vegne af de fire kommuner i projektet.\nHvis der opnås tilskud, skal projektet gennemføres indenfor 5 år.<br>\n<br>\n<em><strong>Proces</strong></em><br>\nHvis Byrådet beslutter at fremme projektet, vil administrationen ifølge\nKystbeskyttelsesloven informere de berørte grundejere og infrastrukturejere,\nder vil kunne pålægges en udgift til kystbeskyttelsen. </p>\n<p>Processen vurderes samlet set at tage ca. 5 år inkl. etablering og skal\nkoordineres med den samlede proces for modernisering af strandparken, tids- og\nkommunikationsplan (jf. bilag 3).</p>\n<p>For at sikre fremdriften i projektet skal der allokeres ressourcer til\nopgaven internt i kommunerne, og der bør ansættes en tværkommunal projektleder,\nder skal stå for koordineringen mellem kommunerne af borgerprocesser,\nbeslutninger, projektering og endelig anlæggelse af kystbeskyttelsesprojektet.\nOplæg til ansættelse af tværkommunal projektleder vil blive fremlagt som en\nselvstændig sag på et senere tidspunkt, hvis sagen fremmes. Finansieringen til\nde indledende opgaver i Greve Kommune i 2025 kan ske som en del af de\nprojektmidler, der er afsat til arbejdet med stormflod. Ud i årene vil\nfinansieringen af projektet indgå i budgetlægningen for 2026-29, når projektet\ner længere, og forudsætningerne for de økonomiske rammer er bedre kendt.</p>\n<h4>Lovgrundlag</h4>\n<p>Kystbeskyttelsesloven.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er finansieret og bevilliget midler på 1 mio. kr. i anlægsprojektet\n'Beskyttelse mod stormflod' (projekt 251) til at forbedre beskyttelsen mod\nstormflod i Greve Kommune. Disse midler inkluderer blandt andet arbejder i\nforhold til diget i Strandparken.</p>\n<p>Hvis projektet bliver besluttet fremmet som indstillet, må der forventes udgifter\ntil projektering og ansættelse af en tværkommunal projektleder, der skal stå\nfor koordinering af de tværgående processer, projektering og anlæg af\nkystbeskyttelsesprojektet. Beløbet kan i 2025 finansieres af midler i\nanlægsprojekt 251.</p>\n<p>Der kan også anvendes midler fra anlægsprojekt 251 til finansiering\nmyndighedsopgaver herunder rådgivning til bidragsfordeling og\nborgerinddragelse. </p>\n<p>Udgifterne til selve kystbeskyttelsen kendes endnu ikke. Kommunen kan senere vælge også at tilføje rekreative elementer (stier, bænke\nol.) i sammenhæng med kystbeskyttelsen. Kommunen skal i givet fald selv finde\nfinansiering til de rekreative elementer, der ikke direkte er kystbeskyttelse.\nØnsker til de rekreative elementer fastlægges senere ved detailprojekteringen,\nhvor der tages politisk stilling til dette.</p>\n<p>De dele af kystbeskyttelsen og de rekreative elementer, som kommunen vælger\nat finansiere, vil, ud over den del kommunen er pålagt som evt. grundejer,\npåvirke kommunens anlægsramme. </p>\n<p>De administrative ressourcer på kystbeskyttelsesområdet internt i Greve\nKommune er udvidet med en stilling i efteråret 2024 for at kunne behandle denne\nsag og andre sager om kystbeskyttelse. Beløbet tages med i de kommende\nbudgetopfølgninger i 2024 og er lagt ind i budget 2025-28 som en teknisk\nrettelse. </p>\n<h4>Kommunikation</h4>\n<p>På kommunens hjemmeside vil beslutningen blive offentliggjort sammen med\nmateriale, der beskriver projektet. De lodsejere, som vil blive beskyttet\naf <span class=\"grame\">projektet</span> vil modtage brev\ni <span class=\"spelle\">e-boks</span> med orientering om, at\nkystbeskyttelsesprojektet er fremmet og hvordan den videre proces ser ud. </p>\n<h4>Tidsplan</h4>\n<p>Hvis det besluttes at fremme <span class=\"grame\">projektet,</span> vil\nadministrationen arbejde videre med projektet. I 2024 bliver kystpuljen ansøgt\nog borgerne informeret. I 2024-2025 skal der arbejdes videre med\nmyndighedsprojektet inkl. detailprojektering samt sager om bidragsfordeling og\nøkonomiske midler til tværkommunal projektleder. Fordelingen af disse\nmidler <span class=\"grame\">afhænger</span> af en <span class=\"spelle\">governance</span>\nmodel, der skal besluttes mellem de fire involverede kommuner: Greve, Brøndby,\nIshøj og Vallensbæk kommuner. Projektet forventes at kunne blive gennemført i\nløbet af de næste ca. 5 år i henhold til den foreløbige tidsplan, (jf. bilag\n3) </p>\n<h4>Øvrige forhold</h4>\n<p>En tilsvarende sag fremlægges parallelt til beslutning i Ishøj, Vallensbæk\nog Brøndby Kommune. Projektet koordineres med Hvidovre Kommune, som arbejder\nmed kystbeskyttelse fra Hvidovre og ind til København.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>05/09/2024   Klima-, Teknik- og Miljøudvalget</u><br>\r\n1.-3. anbefales<br>\r\n\r\n<u>25/09/2024   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget anbefaler overfor Byrådet at godkende Klima-, Teknik- og Miljøudvalgets indstilling.</p><br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/293c03b3-91c1-4b15-bfe7-2553595c67a8",
+          "DocumentId": "293c03b3-91c1-4b15-bfe7-2553595c67a8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-007717",
+      "Navn": "Køge Bugt Strandpark - fremme af kystbeskyttelsesprojekt - beslutning",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Kystdirektoratets §2-udtalelse - Køge Bugt Strandpark",
+          "Id": "89233317-0e2a-439a-af28-740ada841316"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Klimatilpasning af Køge Bugt Strandpark, Teknisk projektbeskrivelse, august 2024",
+          "Id": "14785257-7d93-4c68-bf45-7c1043110ff7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Tids- og kommunikationsplan",
+          "Id": "d1ccb1f9-94b7-467c-b53e-ffbd6f1fa6f1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Proces for fællesprojekter",
+          "Id": "5e86b0f6-ef64-40f6-a833-6dd330f127a3"
+        }
+      ],
+      "Documents": null,
+      "Id": "eadb967c-c2f5-4272-a75f-bde638f8d531",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "23-007717",
+      "SourceId": null,
+      "Caption": "Køge Bugt Strandpark - fremme af kystbeskyttelsesprojekt - beslutning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Den 26. juni 2024 modtog byrådet velfærdsborgersamlingens anbefalinger til\nfremtidens velfærd i form af en velfærdsvision, fem anbefalinger og en række\ninitiativer. Borgersamlingen skal have første tilbagemelding på deres\narbejde tre måneder efter, at byrådet har modtaget anbefalingerne. Der\norienteres desuden om evalueringen af velfærdsborgersamlingen som metode.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at\n    det godkendes, at administrationen sender vedlagte brev (bilag 1) med\n    første tilbagemelding til velfærdsborgersamlingens medlemmer på vegne af\n    byrådet.</em></li>\n    <li><em>at\n    evalueringen af velfærdsborgersamlingen som metode (bilag 2) tages til\n    efterretning. </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet nedsatte en velfærdsborgersamling, hvor en gruppe borgere på\nbaggrund af <br>\nekspertinput har drøftet, prioriteret og udarbejdet deres anbefalinger til\narbejdet med fremtidens velfærd i kommunen. Som en del af konceptet skal\nborgersamlingen have den første tilbagemelding på deres arbejde efter tre\nmåneder.</p>\n<p>Arbejdet med at vurdere, kvalificere og eventuelt implementere en\nborgersamlings anbefalinger tager tid, og arbejdet spredes ofte på mange dele\naf den kommunale forvaltning. Nu efter tre måneder fremlægges derfor hverken et\nkonkret tilsagn, om anbefalingerne følges eller afvises, men en stor tak for\ndet store arbejde og en beskrivelse af eksempler på, hvordan den vision og de\ngrundsøjler, som anbefalingerne hviler på, allerede <span class=\"grame\">nu</span>\nindgår i det arbejde og det fokus, der er i kommunen. Administrationen vil derpå\nmedtage forslagene i det videre arbejde med de relevante politikker, strategier\nog planer.</p>\n<p>Et udkast til brev med tilbagemeldingen til medlemmerne af\nvelfærdsborgersamlingen kan ses i bilag 1.</p>\n<p>Om et år skal velfærdsborgersamlingen modtage den samlede tilbagemelding på,\nhvordan der<br>\ner blevet arbejdet med hver enkelt anbefaling og de konkrete forslag.\nBorgersamlingen er kommet rigtig godt omkring opgaven og i en så konkret grad,\nat anbefalingerne allerede nu kan anvendes som inspiration til arbejdet med\nfremtidens velfærd. </p>\n<p><strong><em>Evaluering af forløbet</em></strong></p>\n<p>Velfærdsborgersamlingen er blevet evalueret, og det er med gode resultater\n(bilag 2).</p>\n<p>Et par hovedpointer:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Alle respondenterne har haft glæde af at deltage i\n    borgersamlingen, og for lidt over halvdelen af respondenterne har det\n    styrket deres oplevelse af at være borger i Greve Kommune.</li>\n    <li>87 % ville anbefale andre at deltage i en\n    borgersamling, 6 % ville ikke og 7 % svarede \"ved ikke\".</li>\n    <li>Næsten halvdelen af respondenterne ville gerne have\n    haft længere tid til opgaven. 6 respondenter ønsker minimum en hel dag\n    mere, mens flere ønskede 2-4 dage mere.</li>\n    <li>Generelt har respondenterne oplevet både facilitatoren,\n    procesværterne og informationerne som neutrale. Informationen blev dog\n    oplevet lidt mere partisk end facilitatorerne.</li>\n    <li>Langt de fleste oplevede, at procesværterne var\n    en hjælp i løbet af opgaverne og samtalerne.</li>\n    <li>De fleste oplevede god mulighed for at tale og bidrage\n    til processen, uden at blive presset til andres ideer eller argumenter.</li>\n    <li>Ikke alle synes at de endelige anbefalinger afspejler\n    alle medlemmers forskellige synspunkter og vurderinger, men langt de\n    fleste respondenter (13/15) vil implementere 50-100% af anbefalingerne i\n    Greve Kommune.</li>\n</ul>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Kommunikation</h4>\n<p>Velfærdsborgersamlingens medlemmer modtager vedlagte brev med den første\ntilbagemelding<br>\npå deres store arbejde med anbefalinger til det videre arbejde med\nvelfærdsdagsordenen i Greve Kommune.</p>\n<h4>Tidsplan</h4>\n<p>Velfærdsborgersamlingen skal have den første tilbagemelding tre måneder\nefter, at de har afleveret deres anbefalinger og endnu en tilbagemelding efter\net år.</p>\n<h4>Øvrige forhold</h4>\n<p>Under forudsætning af, at byrådet afsætter midler i budget 2025-28,\nbesluttede Plan- og Tryghedsudvalget på møde den 23. april 2024 under pkt. 5,\nat der skal arbejdes videre med forankring af velfærdsborgersamlingens\nanbefalinger og kendskab blandt borgerne til det økonomiske råderum og de\naktuelle velfærdsbehov. Det skal ske gennem ambassadører for velfærdsdialog og\nborgerdialog i forskellige bydele i Greve Kommune.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>10/09/2024   Plan- og Tryghedsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">\n1.-2. Anbefales</p>\n<br>\n<br><br>\r\n\r\n<u>25/09/2024   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler, overfor Byrådet, at Plan- og Tryghedsudvalgets indstilling godkendes. <br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c3c7e68a-aa2a-47d6-9ab4-edb282792d31",
+          "DocumentId": "c3c7e68a-aa2a-47d6-9ab4-edb282792d31"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-011325",
+      "Navn": "Første tilbagemelding til velfærdsborgersamlingen",
+      "Punktnummer": "13",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Brev - første tilbagemelding til velfærdsborgersamlingen",
+          "Id": "215b9477-ef09-45af-bfe6-20aa1d399a36"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Evaluering af velfærdsborgersamlingen i Greve 2024",
+          "Id": "8378a138-f451-4c64-95d2-6f21f2ab0f6a"
+        }
+      ],
+      "Documents": null,
+      "Id": "7d6f0f6b-6890-4a7c-8666-8f9628070411",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "23-011325",
+      "SourceId": null,
+      "Caption": "Første tilbagemelding til velfærdsborgersamlingen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nByrådet godkendte Økonomiudvalgets indstilling.</p>\n<p>Ad 2b.</p>\n<p>Imod stemte: Ø, med bemærkning om, at det rammer unge under 18 år.</p>\n<p>Undlader: F</p><br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, Kultur- og Fritidsudvalget, Økonomiudvalget og\nByrådet.</p>\n<h4>Resume</h4>\n<p>På baggrund af utryghedsskabende episoder på biblioteket i efteråret 2023,\nbesluttede Byrådet den 11. december 2023 at lukke for den selvbetjente\nåbningstid i perioden fra den 11. december 2023 til den 30. april 2024. I\nforbindelse med genåbning af den selvbetjente åbningstid den 1. april 2024\ngodkendte Byrådet på mødet den 17. april 2024, yderligere tværgående\ninitiativer med henblik på at skabe mere trygge rammer for ophold på\nbiblioteket. Administrationen har i denne sag udfoldet de initiativer, som\nByrådet ønskede iværksat. Sagen indeholder også en status på Greve Bibliotek.</p>\n<h4>Supplerende\nsagsfremstilling</h4>\n<p>På Plan- og Tryghedsudvalgets møde den 9. september 2024 (pkt. 3) har\nudvalget bedt administrationen belyse muligheden for karantæne ved snyd eller\nvandalisme på biblioteket, frem mod behandling i Økonomiudvalget.</p>\n<p>Bibliotekets ordensreglement er synlige i biblioteksrummet og beskriver den\nønskede adfærd og konsekvenserne, hvis ikke det overholdes. Reglementet bruges\nofte i medarbejdernes dialog med borgere med en uhensigtsmæssig adfærd, ligesom\ndet bruges af vagter, gadeteam og politi.</p>\n<p>I tilfælde hvor medarbejdere, vagter, gadeteam eller politi oplever\nuhensigtsmæssig adfærd, er første skridt en dialog med de pågældende, for i\nførste omgang at nedtrappe en konflikt.</p>\n<p>I visse tilfælde har der været gennemført opfølgende samtaler mellem de unge\nog lederen/vagt team af biblioteket. Med det formål at gentage\nordensreglementet og understrege, at de pågældende kan risikere en karantæne,\nhvis ikke de ændrer adfærd.</p>\n<p>Hvis enkelte personer / grupper har en særligt støjende adfærd, er det\nmuligt for personalet at bede dem forlade biblioteket, for ikke at komme\ntilbage mere den dag. Det er en vurdering, som foretages i den konkrete\nsituation med henvisning til at overholde ordensreglementet.</p>\n<p>I tilfælde af særlig grov overtrædelse af ordensreglementet kan gives\nkarantæne. Det kan være ifm. hærværk, særlig utryghedsskabende adfærd,\nureglementeret adgang til biblioteket etc.     </p>\n<p>Som oftest følger en politianmeldelse sammen med karantænen og den\npågældende har karantæne, indtil sagen har været behandlet af politiet. Hvis\nder ikke er en politianmeldelse, er karantænens varighed typisk 1 måned.</p>\n<p>Indenfor det seneste år er der givet karantæne i alt 2 gange. Karantænen\nhåndhæves dels af ledelse/medarbejdere dels af vagterne. Hvis personen er\noprettet i lånerregistret, forhindres personen adgang til biblioteket i den\nselvbetjente tid via adgangskontrollen.    </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller overfor Kultur- og Fritidsudvalget at;</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>tage orienteringen om status på de iværksatte\n    initiativer og udfoldning af de ny initiativer på Greve Bibliotek til\n    efterretning. </em></li>\n    <li><em>der træffes beslutning om, at</em></li>\n    <ol style=\"list-style-type: lower-alpha;\">\n        <li><em>der ikke ændres i de\n        generelle åbningstider eller den selvbetjente åbningstid, eller</em></li>\n        <li><em>ændre den nuværende\n        generelle åbningstid på hverdage fra kl. 10-17 til 11-18, og</em></li>\n        <li><em>reducere den\n        selvbetjente åbningstid på hverdage fra kl. 21 til kl. 20 og helt at\n        lukke for den selvbetjente åbningstid om fredagen. </em></li>\n    </ol>\n</ol>\n<p><em>Administrationen indstiller overfor Plan- og Tryghedsudvalget at; </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>tage orienteringen om status på de iværksatte\n    initiativer og udfoldning af de ny initiativer på Greve Bibliotek til\n    efterretning.</em></li>\n    <li><em>der træffes beslutning om, at</em></li>\n    <ol style=\"list-style-type: lower-alpha;\">\n        <li><em>adgangskontrollen ikke\n        ændres, eller</em></li>\n        <li><em>adgangskontrollen\n        ændres, jf. initiativ 17, og at finansieringen på ca. 19.000 kr. sker af de\n        afsatte budgetmidler til Tryghed i Greve Nord. </em></li>\n    </ol>\n</ol>\n<h4><em><span>Sagsbeskrivelse</span></em></h4>\n<p><strong><em>Baggrund</em></strong></p>\n<p>I forlængelse af en række utryghedsskabende episoder på biblioteket i 2023,\niværksatte biblioteket en række tværgående og forebyggende tiltag med henblik\npå at stoppe den uhensigtsmæssige brug af biblioteket. Initiativerne er vedlagt\nsagen i bilag 1.</p>\n<p>Bibliotekets forebyggende tiltag havde desværre ikke den ønskede effekt, og\nadministrationen fremlagde derfor en sag for Byrådet den 11. december 2023\n(pkt. 22) med indstilling om, at den selvbetjente åbningstid blev reduceret.\nByrådet godkendte administrationens indstilling om reduceret åbningstid i\nperioden indtil den 31. marts 2024.</p>\n<p>På Byrådets møde den 17. april 2024 (pkt. 25) fremlagde administrationen i\nalt 17 tiltag i overskriftsform, som efterfølgende ville blive udfoldet\nafhængigt af, hvad Byrådet besluttede, at administrationen skulle arbejde\nvidere med initiativerne.</p>\n<p><strong><em>Status på de iværksatte initiativer </em></strong></p>\n<p><em>Politianmeldelse</em><em><br>\n</em>I perioden fra den 1. april 2024 til den 1. juli 2024, hvor den\nselvbetjente åbningstid genåbnede har biblioteket foretaget (Se bilag 2,\nHændelser på biblioteket)</p>\n<ul style=\"list-style-type: disc;\">\n    <li>1 anmeldelse vedrørende hændelse på Tune Bibliotek </li>\n    <li>2 anmeldelser vedrørende hændelser på Greve Bibliotek. </li>\n    <li>Derud 3 henvendelser fra Greve Bibliotek til Politiet\n    (og vagter) med oplysninger om, at der er unge der tager ophold og skaber\n    utryghed, med anmodning om hyppigere vagt runderinger.</li>\n</ul>\n<p><em>Kameraovervågning og karantæne</em><em><br>\n</em>I forbindelse med at Greve Bibliotek gennemser kameraoptagelserne ved\nutryghedsskabende episoder bliver optagelserne gemt på en USB-nøgle hvorefter\nPolitiet bliver orienteret. </p>\n<p>Der er ikke tidligere, før 2024, foretaget systematiske registreringer af\nhændelser på Greve Bibliotek, men det er administrationens vurdering, at der\ntidligere har været ca. en hændelse om året, som er blevet politianmeldt.\nTidligere hændelser har primært foregået i vinterhalvåret. Hændelserne er også\ntidligere blevet håndteret i tæt dialog med Politi, Gadeteam og vagter.</p>\n<p>Der har i perioden fra den 1. juli til medio august 2024 ikke været\nkonstateret utryghedsskabende hændelser på Greve Bibliotek eller Tune\nBibliotek. </p>\n<p><em><strong>Udfoldning af de besluttede initiativer.</strong></em></p>\n<p><em>1. Tværgående dialog om fælles udfordringer</em><em><br>\n</em>Administrationen afholder jævnligt tværfaglige møder med relevante\nsamarbejdspartnere, som kan have betydning for forholdene på Greve Bibliotek.</p>\n<p><em>2. Politianmeldelser ved episoder på Greve Bibliotek samt opfordring til\nat politiet kommer oftere forbi</em><em><br>\n</em>Greve Bibliotek har en god kontakt til lokalpolitiet som er indstillet på\nat komme forbi i perioder, hvor der er uro på biblioteket. Greve Bibliotek\nanmelder alle situationer til Politiet, hvis der er tale om forhold som\nbiblioteket vurderer, skal politianmeldelse.</p>\n<p><em>3. Kameraovervågning er blevet optimeret så det er muligt at genkende\npersoner på billederne</em><em><br>\n</em>Greve Bibliotek har fået opsat ekstra kameraer således, at de dækker hele\npublikumsområdet. Ud over ekstra kameraer er billedkvaliteten forbedret, så det\ner lettere at genkende personer på billederne</p>\n<p>I de tilfælde, hvor Greve Bibliotek konstaterer at en hændelse er alvorlig,\nkan den pågældende person gives karantæne ved at spærre for vedkommende i\nadgangskontrollen. Det håndhæves af medarbejderne i samarbejde med Vagt-team.\nErfaringen viser, at hvis en person har fået spærret sin adgang til Greve\nBibliotek er det alligevel muligt at skaffe sig adgang ved at gå ind sammen med\nen ven eller gå ind sammen med en anden borger. Derudover er det ofte ikke\nmuligt at identificere de pågældende på trods af et veletableret samarbejde med\ngadeteam, vagter og Politi. Hvis der registreres ulovligheder på\nkameraovervågningen, anmelder biblioteket det til Politiet, som foretager den\nefterfølgende undersøgelse af hændelsen.</p>\n<p><em>4. Gadeteamet kommer mere på Greve Bibliotek</em><em><br>\n</em>Gadeteamet skal dække tryghedsskabende og kriminalitetsforebyggende\nindsatser i hele Greve Kommune. Gadeteamet indgår som en del af den samlede\nløsning og i det tværfaglige samarbejde med at understøtte trygheden på Greve\nBibliotek. Gadeteamet vil lejlighedsvis være til stede på Greve Bibliotek og i\nøvrigt lægge vejen forbi, når det kan lade sig gøre. Gadeteamet har en god\nfornemmelse for hvad der foregår i Greve Kommune og disponerer deraf deres\ntilstedeværelse på lokationer, hvor der er behov for det. Der er i forvejen et\nnært samarbejde mellem Gadeteamet og Greve Biblioteks personale.</p>\n<p><em>5. Dialog med Natteravnene om rundering og besøg i relation til Greve\nBibliotek</em><em><br>\n</em>Greve Bibliotek har samarbejdet med Natteravnene igennem flere år. Greve\nBibliotek har kontaktet Natteravnene igen for at få bekræftet, at de fortsat\nrunderer rundt omkring såvel Greve Bibliotek som Tune Bibliotek, hvilket de\nbekræfter. Runderingen sker både ude og inde. </p>\n<p><em>6. Flytte foreningsaktiviteter til Greve Bibliotek i den selvbetjente\nåbningstid</em><em><br>\n</em>Administrationen er i gang med at indsætte nogle af bibliotekets lokaler i\nlokalebooking systemet (<span class=\"spelle\">Winkas</span>)\nmed henblik på at foreninger kan booke lokaler på biblioteket til deres\nforeningsaktiviteter i aftentimerne samt i weekender. Det vil ikke være alle\ntyper af foreningsaktiviteter der er foreneligt med placeringen på biblioteket\nog der vil derfor være særlige retningslinjer for at benytte lokalerne. Det kan\nf.eks. være strikkeklubber, brætspilsforeninger, broderiforeninger eller PPV\n(kommunalt Cool kids forløb), som kan benytte lokaler på Greve Bibliotek.</p>\n<p><em>7. Arbejde med indretning af Greve Bibliotek så det bliver vanskeligere\nat ”gemme” sig</em><em><br>\n</em><span class=\"spelle\">Efter</span> dialog med Greve Kommunes Tryghedskonsulent\nhar Greve Bibliotek taget kontakt til Det kriminalpræventive Råd, som har\nfølgende anbefalinger:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Se på hvad andre biblioteker gør: <em>Dette gør Greve\n    Bibliotek løbende</em>.</li>\n    <li>Sørg for at der er dialog med det omkringliggende\n    samfund: Greve <em>Bibliotek deltager i de lokale netværk og har løbende\n    kommunikation med alle lokale aktører</em>.</li>\n    <li>Se eventuelt på hvordan de gør i sociale boligbyggerier\n    hvor de har fælles faciliteter der er ubemandede - <em>Dette følger Greve\n    Bibliotek op på og er kontinuerligt i dialog med dem</em></li>\n    <li>Se på hvordan ubemandede butikker gør - <em>Butikkerne\n    er ofte ret små og har bedst succes med at være overvågede og placere sig\n    steder uden for meget ballade. Det vil Greve Bibliotek tage fat i.</em></li>\n</ul>\n<p>Greve Bibliotek følger kontinuerligt op på, at de opsatte kameraer fungerer\nsamt at de ’fanger’ de oplagte hjørner/gemmesteder. </p>\n<p>Tryghedsgennemgang den 24/6 2024 ved Vagt-team har resulteret i følgende\nanbefalinger: </p>\n<p><em>Eksisterende indretning der øger tryghed  </em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Hvor det er muligt, er der opsat lave reoler, rumdeler\n    i Magasinet er delvist transparent</li>\n</ul>\n<p><em>Tiltag der anbefales for at øge trygheden  </em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Lade begge døre stå åbne til det åbne magasin, trække\n    forhæng (der fungerer som rumdeler) helt fra, overvej skiltning ift.\n    adfærd på Piratskibet, anbefaling om ekstra kameraer ifm. gangarealer til\n    toiletter, og i opholdszoner i børnebiblioteket. Desuden sørger Greve\n    Bibliotek forsat for (i samarbejde med rengøringen) at der er ryddeligt\n    såvel indendørs som på udearealer. Hvis der er ryddeligt i et rum, er der\n    en større motivation for at rydde op efter sig selv.</li>\n</ul>\n<p><em>8. Ændre på medarbejdernes arbejdstid så der er ansatte på arbejdet om\naftenen og i weekender</em><em><br>\n</em>Biblioteksmedarbejdernes opgave er primært at betjene borgere, der besøger\nGreve Bibliotek samt Tune Bibliotek. I relation til de unge, der har skabt uro\npå Greve Bibliotek, er medarbejdernes opgave at gå i dialog med de unge og evt.\ntilkalde en vagt.</p>\n<p>Hvis bibliotekets medarbejdere skal være på arbejde i den selvbetjente tid,\nvil den primære opgave være ”at sikre ro og orden”. Det er administrationens\nvurdering, at det vil være uhensigtsmæssig brug af medarbejdernes faglighed.\nBibliotekets medarbejdere arbejder allerede om aftenen ifm. arrangementer samt\npå lørdage/søndage med at betjene borgere og afvikle børneteater. Ingen af\nbibliotekets medarbejdere ønsker på frivillig basis at omlægge mere af deres\narbejdstid til aften eller weekendarbejde med det formål, at håndtere\neventuelle situationer med uro.</p>\n<p>I maj og juni måned 2024 har biblioteket haft en aftale med Vagt-team fra\nCenterforeningen om at omlægge rundereringer fra dag til aften indenfor den\ngældende rammeaftale, hvilket ser ud til at have en præventiv effekt. Se bilag\n1 ”Oversigt over registrerede hændelser siden genåbningen 1. april”.</p>\n<p><em>9. Ændre på den selv/betjente åbningstid – permanent eller sæsonbetonet</em></p>\n<p>Forskellige scenarier kan være:</p>\n<ul style=\"list-style-type: disc;\">\n    <li><em>Ændre på den selvbetjente åbningstid på hverdage</em> </li>\n</ul>\n<p>Ændre den nuværende åbningstid på hverdagene fra\nkl. 10.00-17.00 til kl. 11.00-18.00. </p>\n<p>Dette vil få konsekvenser for bl.a. hjemmegående,\nældre, daginstitutioner, der ofte benytter bibliotekerne om formiddagen. </p>\n<p>Med ændret åbningstid vil erhvervsaktive blive\nimødekommet, som kan nå at komme på biblioteket efter arbejde, samt\nbørnefamilier, der ofte benytter biblioteket og har brug for hjælp frem mod kl.\n18.00.</p>\n<ul style=\"list-style-type: disc;\">\n    <li><em>Ændre på den selvbetjente åbningstid på fredage</em></li>\n</ul>\n<p>Uroen på Greve Bibliotek er mest udtalt på\nhverdage i den selvbetjente åbningstid mellem kl. 20.00 – 21.00, særligt fredag\naften. </p>\n<p>Det er en mulighed at reducere den selvbetjente\nåbningstid på hverdage fra kl. 21.00 til kl. 20.00 og lukke helt for den\nselvbetjente åbningstid om fredagen.</p>\n<p><em>12. Etablering af lektiehjælp på Greve Bibliotek i den selvbetjente\nåbningstid, eller andre skoleaktiviteter i samarbejde med folkeskoler og\nklubber og borgere</em><em><br>\n</em>Administrationen initierer i 3. kvartal 2024 et samarbejdsmøde mellem\nfolkeskolerne i nærområdet, Ungdomsskolen og Greve Bibliotek. Det er væsentligt\nat inddrage skolerne i en afdækning af behov, ønsker og muligheder for at\netablere <span class=\"grame\">eksempelvis</span>\nlektiecafé, inden der træffes beslutning. Inddragelsen skal således sikre, at\nder etableres tilbud, som skolerne reelt vurderer, at der er børn/elever, der\nhar behov for, og som det vurderes vil gøre brug af et tilbud på Greve\nBibliotek uden for normal skoletid. </p>\n<p><em>17. Ændre adgangskontrollen i form af ekstern godkendelse, f.eks. at\nbørn og unge kun kan benytte den selvbetjente åbningstid ifølge med en voksen</em><em><br>\n</em>Det er muligt at sætte en aldersbegrænsning for adgang i den selvbetjente\nåbningstid.</p>\n<p>Ændringen skal programmeres af ekstern leverandør og der vil være en\nomkostning på ca. kr. 19.000 (ex. Moms).</p>\n<p>Ændringen giver Greve Bibliotek mulighed for at sætte aldersbegrænsningen\ntil f.eks. 18 år eller en hvilken som helst alder. Erfaringen viser, at hvis\nman vil ind på Greve Bibliotek, skaffer man sig adgang ved at ’låne’ et\nsundhedskort, ved at gå ind sammen med en anden borger, der lukker sig ind\neller ved at finde en ældre ven, der er over 18 år.</p>\n<p>Hvis der bliver etableret aldersbegrænsning, kan det gå ud over de mange\nbørn og unge under 18 år, der benytter Greve Bibliotek i den selvbetjente\nåbningstid, for at låne eller aflevere bøger eller for at studere. Greve\nBibliotek arbejder målrettet med at styrke børn og unges læselyst og\nlæsekultur, hvilket en aldersbegrænsning i den selvbetjente åbningstid ikke\nunderstøtter.</p>\n<p>Aldersbegrænsning går imod den frie og lige adgang for alle, som Lov om\nbiblioteksvirksomhed indeholder, samt børn og unges mulighed for at benytte\nbiblioteket som et vigtigt neutralt frirum. </p>\n<h4>Lovgrundlag</h4>\n<p>Biblioteksloven</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Langt størstedelen af de i sagen beskrevne initiativer håndteres inden for\nden eksisterende økonomiske ramme. <span class=\"GramE\">Såfremt</span> det\nbesluttes, at der skal ændres i adgangskontrollen, vil dette have en økonomisk\nomkostning på 19.000 kr. Administrationen anbefaler, at beløbet finansieres af\nde afsatte midler til Tryghed i Greve Nord.</p>\n<h4>Øvrige forhold</h4>\n<p>Biblioteket har i samarbejde med Gadeteam afholdt 2 foredrag på biblioteket\nom rusmidler. 1 for forældre og et for lærere og trivselsvejledere. Det er\nplanen er der efter sommerferien skal afvikles endnu et foredrag på Tune\nBibliotek.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>10/09/2024   Plan- og Tryghedsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">\n1. Det anbefales, at orienteringen tages til efterretning.</p>\n<p>Udvalget ønsker desuden, at mulighed for karantæne ved snyd eller vandalisme bliver belyst frem mod behandling i Økonomiudvalget.</p>\n<p>2. b) Anbefales med adgangskontrol ved 18 år</p>\n<p>(Ø) undlader på pkt. 2</p>\n<p> </p>\n<br><br>\r\n\r\n<u>11/09/2024   Kultur- og Fritidsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">1. Orienteringen blev taget til efterretning</p>\n<p>2a. Anbefales idet at den selvbetjente åbningstid om fredagen anbefales lukket i perioden  den 15. oktober 2024 – 1. april 2025</p>\n<p>2.b. Anbefales ikke </p>\n<p>2.c Anbefales ikke dog med henvisning til 2a. </p>\n<p> </p><br>\r\n\r\n<u>25/09/2024   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget anbefaler Kultur- og Fritidsudvalgets indstillingspunkt 2.a og Plan- og Tryghedsudvalgets indstillingspunkt 2.b godkendt i Byrådet.</p>\n<p>Dermed anbefales det, at den selvbetjente åbningstid lukkes om fredagen i perioden 15. oktober 2024 -1. april 2025, og at der indføres adgangskontrol for børn og unge under 18 år, så de skal være i følgeskab med en voksen, og at finansieringen af dette sker gennem puljen ”Tryghed i Greve Nord”.</p>\n<p>Økonomiudvalget har noteret sig den supplerende sagsfremstilling vedr. mulighed for karantæne ved snyd og vandalisme sammenholdt med beskrivelsen i den oprindelige sagsfremstilling og finder forholdene belyst.</p>\n<p> Mehmet Zeki Dogru (Ø) stemte imod Plan- og Tryghedsudvalgets punkt 2.b med bemærkning om at det rammer unge under 18 år.</p><br>\r\n<br>Afbud: Bjarke Abel\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cb0fcf8c-53dd-4ae6-b593-ce228a80d2b0",
+          "DocumentId": "cb0fcf8c-53dd-4ae6-b593-ce228a80d2b0"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-008531",
+      "Navn": "Greve Bibliotek, initiativer, åbningstid og adgangskontrol",
+      "Punktnummer": "14",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Eksempler på hærværk og bibliotekets håndtering",
+          "Id": "b9169cab-d613-486e-ace0-336870cfd442"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Hændelser på biblioteket",
+          "Id": "b2d21102-1a78-425a-be55-f4d353b3f482"
+        }
+      ],
+      "Documents": null,
+      "Id": "1f18a4c4-7c16-4c34-ad23-ab0e5efcca6d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "24-008531",
+      "SourceId": null,
+      "Caption": "Greve Bibliotek, initiativer, åbningstid og adgangskontrol",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span> \n<br>\n<br><br><br>Afbud: Kenneth Jerkel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9ff474ee-8d55-428d-9b04-396d8f9a51da",
+          "DocumentId": "9ff474ee-8d55-428d-9b04-396d8f9a51da"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013699",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "15",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fafd08e0-a8bc-429b-89a5-ef9e5e24898f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "21-013699",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "bb801e8b-777b-401c-8224-2be3a973fb1b",
+    "Navn": "Byråd 2022-2025",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-10-02T19:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-10-02T19:00:00+02:00",
+    "Sted": "Byrådssalen",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": true,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Ronni Mark Nielsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "48bd4739-bd13-49b7-a7ad-146088703a6c",
+  "Lydfiler": null
+}

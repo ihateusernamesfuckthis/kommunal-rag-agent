@@ -1,0 +1,302 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4><span>Sagsprocedure</span></h4>\n<p>Social- og Handicapudvalget.</p>\n<h4><span>Resume</span></h4>\n<p>Godkendelse af dagsorden for mødet den 13. marts 2023.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p>\n<p> </p>\n<p> </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/59b6c010-2ba2-493c-8ba9-4966d7c5d9b9",
+          "DocumentId": "59b6c010-2ba2-493c-8ba9-4966d7c5d9b9"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014477",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "89d85c1f-3859-4950-ae62-032bd6971e57",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014477",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Besøget blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.<strong></strong></p>\n<h4>Resume</h4>\n<p>Social- og Handicapudvalget besøger Aktivhuset i Freyas Kvarter 48, 2670 Greve.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget tager besøget i Freyas Kvarter til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Aktivhuset er en del af de fysiske rammer som Pædagogisk Psykiatrisk Vejledningscenter anvender til aktiviteter og tilbud for borgere med nedsat fysisk eller psykisk funktionsevne eller særlige sociale problemer. Det er aktiviteter og tilbud efter lov om social service.</p>\n<p>I Pædagogisk Psykologisk Vejledningscenter er der ansat cirka 50 medarbejdere samt ledelse. Den primære opgave er at yde hjælp og støtte til cirka 240 borgere. Støtten udføres på flere forskellige lokationer, som for eksempel i botilbudslignende tilbud eller i borgerens eget hjem.</p>\n<p>Aktivhuset bruges både af borgerne som er visiteret til tilbud, som følge af deres funktionsnedsættelser og af borgere som benytter de to uvisiterede tilbud. Derudover bruges Aktivhuset af en frivillig støttegruppe som indimellem tilbyder forskellige sociale aktiviteter som for eksempel banko.</p>\n<p>Social- og Handicapudvalget vil på deres udvalgsmøde den 13. marts behandle en sag om tilpasning af målgruppen for et af de uvisiterede tilbud.</p>\n<p>Social- og Handicapudvalget vil i forbindelse med deres møde have mulighed for at få en rundvisning i Boligfællesskabet Freyas Kvarter 40-42. Social- og Handicapudvalget behandlede et forslag om ændret målgruppen til Boligfællesskabet på deres møde den 6. februar 2023.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b8aea3e3-7bca-400e-a9dc-6a308d257d4c",
+          "DocumentId": "b8aea3e3-7bca-400e-a9dc-6a308d257d4c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-002852",
+      "Navn": "Besøg i Freyas Kvarter",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8cd9d4c2-cabf-49b2-9fa6-2a7f3a0a228a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-002852",
+      "SourceId": null,
+      "Caption": "Besøg i Freyas Kvarter",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Under punktets behandling blev høringssvar fra DH-Greve i Handicaprådet omdelt. </p>\n<p> Orienteringen og høringssvaret blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget og Social- og Handicapudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen handler om at udvide målgruppen for et af de to uvisiterede tilbud i Pædagogisk Psykiatrisk Vejledningscenter. Tilslutningen med den nuværende målgruppe har været lav igennem de sidste 16 måneder og en udvidelse vil betyde, at flere borgere har mulighed for at benytte tilbuddet.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller overfor Sundheds- og Omsorgsudvalget, at målgruppen for et uvisiterede tilbud i Pædagogisk Psykiatrisk Vejledningscenter udvides fra den nuværende målgruppe: unge mellem 18-30 år med en udviklingsforstyrrelse til en bredere målgruppe: unge mellem 18-30 år med psykiske og/eller sociale problemer.</em></p>\n<p><em>Administrationen indstiller overfor Social- og Handicapudvalget, at udvalget tager indstillingen til orientering.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune har to uvisiterede tilbud i Pædagogisk Psykiatrisk Vejledningscenter. Et for borgere med en udviklingsforstyrrelse og et for borgere med en udviklingshæmning. Tilbuddene blev oprettet i forbindelse med budget 2020-2023. Greve Kommune er ikke lovmæssigt forpligtet til at drive uvisiterede tilbud, men det har stor betydning for målgruppen, fordi det er lettilgængeligt og, at det kan være med til at bryde den sociale isolation. </p>\n<p>Pædagogisk Psykiatrisk Vejledningscenter har drevet de to tilbud siden september 2021. Det er sociale tilbud med aktiviteter, hvor der er tilknyttet socialpædagogisk personale. Deltagerne kan få pædagogisk støtte og være sammen med ligesindede i tilbuddet. Målgruppen til det ene tilbud er unge mellem 18-30 år med en udviklingsforstyrrelse. Målgruppen til det andet tilbud er borgere med en udviklingshæmning.</p>\n<p>Sundheds- og Omsorgsudvalget fik fremlagt en status på de to tilbud ved deres møde den 15. august 2022. Som opfølgning på denne status skulle Sundheds- og Omsorgsudvalget fremlægges en ny sag om tilpasning af målgruppen, hvis budgetforslag om nedlukning af de to tilbud ikke blev vedtaget ved budget 2023-2026. Budgetforslaget blev ikke vedtaget. </p>\n<p>Siden da blev en nedlukning af de to tilbud forslået som kompenserende besparelse i budgetopfølgning 0, 2023. Dette blev heller ikke vedtaget og administrationen fremlægger derfor nu et forslag om at udvide målgruppen til tilbuddet for unge med en udviklingsforstyrrelse. Der er ikke et forslag om at ændre tilbuddet for borgere med en udviklingshæmning, da der er nok tilslutning til tilbuddet.</p>\n<p><em><strong>Status viste en lav tilslutning til tilbud for unge</strong></em></p>\n<p>Status viste at der var en lav tilslutning til tilbuddet for unge med en udviklingsforstyrrelse. Der var i gennemsnit 5 deltagere i tilbuddet mens der er til 12 pladser i tilbuddet. Status viste også, at der var en efterspørgsel på et uvisiteret tilbud til borgere med psykiske og/eller sociale problemer, efterspørgslen kom direkte fra borgere, som Pædagogisk Psykiatrisk Vejledningscenter har kontakt med i deres arbejde.</p>\n<p><em><strong>Forslag om at udvide målgruppen for tilbud til unge</strong></em></p>\n<p>Administrationen foreslår, at målgruppen udvides fra den nuværende målgruppe, unge mellem 18-30 år med en udviklingsforstyrrelse til en bredere målgruppe: unge mellem 18-30 år med psykiske og/eller sociale problemer. Det er administrationens forventning, at flere borgere vil benytte tilbuddet med den udvidede målgruppe. </p>\n<p>Faglig vurderes det, at borgere i denne udvidede målgruppe kan profitere af et uvisiteret tilbud med aktiviteter og netværksdannelse med støtte, da der er mulighed for at komme ud af ensomhed og opbygge sociale kompetencer.</p>\n<p>Den brede målgruppe imødekommer borgere med flere forskellige slags behov. Unge med en udviklingsforstyrrelse kan for eksempel have brug for en høj grad af struktur, stabilitet og genkendelige rammer. Mens unge med psykiske og /eller sociale problemer kan have særlige støttebehov hver især, som skal adresseres af det socialpædagogiske personale. Det er en pædagogisk opgave at skabe trygge rammer for deltagerne i tilbuddet, medarbejderne i Pædagogisk Psykiatrisk Vejledningscenter har derfor en vigtig opgave med at rumme og imødekomme borgernes forskellige behov.</p>\n<p><em><strong>Tidligere tiltag for at informere om tilbuddet til unge</strong></em> </p>\n<p>Greve Kommune har anvendt forskellige tiltag for at informere, borgere, pårørende og samarbejdspartnere om det uvisiterede tilbud til unge først i forbindelse med oprettelsen i 2020 og sidenhen i forbindelse med opstarten af tilbuddet i september 2021. Her er en kort gennemgang af de tiltag, der er blevet anvendt:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>I januar 2020 blev der afholdt et dialogmøde mellem de unge, deres pårørende og fagpersoner med rundvisning, info om det kommende tilbud og med en drøftelse af aktiviteter i tilbuddet.</li>\n    <li>I oktober 2021 blev der udsendt en samlet pressemeddelelse af Greve Kommune om de to uvisiterede tilbud.</li>\n    <li>I oktober 2021 blev der indsat to annoncer i Sydkysten om de to uvisiterede tilbud. </li>\n    <li>Medarbejderne i Pædagogisk Psykiatrisk Vejledningscenter har løbende informeret de borgere og de pårørende, som de var i kontakt med i deres arbejde om tilbuddet til de unge.</li>\n    <li>Der blev i efteråret 2021 opsat opslag om tilbuddet til de unge blandt andet på STU Greve.</li>\n    <li>Der blev i september 2021 lavet en facebookegruppe om tilbuddet og de planlagte aktiviteter i tilbuddet, som deltagere og andre interesserede kan følge.</li>\n</ul>\n<p><em><strong>Tilbuddet til unge skal lanceres på ny</strong></em></p>\n<p><span>I forbindelse med en udvidelse af målgruppen er der igen behov for at lancere tilbuddet.</span></p>\n<p><span> </span><span>Tilbuddet vil blive lanceret på Greve Kommunes hjemmeside og på relevante sociale medier. </span><span>Pædagogisk Psykiatrisk Vejledningscenter vil informere om tilbuddet direkte til de borgere og de pårørende som de allerede er i kontakt med.</span></p>\n<p><span> </span><span></span><span>Tilbuddet lanceres overfor samarbejdspartnere som blandt andet STU Greve, Klub Havanna og udvalgte uddannelsesinstitutioner. </span></p>\n<p><span>Derudover vil Greve Kommune gå i dialog med de relevante lokale handicaporganisationer om at få informationen om tilbuddet ud til deres medlemmer. </span></p>\n<h4>Lovgrundlag</h4>\n<p>Lov om social service.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udvidelsen af målgruppen kan gennemføres med uændret personalenormering, og sagen har derfor ingen økonomiske konsekvenser.</p>\n<h4>Kommunikation</h4>\n<p>Sagen behandles i Handicaprådet og rådets eventuelle kommentarer medbringes til Sundheds- og Omsorgsudvalget og Social- og Handicapvalgets behandling af sagen. Handicaprådets eventuelle kommentarer vedhæftes i referatet af sagen.</p>\n<h4>Tidsplan</h4>\n<p>Pædagogisk Psykiatrisk Vejledningscenter kan implementere ændringerne i løbet af april/maj 2023.</p>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>13-03-2023 Sundheds- og Omsorgsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\"><a>Høringssvar fra DH-Greve i Greve Handicapråd blev omdelt og taget til efterretning. </a>Høringssvar vedlægges referatet.</p>\n<div> </div><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3c1a4873-c2bd-45cd-978d-00ff83f39d5f",
+          "DocumentId": "3c1a4873-c2bd-45cd-978d-00ff83f39d5f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-002344",
+      "Navn": "Udvidelse af tilbud til unge mellem 18-30 år med psykiske og/eller sociale problemer",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Høringssvar om uvisiterede tilbud i Pædagogisk Psykiatrisk Vejledningscenter 08-03-2023",
+          "Id": "51ef6259-ecc1-46ad-84e7-9bcf27f22238"
+        }
+      ],
+      "Documents": null,
+      "Id": "0904f28f-9e17-4ea2-98d0-51a5a460d657",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-002344",
+      "SourceId": null,
+      "Caption": "Udvidelse af tilbud til unge mellem 18-30 år med psykiske og/eller sociale problemer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Formanden orienterede om et møde med repræsentanter fra DH-Greve</p>\n<p>Udvalget ønsker en sag på et kommende møde med fokus på rekruttering, personaleomsætning og kompetencer i personalegruppen på det sociale myndighedsområde</p>\n<p> Udvalget ønsker en præsentation af regelsættet for etablering af botilbud i andre/egen kommune i forbindelse med afrapportering af botilbudsanalysen.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n<p> </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/24af9399-9eb1-4add-bae0-6e9be0821ac3",
+          "DocumentId": "24af9399-9eb1-4add-bae0-6e9be0821ac3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014473",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "381d7584-e1c6-43f7-acb9-c6e44b0f5b15",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-014473",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringerne blev taget til efterretning med bemærkning om, at udvalget ønsker en sag, hvor udvalget kan lave en prioritering af udvalgets midler i 2024.</p>\n<p>Herudover ønsker udvalget en sag på dagsorden, hvor udvalget samler op på erfaringerne fra KL’s Social- og Sundhedspolitiske Forum i dagene 11.-12.maj 2023.</p>\nNæste udvalgsmøde ønskes afholdt i kommunens hjælpemiddeldepot.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p> - Udvalgets deltagelse i KL's Social og Sundhedspolitisk Forum den 11. og 12. maj 2023. </p>\n<p>  - Eksterne besøg i forbindelse med afholdelse af udvalgsmøder i 2023.</p>\n<p><b></b></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/14fe5d26-c14c-4dd7-be6c-fae3035924fe",
+          "DocumentId": "14fe5d26-c14c-4dd7-be6c-fae3035924fe"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013715",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8189206e-f337-4e45-aac3-6f3ea134a200",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-013715",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Kalenderen blev taget til efterretning med bemærkning om at udvalgets møde den 14.august 2023 starter kl. 18.00.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Social- og Handicapudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d5d47fc7-c483-47e7-9e34-3f7845ddc198",
+          "DocumentId": "d5d47fc7-c483-47e7-9e34-3f7845ddc198"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014474",
+      "Navn": "Social- og Handicapudvalget - mødekalender 2023",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Social- og Handicapudvalgets mødekalender 2023 - marts",
+          "Id": "13635187-db14-4860-8593-2678d900f40e"
+        }
+      ],
+      "Documents": null,
+      "Id": "c49a157e-a6fe-4466-84e8-05eb258014df",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-014474",
+      "SourceId": null,
+      "Caption": "Social- og Handicapudvalget - mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1bc9cd58-ac0a-4ab4-9e60-8017c131aba2",
+          "DocumentId": "1bc9cd58-ac0a-4ab4-9e60-8017c131aba2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014478",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ed437d28-ceca-4b5c-9368-b834f3af7cb3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014478",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "29a68a87-8011-4734-bcb5-75598c5bef77",
+    "Navn": "Social- og Handicapudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-03-13T17:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-03-13T17:00:00+01:00",
+    "Sted": "Aktivhuset, Freyas Kvarter 48, 2670 Grev",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "c0c4eb62-dafe-449b-b06d-75ba7ffe12c4",
+  "Lydfiler": null
+}

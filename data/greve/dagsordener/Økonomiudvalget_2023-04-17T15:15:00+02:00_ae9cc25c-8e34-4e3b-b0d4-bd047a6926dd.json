@@ -1,0 +1,168 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Dagsordenen blev godkendt. </span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 17. april 2023.</p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8c3ce495-73e8-40b1-909c-572f13ac598c",
+          "DocumentId": "8c3ce495-73e8-40b1-909c-572f13ac598c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014439",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e6277159-ea7d-48bc-8fc0-5babf90069c4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "ae9cc25c-8e34-4e3b-b0d4-bd047a6926dd",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014439",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>&Oslash;konomiudvalget anbefaler overfor Byr&aring;det, at administrationens indstillinger godkendes og at merudgiften p&aring; 2 mio. kr. &aring;rligt indarbejdes som teknisk korrektion i budget 2024-2027.</div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-002513",
+      "Navn": "Lukket: Godkendelse af leverandør efter udbud af Borgerrettet kørsel",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "1ed4d9ff-7125-4e83-b6dc-b3f8340c58d1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "ae9cc25c-8e34-4e3b-b0d4-bd047a6926dd",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-002513",
+      "SourceId": null,
+      "Caption": "Lukket: Godkendelse af leverandør efter udbud af Borgerrettet kørsel",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><b></b>\n<h4>Sagsprocedure</h4>\n<p>Økonomiudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsblad.</p>\n<h4></h4></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/20220844-9702-4573-9c91-2cd233ccce0d",
+          "DocumentId": "20220844-9702-4573-9c91-2cd233ccce0d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014501",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "69a93827-05b7-420b-b6d0-b568e0f04616",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "ae9cc25c-8e34-4e3b-b0d4-bd047a6926dd",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-014501",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "49a1c3b3-741b-4c22-86a1-f27bf55df8d1",
+    "Navn": "Økonomiudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-04-17T15:15:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-04-17T15:15:00+02:00",
+    "Sted": "Biblioteket",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Ekstraordinær dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "ae9cc25c-8e34-4e3b-b0d4-bd047a6926dd",
+  "Lydfiler": null
+}

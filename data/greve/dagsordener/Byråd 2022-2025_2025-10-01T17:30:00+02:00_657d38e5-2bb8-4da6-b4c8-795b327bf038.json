@@ -1,0 +1,1088 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nGodkendt.</p><br><br>Afbud: Charlotte Levin<br>Fraværende: Mehmet Zeki Dogru</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/41dbd2ba-df8f-4400-b0f0-c13936d747e6",
+          "DocumentId": "41dbd2ba-df8f-4400-b0f0-c13936d747e6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "206505bc-b2d1-4c8c-9eba-2bb21ffc9607",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "206505bc-b2d1-4c8c-9eba-2bb21ffc9607"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<br>\n<br><p>Afbud: Charlotte Levin<br>Fraværende: Mehmet Zeki Dogru<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Lukket: Orientering",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5095bd86-9bd5-47df-b775-fdfb451a8d23",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Lukket: Orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5095bd86-9bd5-47df-b775-fdfb451a8d23"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<ul>\n    <li>\n    Status på ukrainske flygtningeboliger.\n    </li>\n    <li>Filtre på kommunens netværk. Bilag vedlagt.</li>\n</ul><br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen orienterer om filter på netværk.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/633eb5d7-cdfd-4770-80b1-0d4bdbce7f0b",
+          "DocumentId": "633eb5d7-cdfd-4770-80b1-0d4bdbce7f0b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Orientering fra administrationen",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. WIFI sikkerhed på kommunens folkeskoler SBU april 2021",
+          "Id": "c3d57cc7-0359-4dad-980a-9074c919fb88"
+        }
+      ],
+      "Documents": null,
+      "Id": "b360ccf6-56fb-4b35-9f6e-4f9de39936c7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>Byr&aring;det godkendte &Oslash;konomiudvalgets indstilling.<p>Afbud: Charlotte Levin<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-009112",
+      "Navn": "Lukket: Karlslunde Center, lejeaftale for pendlerparkering",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "74c9d095-ffd1-4595-8129-e56ca3642c8b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "25-009112",
+      "SourceId": null,
+      "Caption": "Lukket: Karlslunde Center, lejeaftale for pendlerparkering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Spørgsmål blev besvaret på mødet, og et spørgsmål om støjtiltag blev sendt til skriftlig besvarelse.</p><br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet. </p>\n<h4>Sagsbeskrivelse</h4>\n<p>Borgere i Greve Kommune har mulighed for at stille spørgsmål til byrådet\ninden byrådets ordinære møde.</p>\n<p>Retningslinjerne for afvikling af spørgetiden fremgår af spørgeregulativ for\nGreve Byråd, som kan findes på Greve.dk. Af regulativet fremgår bl.a. følgende:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Der er afsat 30 minutter til spørgsmål og svar</li>\n    <li>Spørgsmål kan stilles mundtligt eller skriftligt.\n    Skriftlige spørgsmål skal være byrådet i hænde senest mandag ugen før\n    spørgetiden</li>\n    <li>Borgmesteren er forpligtiget til at afvise spørgsmål,\n    der indeholder angreb på borgere eller vedrører enkeltpersoner eller andre\n    forhold af fortrolig art</li>\n    <li>Eventuelle happenings, demonstrationer eller øvrige\n    meningstilkendegivelser skal afvikles på Rådhuspladsen</li>\n    <li>Tilhørerne i byrådssalen skal forblive på\n    tilhørspladserne, og hvis de ønsker at aflevere effekter til medlemmerne\n    af byrådet, skal disse afleveres til betjenten i Borgerservice forud for\n    mødet. Borgere må derfor ikke medbringe diverse effekter i byrådssalen.</li>\n</ul>\n<p>Spørgsmål til byrådet skal vedrøre kommunale forhold i Greve Kommune og have\nalmen interesse for kommunens borgere. </p>\n<p>Eventuelt ubesvarede spørgsmål bliver besvaret skriftligt senest otte dage\nefter spørgetidens afholdelse.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c427b364-4125-493e-a5a2-5e796f4e850f",
+          "DocumentId": "c427b364-4125-493e-a5a2-5e796f4e850f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Spørgetid - start klokken 19.00",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4b269dbd-01e3-4a19-95b5-9c9eb4a7d6cd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Spørgetid - start klokken 19.00",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet.</p>\n<h4>Resume</h4>\n<p>Borgmesteren orienterer om eventuelle emner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til\nefterretning.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/18584795-f64f-4558-b6c4-8326c6e735bd",
+          "DocumentId": "18584795-f64f-4558-b6c4-8326c6e735bd"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Borgmesteren orienterer",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fdca72c4-dad4-4d2d-81f4-3c2b6f05dc4e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Borgmesteren orienterer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Byrådet sendte sagen til realitetsbehandling i Klima-, Teknik- og Miljøudvalget med bemærkning om, at udvalget også skal tage stilling til inddragelse af naboerne.</p><br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><strong><span>Sagsprocedure</span></strong></p>\n<p><span>Byrådet.</span></p>\n<p><strong><span>Resume</span></strong></p>\n<p><span>Sagen indeholder\ninitiativretsforslag fra Liselott Blixt (UP1) vedr. skiltning og\nordensreglement ved Mosede Fort</span></p>\n<p><strong><span>Indstilling</span></strong></p>\n<p><span>Administrationen\nindstiller, at det besluttes, om det fremsatte initiativretsforslag skal\nrealitetsbehandles.</span></p>\n<p><strong><span>Sagsbeskrivelse</span></strong></p>\n<p><span>Mosede Fort er et\nvigtigt kultur- og rekreativt område i Greve Kommune, men der opleves gentagne\nproblemer med, at besøgende slår lejr på stedet. Dette skaber udfordringer både\ni forhold til sikkerhed, vedligeholdelse samt områdets anvendelse til det formål,\ndet er tiltænkt.</span></p>\n<p><span>Liselott Blixt (UP1)\nfremsætter et initiativretsforslag med forslag om at der udarbejdes et konkret\nordensreglement for Mosede Fort.</span></p>\n<p><span>Det fulde forslag\ner vedlagt som bilag 1.</span></p>\n<p><strong><span>Lovgrundlag</span></strong></p>\n<p><span>Kommunestyrelsesloven\n§ 11.</span></p>\n<p><strong><span>Økonomiske konsekvenser</span></strong></p>\n<p><span>Sagen har ingen\nøkonomiske konsekvenser for Greve Kommune.</span></p>\n<p><strong><span>Høring</span></strong></p>\n<p><span>Der er ikke\nhøringspligt i denne sag.</span></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/889de3fa-2be6-4708-8541-f26dd2f9b0b6",
+          "DocumentId": "889de3fa-2be6-4708-8541-f26dd2f9b0b6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-011378",
+      "Navn": "Initiativretsforslag fra (UP1) vedr. skiltning og ordensreglement ved Mosede Fort",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Initiativretsforslag vedrørende skiltning og ordensreglement ved Mosede Fort",
+          "Id": "6bb592c8-68e8-49a9-8b08-13a714be9ca1"
+        }
+      ],
+      "Documents": null,
+      "Id": "2e4b9b6e-2556-4802-908b-9feccc661ca1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "25-011378",
+      "SourceId": null,
+      "Caption": "Initiativretsforslag fra (UP1) vedr. skiltning og ordensreglement ved Mosede Fort",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Byrådet sendte sagen til realitetsbehandling i Skole-, Børne- og Ungeudvalget med bemærkning, at forslaget om 2 lærerordning sendes til realitetsbehandling, men finansieringen oversendes til budgetforhandlingerne og byrådet forholder sig derfor ikke til en eventuel skattestigning.</p><br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><span><strong>Sagsprocedure</strong></span></p>\n<p><span>Byrådet.</span></p>\n<p><strong><span>Resume</span></strong></p>\n<p><span>Sagen indeholder\ninitiativretsforslag fra Socialdemokratiet (A) vedr. To voksne i indskolingen i\ndansk og matematik.</span></p>\n<p><strong><span>Indstilling</span></strong></p>\n<p><span>Administrationen\nindstiller, at det besluttes, om det fremsatte initiativretsforslag skal\nrealitetsbehandles.</span></p>\n<p><strong><span>Sagsbeskrivelse</span></strong></p>\n<p><span>Socialdemokratiet\nforeslår, at der indføres en to-voksenordning (to-lærer eller lærer-pædagog) i\ndansk og matematik i 1.-3. klasse. </span></p>\n<p><span>Ordningen skal\nses som en investering snarere end en udgift. For hver elev, der støttes til at\ntrives og lære i almenklassen, reduceres risikoen for senere behov for\nspecialtilbud eller sociale indsatser. På sigt vil dette både styrke kommunens\nøkonomi og børnenes livsmuligheder.</span></p>\n<p><span>Det fulde forslag\ner vedlagt som bilag 1.</span></p>\n<p><strong><span>Lovgrundlag</span></strong></p>\n<p><span>Kommunestyrelsesloven\n§ 11.</span></p>\n<p><strong><span>Økonomiske konsekvenser</span></strong></p>\n<p><span>Sagen har ingen\nøkonomiske konsekvenser for Greve Kommune.</span></p>\n<p><strong><span>Høring</span></strong></p>\n<p><span>Der er ikke\nhøringspligt i denne sag.</span></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2f7dccfd-fc0d-4a38-9de3-4225e4679daf",
+          "DocumentId": "2f7dccfd-fc0d-4a38-9de3-4225e4679daf"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-011442",
+      "Navn": "Initiativretsforslag fra (A) vedr. to voksne i indskolingen i dansk og matematik",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. To voksne i indskolingen i dansk og matematik",
+          "Id": "4ce5ce6c-325d-42a1-854b-c9f76f7fcbd9"
+        }
+      ],
+      "Documents": null,
+      "Id": "5af46313-505e-4c90-8214-bb552f5954ed",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "25-011442",
+      "SourceId": null,
+      "Caption": "Initiativretsforslag fra (A) vedr. to voksne i indskolingen i dansk og matematik",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nByrådet godkendte Økonomiudvalgets indstilling med bemærkning om, at Byrådet godkendte Statsgaranti.</p>\n<p>Ad 1 og 2</p>\n<p>Stemte imod:</p>\n<p>A, med bemærkning om at A ønsker at hæve skatten med 0,4%.</p>\n<p>Ø, med bemærkning om at Ø har eget budgetforslag. </p>\n<p>Ad 4 </p>\n<p>Imod stemte: Ø, da Ø har eget budget, hvor lavere takster i SFO er finansieret.</p><br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Økonomiudvalget skal ifølge Styrelsesloven udarbejde budgetforslag til\nByrådet for det kommende år. Budgettet og takstoversigt m.m. skal endeligt vedtages\ninden 15. oktober 2025.</p>\n<p>Budgetforslaget skal behandles i Byrådet to gange med mindst tre ugers\nmellemrum. Førstebehandling fandt sted den 8. september 2025 og\nandenbehandlingen finder sted den 1. oktober 2025.</p>\n<p>Byrådet indgik <span class=\"SpellE\">to-årigt</span> budgetforlig i efteråret\n2024 og behandlingen er således en genbekræftelse af det <span class=\"SpellE\">to-årige</span>\nforlig. Budgettet for 2026-29 skal netop som følge af det <span class=\"SpellE\">to-årige</span>\nforlig være identisk med det oprindelige budget for Budget 2025-28, hvorfor\nbilag 1-4 derfor udelukkende udgør en fremskrivning justeret med politiske og\nlovgivningsmæssige ændringer. Byrådet skal derudover formelt tage stilling til\nvalg mellem statsgaranteret udskrivningsgrundlag og selvbudgettering, godkende\nskattesatser og takster for 2026 samt afsætte rådighedsbeløb og anlægsbevilling\ntil anlægsprojekter på maksimalt 2 mio. kr.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at teknisk budgetforslag 2026-29 (som er en forlængelse\n    af det <span class=\"SpellE\">to-årige</span> forlig), jf. bilag 1-4,\n    godkendes,</em></li>\n    <li><em>at uændret udskrivningsprocent,\n    grundskyldspromille, dækningsafgift samt kirkeskat (som er en\n    forlængelse af det <span class=\"SpellE\">to-årige</span> budgetforlig)\n    godkendes,</em></li>\n    <li><em>at enten Statsgaranti eller Selvbudgettering for 2026,\n    jf. bilag 5, godkendes,</em></li>\n    <li><em>at taksterne i Takstblad 2026, jf. bilag 6, godkendes,</em></li>\n    <li><em>at bemyndigelse af administrationen til, på baggrund af\n    budgetvedtagelsen, at genberegne takster samt publicere de lovregulerede\n    takster, når de foreligger, godkendes,</em></li>\n    <li><em>at frigivelse af det afsatte rådighedsbeløb til\n    anlægsprojekter på maksimalt 2,0 mio. kr., jf. bilag 7, godkendes,</em></li>\n    <li><em>at bemyndigelse af administrationen til, at foretage\n    tekniske justeringer i forbindelse med indberetning i økonomisystemet,\n    godkendes,</em></li>\n    <li><em>at det godkendes, at der indarbejdes en\n    servicerammepulje på 15 mio. kr. i 2026 og at administrationen får\n    mandat til at tilpasse servicerammepuljen i forbindelse med den fælles\n    budgetkoordinering, </em><span class=\"GramE\"><em><span>således at</span></em></span><em> kommunernes\n    samlede budgetlægning overholder rammerne i Økonomiaftalen for 2026 og</em></li>\n    <li><em>at det godkendes, at en eventuel sanktion i forbindelse\n    med overskridelse af kommunernes samlede anlægsramme håndteres\n    administrativt, idet borgmesteren bemyndiges til, efter den politiske\n    budgetvedtagelse, at gennemgå periodiseringen på anlægsprojekter i 2026\n    med henblik på at udskyde nogle projekter til 2027.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Et flertal i Greve Kommunes Byråd har i forbindelse med Budget 2025-28\nindgået et <span class=\"SpellE\">to-årigt</span> budgetforlig, som er gældende for\nårene 2025 og 2026. Byrådet besluttede på mødet den 19. marts 2025 (pkt. 18),\nhvilke justeringer, der kunne foretages i det <span class=\"SpellE\">to-årige</span>\nbudget. Som udgangspunkt er budgettet for 2026-29 derfor identisk med det\nvedtagne budget for 2025-28 opdateret med de nyeste pris- og lønskøn og\nkonsekvenserne af efterfølgende tillægsbevillinger i de løbende\nbudgetopfølgninger eller i selvstændige sager. Derudover er der foretaget\nændringer som følge af en genberegning af kommunens indtægter pba. nyt\nskatteskøn og ny økonomiaftale, nye eller bortfaldne opgaver relateret til\nændret lovgivning (DUT ændringer) og indarbejdet en ramme til senere udmøntning\naf tekniske rettelser. Tilsvarende er anlægsrammen også identisk med den\n2-årige budgetaftale, dog tilpasset i 2029, så beløbene svarer til den 10-årige\nanlægsoversigt for 2029.</p>\n<p>For at overholde gældende lovgivning skal der både være en 1. og en 2.\nbehandling af budgettet i Byrådet. Byrådet førstebehandlede og godkendte den 8.\nseptember 2025 (pkt. 19) administrationens budgetforslag (teknisk\nbudgetforslag) for 2026-29 og bilag 1-4 udgør derfor udelukkende en\nfremskrivning af budgettet justeret med ovenstående ændringer.</p>\n<p><strong><em>Proces/afstemning om budgettet</em></strong></p>\n<p>Byrådet vedtog den 8. september 2025, at afstemningen til 2. behandling af\nbudgettet skal ske således, at der stemmes om det tekniske budgetoplæg og om\ndet/de samlede ændrings/-underændringsforslag fremsendt af partierne.\nAfstemningen sker således, at der stemmes om det mest vidtgående forslag først.</p>\n<p><span class=\"grame\">Såfremt</span> administrationen\nmodtager ændrings-/underændringsforslag, sættes de til afstemning før det\ntekniske budgetforslag, og det mest vidtgående forslag sættes til afstemning\nførst. Der er ved publiceringen ikke indsendt ændringsforslag.\nUnderændringsforslag, der modtages efter udsendelse af Byrådets dagsorden\neftersendes. </p>\n<p>Som nævnt er budgettet en fortsættelse af sidste års <span class=\"SpellE\">to-årige</span>\nbudgetforlig. Skulle der alligevel være behov for taler og/eller debat, vil der\ni udgangspunktet, inden selve afstemningen og beslutningen om øvrige\nindstillingspunkter til dagsordenspunktet, gælde følgende proces: Borgmesterens\nfremlæggelsestale, partiernes gruppeformænd får ordet (rækkefølge efter\npartistørrelse: V, A, C, UP1, Ø, UP2 og F) og debat/replik om budgettet.</p>\n<p><strong><em>Valg mellem statsgaranti og selvbudgettering</em></strong></p>\n<p>Greve Kommunes indtægter er i administrationens budgetforslag baseret på\nstatsgaranti for 2026 og overslagsårene er baseret på KL´s skatte- og\ntilskudsmodel. I bilag 5 fremgår beregning af en evt. effekt ved at vælge\nselvbudgettering i stedet for statsgarantien i 2026. Beregningen viser at der\nikke kan forventes en gevinst ved selvbudgettering.</p>\n<p>Det er administrationens samlede vurdering, at valg af statsgaranti i 2026\nskaber den største sikkerhed for Greve Kommunes økonomi. Greve Kommunens\nfolketal skønnes ved årsskiftet at være lavere end skønnet, der ligger til\ngrund for statsgarantien. Dertil kommer, at vækstskønnet i Økonomisk\nRedegørelse fra august er lavere end vækstskønnet i Økonomisk redegørelse fra\nmaj. Statsgarantien er baseret på vækstskønnet i Økonomisk redegørelse fra maj.\nEndelig er der fra 2026 gennemført ændringer af reglerne for selvbudgettering,\nder gør det mindre fordelagtigt for kommunerne. Valget mellem statsgaranti og\nselvbudgettering er alene Byrådets, men modsat tidligere år anbefaler\nadministrationen statsgaranti som finansieringsform. Dette med baggrund i at\nden faglige vurdering af fordele og ulemper ved statsgaranti er relativt\nentydig.</p>\n<p><strong><em>Skatter og afgifter</em></strong></p>\n<p>De indarbejdede skatter og afgifter for 2026 er alle uændrede i forhold til\n2025 og følger det <span class=\"SpellE\">to-årige</span> forlig:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Indkomstskatteprocent på 24,59 pct. (uændret)</li>\n    <li>Grundskyldspromille på 5,5 promille (uændret)</li>\n    <li>Grundskyldspromille produktionsjord på 2,144 promille\n    (uændret)</li>\n    <li>Dækningsafgift på erhvervsejendomme på 3,000 promille\n    (uændret)</li>\n    <li>Dækningsafgift for alle offentlige ejendomme afregnes i\n    2026-29 med samme beløb som i 2025 (uændret)</li>\n    <li>Kirkeskat på 0,81 pct. (uændret)</li>\n</ul>\n<p><strong><em>Godkendelse af takstblad for 2026</em></strong></p>\n<p>Vedlagt som bilag 6 er det foreløbige takstblad til godkendelse.\nTakster, som ikke skal genberegnes på baggrund af det vedtagne budget, men som\nalene bliver pris- og lønfremskredet, fremgår uden farvemarkering. Når\nbudgettet er vedtaget, genberegnes de øvrige takster (markeret med gult) og de\nlægges på kommunens hjemmeside og meldes ud til relevante parter og borgere\nsammen med de takster, som opdateres administrativt, når de lovregulerede\ntakster foreligger.</p>\n<p><strong><em>Anlægsbevillinger</em></strong></p>\n<p>Vedlagt som bilag 7 er en oversigt over rådighedsbeløb og anlægsbevillinger\ntil anlægsprojekter på maksimalt 2,0 mio. kr., som søges frigivet direkte ved\nbudgetvedtagelsen uden en særskilt bevillingssag. Der søges om frigivelse af\nanlægsbevilling på de konkrete projekter med effekt pr. 1. januar 2026.</p>\n<p>Bilag 4 indeholder en investeringsoversigt med de anlæg, der er indeholdt i\ndet tekniske budgetforslag for 2026-29, som svarer til budgetforliget opdateret\nmed efterfølgende Byrådsbeslutninger. Det skal bemærkes, at der på Byrådsmødet\nden 8. september 2025, for så vidt angår pkt. 40, 41 og 44, er besluttet at\nforetage en ændret periodisering mellem 2025, 2026 og 2027. Dette er ikke\nindarbejdet i den vedlagte investeringsoversigt, men vil efter\nbudgetvedtagelsen bliver indarbejdet i økonomisystemet.    </p>\n<p><strong><em>Bemyndigelse til teknisk justering i økonomisystemet</em></strong></p>\n<p>Efter budgetvedtagelsen bliver konsekvenserne af det vedtagne budget\nindarbejdet i økonomisystemet. Her kan konsekvenserne af en genberegning af\ntaksterne på dagtilbudsområdet og de dertilhørende konsekvenser for udgifterne\ntil fripladstilskud og søskenderabat erfaringsmæssigt give anledning til mindre\npåvirkning af kassebeholdningen. Hertil kan indberetningen i overslagsårene\n2027-29 give mindre udsving grundet forskellige pris- og lønreguleringssatser\npå de enkelte arter.</p>\n<p>Det indstilles, at administrationen bemyndiges til at foretage ovennævnte\ntekniske justeringer, <span class=\"grame\">således at</span> budgettet\npå de enkelte fagområder bliver retvisende. Eventuelle bevillingsmæssige\nkonsekvenser af disse justeringer foretages med modpost på kassebeholdningen.</p>\n<p><em><strong>Servicerammepulje</strong></em></p>\n<p>Administrationen anbefaler i lighed med de sidste par år, at der i budget\n2026 indarbejdes en servicerammepulje på 15 mio. kr., <span class=\"grame\">således at</span> overførte midler fra 2025 til 2026\nkan anvendes i 2026 uden, at det udfordrer overholdelse af servicerammen. For\nikke at påvirke likviditeten finansieres puljen af overførte midler og oprettes\nrent regnskabsteknisk med en modpost på budgettets finansforskydninger. Det\nindstilles, at administrationen får mandat til at tilpasse servicerammepuljen i\nforbindelse med den fælles budgetkoordinering (de 15 mio. kr. er p.t.\nindmeldt), hvis der er behov for det, <span class=\"grame\">således\nat</span> kommunernes samlede budgetlægning overholder rammerne i\nØkonomiaftalen for 2026, jf. nedenfor. </p>\n<p><strong><em>Eventuel sanktion og behov for ændret anlægsperiodisering</em></strong></p>\n<p>I forhold til overholdelse af den samlede service-/anlægsramme og den\nsamlede skatteudskrivning ses landets kommuner under ét. På baggrund af\nkommunernes foreløbige indmeldinger til KL (pr. 12. september) tyder det på, at\nskattesiden balancerer, mens kommunerne samlet set overskrider den\nfastsatte serviceramme og ligger 150 mio. kr. over aftalen, mens der er et\nbetydeligt pres på anlægsrammen, hvor der på kommunalt plan samlet set\nstadig er en overbudgettering på omkring 700 mio. kr.</p>\n<p>Det er endnu uvist, om der bliver behov for, at Greve Kommune reducerer\nanlægsbudgettet i 2026 for at medvirke til at kommunerne under ét overholder\nanlægsrammen, men det kan vise sig at blive nødvendigt. Det indstilles derfor,\nat Borgmesteren bemyndiges til, efter den politiske budgetvedtagelse, at\ngennemgå periodiseringen af anlægsprojekterne med henblik på at udskyde\nprojekter fra 2026 til overslagsårene.</p>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven. Det fremgår af den kommunale styrelseslov, at budgettet\nskal behandles af Byrådet to gange med minimum tre ugers mellemrum.\nFørstebehandlingen fandt sted den 8. september 2025 og 2. behandlingen\nsker den 1. oktober 2025.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Greve Kommunes økonomiske politik indeholder en række strategiske\nmålepunkter for budgetarbejdet. Disse tilsiger et overskud på den ordinære\ndrift (før anlæg og finansielle poster) på mindst 120 mio. kr. i 2026 og frem,\net anlægsbudget på mindst 70 mio. kr. årligt set over budgetperioden, en\ngennemsnitlig likviditet på mindst 200 mio. kr., overholdelse af den tekniske\nservice- og anlægsramme og endelig en nettoreduktion af kommunens langsigtede\ngæld. Budgettet for 2026-29 overholder de strategiske målepunkter.</p>\n<p>Greve Kommunes budget beskriver den økonomiske ramme for kommunens\naktiviteter for perioden 2026-29. Efter andenbehandlingen indarbejdes alle\nvedtagne ændringsforslag i budgettet.</p>\n<h4>Øvrige konsekvenser</h4>\n<p>Der er ingen øvrige konsekvenser af nærværende sag.</p>\n<h4>Kommunikation</h4>\n<p>Det vedtagne budget, herunder den endelige resultatoversigt og øvrigt\ntilhørende materiale, vil blive offentliggjort på Greve Kommunes hjemmeside.</p>\n<h4>Tidsplan</h4>\n<p>Der henvises til den overordnede tidsplan for Budget 2026-29.</p>\n<h4>Høring</h4>\n<p>Høringen af budgettet består af offentlig publicering af\nførstebehandlingssagen og har været i høring hos eksterne høringsberettigede\nparter og i MED-organisationen i perioden fra den 20. august 2025 til den 10.\nseptember 2025. Høringssvar og indsendte bemærkninger fremgår af bilag 8.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>24/09/2025   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">1. -2. Økonomiudvalget anbefaler overfor Byrådet, at administrationens\nindstilling godkendes. </p>\n<p>Imod stemte: </p>\n<p>A, med bemærkning om at A ønsker at hæve skatten med 0,4%.</p>\n<p>Ø, da Ø har eget budget, hvor lavere takster i SFO er finansieret.</p>\n<p>3. Økonomiudvalget anbefaler overfor Byrådet atStatsgarantifor2026godkendes.</p>\n<p>4. Økonomiudvalget anbefaler overfor Byrådet, at administrationens\nindstilling godkendes. </p>\n<p>Imod stemte: Ø, da Ø har eget budget, hvor lavere takster i SFO er\nfinansieret.</p>\n<p>5-9. Økonomiudvalget anbefaler overfor Byrådet, at administrationens\nindstilling godkendes. </p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/41d31e6e-4819-40ad-82f0-87e2ae13621c",
+          "DocumentId": "41d31e6e-4819-40ad-82f0-87e2ae13621c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-007456",
+      "Navn": "Budget 2026-29 - 2. behandling",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Administrationens budgetforslag 2026-29",
+          "Id": "4f297654-56e0-4a2e-b2d4-edc070b937b9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Noter til den administrative budgetbalance",
+          "Id": "b2b02ada-36c2-445d-bd68-b00fb5f044d5"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Hovedoversigt Budget 2026-29",
+          "Id": "339be236-759f-4109-a49d-ddd1acba8a91"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Investeringsoversigt - Anlæg",
+          "Id": "d3386cdc-63fb-4a24-9622-0ed58aac1960"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5. Valg af selvbudgettering vs. statsgaranti for 2026",
+          "Id": "1acd86ad-5078-45ee-ab50-7dd78976bcc3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 6. Takstblad 2026",
+          "Id": "8cc5e270-1e0c-4c0b-91f8-71983b83e4af"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 7. Anlægsbevillinger ifm. budgetvedtagelsen 2026-29",
+          "Id": "4a04eb63-b182-4e75-8804-9c8bb49ecdd0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 8. Høringssvar - Budget 2026-29 - Administrationens budgetforslag",
+          "Id": "1114d5c7-706f-49ad-8de9-642cdae6f393"
+        }
+      ],
+      "Documents": null,
+      "Id": "c2736b82-a234-4e66-a11a-2fbe541706ed",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "25-007456",
+      "SourceId": null,
+      "Caption": "Budget 2026-29 - 2. behandling",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nByrådet godkendte administrationens indstilling.</p>\n<p>Undlod: F</p><br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet</p>\n<h4>Resume</h4>\n<p>Sagen indeholder en ændring af styrelsesvedtægten for Greve Byråd i\nforbindelse med oprettelsen af de nye sundhedsråd. Ændringen af\nstyrelsesvedtægten blev 1. behandlet på mødet i Byrådet den 8. september 2025\n(pkt. 31), hvor den blev godkendt. Sagen udgør 2. behandling af\nstyrelsesvedtægten.  </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at den reviderede styrelsesvedtægt\ngodkendes. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<h4><span>Byrådet\nhar på et møde den 8. september 2025 (pkt. 31) behandlet en sag i forbindelse\nmed sundhedsreformen, hvor der skulle vælges en repræsentant til sundhedsrådet.\nHer blev det besluttet, at det er borgmesteren, der skal repræsentere Greve\nKommune i sundhedsrådet (forventeligt sundhedsrådet Østsjælland og Øerne), og\nat formanden for Sundheds- og Omsorgsudvalget er stedfortræder.</span></h4>\n<h4><span>De\nvalgte kommunale repræsentanter i sundhedsrådet skal fremgå af\nstyrelsesvedtægten. Alle ændringer af kommunens styrelsesvedtægt kræver to\nbehandlinger i byrådet med mindst 6 dages mellemrum, jf. kommunestyrelseslovens\n§ 2, skt. 2. Ændringerne i styrelsesvedtægterne vedrørende sundhedsråd undergik\n1. behandling på ovenstående byrådsmøde den 8. september 2025 og sagen\nforelægges nu til 2. behandling i Byrådet. </span></h4>\n<h4><span>I\nbilag 1-3 ses henholdsvis den gældende styrelsesvedtægt, styrelsesvedtægt med\nvis ændringer og ny version af styrelsesvedtægterne. Bilag 2 og 3 indeholder de\nbeslutninger, der blev truffet på Byrådsmøde den 8. september 2025.</span></h4>\n<h4>Lovgrundlag</h4>\n<p>Kommunestyrelseslovens § 2, stk. 2 og 3.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<h4><span>Sagen\nhar ikke økonomiske konsekvenser for Greve Kommune.</span></h4>\n<h4>Kommunikation</h4>\n<p>Når styrelsesvedtægten er godkendt, skal den sendes til Ankestyrelsen (det\nkommunale tilsyn). Styrelsesvedtægten offentliggøres desuden på kommunens\nhjemmeside.</p>\n<h4>Tidsplan</h4>\n<p>Senest den 1. november 2025 skal valg af Greve Kommunes repræsentant og\nstedfortræder være skrevet ind i Greve Kommunes styrelsesvedtægter. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5249741c-9441-4046-ab26-0dfbd8bef017",
+          "DocumentId": "5249741c-9441-4046-ab26-0dfbd8bef017"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-007028",
+      "Navn": "Reform - ændring styrelsesvedtægt - 2. behandling",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Gældende styrelsesvedtægt for Greve Byråd",
+          "Id": "57e13631-d7ca-4fd1-b5dd-05caade5349b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Styrelsesvedtægt for Greve Byråd med vis ændringer",
+          "Id": "978d9c0b-e9b0-4035-a0fc-58144eac634b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Ny version af styrelsesvedtægt for Greve Byråd",
+          "Id": "f9172af0-2cc3-4eb7-ae89-6164de894f7e"
+        }
+      ],
+      "Documents": null,
+      "Id": "06dc2ce4-718d-452b-8728-10c151e097b9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "25-007028",
+      "SourceId": null,
+      "Caption": "Reform - ændring styrelsesvedtægt - 2. behandling",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Strandparken I/S fremsender årsrapport og regnskab 2024 til interessenternes godkendelse. Årsrapporten er godkendt af Strandparkens bestyrelse den 8. april 2025.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, a<em>t Strandparken I/S´s regnskab og årsrapport for 2024 tages til efterretning.   </em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Regnskab 2024 er udarbejdet af Strandparken I/S, Ishøj Kommune, og revideret af BDO Statsautoriseret revisionsaktieselskab.</p>\n<p>Resultatopgørelsen viser et driftsunderskud på 1,2 mio. kr. Til sammenligning var der et overskud på 1 mio. kr. i 2023. I 205 vil der være fokus på et positivt driftsresultat, som kan styrke Strandparkens økonomi og buffer mod uforudsete hændelser.</p>\n<p><em>Afvigelser mellem bevilling og regnskab</em></p>\n<ul>\n    <li>Personaleomkostninger: Der er budgetteret 4 mio. kr. og der er brugt 4,2 mio. kr. Personalebudgettet var ikke blevet opdateret for 2024, hvor Strandparken har haft sin egen fuldtids driftsleder. Sekretariatet blev reduceret med en medarbejder ved udgangen af 2022. Dette udgjorde en besparelse med et årsværk for 2024. Den nye driftsleder har været medvirkende til, at Strandparken har kunne holde et højt serviceniveau i 2024 og samtidig har gennemført en række forbedringer og renoveringstiltag.</li>\n    <li>Bygningsvedligeholdelse og øvrig drift - inklusiv anlægsprojekter: Der er budgetteret med 8 mio. kr. og der er brugt 9,8 mio. kr. Forbedring af mangelfuldt dræningssystem ved Sivstien bevirker højere udgifter end forventet, ligesom udgifterne til oprydning og reparation efter stormfloden 2023 har vist sig dyrere end først antaget. Begge dele har medvirket til det høje forbrug. Derudover var der i 2024 et stort fokus på udførsel af projekter som følge af investeringsplanen for belægninger, essentielle bygværker og teknisk infrastruktur, som i løbet af året afkastede betydelige udgifter som eksempelvis spildevandspumper.</li>\n    <li>Øvrige omkostninger: Der er brugt 0,6 mio. kr. Udgifterne under øvrige omkostninger dækker blandt andet udgifter til revisor, advokat, forsikringer og varekøb eksklusiv anlægsprojektomkostninger.</li>\n</ul>\n<p> <em>Årets væsentligste begivenhed</em></p>\n<p>2024  blev et år med meget stor aktivitet i Strandparken både i forhold til anlæg og drift. Der var store oprydnings- og reparationsopgaver efter stormfloden i 2023, samtidig med at mange store projekter blev udført, som følge af investeringsplanen for belægninger og essentielle bygværker.</p>\n<h4>Lovgrundlag</h4>\n<p>Vedtægt for Strandparken I/S.</p>\n<h4>Økonomiske konsekvenser </h4>\n<p>Greve Kommunes tilskudsandel til Strandparken I/S udgjorde 2,8 mio. kr. i 2024</p>\n<h4>Høring</h4>\n<p><em> </em>Der er ikke høringspligt i denne sag<em>.</em></p>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>24/09/2025   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler overfor Byrådet, at administrationens indstilling godkendes. <br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/059da664-8272-4a90-83e5-04e5ed65e59d",
+          "DocumentId": "059da664-8272-4a90-83e5-04e5ed65e59d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008334",
+      "Navn": "Strandparken I/S årsregnskab 2024",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Strandparken årsrapport 2024",
+          "Id": "3bedd24a-d1b1-4c07-81e9-d182fc151d96"
+        }
+      ],
+      "Documents": null,
+      "Id": "cdb299c2-847d-49b1-82d7-f74b4c9983ef",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "25-008334",
+      "SourceId": null,
+      "Caption": "Strandparken I/S årsregnskab 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Greve Kommune har modtaget forslaget til budget 2026 for Strandparken I/S, som er sendt til interessentkommunernes godkendelse.</p>\n<h4>Indstilling</h4>\n<p><em><em>Administrationen indstiller, at Strandparken I/S budget for 2026 godkendes.</em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune har modtaget forslaget til budget 2026 for Strandparken I/S, som er sendt til interessentkommunernes godkendelse.</p>\n<p>I budget 2026 forventer man indtægter på 14,3 mio. kr. og udgifter på  13,7 mio. kr. </p>\n<h4>Lovgrundlag</h4>\n<p>Vedtægter for Strandparken I/S</p>\n<h4>Økonomiske konsekvenser </h4>\n<p>Greve Kommunes bidrag i 2026 til drift af Strandparken I/S er 2,9 mio. kr. </p>\n<h4>Høring</h4>\n<p><em> </em>Der er ikke høringspligt i denne sag<em>.</em></p>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>24/09/2025   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler overfor Byrådet, at administrationens indstilling godkendes. <br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9e769b00-d960-4626-a3f3-0f6f9a87b0ac",
+          "DocumentId": "9e769b00-d960-4626-a3f3-0f6f9a87b0ac"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008335",
+      "Navn": "Strandparken I/S budget 2026",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Budget 2026, drift og interessentindbetalinger",
+          "Id": "9eed69d6-9553-4641-a64a-45467b4331be"
+        }
+      ],
+      "Documents": null,
+      "Id": "fc77bba9-9bc2-4dbf-a76b-72e8a587cb50",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "25-008335",
+      "SourceId": null,
+      "Caption": "Strandparken I/S budget 2026",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget og Byrådet </p>\n<h4>Resume</h4>\n<p>For anlægsarbejder med udgifter over 2 mio. kr. (brutto) samt køb og salg af\ngrunde og bygninger skal der aflægges et særskilt anlægsregnskab.</p>\n<p>For regnskabsår 2024 afsluttes et anlægsprojekt på Økonomiudvalgets område\nmed bruttoudgifter over 2 mio. kr., som hermed fremlægges.  Anlægsregnskabet afsluttes uden afvigelser.</p>\n<p>Anlægget er afsluttet i regnskab 2024 og er indarbejdet i årsregnskabet for 2024.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at anlægsregnskab for projekt 541\nUdskiftning af netværksudstyr godkendes.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>I denne sag forelægges anlægsregnskab for projekt 541 Udskiftning af\nnetværksudstyr jf. specifikationen i tabel 1.</p>\n<p>Tabel 1 - Anlægsprojekter 541 Udskiftning af netværksudstyr (1.000 kr.)</p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"94%\">\n    <tbody>\n        <tr>\n            <td>\n            <p><strong>Nr.</strong></p>\n            </td>\n            <td>\n            <p><strong>Projektnavn</strong></p>\n            </td>\n            <td>\n            <p><strong>U/I</strong></p>\n            </td>\n            <td>\n            <p><strong>Anlægs-bevilling</strong></p>\n            </td>\n            <td>\n            <p><strong>Forbrug i\n            alt</strong></p>\n            </td>\n            <td>\n            <p><strong>Afvigelse</strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong>541</strong></p>\n            </td>\n            <td>\n            <p>Udskiftning af\n            netværksudstyr (Pulje)</p>\n            </td>\n            <td>\n            <p>U</p>\n            </td>\n            <td>\n            <p>4.245</p>\n            </td>\n            <td>\n            <p>4.245</p>\n            </td>\n            <td>\n            <p>0</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Anlægsprojekt 541 Udskiftning af netværksudstyr afsluttes uden afvigelse,\nidet restbevillingen er overført til puljen for 2025. </p>\n<p>Det er administrationens vurdering, at anlægsprojektet er gennemført i\noverensstemmelse med projektbeskrivelserne og dermed som specificeret i\nforbindelse med meddelelse af anlægsbevillingerne.</p>\n<p>Anlægsregnskabet og nærmere beskrivelse af projektet er vedlagt som\nbilag. </p>\n<p>Anlægget er afsluttet i regnskab 2024 og er indarbejdet i årsregnskabet for 2024</p>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven og Budget- og regnskabssystem for kommuner.</p>\n<p>Ved større anlægsarbejder med udgifter over 2 mio. kr. (brutto) skal der\naflægges særskilt anlægsregnskab for udvalgsområdet, som går videre i\nØkonomiudvalget og til godkendelse i Byrådet. Det gælder uanset om\nanlægsprojektet er ét- eller flerårigt. Desuden fremlægges anlægsregnskab for\nkøb og salg af grunde og bygninger for Økonomiudvalget til godkendelse i\nByrådet.</p>\n<p>Anlæg med forbrug på under 2 mio. kr. (brutto) forelægges som en del af\nårsregnskabet.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.  </p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>24/09/2025   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler overfor Byrådet, at administrationens indstilling godkendes. <br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/bb41374c-3952-4355-8523-d788351b61c3",
+          "DocumentId": "bb41374c-3952-4355-8523-d788351b61c3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008906",
+      "Navn": "Anlægsregnskab 2024 - Udskiftning af netværksudstyr",
+      "Punktnummer": "13",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Projekt 541 Udskiftning af netværksudstyr",
+          "Id": "f2a1682d-d7bf-4af9-b21b-6e4d8efd2894"
+        }
+      ],
+      "Documents": null,
+      "Id": "7c559dfd-2084-4039-99c9-97a60408f95a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "25-008906",
+      "SourceId": null,
+      "Caption": "Anlægsregnskab 2024 - Udskiftning af netværksudstyr",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet. </p>\n<h4>Resume</h4>\n<p>For anlægsarbejder med udgifter over 2 mio. kr. (brutto) samt køb og salg af\ngrunde og bygninger skal der aflægges et særskilt anlægsregnskab.</p>\n<p>For regnskabsår 2024 afsluttes et anlægsprojekter på Skole-Børne- og\nUngeudvalgets område med bruttoudgifter over 2 mio. kr., som hermed fremlægges\nmed et merforbrug på 32.121 kr.  </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at anlægsregnskab for anlægsprojekt 543 IT Hardware på\n    skolerne 2024 med et merforbrug på 32.121 kr. godkendes, og</em></li>\n    <li><em>at det godkendes, at merforbruget på 32.121 kr. er\n    finansieret af kassen i 2024.</em>  </li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>I denne sag forelægges anlægsregnskab for projekt 543 IT-hardware på\nskolerne 2024 med et merforbrug på 32.121 kr. jf. tabel 1. </p>\n<p>Tabel 1 - Anlægsprojekter under Skole- Børne- og\nUngeudvalget (1.000 kr.)</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"94%\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>Nr.</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>Projektnavn</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>U/I</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>Anlægs-bevilling</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>Forbrug i alt</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>Afvigelse</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>543</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>IT-hardware på skolerne\n            2024</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>U</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>2.530</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>2.562</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>32</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Det er administrationens vurdering, at anlægsprojektet er gennemført i\noverensstemmelse med projektbeskrivelsen og dermed som specificeret i\nforbindelse med meddelelse af anlægsbevillingerne. </p>\n<p>Puljen til indkøb af IT og hardware på skolerne anvendes til digitale hjælpemidler, der understøtter<br>\nDen Digitale Skole, f.eks. enheder til elever og personale samt interaktive skærme i<br>\nundervisningslokaler. Der er en løbende udskiftning af IT-udstyret på skolerne.</p>\n<p>Anlægsregnskabet med nærmere beskrivelse er vedlagt som bilag 1.</p>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven og Budget- og regnskabssystem for kommuner.</p>\n<p>Ved større anlægsarbejder med udgifter over 2 mio. kr. (brutto) skal der\naflægges særskilt anlægsregnskab for udvalgsområdet, som går videre i\nØkonomiudvalget og til godkendelse i Byrådet. Det gælder uanset om\nanlægsprojektet er ét- eller flerårigt. Desuden fremlægges anlægsregnskab for\nkøb og salg af grunde og bygninger for Økonomiudvalget til godkendelse i\nByrådet.</p>\n<p>Anlæg med forbrug på under 2 mio. kr. (brutto) forelægges som en del af\nårsregnskabet.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Anlægsregnskabet for projekt 543 IT-hardware på skolerne er afsluttet med et\nmerforbrug på 32.121 kr., som er finansieret af kassen i 2024.  </p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09/09/2025   Skole-, Børne- og Ungeudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">1. - 2.Anbefales.</p><br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">\nØkonomiudvalget anbefaler overfor Byrådet, at Skole-, Børne- og Ungeudvalgets indstilling godkendes.\n</p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/675cbac1-0e22-4c15-b0b5-45ea182f2ad8",
+          "DocumentId": "675cbac1-0e22-4c15-b0b5-45ea182f2ad8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008906",
+      "Navn": "Anlægsregnskab 2024 - IT-hardware på skolerne",
+      "Punktnummer": "14",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Anlægsregnskab 2024 - IT-hardware på skolerne",
+          "Id": "ffd09d19-d195-4729-abec-f12130fec885"
+        }
+      ],
+      "Documents": null,
+      "Id": "b026f2b4-64c2-437f-8305-ccc25be0cba9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "25-008906",
+      "SourceId": null,
+      "Caption": "Anlægsregnskab 2024 - IT-hardware på skolerne",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>For anlægsarbejder med udgifter over 2 mio. kr. (brutto) samt køb og salg af\ngrunde og bygninger skal der aflægges et særskilt anlægsregnskab.</p>\n<p>For regnskabsår 2024 afsluttes fire anlægsprojekter på Klima-, Teknik- og\nMiljøudvalgets område med bruttoudgifter over 2 mio. kr., som hermed fremlægges\nmed et samlet <span class=\"spelle\">mindreforbrug</span> på 0,6 mio. kr. </p>\n<p><strong><span>Supplerende sagsfremstilling</span></strong></p>\n<p>Efter sagens behandling i Klima-, Teknik- og Miljøudvalg  4. september 2025 (pkt. 10) er der\nforetaget en berigtigelse af tallene og teksten i de tilhørende bilag til projekterne 492 Fortov\nKarlslunde Parkvej  og 568 Asfalt 2024, bilag 2 og bilag 3 er tilføjet sagen. </p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at følgende anlægsregnskaber godkendes:</em> </li>\n    <ol style=\"list-style-type: lower-alpha;\">\n        <li><em>projekt 408 Besparelse\n        på udgifter til el ved udskift til LED godkendes,</em></li>\n        <li><em>projekt 409 Besparelse\n        på udgifter til el, ventilation, varmegenvinding godkendes,</em></li>\n        <li><em>projekt 492 Fortov\n        Karlslunde Parkvej godkendes, og</em></li>\n        <li><em>projekt 568 Asfalt 2024\n        godkendes.</em></li>\n    </ol>\n    <li><em>at det godkendes, at det samlede mindreforbrug på de\n    afsluttede projekter på 0,6 mio. kr. er tilgået kassen ved\n    regnskabsafslutningen for 2024</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>I denne sag forelægges i alt fire anlægsregnskaber under Klima-, Teknik- og\nMiljøudvalget med et samlet <span class=\"spelle\">mindreforbrug</span> på 0,6 mio.\nkr. jf. tabel 1.</p>\n<p>Tabel 1 - Anlægsprojekter under Klima-, Teknik- og\nMiljøudvalget (1.000 kr.)</p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"91%\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong>Nr.</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>Projektnavn</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>Anlægs-bevilling</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>Forbrug i\n            alt</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>Afvigelse</strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>408</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Besparelser på udgifter til el - ved udskift til LED\n            (Pulje)</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>11.154</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>11.154</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>409</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Besparelser på udgifter el, ventilation, <span class=\"spelle\">varmegenvinding</span> (Pulje)</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>4.746</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>4.746</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>492</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Fortov Karlslunde Parkvej</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>2.300</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>1.688</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>-612</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>568</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Asfalt 2024 (Pulje)</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>4.217</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>4.217</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>I alt</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>22.417</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>21.805</strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong>-612</strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p> </p>\n<p><em>408 Besparelser på udgifter til el – ved udskift til\nLED (Pulje)</em></p>\n<p>Anlægsprojektet blev godkendt i budgetvedtagelsen for\n2021-2024 den 5. oktober 2020 til udskiftning til energirigtig LED lys på\nkommunens ejendomme med en årlig driftsbesparelse på elforbruget.</p>\n<p>Projektet er afsluttet i 2024 med et samlet forbrug på 11,2 mio. kr.\nsvarende til den godkendte anlægsbevilling.</p>\n<p><em>409 Besparelser på udgifter el, ventilation,\nvarmegenvinding. (Pulje)</em></p>\n<p>Anlægsprojektet blev godkendt i budgetvedtagelsen for\n2021-2024 den 5. oktober 2020 til optimering af varme/ventilationsanlæg på\nkommunes ejendomme med en årlig driftsbesparelse på energiforbruget. </p>\n<p>Projektet er afsluttet i 2024 med et samlet forbrug på 4,7 mio. kr. svarende\ntil den godkendte anlægsbevilling.</p>\n<p><em>492 Fortov Karlslunde Parkvej</em></p>\n<p>Anlægsprojektet blev godkendt i Byrådet den 20. juni 2022\nsag 24 med en anlægsudgift på 2,3 mio. kr. til anlæg af fortov på den nordlige\nside af Karlslunde Parkvej fra <span class=\"spelle\">Annasvej</span> til <span class=\"spelle\">Stikagerstien</span> under Karlslunde Parkvej samt etablering af\ntrappe og gelænder til <span class=\"spelle\">Stiksagerstien</span>.</p>\n<p>Projektet afsluttes med et <span class=\"spelle\">mindreforbrug</span> i forhold\ntil den meddelte bevilling på 0,6 mio. kr., som skyldes at prisen på trappe og\ngelænder blev mindre end anslået.</p>\n<p><em>568 Asfalt 2024 (Pulje)</em></p>\n<p>Projektet er godkendt i Byrådet den 29. januar 2025 sag\n16. Anlægsudgifterne omfatter asfaltarbejder med udgangspunkt i den årlige\ntilstandsregistrering af kommunens veje og stier samt reparation af frostskader\npå kommunens veje som følge af de ekstraordinære vejrforhold vinteren\n2023/2024.</p>\n<p>Projektet er afsluttet i 2024 med et samlet forbrug på 4,2 mio. kr. svarende\ntil den godkendte anlægsbevilling.</p>\n<p>Det er administrationens vurdering, at anlægsprojekterne er gennemført i\noverensstemmelse med projektbeskrivelserne og dermed som specificeret i\nforbindelse med meddelelse af anlægsbevillingerne.</p>\n<p>Anlægsregnskaber og nærmere beskrivelse af de enkelte projekter er vedlagt\nsom bilag 1a - 1d. </p>\n<h4>Lovgrundlag</h4>\n<p>Styrelsesloven og Budget- og regnskabssystem for kommuner.</p>\n<p>Ved større anlægsarbejder med udgifter over 2 mio. kr. (brutto) skal der\naflægges særskilt anlægsregnskab for udvalgsområdet, som går videre i\nØkonomiudvalget og til godkendelse i Byrådet. Det gælder uanset om\nanlægsprojektet er ét- eller flerårigt. Desuden fremlægges anlægsregnskab for\nkøb og salg af grunde og bygninger for Økonomiudvalget til godkendelse i\nByrådet.</p>\n<p>Anlæg med forbrug på under 2 mio. kr. (brutto) forelægges som en del af\nårsregnskabet.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>De ovenstående afsluttede anlægsprojekter udviser et samlet netto <span class=\"spelle\">mindreforbrug</span> på 0,6 mio. kr., som er tilgået kassen i\nforbindelse regnskabsafslutningen for 2024.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag. </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>04/09/2025   Klima-, Teknik- og Miljøudvalget</u><br>\r\n1.-2. Anbefales.<br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget anbefaler overfor Byrådet, at  Klima-, Teknik- og Miljøudvalgets indstilling godkendes.</p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e6776acf-b9e2-44dd-a9cb-29202d397957",
+          "DocumentId": "e6776acf-b9e2-44dd-a9cb-29202d397957"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008906",
+      "Navn": "Anlægsregnskaber 2024",
+      "Punktnummer": "15",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1a. Projekt 408 Besparelse på udgifter til el - ved udskift til LED",
+          "Id": "c962b096-6dad-4e18-b3ff-48d4ece5a2c8"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1b. Projekt 409 Besparelse på udgifter til el, ventilation, varmegenvinding",
+          "Id": "0d4ac390-cd8d-4559-b1f5-b1dabafd9a0a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1c) Projekt 492 Fortov Karlslunde Parkvej",
+          "Id": "7d122e85-3c6d-4762-b9cf-bc4a41f7ffa6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1d) Projekt 568 Asfalt 2024",
+          "Id": "b0170ef1-fbae-4607-8153-7f39ce82bfbe"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Ny udgave af bilag 1c - Projekt 492 Fortov Karlslunde Parkvej",
+          "Id": "81319859-69db-4b6e-8f50-b49716810ec0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Ny udgave af bilag 1d - Projekt 568 Asfalt 2024",
+          "Id": "fbd079c3-cb45-46e7-98cb-3f02777d2ace"
+        }
+      ],
+      "Documents": null,
+      "Id": "327291c4-0dab-4ca6-98fe-0838eeefcac2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "25-008906",
+      "SourceId": null,
+      "Caption": "Anlægsregnskaber 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nByrådet godkendte Økonomiudvalgets indstilling.</p>\n<p>Imod stemte: Ø, med bemærkning om at buslinje 224 ønskes tilbageført til tidligere plan. </p>\nUndlod: F<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Hvert år ultimo oktober indleveres trafikbestilling til Movia, for det\nkommende års busbetjening i Greve Kommune. Administrationen anbefaler, at\nbusbetjeningen fortsætter, som den er nu.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at det godkendes, at Movia meddeles, at der\ningen ændringer er til Trafikbestillingen 2026.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Hvert år i slutningen af oktober er der frist for ændringer til\nbustrafikbestilling til det kommende år. Ændringerne der meddeles Movia i\noktober, vil blive implementeret ultimo juni året efter. Der har ikke været\nanalyser eller andet grundlag for ændringer til busbetjening i 2026.</p>\n<p>En ændring i trafikbestillingen kræver normalt, at der har været igangsat\nen indledende analyse i god tid op til trafikbestillingsfristen, så\nløsninger og konsekvenser er belyst.</p>\n<p>Trafikbestillingen til Movia følger et fast årshjul, hvor trafikbestillingen\nfor det næstkommende år starter op i november/december med indledende analyser.\nØnsker til ændringer fra Greve Kommune, som skal undersøges nærmere, kan\nfremføres de kommende måneder, så de kan indgå i Greve Kommunes og Movias\nårshjul for trafikbestilling 2027. </p>\n<p><em><strong>Tilpasning af buslinje 224</strong></em></p>\n<p>Som følge af reduktionen på buslinje 224 fra to til en gang i timen ved\nforrige års busbetjening ønskede Klima-, Teknik- og Miljøudvalget på mødet den\n15. august 2024 (punkt 23), at administrationen skulle kontakte Movia med\nhenblik på at tilpasse buslinje 224 bedre til skolernes mødetider i kommunen.\nKøretiderne er efterfølgende blevet tilpasset ringetiderne i Karlslunde og\nTune. </p>\n<p>Administrationen har modtaget og besvaret seks klager siden ændring af\nbuslinjerne 224 og 225 sidste sommer. </p>\n<h4>Lovgrundlag</h4>\n<p>Lov om trafikselskaber. </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag.</p>\n<h4>Kommunikation</h4>\n<p>Administrationen orienterer Movia.</p>\n<h4>Tidsplan</h4>\n<p>Fristen for tilbagemelding til Trafikbestilling i 2026 er den 31. oktober\n2025. Administrationen skal også meddele Movia, hvis der ikke skal foretages\nændringer.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>04/09/2025   Klima-, Teknik- og Miljøudvalget</u><br>\r\nAnbefales.<br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget anbefaler overfor Byrådet, at Klima-, Teknik- og\nMiljøudvalgets indstilling godkendes.</p>\n<p>Imod stemte: Ø, idet buslinje 224 ønskes\ntilbageført til tidligere plan.</p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/390249fb-64c5-4e55-8299-910933097cd2",
+          "DocumentId": "390249fb-64c5-4e55-8299-910933097cd2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008517",
+      "Navn": "Bustrafikbestilling 2026 til Movia",
+      "Punktnummer": "16",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4915d6a2-e292-4b2b-938b-8cd00cdd5888",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "16",
+      "Sorting": 16,
+      "IsOpen": false,
+      "CaseNumber": "25-008517",
+      "SourceId": null,
+      "Caption": "Bustrafikbestilling 2026 til Movia",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget, Økonomiudvalget og Byrådet. </p>\n<h4>Resume</h4>\n<p>Greve Kommune har søgt puljemidler fra Styrelsen for Arbejdsmarked og\nRekruttering (herefter STAR) til projektet Ungeløftets initiativ for unge med\npsykiske lidelser og unge med udfordringer ud over ledighed. Der er modtaget en\nbevilling på 3,2 mio. kr., fordelt over projektperioden 2025-28. Projektets\nformål er at hjælpe udsatte unge i alderen 15-29 år videre i ordinære timer\neller uddannelse gennem det samlede initiativ Individuelt Planlagt job med\nStøtte (herefter IPS) og Flere unge skal med. </p>\n<p>Med sagen orienteres der om projektet, og Byrådet skal beslutte, at\nprojektet skal igangsættes, og i så fald, at indtægter og udgifter bliver\noptaget på budget 2025-28. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at igangsættelse af projektet Ungeløftets initiativ for\n    unge med psykiske lidelser og unge med udfordringer ud over ledighed som\n    beskrevet i sagen, og i overensstemmelse med den modtagne\n    tilsagnsskrivelse godkendes, og</em></li>\n    <li><em>at indtægtsbevilling på 0,233 mio. kr. i 2025, 0,935\n    mio. kr. i 2026, 1,106 mio. kr. i 2027 og 0,939 mio. kr. i 2028 til\n    modtagelse af indtægter fra STAR, og en tilsvarende udgiftsbevilling til\n    afholdelse af udgifter vedrørende projektet, godkendes.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune har søgt puljemidler fra STAR til projektet Ungeløftets\ninitiativ for unge med psykiske lidelser og unge med udfordringer ud over\nledighed. Samlet er der udmeldt 519,1 mio. kr. ved denne ansøgningsrunde\n(2025-28). Der planlægges to lignende ansøgningsrunder i perioden 2029-2035.\nAdministrationen har den 17. juni 2025 modtaget tilsagn om en bevilling på 3,2\nmio. kr. fordelt over projektperioden 2025-28. </p>\n<p>For at kunne gennemføre initiativet skal Byrådet godkende, at projektet\nigangsættes og at indtægter og udgifter til projektet optages på budgettet\n2025-28.</p>\n<p><em><strong>Initiativets målgruppe og formål </strong></em></p>\n<p>Målgruppen omfatter alle 15-29-årige ydelsesmodtagere, unge uden job,\nuddannelse eller ydelse samt unge med delvis beskæftigelse på op til 18 timer\nom ugen. IPS og Flere unge skal med er baseret på de samme faglige og metodiske\ngrundprincipper. IPS er målrettet unge, der modtager behandling i\n(social)psykiatrien, mens Flere unge skal med er rettet mod unge med\nudfordringer ud over ledighed. </p>\n<p>Det overordnede mål med initiativet er, at flere unge i målgruppen opnår\nbeskæftigelse, ordinære arbejdstimer eller uddannelse. Samtidig sigter\ninitiativet mod at sikre håndholdte, koordinerede forløb på tværs af\nbeskæftigelses-, uddannelses-, social- og sundhedsområdet. </p>\n<p>En væsentlig ambition er også at etablere lokale partnerskaber mellem\nkommuner, virksomheder, civilsamfundsorganisationer og andre aktører med det\nformål at skabe bedre muligheder for, at unge kan blive en del af\narbejdsfællesskaber, uddannelser eller andre meningsfulde fællesskaber. På den\nmåde er initiativet med til at understøtte kommunens vision, som bl.a.\nfremhæver, at ”<em>I fællesskab med borgere og erhverv sikrer vi, at flest\nmuligt indgår i et arbejdsfællesskab</em>” (Naturligvis Greve – gennem\nhelhedssyn og fællesskaber).</p>\n<p><em>Måltal og resultatkrav for deltagelse i Ungeløftet</em></p>\n<p>I forbindelse med kommunens deltagelse i Ungeløftet vurderes det, at i alt\n250 unge vil blive omfattet af indsatsen i perioden 2025-28.</p>\n<p>Tilskuddet udbetales i to rater. 1. rate (50?%) udbetales ved delregnskab\nuden resultatkrav, mens 2. rate (op til 50 %) er knyttet til følgende to\nresultatkrav:</p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Resultatkrav 1: Hvis mindst 50 % af de unge i\n    indsatsgruppen er i beskæftigelse eller uddannelse i en given måned (efter\n    min. 6 måneders deltagelse), kan 40 % af tilskuddet udbetales.</li>\n    <li>Resultatkrav 2: Hvis 55 % af indsatsgruppen opnår samme\n    status i en given måned (efter min. 6 måneders deltagelse), kan de\n    resterende 10 % af tilskuddet udbetales.</li>\n</ol>\n<p><em>Styrkelse af den eksisterende beskæftigelsesrettede indsats</em></p>\n<p>I Greve Kommune vil der med indsatsen, blive arbejdet for\nbeskæftigelsespolitikkens ønskede effekt om, at flere unge kommer i uddannelse\neller beskæftigelse. Dette sker bl.a. ved at styrke og udvikle de eksisterende\nbeskæftigelsesrettede indsatser og initiativer, såsom Code of Care, der\nunderstøtter det virksomhedsrettede samarbejde, og Det Frivillige Mentorkorps,\nsom koordinerer indsatsen mellem de unge og frivillige mentorer. For at sikre\nen individuel og håndholdt indsats overfor de unge i projektperioden, ønskes\npuljemidlerne anvendt til to årsværk i kombinationsstillinger som ungeguide og\nIPS-konsulent.</p>\n<h4>Lovgrundlag</h4>\n<p><span class=\"SpellE\">STAR's</span> pulje om Ungeløftets initiativ for unge med\npsykiske lidelser og unge med udfordringer ud over ledighed - finansloven §\n17.59.21.50.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Greve Kommune har modtaget et tilsagn med en bevilling på 3,2 mio. kr. for\nperioden 15. august 2025 til 31. december 2028. Det bevilgede beløb svarer til\nknap to fuldtidsstillinger i perioden, til at supplere en intensiveret indsats\noverfor unge med psykiske lidelser og unge med udfordringer ud over ledighed.\nProjektet forudsætter egenfinansiering, som varetages inden for eksisterende\nrammer. </p>\n<p>Oprindeligt søgte kommunen om et beløb på 9,8 mio. kr., men da kommunerne\nsamlet har søgt mere end de afsatte midler, har STAR valgt ikke at forholde sig\ntil de enkelte kommunernes ansøgning. I stedet er midlerne fordelt ud fra\nantallet af 15-29-årige modtagere af uddannelseshjælp, ressourceforløb og\naktivitetsparate kontanthjælpsmodtagere, den enkelte kommune havde, d. 31.\nmarts 2025.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<h4>Tidsplan</h4>\n<p>Bevillingen kan anvendes i perioden 15. august 2025-31. december 2028.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>08/09/2025   Beskæftigelses- og Erhvervsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">1. - 2. Anbefales.</p><br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler overfor Byrådet, at Beskæftigelses- og Erhvervsudvalgets indstilling godkendes.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/49a6a0c5-9d73-4088-8000-0782b44f81fb",
+          "DocumentId": "49a6a0c5-9d73-4088-8000-0782b44f81fb"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-007892",
+      "Navn": "Puljemidler til IPS og Flere unge skal med 2025",
+      "Punktnummer": "17",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9b5f4e9c-639b-438e-b61a-494c94add0b1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "17",
+      "Sorting": 17,
+      "IsOpen": false,
+      "CaseNumber": "25-007892",
+      "SourceId": null,
+      "Caption": "Puljemidler til IPS og Flere unge skal med 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Skole-,\nBørne- og Ungeudvalget, Økonomiudvalget og Byrådet. </span></h4>\n<h4>Resume</h4>\n<h4><span>Sagen\nbaserer sig på Skole-, Børne- og Ungeudvalgets ønske om en årlig drøftelse med skolelederne,\nder handler om skoleudviklingssamtaler, gennemført i seneste skoleår. Med sagen\nskal udvalget beslutte hvilke fælles kommunale temaer, der skal indgå i indeværende skoleårs samtaler 2025/26.</span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at datoen den 24. november for drøftelse med\n    skoleledere godkendes, og</em></li>\n    <li><em>at det godkendes at fastholde de nuværende fælleskommunale temaer.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Baggrund</em></strong></p>\n<p>Skoleudviklingssamtaler er lovbestemt, og erstatter de tidligere kommunale kvalitetsrapporter på skoleområdet. Samtalerne skal afholdes en gang om året. Ved samtalen har skolens ledelse initiativretten til at udpege temaer for egen skoles udvikling. Det politiske niveau kan supplere med ønskede fælles kommunale temaer. Administrationen har gennemført skoleudviklingssamtaler årligt siden foråret 2023 ud fra denne ændrede ramme.</p>\n<p><strong><em>Dato for drøftelse med skoleledere</em></strong></p>\n<p>Tidspunktet, mandag den 24. november foreslås på baggrund af udvalgets ønske om at drøftelsen foregår på en mødedag for <span class=\"spelle\">Byrådet</span>. Samtidig\ngiver det skolerne mulighed for at forberede næste runde skoleudviklingssamtaler, der foregår fra januar 2026, med\ninddragelse af Skolebestyrelse, medarbejdere og elever.</p>\n<p><strong><em>Temaer for kommende års skoleudviklingssamtaler</em></strong></p>\n<p>Skole-, Børne- og Ungeudvalget beslutter, hvilke temaer for det fælles skolevæsen, der indgår i\ndette skoleårs skoleudviklingssamtaler. Administrationen foreslår, at en\nforsættelse af temaer fra seneste skoleår. Det vil styrke muligheden for at\nskabe forandring, når skolerne kan fastholde prioritering og fokus i indsatsen\nover flere år.</p>\n<p>Følgende tre temaer foreslås fortsat fra sidste år:</p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Overgang til ungdomsuddannelse, herunder skolernes\n    arbejde med elevernes valgkompetence og samarbejde med vejledere fra\n    Ungecenteret</li>\n    <li>Faglig og social trivsel</li>\n    <li>Inkluderende læringsmiljøer</li>\n</ol>\n<h4><span>Anbefalinger\nfra skoleudviklingssamtaler 2025 ligger, i lighed med tidligere, på www.greve.dk.\nLink: <a href=\"https://greve.dk/boern-og-unge/skoler/generel-information-om-skolen-i-greve-kommune#skoleudviklingssamtaler-og-kvalitetsrapporter-fc\">Generel\ninformation om skolen i Greve Kommune | Greve Kommune</a></span></h4>\n<h4>Lovgrundlag</h4>\n<h4><span>Folkeskoleloven,\n§ 40 a. </span></h4>\n<h4>Økonomiske konsekvenser </h4>\n<h4><span>Sagen\nhar ingen økonomiske konsekvenser for Greve Kommune. </span></h4>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09/09/2025   Skole-, Børne- og Ungeudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">\n</p>\n<p>1. - 2. Anbefales.</p><br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Økonomiudvalget\nanbefaler overfor Byrådet, at Skole-, Børne- og Ungeudvalgets indstilling\ngodkendes.</p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b015e2c3-27a7-4b6f-81d6-47fafb92c1f8",
+          "DocumentId": "b015e2c3-27a7-4b6f-81d6-47fafb92c1f8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-007653",
+      "Navn": "Skoleudvikling 2025/2026",
+      "Punktnummer": "18",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fff32282-603f-4553-ae30-0bd863bdd088",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "18",
+      "Sorting": 18,
+      "IsOpen": false,
+      "CaseNumber": "24-007653",
+      "SourceId": null,
+      "Caption": "Skoleudvikling 2025/2026",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Byrådet godkendte Økonomiudvalgets indstilling, med bemærkning om, at Byrådet ønsker at flytte opgaven og økonomien vedr. det frivillige mentorkorps fra Greve Kommune til FrivilligCenter Greve. Dette med respekt for den påkrævede MED-proces, der hører til. Derfor ønsker Byrådet, at MED inddrages forud for, at der forelægges en sag om overflytning af opgaven til endelig beslutning på Byrådets møde den 24. november 2025.</p><br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>En ny aftale om tilskud og samarbejde mellem FrivilligCenter Greve og Greve\nKommune er udarbejdet for perioden 2026-2028 i dialog mellem\nFrivilligCenter Greves bestyrelse og administrationen. Aftalen sendes til\ngodkendelse i Byrådet.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Aftale om tilskud og samarbejde\n2026-2028 med FrivilligCenter Greve godkendes. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune yder årligt et driftstilskud til FrivilligCenter Greve som\nudgør 0,4 mio. kr. årligt (2025-tal). Det kommunale tilskud er en\ngrundforudsætning for at FrivilligCenter Greve kan modtage en statslig\ngrundfinansiering på 0,35 mio. kr. årligt.</p>\n<p>Aftalen om tilskud og samarbejde beskriver formål og vilkår for\nFrivilligCenter Greves anvendelse af det kommunale tilskud. Aftalen skal sikre,\nat kommunens midler anvendes til det aftalte formål og beskriver\nrollefordelingen og det gensidige samarbejde mellem FrivilligCenter Greve og\nGreve Kommune. </p>\n<p>Administrationen er i dialog med FrivilligCenter Greves bestyrelse og\ndaglige ledelse blevet enige om en ny aftale om tilskud og samarbejde for\nperioden 1. januar 2026 til 31. december 2028, som hermed sendes til politisk\ngodkendelse. </p>\n<p>Der er i aftalen lavet en række mindre rettelser og ændringer som har haft\ntil formål at præcisere eller tydeliggøre aftalens vilkår og indhold. Alle\nrettelser og præciseringer kan ses i bilag 2.</p>\n<h4>Lovgrundlag</h4>\n<p>FrivilligCenter Greves grundfinansiering fra Socialstyrelsen indgår i\nfinansloven</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Der udbetales et tilskud til FrivilligCenter Greve svarende til det\nfastsatte budget under Kultur- og Fritidsudvalgets ramme der i 2025 beløber sig\ntil 0,4 mio. kr. Tilskuddet reguleres med den anvendte pris- og\nlønfremskrivning for Greve Kommune.</p>\n<p>FrivilligCenter Greve er optaget i den statslige grundfinansiering fra 1.\njanuar 2015, der sikrer FrivilligCenter Greve et tilskud på 0,35 mio. kr.\nårligt under forudsætning af minimum et tilsvarende kommunalt tilskud. </p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>10/09/2025   Kultur- og Fritidsudvalget</u><br>\r\nAnbefales. <br>\r\n<br>Afbud: Per Lund Sørensen\r\n<br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler overfor Byrådet, at Kultur- og Fritidsudvalgets indstilling godkendes.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f0b0de37-67a4-46bb-995b-76d2eff11b75",
+          "DocumentId": "f0b0de37-67a4-46bb-995b-76d2eff11b75"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-009170",
+      "Navn": "Samarbejds- og driftsaftale FrivilligCenter Greve 2026-28",
+      "Punktnummer": "19",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Samarbejds- og driftsaftale FrivilligCenter Greve 2023-2025",
+          "Id": "3095b0c0-2a27-4360-bce7-134b0ee9a7c0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Samarbejds- og driftsaftale FCG og GK med kommentarer FCG 2026-2028",
+          "Id": "413e0622-b40b-45e5-9a34-56f02812e5ea"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Samarbejds- og driftsaftale FCG og GK 2026-2028",
+          "Id": "7fbf37fb-598a-4bdb-971e-70d498ca7328"
+        }
+      ],
+      "Documents": null,
+      "Id": "10521762-d4ea-42f3-ab7d-80e227a39f78",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "19",
+      "Sorting": 19,
+      "IsOpen": false,
+      "CaseNumber": "25-009170",
+      "SourceId": null,
+      "Caption": "Samarbejds- og driftsaftale FrivilligCenter Greve 2026-28",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Plan- og Tryghedsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Midt- og Vestsjællands Politi og kommunerne i politikredsen har godkendt\nSamarbejdsplan 2025/2026. Samarbejdsplanen udstikker rammerne for samarbejdet\nog udpeger de fælles indsatsområder, som parterne vil have særligt fokus på i\nperioden. Byrådet og de relevante politiske udvalg får samarbejdsplanen til\norientering. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>På kredsrådsmødet den 28. april 2025 har Midt- og Vestsjællands Politi og\nkommunerne i kredsen godkendt Samarbejdsplan 2025/2026<span>. </span>Samarbejdsplanen er udarbejdet på baggrund af kommunernes\nforslag til tværgående indsatsområder.</p>\n<p>De tre indsatsområder i samarbejdsplanen er:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Forebyggelse af misbrug af afhængighedsskabende\n    stoffer, herunder nikotinprodukter, <span class=\"spelle\">puff</span><span class=\"spelle\"> barer</span> og opioider</li>\n    <li>Unges risikoadfærd i det offentlige og i det digitale\n    rum</li>\n    <li>Vold i nære relationer, herunder fysisk vold,\n    psykisk vold, negativ social kontrol og stalking.</li>\n</ul>\n<p>Den nye samarbejdsplan indeholder færre indsatsområder end tidligere, men\nligger op til et tættere samarbejde og øget deling af viden og erfaringer\nmellem aktørerne. <span>Samarbejdsplanen er\nvedhæftet som bilag 1.</span></p>\n<p>Udmøntningen af indsatsområderne bliver sat i gang i tre arbejdsgrupper med\ndeltagere fra alle kommuner og Midt- og Vestsjællands Politi. Arbejdsgruppernes\nførste opgave bliver at afdække, hvilke tiltag, der allerede er i de enkelte\nkommuner, hvordan der kan arbejdes med indsatsområdet og hvilke fora,\nindsatserne kan forankres i. Der vil blive fulgt op på arbejdet med at udmønte\nindsatsområderne på kredsrådsmødet i slutningen af 2025.</p>\n<h4>Lovgrundlag</h4>\n<h4><span>Politiloven\n§ 23 og Bekendtgørelse om politiets samarbejde med kommunale myndigheder mv.\n(BEK nr. 211 af 26/02/2018).</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>. </em></p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09/09/2025   Plan- og Tryghedsudvalget</u><br>\r\nAnbefales.<br>\r\n<br>Afbud: Conni Bergendorff, Per Lund Sørensen\r\n<br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler overfor Byrådet, at Plan- og Tryghedsudvalgets indstilling godkendes.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/11fd50d8-1dd3-463e-ba95-700911401734",
+          "DocumentId": "11fd50d8-1dd3-463e-ba95-700911401734"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-013678",
+      "Navn": "Samarbejdsplan 2025/2026",
+      "Punktnummer": "20",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Samarbejdsplan 2025/2026",
+          "Id": "9d369649-1294-4052-9edc-b09bfeaf593d"
+        }
+      ],
+      "Documents": null,
+      "Id": "cb8707be-7f3d-4fc6-91eb-46ea8a479d63",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "20",
+      "Sorting": 20,
+      "IsOpen": false,
+      "CaseNumber": "24-013678",
+      "SourceId": null,
+      "Caption": "Samarbejdsplan 2025/2026",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Byrådet godkendte Økonomiudvalgets indstilling.<br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet</p>\n<h4>Resume</h4>\n<p>Byrådet har den 1. november 2021 besluttet, at der skal gives status på\nvedtagne anlægsprojekter sammen med anden og tredje budgetopfølgning. Status\nomfatter økonomi og tidsplan, samt en kort beskrivelse af risici. Det kan,\nudover økonomi og tid, handle om proces for bruger- og borgerinddragelse\nsamt kommunikation. Der gives hermed en status på anlægssager i forbindelse med\nanden budgetopfølgning. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at status på anlægsprojekter tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Samlet set er der på investeringsoversigten i 2025 56 bevillinger, der\nvedrører kommunens bygninger (jf. bilag 1), og <span>23 bevillinger</span> der vedrører\nøvrige projekter på det tekniske område (jf. bilag 2). De øvrige projekter er\nprimært projekter på veje, stier og udendørsarealer, samt miljøprojekter. I alt\ner der afsat 243 mio. kr. i anlægsbudgettet i 2025 til det tekniske område,\nhvoraf det på nuværende tidspunkt forventes at kunne gennemføre projekter for i\nalt <span>ca.\n150-160 mio. kr.</span> </p>\n<p>Overblik over projekterne er opdelt på de kommunale ejendomme (jf. bilag 1)\nog øvrige projekter (jf. bilag 2). I begge overblik fremgår forventet tidsplan,\nbudget og forbrug. I overblikket over projekterne for de kommunale ejendomme\nfremgår desuden:</p>\n<p><strong><em>Projektets risikovurdering</em></strong></p>\n<p>Vurderes i tre niveauer: Lav, mellem og høj. Hvis risikovurdering er mellem\neller høj, er risici beskrevet i yderste højre kolonne.</p>\n<p><strong><em>Projektets fase</em></strong></p>\n<p>Vurderes fra fase 0-5, hvor fase 0-2 er forberedende faser, fase 3 er\nentrepriseudbud, fase 4 er udførsel og fase 5 er afsluttede projekter. </p>\n<p><strong><em>Hvilken bygningstype projektet udføres på</em></strong></p>\n<p>Sorteret ud fra kategorierne: Administration, dagtilbud, flygtninge, flere\nformål, skoler, social eller pleje.</p>\n<p>Der er på nuværende tidspunkt projekter, hvor administrationen vurderer, at\ndet afsatte budget ikke kan bruges i 2025. Det skyldes blandt andet, at\ntidsplanerne er forsinket på grund af uforudsete forhold i projektet som fx\nmiljøsanering, manglende ressourcer hos rådgiver eller entreprenør,\nleveranceudfordringer og manglende ressourcer i administrationen.</p>\n<p><em><strong>Forventede større reperiodiseringer</strong></em></p>\n<p>De projekter, hvor administrationen forventer at reperiodisere beløb på\nmere end én mio. kr. til kommende budgetår, fremgår nedenfor. Projekter med en\n* er projekter som Klima-, Teknik- og Miljøudvalget eller Byrådet har valgt\nskal prioriteres i 2025. </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Kunstgræsbane i Karlslunde*. Banen forventes først\n    etableret i 2026 som Klima-, Teknik- og Miljøudvalget blev orienteret om\n    den 14. august 2025.</li>\n    <li>Fodboldhuset på Greve Idrætscenter*. Som Klima-,\n    Teknik- og Miljøudvalget blev orienteret om den 4. juni 2025 kan projektet\n    først udbydes i september og derfor kan udførslen først igangsættes i\n    2026. </li>\n    <li>Renovering af elevtoiletter på skolerne. Bevilling bliv\n    først godkendt i maj 2025 og kunne derfor ikke planlægges før til udførsel\n    i sommerferien 2026. </li>\n    <li>Krogårdsskolen tagrenovering. Første etape af\n    tagrenoveringen viser et mindreforbrug på ca. 6 mio. kr. Der skal tages\n    politisk stilling til om fortsættelse af tagrenoveringen. Administrationen\n    vender tilbage med en sag. </li>\n    <li>Lovpligtig affaldssortering. Der er ikke afsat\n    ressourcer til arbejdet og det er ikke politisk prioriteret.</li>\n    <li>Karlslunde Skole - elevator og fugtproblemer. Bevilling\n    først givet i maj 2025 og kan derfor ikke planlægges før til 2026.</li>\n</ul>\n<p><em>Prioriterede sager i 2025</em></p>\n<p>Klima-, Teknik- og Miljøudvalget besluttede den 21. november 2025 (pkt. 8)\nat prioritere følgende sager:</p>\n<p><em>1. 586+604 om kunstgræsbane i Hundige. </em>Renoveringen går efter\nplanen. </p>\n<p><span color=\"black\"> </span><em>2. 603 om kunstgræsbane i Karlslunde.</em> Klima-, Teknik- og\nMiljøudvalget blev den 14. august 2025 (pkt. <span>22)</span><span color=\"black\"> </span>orienteret om at\ntidsplanen for projektet er udskudt.</p>\n<p>3. Foranalyser og klimaskærme på skoler: </p>\n<p><em> 529 Holmeager, Forundersøg tag på hal. </em>Midlerne til sagen\nblev frigivet i Byrådet den 28. maj 2025 (pkt. 23). Der afventes nu en\ndispensation for tagbelægning, som skal behandles at Klima-, Teknik- og\nMiljøudvalget på september mødet, før projektet kan sendes i udbud. Udførsel\nvil derfor først ske i 2026.</p>\n<p> <em>573 Karlslunde skole - tagrenovering. </em>Forventes udført i 2026, da tagrenovering skal udføre i sommerperioden og ikke kun nås i sommeren 2025 pga. andre prioriterede projekter.</p>\n<p> <em>582 Krogårdsskolen - murrenovering.</em> Forventes udført i 2025. </p>\n<p> <em>583 Hedelyskolen - tagrenovering.</em> Forventes udført i 2026, da tagrenovering skal udføre i sommerperioden og ikke kun nås i sommeren 2025 pga. andre prioriterede projekter.</p>\n<p>Derudover har Byrådet den 23. april 2025 (pkt. 36) at prioritere projektet\nFodboldhuset på Greve Idrætscenter. Klima-, Teknik- og Miljøudvalget blev den\n4. juni 2025 (pkt. 25) orienteret om at projektet først kunne udbydes i\naugust/september 2025, hvorfor projektet først kunne udføres i 2026. Denne\ntidsplan holder fortsat.</p>\n<h4>Lovgrundlag</h4>\n<p>Bygningsreglementet, vejloven, tilbudsloven og udbudsloven. </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<h4>Kommunikation</h4>\n<p>Hvor der er ændringer i tidsplaner for projekter, eller der er udfordringer\nmed at løse projektet indenfor eksisterende anlægsøkonomi drøftes dette i\nprojektorganiseringen, hvor brugerne ofte også er repræsenteret.</p>\n<h4>Tidsplan</h4>\n<p>Forventet afslutningstidspunkt for de enkelte projekter fremgår (jf. bilag 1\nog 2). Der fremlægges en ny status for anlægsprojekterne i forbindelse med\nbudgetopfølgning 3.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>04/09/2025   Klima-, Teknik- og Miljøudvalget</u><br>\r\nOrienteringen blev taget til efterretning.<br>\r\n\r\n<u>24/09/2025   Økonomiudvalget</u><br>\r\nØkonomiudvalget anbefaler overfor Byrådet, at  Klima-, Teknik- og Miljøudvalgets indstilling godkendes.<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/563ad094-2c10-442e-90d6-416544518f83",
+          "DocumentId": "563ad094-2c10-442e-90d6-416544518f83"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-003392",
+      "Navn": "Anlægsprojekter 2025 - status",
+      "Punktnummer": "21",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Status på anlægsprojekter 2025 - bygninger - budgetopfølning 2",
+          "Id": "c707dbac-0bee-4353-b62f-71b2de522912"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Status på anlægsprojekter 2025 - øvrige - budgetopfølgning 2",
+          "Id": "3884453d-db32-4195-9a2d-22228844fc53"
+        }
+      ],
+      "Documents": null,
+      "Id": "37b26b5a-9d6b-408b-8745-75beea52b695",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "21",
+      "Sorting": 21,
+      "IsOpen": false,
+      "CaseNumber": "24-003392",
+      "SourceId": null,
+      "Caption": "Anlægsprojekter 2025 - status",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span> <br><br>Afbud: Charlotte Levin</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Byrådet.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cfdd851c-aa8f-4a26-8c2e-e7f3e7b15d03",
+          "DocumentId": "cfdd851c-aa8f-4a26-8c2e-e7f3e7b15d03"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "22",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "84459932-4e03-41f1-8a42-d7aa642e88aa",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+      "Number": "22",
+      "Sorting": 22,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "bb801e8b-777b-401c-8224-2be3a973fb1b",
+    "Navn": "Byråd 2022-2025",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-10-01T17:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-10-01T17:30:00+02:00",
+    "Sted": "Byrådssalen",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Conni Bergendorff",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": true,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Ronni Mark Nielsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "657d38e5-2bb8-4da6-b4c8-795b327bf038",
+  "Lydfiler": null
+}

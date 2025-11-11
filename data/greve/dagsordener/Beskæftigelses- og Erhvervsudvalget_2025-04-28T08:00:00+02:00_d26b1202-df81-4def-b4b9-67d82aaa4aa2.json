@@ -1,0 +1,513 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses-\nog Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse\naf dagsorden.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen\nindstiller, at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/70823ab7-ea9e-43ce-b2f7-02935d91a762",
+          "DocumentId": "70823ab7-ea9e-43ce-b2f7-02935d91a762"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "857094ae-d540-4dfe-9d1a-1ce1a3b2cc70",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Oplægget blev holdt, og orienteringen blev taget til efterretning.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<p><strong>Resume</strong></p>\n<h4><span>Sagen\nhandler om, at administrationen præsenterer et oplæg for Beskæftigelses- og\nErhvervsudvalget om førtidspension for borgere i Greve Kommune. Udvalget får\nlejlighed til en dialog og til at stille spørgsmål.</span></h4>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em> </p>\n<h4>Sagsbeskrivelse</h4>\n<h4><span>På\nBeskæftigelses- og Erhvervsudvalgets møde den 6. januar 2025 (punkt 4) ønskede\nudvalget et oplæg om førtidspension. </span></h4>\n<h4><span>Administrationen\nvil orientere om gældende lovgivning på området og beskrive de\nsagsbehandlingsskridt, der ligger forud for tilkendelse af førtidspension i en\nkonkret borgersag. </span></h4>\n<h4><span>Udvalget\nvil få præsenteret aktuelle tal for antallet af modtagere af førtidspension,\nsamt de opmærksomhedspunkter, som administrationen har i forhold til det\nstigende antal tilkendelser af førtidspension.</span></h4>\n<h4>Lovgrundlag</h4>\n<p>Lov om Social Pension.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<h4><span>Sagen\nhar ingen økonomiske konsekvenser for Greve Kommune.</span></h4>\n<h4>Øvrige forhold</h4>\n<p><span>Leder af Ressource og Afklaringsteamet i\nCenter for Job & Socialservice, Nanna Nørlem Dam, deltager i mødet med et\noplæg.</span></p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6ec8af2c-a700-4ea7-a0a2-e2b1718b3295",
+          "DocumentId": "6ec8af2c-a700-4ea7-a0a2-e2b1718b3295"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-003871",
+      "Navn": "Førtidspension - oplæg til Beskæftigelses- og Erhvervsudvalget",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Oplæg om førtidspension",
+          "Id": "50b4356a-6783-4ed4-9b26-34af086f22fc"
+        }
+      ],
+      "Documents": null,
+      "Id": "fe3c6bb0-5ca5-4861-8dd4-c343f2a0838a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "25-003871",
+      "SourceId": null,
+      "Caption": "Førtidspension - oplæg til Beskæftigelses- og Erhvervsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Beskæftigelses-\nog Erhvervsudvalget.</span></h4>\n<h4>Resume</h4>\n<p>Byrådet blev på temamødet den 11. december 2024 orienteret om den række af\nreformer, der er under implementering i administrationen. I denne sag udfoldes\nreform af ”Fremtidens beskæftigelsesindsats”, og udvalget skal godkende den\nsamlede organisering af reformen.</p>\n<h4>Supplerende sagsfremstilling</h4>\n<p>På mødet i Beskæftigelses- og Erhvervsudvalget den 24. marts 2025 blev sagen sendt tilbage til administrationen med bemærkning om, at udvalget ønsker at få oplyst, hvordan ErhvervsCentret kan tænkes ind i samarbejdet om Fremtidens beskæftigelsesindsats. Denne supplerende sagsfremstilling præciserer, hvilke konkrete initiativer der kan styrkes i samarbejde med ErhvervsCentret. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em> <em>at organiseringen af reformen\nfor ”Fremtidens beskæftigelsesindsats” godkendes.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Der er både på lokalt og nationalt plan flere tiltag, der påvirker styringen\naf beskæftigelsesområdet de kommende år. For at sikre et samlet overblik og\nkoordinering foreslår administrationen, at disse tiltag håndteres under\nreformen \"Fremtidens beskæftigelsesindsats\". Reformen består af\nselvstændige implementeringsspor, som er skitseret i bilag 1.</p>\n<p>Organiseringen af reformen ”Fremtidens beskæftigelsesindsats” vil være\nforankret i Center for Job & Socialservice med en programleder.  </p>\n<p><strong><em>Reform ”Fremtidens beskæftigelsesindsats”</em></strong></p>\n<p>På nationalt plan er der i øjeblikket flere væsentlige reformer og aftaler\npå beskæftigelsesområdet og flere er på vej.</p>\n<p><em>Aftale om et ungeløft</em></p>\n<p>Der er indgået aftale om et ungeløft som trådte i kraft den 1. januar 2025.\nFormålet er at skabe jobåbninger for unge, der hverken er i uddannelse eller\narbejde. Implementeringen er i en indledende fase og organiseres som et\nselvstændigt implementeringsspor.</p>\n<p><em>Kontanthjælpsreformen</em></p>\n<p>Administrationen er aktuelt i gang med at implementere kontanthjælpsreformen\nsom træder i kraft den 1. juli 2025. Reformen indebærer en ny ydelsesstruktur\nmed tre hovedsatser og afskaffer både den nuværende 225-timers regel og\nkontanthjælpsloftet. Implementeringen foreslås organiseret som ét selvstændigt\nimplementeringsspor.</p>\n<p><em>Arbejdspligt for ydelsesmodtagere</em></p>\n<p>Som en del af kontanthjælpsreformen er der indført en arbejdspligt med et\nselvstændigt forløb, hvor formålet er at sikre, at flere kommer i\nbeskæftigelse. Implementeringen af arbejdspligten som trådte i kraft den 1.\njanuar 2025 er begyndt og sker gradvist. Fra 1. januar 2025 omfattes borgere på\nselvforsørgelses- og hjemrejseydelse eller overgangsydelse, og kommunerne skal\nhave implementeret arbejdspligten for denne gruppe senest 1. juli 2025. Fra 1.\njuli 2025 udvides arbejdspligten til at omfatte kontanthjælpsmodtagere, som\nikke opfylder de skærpede opholds- og beskæftigelseskrav. Det betyder, at de\nskal have opholdt sig i Danmark i mindst ni ud af de seneste ti år og været i\nfuldtidsbeskæftigelse i mindst to og et halvt år inden for samme periode.\nImplementeringen af denne udvidelse skal være fuldt gennemført senest 1. januar\n2026. Arbejdet foreslås organiseret som ét implementeringsspor.</p>\n<p><em>Sygedagpengeaftalen</em></p>\n<p>Som led i en reform af sygedagpengesystemet har regeringen indgået en\naftale, der skal forenkle og forbedre ordningen for sygemeldte borgere. Aftalen\nindebærer en mere fleksibel model for tilbagevenden til arbejdsmarkedet, en\nenklere administration for virksomheder og en styrket indsats for at hjælpe\nsygemeldte hurtigere tilbage i job. Implementeringen af aftalen som trådte i\nkraft den 1. januar 2025, er i gang. Arbejdet foreslås organiseret som ét\nimplementeringsspor.</p>\n<p><em>Reform af beskæftigelsesindsatsen</em></p>\n<p>I juni 2024 fremlagde en ekspertgruppe 23 anbefalinger til forenkling og\nafbureaukratisering af beskæftigelsesindsatsen. Anbefalingerne omfatter blandt\nandet øget fleksibilitet for kommunerne, større inddragelse af A-kasser og\nprivate leverandører og en resultatorienteret tilgang frem for proceskrav.\nFlere af anbefalingerne er stadig under politisk behandling, og Greve Kommune\nafventer reformens endelige udformning. Det må dog forventes, at reformen vil\nmedføre omfattende ændringer og besparelser i den kommunale\nbeskæftigelsesindsats. Arbejdet foreslås organiseret som ét\nimplementeringsspor.</p>\n<p><em>Organisering og økonomi</em></p>\n<p>Reformen af beskæftigelsesindsatsen forventes at medføre omfattende\nøkonomiske ændringer, som skal håndteres i implementeringsprocessen. For at\nsikre en effektiv og sammenhængende gennemførelse foreslås arbejdet organiseret\nsom ét implementeringsspor.</p>\n<p><em>Reform af erhvervsuddannelserne</em></p>\n<p>En ny reform af erhvervsuddannelserne forventes at træde i kraft i 2025.\nMålet er at gøre erhvervsuddannelserne mere attraktive og tilpasse dem bedre\ntil arbejdsmarkedets behov. Reformen vil blandt andet fokusere på at styrke\nsamarbejdet mellem erhvervslivet og uddannelsesinstitutionerne. Reformen er\nunder politisk behandling. Implementeringen, der udmøntes i lovgivning,\nforeslås organiseret som ét implementeringsspor.</p>\n<p><strong><em>Fundamentet for reformen ”Fremtidens beskæftigelsesindsats”</em></strong></p>\n<p>Reformen ”Fremtidens beskæftigelsesindsats” som er skitseret i bilag 1,\ntager afsæt i Greve Kommunes beskæftigelsespolitik, der fastlægger rammerne for\nindsatsen frem til 2026. Politisk er der vedtaget flere centrale indsatser, der\nhar betydning for styringen og ledelsen af beskæftigelsesområdet de kommende\når. </p>\n<p><em>Samarbejde med ErhvervsCentret Greve</em></p>\n<p>Beskæftigelses- og Erhvervsudvalget har med ErhvervsCentret Greve udarbejdet\nen handlingsplan for 2025 der fokuserer på tættere samarbejde mellem\nerhvervslivet og kommunen for at sikre fremtidens arbejdskraftbehov.\nErhvervsCentret spiller en central rolle i arbejdet med reformen ved at\nfacilitere brobygning mellem uddannelsesinstitutioner og virksomheder gennem\nopkvalificering og lærlingeforløb. Derudover understøtter ErhvervsCentret\nbrobygning mellem ungeindsatsen og erhvervslivet, som en del af Greve Byråds\nbudgetaftale for 2025-2028. Målet er at skabe konkrete partnerskaber og øge\nbåde beskæftigelsen og uddannelsesdeltagelsen.</p>\n<p><em>Samarbejdet med Code of Care</em></p>\n<p>Samarbejdet med nonprofitorganisationen Code of Care er forlænget frem til\n2028 og har fokus på at fremme social ansvarlighed i virksomhederne.\nErhvervsCentret spiller en central rolle i at matche ledige fra Jobcentret med\nrelevante virksomheder. </p>\n<p><em>Én leverandør til beskæftigelsestilbud</em></p>\n<p>Der er også taget skridt mod større effektivitet, blandt andet ved at samle\nbeskæftigelsestilbuddene hos én leverandør og ved at indføre en besparelse på 8\nmio. kr. på aktiveringsindsatsen hos eksterne leverandører i budgetaftalen for\n2025-2028.</p>\n<p><em>Optimering af IT-systemer og digitalisering</em></p>\n<p>Samtidig arbejdes der målrettet på at forbedre IT, digitalisering og\nledelsesinformation, som udgør et væsentligt fundament for reformen.<em> </em>Dette\nindebærer både opdatering af eksisterende systemer og implementering af nye\ndigitale løsninger, der kan understøtte en mere effektiv sagsbehandling,\nkoordinering og opfølgning på beskæftigelsesindsatsen.</p>\n<h4>Lovgrundlag</h4>\n<p>Lov om Aktiv Beskæftigelsespolitik.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag.</p>\n<h4>Tidsplan</h4>\n<p>Beskæftigelses- og Erhvervsudvalget vil blive orienteret om fremdriften\nløbende, og der vil blive fremlagt sager om implementeringen af de enkelte\nreformelementer, som en del af den sædvanlige opfølgningsproces.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9db6bf96-291e-4cfc-b4f1-f4b4485b6945",
+          "DocumentId": "9db6bf96-291e-4cfc-b4f1-f4b4485b6945"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-002692",
+      "Navn": "Reform - Fremtidens beskæftigelsesindsats",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Organisering af reformspor - Fremtidens beskæftigelsesindsats",
+          "Id": "eb83fc13-7b09-4a83-a99c-9a1d889b569a"
+        }
+      ],
+      "Documents": null,
+      "Id": "259270c1-c7f5-47c5-be73-62cbbaf409eb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "25-002692",
+      "SourceId": null,
+      "Caption": "Reform - Fremtidens beskæftigelsesindsats",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\n1. Orientering blev taget til efterretning.</p>\n<p>2. Godkendt.</p><br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n</p>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen handler om en tværkommunal borgerundersøgelse på\nbeskæftigelsesområdet, som blev gennemført af Kommunernes Landsforening (KL) i\nefteråret 2024. Greve Kommune deltog med 34 andre kommuner. Formålet med sagen\ner at orientere udvalget om resultaterne fra efterårsundersøgelsen, sammenholdt\nmed resultaterne på landsplan. Udvalget skal beslutte, om kommunen fremover\nskal deltage årligt i undersøgelsen.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol>\n    <li><em>at orienteringen tages til efterretning, og</em></li>\n    <li><em>at det godkendes, at Greve Kommune deltager i borgerundersøgelsen en gang årligt.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>I efteråret 2024 deltog Greve Kommune sammen med 34 andre kommuner i KL’s\ntværkommunale borgerundersøgelse, der målte borgernes tilfredshed med deres\nforløb i jobcentrene. Greve Kommune deltog også i den tilsvarende\nundersøgelse i foråret 2024. Undersøgelsen gennemføres to gange årligt, og\nformålet er at understøtte den lokale kvalitetsudvikling og indsamle generelle\ndata om borgernes oplevelser i jobcentrene på tværs af hele landet.</p>\n<p>Undersøgelsen dækker fem hovedområder. Borgernes overordnede tilfredshed,\noplevelsen af mødet med jobcentret, sammenhæng mellem mål og aktiviteter, den\nseneste samtale med sagsbehandler samt borgernes oplevelse af progression i\nderes forløb.</p>\n<p>Undersøgelsen blev gennemført som en elektronisk spørgeskemaundersøgelse,\nder blev sendt til borgere, som havde et aktivt forløb i jobcentret i 2.\nkvartal 2024 og deltog i en samtale med Jobcentret.</p>\n<p><strong><em>Generelle resultater</em></strong></p>\n<p>På landsplan deltog ca. 24.000 borgere i efterårsundersøgelsen 2024, og\nsvarprocenten var 35,6 %. På tværs af de deltagende kommuner svarede 59,4 % af\nborgerne, at de generelt var tilfredse eller meget tilfredse med deres forløb i\njobcentret.</p>\n<p><strong><em>Greve Kommunes resultater</em></strong></p>\n<p>Greve Kommune opnåede en svarprocent på 32,7 % i efterårsundersøgelsen 2024.\nAf de ca. 500 borgere, der besvarede undersøgelsen, angav 64,7 % at være\ntilfredse eller meget tilfredse med deres forløb i jobcentret, hvilket er et fald i forhold til forårets undersøgelse, hvor 69,7 % udtrykte tilfredshed.</p>\n<p>Resultaterne opgøres på skalaen fra 1 til 5, hvor 1 er mindst tilfreds og 5\ner mest tilfreds. Overordnet scorer Greve Kommune højere end landsplan på fem\nud af seks kategorier:</p>\n<p><img alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkoAAAC5CAIAAABY2IdQAAAABGdBTUEAALGPC/xhBQAAMxpJREFUeF7tnTGOJElydvcqxB5lBR6CKpXR9wB/rzYAMQQ1CgOsQmDRIqUBJQ6wwugrz1yCF9j/VT4vW+vwcO/IykrvrAx7QsLc3NzD4/NIs4zsjOrf/b0oiqIono4qb0VRFMUTUuWtKIqieEKqvBVFURRPSJW3oiiK4gmp8lYURVE8IVXeiqIoiidkWN5+VxRFURQPTytaHbPy9n/FQkrwWyj1jlNaLaBEXgZSt6LVUeXtUSjBb6HUO05ptYASeRlI3YpWR5W3R6EEv4VS7zil1QJK5GUgdStaHQ9U3v785z9z0OB//ud//va3v7XGpdni7o/H/dOf/tTaS+CIzRrw3//93398hRX+13/9V+t4J5izzf7HPzJ5bv7v//5vC3pUvqreETjrdsIXhZv3epTu+Aw3Hu5artKKhREvf/jDH/D867/+q13vyz/90z+1w6QD5ebHgmU36z6gieLA7TviPMd1dmvYstb+prCSVrQ6HuvuLd5Lrf1//0eN+eo7/93rkMt4qPJm5g0p/t8F7feFaaOYeVDtB2eu3nE499uFZYbjFeuq4HfhuFZ+4oysx0dMmncqb2DSzO+7+x3r3rzXBTkBoTgKe9TaN2DGu+pjBPFV3q5DlePQyPfVGsPuPojKNzIRHFnIgJtbqP/8z/9s1rsS5Y3573SIezBR7yrepby5X8cr1mOWt82bUXCuKW9WVv0fkQWLr/ImrKQVrY7HLW+8bt7z0Qu+B9xgoTcCYp8w9IjfcLIrNr0yfCOBH04ZYsDiT44csVkd87uof/u3f6MOEWA18m7A+Pi2DWVI3BjGGA+bkgkM91tQXpvrFWcQPcRwdOOtCvY6raUiRuFxbc4cThfDUrUx9LhUiLPolxRM1LsK19waiVgD56sHG1V1er5AL03XTy8eZgNWboz2ZdA/TieCHQhx7nbpjKPcyEGtfHONUl7/rsEZ7yxsaxVg5Jh4z/Z5Ocob9O++GOg8zgnhRygXgIeAWGEE4NTw0B6OITEVxu4oyWf3VQ6G3YIr7GWEWKpaTU7KplJsNohJaDpVTEjvZdzLQAO0xV0LYfO094NDtKLV8aDlTUJKQSacGAinsl6X2vrVF4MddVN5NczZVBzDXTStODOjcGIb71TLcFW7kOxIi63x5T/C/fu//zuvkXMtNhikY500rRxgfrR+2GTspecfcKDLxK3eZGINdGE7HJxNG4MmRFJ2GU6LMxZmAAbgwQ+XES95n8k9HHaOd796JupdRRx3Qxxaw9MBPJwsK8+GJ0IYiwdXzsycCEacl8PBYMNohrF7lNs5qJVvkElu2rxreL/4TsTwvcMrAbybsHkb8uo7i1cNPBnjg+a9YDyTIA5Gfi/HGxboZQ0uA1whYaYCwMlrnBR2rBmbebA3o1w5zYgEjDkMbNbdcINcXkY/58I6MdAE5+5J6YwhysJp2uv5qq1deUKMLB3OmM1eYJ485E4wfytaHQ9a3sLwgsugqV02MfI2BHkjnQ1PjrfX94kbE3vgVMYvgyM2q8N02RoXWCoeF0zSJFfqvyTDhmmUGMsDGGaSDeKshVEkYucnpTbvZWxuEkYMzpiceAZisFojc6nA8OgxxENcOlt5w4gkzlh78WAEHqJnot5V5DVvcEmgYmGwQsgeT41XDXtFeTd2DAT0oQk2oyuOcjsHtcopD3y/iO+gzbvGLslvSd5HxPhGNtkFm3e3vRxXIw4NeozHcP5wAgZNnHRhv4xJK8xvdgyHZzvPvxnFq5FBDJ9AWLPuhhvk8kQFxDOC+Ul5LvixFdxpY6qs7e5YcX5gKprR6zJ03gnmb0Wr40HLG7ZSQkijhybCYejEUMe8DUHscexE2M7mFR97fwl5uPJmYs0f3llqJD5qg5UDwpkhAGfE5PieyLkeIlJqlCUhzDnDSbAD37285RMfMVHvKvKaMzhddigcBiuE7PHUtIFTpunpM48qZTvPyVQOv4TsHOV2DmrFcYnMwXrifbF512DHuyzAAyZE8P1owu2x17cko/Kx8sA4UDghgh34MqbL6W8rb/2oIxDfrLthHQptwRW6TfiPn5RDiMGW6MraOtYjbgJ4zddD9OY13Anmb0Wr43HLG7h/ygQYsInJAeEnxv3IGybKjeHkbkbeGMg7ugxXNYLUFikSWGokPtJu+LHNwhDZkF7siKFaRPbEjrOWnH+tMU7oEe3C1smccbjoZU4PTTNKBYYLiCH5FDAczsBNeSMewzBsD9EzV+84ec3AcVlSdsZiwiAAMIjRcM2esqeDETFxgps5icnK5C6My0Haht7Ica18j8SbiJXk98XmXWPTRBZDnMFkCuZHZ8C5yXq+NyMYG0ymviWxXYMxxtNlr9OSDbBfxqcVelxHYeSMoe0o5sHeHbV7dhMIbtbdYGEcRX1sei7KwvoPnhROBfS8GIUH+q6YGRvDwzmJHtj0xh5h3wnmb0Wr44HKm7oHKOL2CDKpI04Nr2blA2x3AlQ2muIOQUzrlRHH7QPuuisbOFyzBpg0A5MdrzYj75M09RCvBzbNGJUzJtelTjAFt8YFmhxC27wcTSaJg+aZNUjZoL05bvgxOCLYDMMDRZMwmrt8Vb0jxIEyChsnqBHNvOYQ0POiacXS6duegb3HJrZGHCK68lEIu5GrtGKRL++EV0yL0L9rQA94auB7MJoQb9iYSvKbnTk32YAZzObgEfObHU/YGhwlrzD8YXj0PCev9MYouiLY9WtDPp0RhDXrPsQpZ1QmTkqpj5xUOIlklE0MAtQ5AtQtb2LYGqwhPHFchjPqTjB/K1odj3X39u7ErsjKcnUtLK9ZxfV8FPWoWPFB5FtRV9oCnkZky5ul7jFhea1odTxzefOTRWu83nS3xuNRSecWPop6Vd5OwtOIXOXtQaGYcRYBd8qt4yFhhc0qrudDqLf5WvJbUVfaAp5G5M3Xkg8Ia2tFq+OZy9vHogS/hVLvOKXVAkrkZSB1K1odVd4ehRL8Fkq945RWCyiRl4HUrWh1VHl7FL654P48z980fji+oXr+onXyq85H40O8tf/05RMFH46Pkj8/us7A+lvR6qjy9ijcSfDLv/W0X9jP8UfnXy1v8eP+/CP1+OV6aw/ChErw7j+vuFG9v6WHIoL8KMUET5DX+b+ohURZYUsjxNjdMMFzcElzlr21ORC87UfhJtwjv2iIf2LPB4qfpMe/uO+Gib+eaI134t0nnBD/PNba1/DRdQbmbEWro8rbo3APwSkkJkTS5VcrCgG7WTXDbE5osHPi8d6FpsZumOA/sphreRf18s8aeZf2hXkXIjmj+d0b0zqbwSGOHztwauyGCV0bz5tZ89b2aTNvDmhee3/gwCOjCAtM06ZRNAxjNyywPLTGO/HuE47gXDiWZYYzPZvOwJytaHVUeXsU7iH4XX+GHrUzDOiPmHuB8nmPVb2LeneVK0ABa1gYsFEJci/Q7GPexpq3NrkMtO/0sR1I6943mKbNp2Z8DBIuBl27YaIHWvudePcJR/h8t/YJdQbmbEWro8rbo/DugvNhX7wzIFfaJEsaQMYEPVyg9oKfwnKv8RvwWwyIiarQp+AIAybk9fHLG1opgvZFlX3daNoLMdZeZe+hV4kICK1w5mIGEQaup9f2bdzjrU1SY1ogi9GMv6lBhYsuIP/Sq23xMyODhk7zptAE/Nj47XKejBnW3BoZXyfNS8gLOcwmC3ZyPe/Fu08oIRc60FQN6XX2vADbEwfC4nzzcJrw4XQG5mxFq6PK26NwD8EjX/NKutRJljSZ5hQc6VVj07tLpHsiuXy1+xQcYawh0rqrekfeRT0WxrmIZ/RV3WgaoMEJOtzeXUKQrIMza0uEsRK7em3fxrtfaZHLNJSOXAYYpMic10iC5kFerYWRZM28ZnC6aOokJtK6zj7t4nFawCAGw/WEH3IYaOflvRfvPqEwraJhKEKcLM18Iqiq/pdS9VILGUgvhIa8fnSdgTlb0eqo8vYo3EPwSKBmXp1ci2bnPqWa33X2vRl6mzUtbzks7JzW34t3US8Wxol7Rqz5iG6cNSJ4gnTls94QM0PWYTNnDovZHra8Rd4UEyW5zPSqjR+DkzJGzHokX+xNJjW9gtnctGua3iV3TdJuDmNmRY7lvSPvPiGEJqIycbKQT+QS0nAj3CZ3J/joOgNztqLVUeXtUbiH4JFAc/bkUuvTNIZVKpybhJvBn/NsTrvM7KUMOYxlMH9mNPnbeBf1cr2Rr+rGCXIujMKDH08YPQTns87zoGEcOodxUOUKRpMf592vtN28SS4zq2p7UE4HI+dBIBXizOWNeJxm3iNplxiHuwYnxPBwzgCbMFcVbFZ1I0zYrPcjCxJMylvoLwzEmbfpCXQG5mxFq6PK26NwD8EjX5uFdUb2zOk1IsOZezM5+Zpq8ZCds6G9CQv6KnI776JevzDOYq5blHY8nmYYG5g5/Bp4rJdhaG/Cgvwx4hbe/UozJ5q2yGiR1ODS/0Xa1SYhYjvELGlCBIbT5FX/V9Ou8eIRDeZVw2P1YUFe3nvx7hOCVSTOUWVG5U0/Ydq8Eo/H3YHn0BmYsxWtjipvj8K7C375rP+CWZK0u9uM7GyTPBuvsMmnjNUvjNr4N02JMOmryO3cqB7vzLbWbrWhzK5uvNrc6DaaRJwq+00NozB52PIGpk4wM5pbwQQXvZwmaANdZkaIVBge0y4wxMwI9BomMbOYxyGSLMYkTO6Rdt99Qonz8hRCIqCZdaapDRfVv5AdnkNnYM5WtDqqvD0KJfgtlHrHKa0WUCIvA6lb0eqo8vYolOC3UOodp7RaQIm8DKRuRatjVt6KoiiK4sFpRatjVt6aVSyhBL+FUu84pdUCSuRlTKQed9T2rKUEv4VS7zil1QJK5GVMpB531PaspQS/hVLvOKXVAkrkZUykHndMt+evf/0rAcFf/vKX1nF/ONb6gy6AM2rWCfjxxx/97fuvv/7aXK/89NNPdskvv/yCk1ebnz59MmzDs6oXamA0V8cPP/xAwOfPn1v7Ap5mdZzqSjvO999//5JWfve73377rble+ed//me7hEic80SEv1nFl4RuFJHmSmSpFTb2Rdl76GpWx7hjPMbjsY7c/O6772wuwCNeW95Qc1fQB2Ei+JNBpjZZk5FJzTqDnMejl2RtncOzyePylOpR+/kcgGF115khAL8xGT89tEbHea6040TOhchswe9///vWd4H6RybZGC30FZzNKhLKJajavInWd4Fm3hfYTeD4m9Ux7hiMYSMvB/piR93+ZcXjbeVt5QrfAMtr1rMTd2xk7b5W5fu5SNwka/14TlXempUqfYZ72fxpQFS1yttVWNJMbpvyhjNSDQnEXj7NK6ND+huLEnmX0BZ9+vKGzpsUHfGTEjORetwxGGM53azMzebVRQBhFiE3nlXqtyhq06Ufp8GQzx9yjIcGD6cWemK480M+ImiD63lAWFuzTkN/25G53OO13E2k+f1sX07KrlCIgxrIQiXLxY9g7+pau+OEV9pBzCckltbuIHvYa3rBMLdE1gpK5AmK1qfiSNr9d4Fm+Nb4kpEfxh2DMR5ms51R3rCtcPq9FGJlGA6MQqXBh03tfNqbmJ9//pnXfAj82B6aab00Hbs5Il2G7Rb/B8EFn4T4t7RJhdt0mcdbo+OJ1VOovq6jD/idLQHe1PJKbavy9gZMGmAO2YXMQ47CMBFjVHm7lkjsJvOM/qB5LxBswu/ZRGbGHYMxLm5094btVUJYrCZu6QSPk8RllGsPhpNvYnIzDoEdYyEC+iPmQzwmrvNU+B0aubi1vyTfkXCnEt+57cY/t3p+Goh7WUGf8KAMpQ5lLHJV3t6GtQqsYRvIHlHGqrzdyIvKXybkrLkJPCoIXVEIeohsVse4YzLmQr8a1+p+U05icfZqy6Z0vWN5o4mzP2KVt8eEm5LdckVCj9ydkzXpO5e94OnVo3ptyhseixlY3nhFqIz3dhvOeaUdxDSymyhIO5HTzCcYprtIU0GJPEfdQs8ePjHELsSnh934idTjjvEYK00c0mJjXRE/2sTivBRcmaOcIa4JLymc+VrZxNjl8Dxh1C0ncRn9ESMM+zFhec06DSTf3VoF3otoW97M1OZx/ZmnVw8FmvWKt3TafErIlazu3q7C1GG64DV/vDafiH5xyEvSuRhkp9bxSonck9O7uoVBls4ZHkJ5PPglykEGf7M6xh3T7XEpgVdGwCLypQDeTgEnQ1Mb4rJgiJ44PZsQMV5wkGfTQItQwUNsjhiRm6U+DqytWc+O/4oGUdtMx7lubcoeNy4OOdVPS/LdWHNdKlmIEAGbG7sqb9fykhouRP6JbGOTBBJdEgG7KSUGFplIy1EgIjOT53Mlszfi5Vqpxx21PWspwUnWzbqeU6l3i1BQV9pBTLitcSUl8lVEtXsDE6nHHbU9azm54Nxt7P5D0UHOox73tVXeFsBdxZ1ybpHxi8DWeBOT4eOO2p61lOC3UOodp7RaQIm8jInU447anrWU4LdQ6h2ntFpAibyMidTjjtqetZTgt1DqHae0WkCJvIyJ1OOO2p61lOC3UOodp7RaQIm8jInU445j2+MP+uM3nfFDo/i5Z35wZM7kh7YxG0ZzTfGfK+H40b85rLZZxfWUescprRZQIi9jIvW4Y7o98XhdlDcrSpQ3bJ9FC88RnG334QZmo+tgeQMrYpW3k1DqHae0WkCJvIyJ1OOO8RjKT/+T2VzetN9QWqq8FW+j1DtOabWAEnkZE6nHHYMxViD5fPlL/0AtyeVNJ1BdIj7XGz1RI+NrSWuY5Y2pwknTrpiNw12G/iNMj8sA4x37IWC1zSqup9Q7Tmm1gBJ5GROpxx2DMVapqExWkU15047SQrBdeADDMF4pVznYSMqbTl6Z2S5encQFMBCn1U7DOZkBIt6xHwJPpHgbpd5xSqsFlMjLmEg97piMeVN507YrIN5bt1yu8t2bNsSBcnlz5iCvwbAqbyeh1DtOabWAEnkZE6nHHZMxN5c3w2RU3iCXqE1505lnhipvp6XUO05ptYASeRkTqccdkzE3lDewSQw28Xmgs1HecHoIbI04UK5bEe9UvMaxrJqxhsfHZRdvo9Q7Tmm1gBJ5GROpxx3jMRYVsNIARYXqom1dESK9IdN2uPVM9MQQixMQE0ehNw6EMw6Ek7ExxGZMvvE/Piy1WcX1lHrHKa0WUCIvYyL1uKO2Zy0l+C2UescprRZQIi9jIvW4o7ZnLSX4LZR6xymtFlAiL2Mi9bijtmctJfgtlHrHKa0WUCIvYyL1uKMoiqIoHp5WtDpm5a1ZxRJK8Fso9Y5TWi2gRF7GROpxR23PWkrwWyj1jlNaLaBEXsZE6nFHbc9aSvBbKPWOU1otoERexkTqccdgTDx29vvXJ7slP+722+vfO94lZmjtOxPPz81X9c1ZJsgj8OOPP/7xwq+//tpcr/z00092yS+//IKTV5sMNGzDs6oXamA0V8cPP/xAwOfPn20a/+nTJ5s9p7rSjhNP6PaJIlKW+CeWxEdyWyOx6ywgKsXuE8lZaiLxRAIHYzaM/DDuGI+J6yCvz2Vtat4In7lujT3yBXQ7rq3K24NApjZZk5FJzTqDnMftpQSSr/WQtSOPZ55SPU7ccm5115lRmVzy0ccPBDh7beU8V9px8qdz0kXzvhJ/I0JyJhmlsl1n4acB2S0Wre8CTffFOkd8/G2QjJG7jDvGY6g9Fow4GPttjd1dcc/omhCmipnfhSpvD0XcsZGI+1qV7+dM3BS8yODYu/clT6lelmK3ViFF/jRAfIhj5cszBOe50o5jSSNFIM6mvOE0vQLZOffGB/3WTuw6i1APffpigc6bWzoV9m6Hsbt1YSL1uGM8hoPFh53wWJbzig0AluWiMWzm8hZTxTnYzFPlGA2cGvnK0xMSYNBkHues8vZo5NuOHhK3uTvf5FERz1Pegl2hEAcpUIYypj6bm7wqb9diDomU0mPq0yaf0MypLFMiT/BjhAk/E8k/criRMNIZRn4Yd4zHuKyXY75eCng25c2igmGNwSAGgzAjdbp6JtHwisHoq7Rnjp9gDMDJq0fRjoVxCMNiZsAw8jFhhc06ASZimFS46DLYTH3C8qZQ/VmjDyAINgHeB2P4mUC7yttxzDxgGtmFtBZpxMxT5e1aIoH3SV5/oDMSOOjZMPLDuGM8xu33amCPrVhA0/LmgixFbj+91icvjrgm4pIS4p1nVN4YrjquAcMjhmRCLzNgMFse+zLRo8IKm3UayMijFAz56zjyOJGC3byJ51bPAh91S9AnPCipLHhUCXY/B8AJr7SDRCbdzRUmMW0yzCaVbdh1FsFF5i9+vZE1V1WyujuCx3we+mcM2GXcMR5jaYlLwVJkWbLY2IVNlwXMKwNjc03Yy2lgi/O8rbzplCpvHwJS8G55I6FvsrmQtc95R0L12giCJ/7lMspbkIvfhnNeaQcx/5g3NpBeIlOZwYI+7eJsVrGHNSJn/g1Iyi6QxkNb4s32GyZSjzvGY6KKWDZselnE4TFclmUGgzAMzwdDp6OMpAv0XFveFEubGbwQIwy/Y7EfFlbYrNNADcu3aBmS9aaM0aS2+V1cz9Orx7k36xVv6bT5lJCVoRmVr+eEV9occw4ZA5tX04gJJCci/RvMLa2RKJF7zNK5XoRBerfXWgAqH+XD3r4ugAG7jDsGYywzwLJcGQe2dAU///xz9hC2Ges14VojMpZub5wneKnptBfCUK8c4yilgX7CB4QVNuvZoaSRlyFqm6Ur33/kshdfuLX2Hk+pnl/eSnNdShdoR4A3asoIow8Bcp4r7ThoIpElIp/YJIntJhBzS2skdp1Fzt56LCJAHUFhbbAXYsgogefgDeOO2p61lOCTG46vcir1bhEK6ko7iAm3Na6kRL6KqHZvYCL1uKO2Zy0nF/yr9xxzzqMe97VV3hbAXcWdcm6R8VvH1ngTk+HjjtqetZTgt1DqHae0WkCJvIyJ1OOO2p61lOC3UOodp7RaQIm8jInU447anrWU4LdQ6h2ntFpAibyMidTjjtqetZTgt1DqHae0WkCJvIyJ1OOO8Rj/MTDYfRbBH+Xf8m+zZwO5mlVcT6l3nNJqASXyMiZSjzu+tj0+o/CX8WPn9L5vefP5tuNcG/9tqffDLZR6xymtFlAiL2Mi9bjja9uzuLxxoKtmY3lV3s5DqXec0moBJfIyJlKPO762PZvyRu2hmT3YOPXH05H5i01sPMTbtBoZ/91332no5PUS8sLPP/+sYcHDICD+QIl/IUU/xHEfH1bbrOJ6Sr3jlFYLKJGXMZF63PG17cnlzeqCYR2ybmFoW8CiejHQIodHgwANXvPfaCEYGKVTG6LaObOvxGMQg2GAR/wosOBmFddT6h2ntFpAibyMidTjjq9tTy5vGNYeK411JZyWLkqgVQoDp0ShEobnGIY7A+AM21EeGlxJYJ3DqPJ2Hkq945RWCyiRlzGRetwxGEMtscxYVPwyEEPn28pbFCrYlDds/Rjz8sZRbEKVt7NR6h2ntFpAibyMidTjjsEYakmuPRYVPMZbeHRi5JoXhRBilMWMOQ2DN5Q3mxYzBjI5XeH5KMSZFm+g1DtOabWAEnkZE6nHHZMxr1ixxFIEUXUoWpaZ7KT26AE9FifIJQ1irH5ebfYzgDdwEAey6dgPAattVnE9pd5xSqsFlMjLmEg97qjtWUsJfgul3nFKqwWUyMuYSD3uqO1ZSwl+C6XecUqrBZTIy5hIPe4oiqIoioenFa2OWXlrVrGEEvwWSr3jlFYLKJGXMZF63FHbs5YS/BZKveOUVgsokZcxkXrccfP25B/9F1+l3g+3UOodp7RaQIm8jInU447BmPgJfjyFJvE7fvCxNh8749Wmv/h/91/qW0QhP6XQMz80a/vmZZgVNusE/Pjjj3+88OuvvzZX4pdffrEXmuvvf//hhx/0fP78ubkSz6reTz/95FljNFdiV0Y9nz59au2OU11px4knlMxXu5Al4mnayDzxMFIGf7OKL4lKsZux7YLWTo+EQXN9ycgP447xmLgO8vose7nmuf1RNmze40E0z78Xi8s0PwZ3vLzFFbzLvPfNsMJmPTtkapM1hYqipTPTFzAKHrTGHk+pHkWLAoZhvdcZ7MpIVVMoBu5qC+e50o6TP52PPuka49s/P30LBmR2nYVVQDY3SOAtkLgLam4ap3c3hxPQrI5xx3gMG2wxi4Ox2daYfsXB+vLGYqK8HYdTmxSwee8tTAR/MuJWg0TcVzJStvcf+Y6ErI3HXL/LU6qXFehrVS8jnrhpw95oGJznSjuOydSipd1DF/j2J+d4k2dGvvR/wa6zCG3RZ1MsSOBqa0kzEk9ojme3fEykHneMx3AwVxAxeKxeseIIAAvPqLyxaMM8B7BcBZsSFfFxrChvMdBjCU6H8KpY2l7KTOIoZ+P10v+FuOAaNr1xjq485tEfp3MQhjTrNOyWKzOyRS7u2HSSu895RzKp6xC9m5u8Km/XYt7YJBzh3b37vsZDV2skSuQJ5t5JhoxeI8Hca++GkR/GHeMxHvjlmK+XAh6vDIuEvVFC3P7d8sZAnIR56RBjGP48NjCMVwcSjJMY7QjGNsDlOVWuWPp9BTysnDB7ecXpSnjV2PQ6JzNo8Oo8wDI4lmHHYWCzToCJGCaJmwrXF7P48m3DE6unUHFblullxPYbS+0qb8fx3Q39O5e3ueRe0wKYWDbgb1bxJcoIm9wekEujjoAJVprrS0Z+GHeMx7jBXg1srQUAaO4uy+03YHNKUZOjV8NDxNgNHhpQiiajjOTVMhMxBrgSp8q2vYDHlecr2GkDFpZ7Yw3iVBhZgatgbLNOw+fPn0cpWPryRu6O9J15bvUsY7snDllGYrBltyLCCa+0g0TKijQiZq389g/MYJFJApzNKvZ4Ufn1/mRDrhHuCEYkef0ZA3YZd4zHuMFxKbgay1Ikd5zYuZZEATNAvDgwcm+uHJeoL8BJgDFeVZ65njj/HJCXARjRJTRdeb6CnTZvQO7N8wcxzxtgbLPOBCl4Ut76ezvS99nu3gQpRuUNehn5ZDCKP+eVdhATUf+uz+RewGNOyOBsVrGHOXmTPwGPTkQmhiQceZv43ew6kXrcMR4Te2mdsOll4eFdOitjoRiuzwALWGCRIN5Ir5s4nx7jCcslKupQHDciDdAf03qsvBKafXnLYXiYP/d6Os6JHzBinjfA2GadBgrV6N/SgJuSPkGf9o6Eu7FmdfQyolL/m53ghFfaHN/LvoV5zakgZwk9vv2jy9zC6yXkH+BsVvGKWuX8GUauEQEeRNbIuX2DAbuMOwZjrCvAUlwNB2bFOsWlgIsDLxptRrW5LsSEnnaMlU218AqDmNk1AJHRy5wxD9PGIQhgErtiGTFVXLigjpuuTW+c9Sj4KhjYrGeHXOy3Z5GUufOg6b1a9EaCjn9hAj09T6me3zpKc11KlzV+JCPs3uAG57nSjvPyvr1gnoVIJjZBj+/uSClg74aR/+REFYjEHgn8P/7jPzQkAmJIbM0GuprVMe74dtuTLx2wJj09nGmzzsrkhuOrnEq9W4SCutIOwufgUUr9KiXyVUQxewMTqccd32h7KGb5ksLe3O09Kyd/P3z1nmPOedTjXq3K2wJIO3fKuUXG79Ja401Mho87vt32cOjgbV/0fUQ42WYV11PqHae0WkCJvIyJ1OOOoiiKonh4WtHqmJW3ZhVLKMFvodQ7Tmm1gBJ5GROpxx21PWspwW+h1DtOabWAEnkZE6nHHbU9F9BhjRQl+C2UescprRZQIi9jIvW4Yzwmngj5/vK3le/6y0YfevDBsjk+dtYaF2Kdb360gIG//fYbJ/jmGY6zWfxz8+nyPwCMfi0ZT3Tlx7r75+Eyz6oeCnjWu3+CJJ4IDBnj0bfJH/M81ZV2nHi+ird8c32Jv/EDM148v7T7A0v8zSq+JHTrC0coDP6oMHuk3x2czeoYdwzGeDxXxgrCvhNMziHeVt7AFd5SnBjeT3sP1hzlESDz+hekfGxZZ4DT55TN3TqxI4Pv8pTqoZJVKksRWMm0w4hHvPGMFDvPlXacyLmwW65ML/FD7pz6sj/A2awioYxB876C8orvnQm1xvwf5GfGAvzN6hh3DMZ4vChp7GvY98DDHSlvu9xe3pYx2aQnhixsqQsob+b0nL692zvbHUlWJupWEEIBhje1MaSPD855pU0gjZphzDZ9ecvFTEzTJhbiq7wdxPoU92Q6g3C6EYRlYdF8N5M7ZJdxx2TMK619wXorXgfsOjZr0mChgBFXT5wkeBoxiaeHFmFc3P/4lBSRepwZNr35KgSdm8vXQ+jXYGH4++XdFY7SrDMRBSywqnHnQb6Ob+TM2hS5UdZ+bvV26zpSWNIglzpAt8nN7jmvtIOQBCx1GRSL5GAyyUkDDMvQ1axiD1I6tMYrpmtV7VPurs4wkXrcMR6T834sUdsur4+4AnCyMgxWDBh0EUA8NsbLBfK6dJ00icR2Ens9eTwehetMg1d6icHGyGvQ6RXJbKDB5BiBMxuGEWFOyCTwEndPPNapsIa1RsLv4na7qHC7ifuJ1UMK8O9MZihvUf5zecPvkHzzlznhlXacXhxTkDnBfJL9sJscIqzYBdHM2xuiwm1SNGq7BT0TqccdX9seqwjEOsLjOtz+XGYwLG9xOwV22QsWlTjzPAmjsHl1ksDZ4hCGuao4XKxNNkqpKcfCdgH6YbO8+7HgEI/G7k0J6CdB9wEk9MjpmedWz3q/OfFReZNd9eSEV9pBSBd9zjUFmU8iUQCZAY/pwgSVKZEnkJARsDUSyOgWoB7kGLrM8z0TqccdgzEcMh+GPXZrecV2ZQfLG6/YDIleOF7e8jIgJjHMyzEi88J6mJ9e1Yzy5jyb5d2PBYd4KMjOu7cXJOW4byNHb+7VSOhnu3sTZNmUt1zS+l6aVd6ugre/SYO3vKlAcgqKREGW0DNKLCXyCBRTOsg5XCVVvs/wJOFmdUykHncMxrjZsf0uwpWxaEuCm50vi93yhhMcay9YXXDazJPwaphOj8JUMZu9TmivQ3KAM28uxxwWYy+r2y7vfiw4xONA5o0qtcnCNKl82v03bP13dPL06iFFs17xHymzkUHD3c8BcKor7SDxNheaZAOMSF+AQWbYGOYi62IGZ7OKL3nR9xXUi2TuFqikCdlcDcS4EbsQ2ayOccdgDEdi41kNARBHjaYGMWy/djjDAwxxEpwahHlJAR6n5XCccMwQJ2yZhFiAk2jHPHFEnPkKNixw/gj2KP3yDL4THKJZz44/gwzIwiboqHMR4B0JATbBgJ6nVI/7s3ba6cQRB7TRx14rWRZqVNvgPFfaQcywGZyRQ4zRBpvQ2oPMgL9ZxSs5AwueEB87NAf8bdglP9PVGh0EN6tj3PHRtieXt2uxvGVB1/PhBH934jvJN3Aq9W4RCupKOwgJNz5nX0uJfBXcRTTreiZSjzs+zvZ4ewdv1qjK2zdnfsPxVc6j3g/1/70tgWxwp5xbZLyla403MRk+7vg42xO3tJMb2Alxdwxo3bzL4ejNKq6n1DtOabWAEnkZE6nHHbU9aynBb6HUO05ptYASeRkTqccdtT1rKcFvodQ7Tmm1gBJ5GROpxx21PWspwW+h1DtOabWAEnkZE6nHHbU9aynBb6HUO05ptYASeRkTqccd0+3pH2MsbqTeD7dQ6h2ntFpAibyMidTjjvGYv1we2W6N4p2o98MtlHrHKa0WUCIvYyL1uGMwJv5cCPzLv/yLxnfffefP630K0iesbYaN30ccwAKJER74to+dfXNQoFnF9ZR6xymtFlAiL2Mi9bhjMMYyFndv+YFoHzvzKTRejSTAMI2ojobRpP4ZUOWtWcX1lHrHKa0WUCIvYyL1uGMyJpW3qGHch+X6FPdngUMsbxZCiLs3m2emRLiFUu84pdUCSuRlTKQed0zGpPIG2BAVCwiw4GF4cxZsypsQjLPu3ppVXE+pd5zSagEl8jImUo87JmO+LG9WLF5z0wJGGDZ1Dts6tylvNAGDXo3TgizNKq6n1DtOabWAEnkZE6nHHeMx3mxFgN9PWsOA0mUv2CUEQGu8jqWkbWY7LaXALZR6xymtFlAiL2Mi9bijtmctJfgtlHrHKa0WUCIvYyL1uKO2Zy0l+C2UescprRZQIi9jIvW4oyiKoigenla0OmblrVnFEkrwWyj1jlNaLaBEXsZE6nFHbc9aSvBbKPWOU1otoERexkTqcUdtz1pK8Fso9Y5TWi2gRF7GROpxx3hM/PT/+++/x77T49jxUMFJHvfmTJt1An788cc/Xvj111+bK/HDDz/Y+9NPPzVXcn7+/Lm5Es+qHgp41lkKQTq7JGTB0INiejac6ko7DtnsJd2kZ5yC+MO54hO6ER9P8WbwN6v4kigfk8RugMLGk2Ng74aRH8YdgzE+u+bK3OBbyg+z7V4ccqq/ZjLZpCeDTG2yJhH3KTicv/zyCzlaJzZo7/KU6lHA+ByAkaUIcsFDtNAn6tyI81xpx4mcC5s/tAT+eYrArKUxyoE4m1UkEOpFwQv5b4ME6knmt6nO1gjiw58hoFkd447BGNcX28lqbik/rLjKm0w26cmIOzYycp+L8ZjTvTvR+enTJ2z9uzylevnWtv8ckHtDGW+LkcvmLue50o5jSfOz+6a85Y/g5CJ7vZ+jyyF92i2Rdwlt0acvb7mYidWOV2zG3r28AV3S2hdcmViQ/MjDgjRYomuNs3oJveCivWIgAnJ5i/k91X7yy4gPDGfRrNOwW66sala+uEExlZO1z/mF26SuA+JEgEJZ5PT0nPBKOwipBnFyet1AnrF3U94iawcl8gRF65M2ydx8Hr1Ggn7DNoz8MO4Yj4lDQq7G2HZZrrxWAKeLY8WAQRdoe7lYvXiNAJxR3pyWXg1ecWJoXzTZuc/9WHAuzToBftsGu4nb3t0v2ahw8S1c5onVU6jJDRkfAnpNEHb0LeWprrTjmHkAo7k6yDMkHIzIXWYkM14GZ7OKLzHV96KppJk8Pj2EXy6BW0Z+GHd8bXviqHE1hMeaZwXyHFg0NkZcFhtb9IQzylv4hd7N5IryoeF0mnUayL8k7vwlm1jz6OqL38u/2nU/soDnVs96v3visHtHm2/pNpzwSjtIZDAT6wZyTr5LM6dJTmKCs1nFHuqGpK39Kr4pPUqDTjzWgqx/YMAu447BGBaU95I9dkG8Yruat5U3bDzZ6SkxzyYSdif/0DzBKbwBbko25S3fdpDTN/clpPiz3b0JsozK224ZQ9W6e3sDJhZeWztBFsopSMh15J/WSJTIc6wUWc9cOyLhk+GjpOG5Vupxx2DMZvtdRBRebIw3lDdthjA2nFHenMpp6QI9Vd4+NBSq/s6DZB3O/t5u9B3d06uHFM36kpeb2b2yh4b9bbGc8EqbYzIx5/BqDsXAaYaRPrcSAGS/1k7gb1bximWCVI+t5mGY203+GGb+bESJwd5gwC7jjsEYVsPGuw6I40VTw6tEO5zhAYa4YuCEvZgggj1t8Kqy/oFHjKnywJd1fFg4hWY9O2RekjVEGSMR04y7EGqYASZuv5oTA3qeUj2/vJXmuoiTa/zm80GL7u56M+e50o7zkkEumGchEotN0lF0gfnHTL1LDCwykbfN6hB53k8JERAfGsKT9c/Q1ayOcUdtz1pK8NGXaUc4lXq3CAV1pR2EDDtKqV+lRL6KqHZvYCL1uKO2Zy0nF3x+w/FVzqMet2tV3hbAXcWdcm6R8Tu81ngTk+HjjtqetZTgt1DqHae0WkCJvIyJ1OOOoiiKonh4WtHqmJW3ZhVLKMFvodQ7Tmm1gBJ5GROpxx21PWspwW+h1DtOabWAEnkZE6nHHbU9aynBb6HUO05ptYASeRkTqccdgzHxFEIwefhjDazhoz/0BpxFs07Aj9P/7y2e92rtC/G03O7vBp9VvRBq96xDqHiyO+JF54ZTXWnHiSdr44mrjHkv/5YyntD9S/rTGwH+ZhVfEs9M/7X70zD+ilIsK9kj/e7gbFbHuGM8xn11ce767gYvgwVUeftAXP7Oxks6JjtvnkoGunTmv2mCPX9s4CnVC6E4d2rVRoEQyofi7TVeem3lPFfaceIhbuifdcNjhgkjaqFclXPPTHwmkOZ9hWriBwi3A1XjoW/ZfQwRf7M6xh3jMbm8aX/zG7gnYCL4kxF3bGTk/qaEpBw5+tPr/w+AQQaPP2vS8/TqZVkENcKDDflWGN028cF5rrTjmDe9V9jkUJ2mONMdRsTQhCpvB8k69xKF06pGWK4siH/tjfK4Yzwml7e4e4uPM66MmOiFWBanp0cINob4mDY+SXlu0YS+6YRxtW2O6Jw4NSLsAWF5zToNZORmJfJtSuR0EzdF7rR3JJx4yCJ44sMBxkbMTbXLnPBKO4i5K5KV6MzlDY9dgIf00hqJEnkOqbjPxsoLSJoLm+zqDBOpxx3jMbEIiavB0sKiCRCa+K18lGIrE6/5itHWzytvVG0rPK9MaKSnt2kaplL9EbExgAnt1fmAsLZmnQAyNWVs94YMZ+Tl/pYl7uc2PL16fV3nnRJ/fHK3vDWr41RX2nFMGmB6CebljcyTmwFhzSr2IHvvpmIVhn4XTPI9E6nHHeMx/R6L5a01LjNYgaxbLFcjShfz0OvVow1xkQnBjopz2zRzecPYHDE7XXaVt8eBpJyLmczLG82NR55bvVGt8jtbybLwCQBtW6PjhFfaQUwmkLOECWq3vGGQarQ3ENasogPR+vIByIvOsQs5hq43SD3uGI/Z7HHw1fKG7djoAuahid+m5a0/k83k0by2vO3K+giwtmadCRL0przlktb30nW2uzcK1W5FDxAkbuOEIRvdMue80g5iOspZwgyT05d+yJ+5NYISeQR6RrbPuqmzyvdVIOpFz0Tqccd4zKhObCpQXAquldVjxwUReD3FCds0jNMDbI+FH2PTzOVt94gYVd4eE/Jy/50bqVxnGJlNHg+eVT1EiPuw3Xs4Arh1a41Xet0yJ7zS5pAT0MRkymv+iGxeIr2YYXiNTGW6E8dmcDar+BIVE5RXfIQ1k+ePESZwICZk7yGyWR3jjsGYvKkuRawokNcRwW6/ZxJ4xUQMvZdB26l4JZKm8ZumNniIzREJjqYGAfgfENbWrGeH5Ov3aZGFudWgGekbwwCbVEGboKfnKdULHcQ6R4G3xtvbV7L5N5NwnivtOC+p4YJZBSJj2DSxRPawK4jcFeBsVvGKBSyDJ4oCdmgOWVLSuPl8F4Kb1THuuM/2RPmR/rI4LajRrLMyT8pzTqXeLUJBXWkHIeFGtbuWEvkqbrnrmEg97rjD9nBb5g2ZcEpx+1mc/P3AjcjuP6od5DzqcbtW5W0BfPK+U84tMt7StcabmAwfdxRFURTFw9OKVkd9xCiKoiiekCpvRVEUxRNS5a0oiqJ4Qqq8FUVRFE9IlbeiKIriCanyVhRFUTwhVd6KoiiKJ6TKW1EURfGEVHkriqIono6///3/A3ZVN7FenJu6AAAAAElFTkSuQmCC\"></p>\n<p>I Greve Kommune lægger resultaterne sig op af de generelle tendenser, hvor\nalle målgrupper er mindst tilfredse med \"samarbejde på tværs\". Dette\ntema handler om borgernes oplevelse af samarbejdet mellem jobcentret og andre\nafdelinger i kommunen.</p>\n<p>De mindst tilfredse grupper er de aktivitetsparate og job- og\nuddannelsesparate borgere, som også har den laveste svarprocent. Til gengæld er\ndagpengemodtagere, sygedagpengemodtagere og borgere i jobafklaring blandt de\nmest tilfredse.</p>\n<p><strong><em>Kommunespecifikke spørgsmål </em></strong></p>\n<p>Kommunerne havde mulighed for at tilføje op til to spørgsmål, som var\nspecifikke for den enkelte kommune. Greve Kommune tilføjede i efteråret 2024 to\nspørgsmål om borgernes oplevelse af rådgiverens tilgængelighed og indflydelse\npå forløbet. 292 borgere svarede på spørgsmålet om tilgængelighed, og 63 %\noplevede rådgiveren som tilgængelig. 303 borgere svarede på spørgsmålet om\nindflydelse, hvor 56 % oplevede, at de i høj grad eller meget høj grad havde\nindflydelse på deres forløb.</p>\n<p><strong><em>Opmærksomhedspunkter i Greve Kommune</em></strong></p>\n<p>Undersøgelsen viser, at mange borgere i Greve Kommune oplever mødet med\njobcentret som tillidsfuldt og målrettet, men fremhæver også områder, der\nkræver opmærksomhed.</p>\n<p><em>Tværgående samarbejde</em></p>\n<p>Under kategorien \"samarbejde på tværs\" blev borgerne spurgt, om de\noplevede godt samarbejde mellem de afdelinger, de har været i kontakt med.\nGreve Kommune fik en score på 2,68, som er lavere end landsgennemsnittet på\n2,87, og var den laveste score blandt de seks kategorier. Samme mønster viste\nsig i undersøgelsen i foråret 2024, hvor Greve Kommune også lå under\nlandsgennemsnittet med en score på 2,85 mod 3,03.  </p>\n<p><em>Konkrete planer</em></p>\n<p>Under kategorien \"samtaler\" scorede Greve Kommune 3,79, hvilket er\nhøjere end landsgennemsnittet på 3,68, og indikerer generelt er tilfredshed med\nsamtalerne. Dog har Greve Kommune scoret lavere i forhold til konkrete planer\nfor borgernes videre jobsøgnings- eller uddannelsesforløb. I foråret 2024 angav\n34,7 % af de uddannelsesparate borgere, at der ikke blev lavet en konkret plan,\nmens landsgennemsnittet var 11,4 %. I efterårsundersøgelsen 2024 er denne andel\nfaldet til 24,4 %, mens landsgennemsnittet ligger på 9,4 %.</p>\n<p>Denne forbedring kan tilskrives et øget ledelsesmæssigt og fagligt fokus på\nat udarbejde konkrete planer for borgernes videre forløb. Selvom der er sket en\ntydelig fremgang, er der stadig potentiale for yderligere udvikling på området.</p>\n<p><em>Sammenhæng mellem mål og indsats</em></p>\n<p>Under kategorien \"progression\" blev borgerne spurgt, om de\noplevede, at jobcentret præsenterer konkrete jobmuligheder, bringer dem tættere\npå at vende tilbage til job eller uddannelse, og styrker deres tro på at komme\ni arbejde. Greve Kommune opnåede en score på 3,02, hvilket er højere end\nlandsgennemsnittet på 2,87. Resultaterne viser, at både i Greve Kommune og på\nlandsplan oplever flere borgere, at der ikke er en klar sammenhæng mellem de\nmål, der er sat, og de indsatser, der bliver gennemført.</p>\n<p><strong><em>Anvendelse af borgerundersøgelsens resultater</em></strong></p>\n<p>KL’s tværkommunale borgerundersøgelse giver indsigt i både styrker og\nudviklingsområder i beskæftigelsesindsatsen. Resultaterne præsenteres for alle niveauer i organisationen, og bruges til at sætte ledelsesmæssig retning, understøtte faglige drøftelser og borgersamarbejdet samt generel udvikling af beskæftigelsesindsatsen. Undersøgelsen giver også\nmulighed for at følge effekten af de igangsatte tiltag og borgernes oplevelse af samarbejdet.</p>\n<p>Siden den sidste måling i foråret 2024 har administrationen haft fokus på de områder, der blev fremhævet. På det tværgående område er der i første omgang arbejdet på at forbedre samarbejdet i jobcentret, gennem initiativer som fx fælles møder for bedre kommunikation og koordinering mellem de forskellige teams. Der er også sat fokus på at sikre, at flere borgere får udarbejdet konkrete planer for deres videre forløb, hvilket har ført til et fald i andelen af borgere, der oplever manglende konkrete planer. Derudover er der arbejdet på at skabe bedre sammenhæng mellem de mål, der sættes for borgerne, og de indsatser, der iværksættes, herunder gennem forbedret kommunikation og tættere opfølgning på indsatsen</p>\n<p><strong><em>Kommende borgerundersøgelser</em></strong></p>\n<p>Fremadrettet er det administrationens vurdering, at Greve Kommune deltager i\nundersøgelsen en gang årligt, så det giver administrationen mulighed for at\narbejde grundigt med resultaterne, samt gennemføre og implementere de\nnødvendige forbedringer. Næste undersøgelse gennemføres i efteråret 2025, og\nvil følge samme design og spørgeramme som tidligere, samt give mulighed for at\ntilføje op til to kommunespecifikke spørgsmål.</p>\n<h4>Lovgrundlag</h4>\n<p>Lov om aktiv beskæftigelsesindsats. </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Prisen for deltagelse i KL´s borgerundersøgelse vil være 20.000 kr. for\nGreve Kommune og vil blive afholdt inden for budgettet afsat til den kommunale\nbeskæftigelsesindsats.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7f783525-479b-4b6f-afbd-9774df011090",
+          "DocumentId": "7f783525-479b-4b6f-afbd-9774df011090"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004108",
+      "Navn": "Tværkommunal borgerundersøgelse på beskæftigelsesområdet",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Tværkommunal borgerundersøgelse - Efterår 2024",
+          "Id": "2c29a82f-87d3-437c-ac66-bb33d8ab3cce"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Lokale spørgsmål - Greve Kommune - Efterår 2024",
+          "Id": "4d2df1b1-b3d4-4256-ab05-7c8aa2a3f098"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Tværkommunal borgerundersøgelse - Forår 2024",
+          "Id": "13cf6c14-8d5e-446d-b0b6-4f414824dfe6"
+        }
+      ],
+      "Documents": null,
+      "Id": "4c6380df-8f67-4f42-ae5f-21990f2a1b91",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "25-004108",
+      "SourceId": null,
+      "Caption": "Tværkommunal borgerundersøgelse på beskæftigelsesområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Anbefales.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>I sagen skal der træffes beslutning om en ny, fælles partnerskabsaftale\nmellem Greve Kommune, Solrød Kommune og Dansk Industri Roskilde/Køge Bugt.\nPartnerskabsaftalen er gældende i perioden 2025-27 og indeholder 3 fælles\ntemaer, som har til formål at styrke samarbejdet om de fælles opgaver. Bestyrelsen\ni ErhvervsCentret Greve har behandlet sagen den 24. april 2025, og bemærkninger fra\ndet pågældende møde indgår som orientering på udvalgsmødet.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udkastet til Partnerskabsaftale\n2025-2027 godkendes.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Både Greve Kommunes og Solrød Kommunes nuværende partnerskabsaftaler med\nDansk Industri udløb ved udgangen af 2024, og der etableres derfor en ny aftale\nfor de kommende 3 år. </p>\n<p>Solrød Kommune rettede i foråret 2024 henvendelse vedrørende mulighederne\nfor en fælles partnerskabsaftale med Dansk Industri. På baggrund af dialogen\nmellem de to kommuner er der nu opnået enighed om en fælles aftale. Det er\nsåledes nyt, at partnerskabsaftalen ikke alene indgås mellem DI og Greve\nKommune, men altså nu også med Solrød Kommune som en fælles og aktiv\nsamarbejdspartner. Dansk Industri har ligeledes godkendt, at aftalen indgås på\ndenne måde. </p>\n<p>Administrationen i Greve Kommune har sammen med Solrød Kommune og Dansk\nIndustri udarbejdet et udkast til Partnerskabsaftale 2025-2027, jf. vedlagte\nudkast i bilag 1 ”Fælles politisk Partnerskabsaftale 2025-2027”.\nPartnerskabsaftalens 3 temaer er:</p>\n<ol style=\"list-style-type: decimal;\">\n    <li><strong>Indsats for flere i\n    beskæftigelse</strong>:\n    Virksomhedernes mangel på arbejdskraft skal blandt andet imødekommes med\n    samarbejdsprojekter, hvor der er fokus på ansættelser af ledige med\n    særlige behov.</li>\n    <li><strong>Flere faglærte: unge og\n    voksne</strong>:\n    Den faglærte arbejdskraft skal styrkes gennem opkvalificering og\n    brancheskift samt ved brobygningsprojekter mellem virksomhederne og\n    skolerne. </li>\n    <li><strong>Bygge- og anlægsbranchen</strong>: Den største branche i\n    begge kommuner spiller en central rolle for lokal vækst. Erhvervet står\n    over for udfordringer som klimaomstilling og mangel på faglært\n    arbejdskraft, som skal adresseres gennem dialog, samarbejde og nye\n    platforme for virksomhederne.</li>\n</ol>\n<p>Fokusområderne og eksempler på konkrete samarbejdsprojekter er udfoldet\nyderligere i bilaget ”Fælles politisk Partnerskabsaftale 2025-2027”.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<h4>Kommunikation</h4>\n<p>Der kommunikeres i forbindelse med underskrift af aftale.</p>\n<h4>Tidsplan</h4>\n<p>Det forventes, at partnerskabsaftale kan offentliggøres i slutningen af juni\neller starten af juli 2025. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/961c9eb4-2f48-4e1e-9d72-8ec88df9b972",
+          "DocumentId": "961c9eb4-2f48-4e1e-9d72-8ec88df9b972"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-003732",
+      "Navn": "Fælles politisk DI partnerskabsaftale 2025-2027",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Fælles politisk Partnerskabsaftale 2025-2027",
+          "Id": "46959f14-5d2e-48f3-bca5-4867899e6518"
+        }
+      ],
+      "Documents": null,
+      "Id": "b67e0486-7c13-4a55-a7ba-bd972ad22125",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "25-003732",
+      "SourceId": null,
+      "Caption": "Fælles politisk DI partnerskabsaftale 2025-2027",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Med sagen får Beskæftigelses- og Erhvervsudvalget en orientering om\nindsatsen Kreativ, Langsigtet <span class=\"spelle\">Arbejds</span>-Planlægning\n(fremadrettet KLAPjob). Formålet med sagen er at belyse KLAPjobs formål,\nmålgruppe og indsatser, samt hvordan Greve Kommune samarbejder med KLAPjob for\nat understøtte borgere med kognitive udfordringer.</p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller,</em> <em>at orienteringen tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<h4><span>I forbindelse med behandlingen af midtvejsstatus for Beskæftigelsespolitikken den 18. november 2024 ønskede udvalget en orientering om, hvad KLAPjob indsatsen er, og hvordan\nadministrationen arbejder med indsatsen i Greve Kommune.</span></h4>\n<h4><em><span><strong>Landsdækkende\nbeskæftigelsesindsats</strong></span></em></h4>\n<h4><span>KLAPjob\nblev lanceret i 2009 af Landsforeningen for personer med udviklingshandicap\n(LEV) med det formål at skabe et mere inkluderende og rummeligt arbejdsmarked\nfor personer med kognitive handicap. Siden har KLAPjob udviklet sig til en\nlandsdækkende beskæftigelsesindsats, der arbejder på at fremme\narbejdsmarkedstilknytning for denne målgruppe.</span></h4>\n<h4><em><span><strong>Finansiering\nog samarbejder</strong></span></em></h4>\n<h4><span>KLAPjob\nhar siden opstarten været finansieret af statslige puljemidler, og den årlige\nbevilling ligger på omkring 10 mio. kr. på landsplan. </span></h4>\n<h4><span>På landsplan har KLAPjob indgået\nsamarbejdsaftaler med 20 større virksomheder og kæder, herunder McDonald's,\nMatas, Bilka, Cirkel K mv. Derudover har KLAPjob også samarbejdsaftaler med\nkommuner, Særlig Tilrettelagt Ungdomsuddannelse (fremadrettet STU-skoler) og\nandre organisationer, som bidrager til at fremme beskæftigelsesmulighederne for\npersoner med kognitive handicap.</span></h4>\n<h4><em><span><strong>Lokale\njobkonsulenter og deres rolle</strong></span></em></h4>\n<h4><span>KLAPjob\nhar 11 lokale jobkonsulenter, der sammen dækker hele Danmark. Jobkonsulenterne\nspiller en central rolle i at matche borgere med virksomheder og er samtidig i\nløbende dialog med kommunerne for at sikre, at samarbejdet fungerer optimalt og\ngiver gode resultater for både borgere og arbejdsmarkedet.</span></h4>\n<h4><em><span>Indsatsen\nfor personer med kognitive udfordringer </span></em></h4>\n<h4><span>Siden\n2009 har mere end 6.000 personer på landsplan med kognitive udfordringer, herunder autisme,\nADHD, spasticitet, epilepsi, muskelsvind og erhvervet hjerneskade, modtaget\nstøtte gennem KLAPjob for at komme ud på arbejdsmarkedet, primært gennem\nskånejobs. Denne indsats har været med til at skabe meningsfuld beskæftigelse\nog øge inklusionen på arbejdspladsen for målgruppen.</span></h4>\n<h4><em><span><strong>Greve\nKommunes samarbejde med KLAPjob</strong></span></em></h4>\n<h4><span>Greve\nKommune har indgået samarbejde med KLAPjob, som giver borgere på\nførtidspension, der opfylder KLAPjobs målgruppekriterier, mulighed for at\nmodtage information og støtte. Interesserede borgere får udleveret en folder om\nKLAPjob, som indeholder oplysninger om, hvordan de kan kontakte KLAPjob og få\nhjælp til at opnå et skånejob. KLAPjobs arbejdsmetode er baseret på, at\nborgerne selv tager initiativ og henvender sig for at udtrykke deres interesse\ni at få støtte til at finde et skånejob.</span></h4>\n<h4><span>Derudover\nhar STU-skolen i Greve Kommune haft et tæt samarbejde med KLAPjob i de seneste\n4 år. En jobkonsulent fra KLAPjob, som er tilknyttet STU-skolen, afholder\nworkshops for eleverne, hvor de bliver introduceret til mulighederne for at få\net skånejob efter endt STU-forløb. Eleverne bliver især opmærksomme på\njobmuligheder indenfor detailhandlen, og derfor arbejder STU-skolen målrettet\npå at etablere praktikforløb inden for denne branche, så de unge kan opnå\nkendskab til relevante arbejdsområder.</span></h4>\n<h4><span>Jobkonsulenten\nfra KLAPjob deltager også i afslutningsmødet for de unge, som har fået tilkendt\nførtidspension, eller hvor det er klart, at førtidspension vil blive bevilget.\nDette samarbejde sikrer en smidig overgang fra skolelivet til arbejdsmarkedet\nog giver den unge den nødvendige støtte til at komme videre.</span></h4>\n<h4><span>I\nløbet af de fire år, Greve Kommune har haft samarbejde med KLAPjob, har ca. 10\nunge fra STU-skolen opnået skånejob gennem samarbejdet.</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ade6055b-7f28-408f-960d-7e0271b395af",
+          "DocumentId": "ade6055b-7f28-408f-960d-7e0271b395af"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-003588",
+      "Navn": "Samarbejde med KLAPjob",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c367d026-c2ef-441c-985e-34ea06299efc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "25-003588",
+      "SourceId": null,
+      "Caption": "Samarbejde med KLAPjob",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget, Social- og Handicapudvalget og\nSundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Social- og Boligstyrelsen har bevilget 3 praksiskurser i recoveryorienteret\nrehabilitering til Greve Kommunes medarbejdere og ledere på det specialiserede\nvoksenområde samt udvalgte ledere og medarbejdere i jobcentret. Med denne sag\norienteres udvalgene om kompetenceudviklingsforløbet, som afvikles i første\nhalvår 2025.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Social- og Boligstyrelsen anbefaler, at recoveryorienteret rehabilitering\nudbredes i kommunerne som faglig tilgang på det samlede specialiserede\nvoksenområde.</p>\n<p><em><strong>Hvad er recoveryorienteret rehabilitering?</strong></em></p>\n<p>Recovery betyder ”at komme sig”. Til forskel fra tidligere ved man i dag, at\nmange mennesker med psykiske vanskeligheder kan komme sig og leve et\nmeningsfuldt liv, hvis de får den rette støtte og hjælp. Recoveryorienteret\nrehabilitering er en faglig tilgang, der kobler borgernes personlige\nrecovery-proces og den fagprofessionelles arbejde med at støtte denne proces.\nDet er væsentligt at støtten tager udgangspunkt i borgernes ønsker, håb og\ndrømme. </p>\n<p>Recoveryorienteret rehabilitering tager udgangspunkt i, at ethvert menneske\ner en unik person med en særlig livshistorie, konkrete problemer/udfordringer,\nmen også ressourcer, drømme og håb for fremtiden. Borgerens perspektiv er altid\nudgangspunktet for indsatsen, og det er centralt, at borgeren oplever sig mødt\nfor alt det, han/hun er. </p>\n<p><em>Otte centrale principper</em></p>\n<p>Social- og Boligstyrelsen har formuleret otte retningsgivende principper,\nder tilsammen beskriver en recoveryorienteret rehabiliterende tilgang.\nPrincipperne er tæt forbundne og beskriver tilsammen en praksis, hvor den\nenkeltes håb, ønsker og drømme er omdrejningspunktet for den støtte, borgeren\ntilbydes. </p>\n<p>De otte principper er: </p>\n<p>1.       Tag udgangspunkt i borgernes håb,\nønsker og drømme</p>\n<p>2.       Fokusér på borgernes ressourcer</p>\n<p>3.       Inddrag borgernes selvvalgte netværk\nog almene fællesskaber</p>\n<p>4.       Mød borgerne med åbenhed, tillid og\nrespekt</p>\n<p>5.       Hjælp borgerne så tidligt som muligt</p>\n<p>6.       Arbejd koordineret med borgernes\nsamlede livssituation</p>\n<p>7.       Følg op, så indsatsen altid er den\nrette</p>\n<p>8.       Brug viden og metoder, der virker</p>\n<p>Samarbejdet mellem borgeren og den fagprofessionelle foregår inden for\nlovgivningsmæssige rammer og det politiske, fastsatte serviceniveau. Det er\nsåledes ikke alt, borgeren ønsker, der altid kan lade sig gøre, hvilket heller\nikke er tilgangens ærinde. Udgangspunktet er, at der altid foregår en dialog og\net samarbejde, hvor der i fællesskab findes ud af, hvad der er af muligheder\nfor at støtte den enkelte borger i at komme nærmere sine ønsker, håb og drømme.</p>\n<p><em><strong>Kompetenceudviklingsforløb i recoveryorienteret rehabilitering i\nGreve Kommune</strong></em></p>\n<p>Greve Kommune har ansøgt Social- og Boligstyrelsen og fået bevilget 3 gratis\npraksiskurser i recoveryorienteret rehabilitering til ledere og medarbejdere på\ndet specialiserede voksenområde og beskæftigelsesområdet. Kurserne udbydes af\nSubstans Konsulenthus og afvikles i 1. halvår 2025. Hvert kursus består af én\nlederworkshop samt fem hele undervisningsdage. </p>\n<p><em>Et fælles fagligt fundament på tværs af social- og beskæftigelsesområdet</em></p>\n<p>Formålet med praksiskurserne er at forme og træne en recoveryorienteret\ntilgang i praksis for både ledere og medarbejdere. På trods af at tilgangen er\nudviklet i socialpsykiatrien, er det valgt at også medarbejdere fra jobcentret\ndeltager i kurset. Dette for at skabe et fælles fagligt fundament på tværs af\nsocial- og beskæftigelsesområdet, som styrker arbejdet med en helhedsorienteret\nindsats til borgerne.</p>\n<p>Der er plads til 25-30 deltagere pr. hold med krav om at minimum 60% af\ndeltagerne er fra socialpsykiatrien. Således deltager alle ledere og\nmedarbejdere fra Pædagogisk Psykiatrisk Vejledningscenter, Bostedet Vangeleddet\nog Rådgiverteamet. Herudover deltager ledere og udvalgte medarbejdere fra Greve\nRusmiddelcenter, Ungecentret, Jobcentrets Aktive Tilbud (JAT) samt Jobcentrets\nRessource- og Afklaringsteam.</p>\n<p>Tilgangen i Recoveryorienteret rehabilitering er i tråd med Greve Kommunes\nvision \"Naturligvis Greve - gennem helhedssyn og fællesskaber\" og det\nunderliggende tema \"aktiv borgerinddragelse\". Ligeledes er der en tæt\nkobling til Social- og Handicappolitikkens fokus på helhedsorienterede\nindsatser og Børne- Ungepolitikkens fokus på vigtigheden af positive\nfællesskaber. </p>\n<p><em>Sammenhængen med øvrige metoder</em></p>\n<p>Recoveryorienteret rehabilitering skal forstås som et ”mindset” og ikke en\nkonkret metode. Det er en grundlæggende tilgang, der supplerer de øvrige metoder,\nder allerede anvendes i organisationen som f.eks. Voksenudredningsmetoden (VUM\n2.0) og Kognitiv Ressourcefokuseret Anerkendende Pædagogik (KRAP), som anvendes\npå bostedet Vangeleddet.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Kursustilbuddet er finansieret af Social- og Boligstyrelsens grundbevilling\nog er derfor gratis. Greve Kommune stiller faciliteter samt medarbejdernes tid\ntil rådighed.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f4c3bf3d-b609-41ef-8a04-bc91d580a43d",
+          "DocumentId": "f4c3bf3d-b609-41ef-8a04-bc91d580a43d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004141",
+      "Navn": "Kompetenceudvikling i recoveryorienteret rehabilitering",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "939053bb-505f-4d36-94ed-826b4bc75ac8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "25-004141",
+      "SourceId": null,
+      "Caption": "Kompetenceudvikling i recoveryorienteret rehabilitering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>Der var ingen orienteringer.<p>Afbud: Ronni Mark Nielsen<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Lukket: Henvendelser til formanden ",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "668992d7-8948-46b7-90d1-ced385a7d08d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden ",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Der var ingen orienteringer.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses-\nog Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden\nog udvalgets medlemmer orienterer om aktuelle emner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen\nindstiller, at orienteringer tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Formanden\norienterer om:</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/98a4c1bd-ea9c-483b-a6be-b75413da71f3",
+          "DocumentId": "98a4c1bd-ea9c-483b-a6be-b75413da71f3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9cd08be0-8c9d-4b1e-9000-c35d8429f341",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationen giver et kort overblik over orienteringspunkter, og hvis\nder er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til\nefterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p><strong><em>Status på langtidsledigheden</em></strong></p>\n<p>Styrelsen for Arbejdsmarked og Rekruttering har netop offentliggjort\nantallet af langtidsledige i Danmark. Opgørelsen viser, at der er sket en\nstigning på landsplan, og der er kun få kommuner, hvor tendensen er den\nmodsatte. Artikel er vedlagt som bilag 1. I Greve har vi et fald i langtidsledigheden på 1 %, og er dermed en\naf de få kommuner, der går mod tendensen på landsplan.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/48fcc593-da6e-44d6-9dff-19ae596a4a1c",
+          "DocumentId": "48fcc593-da6e-44d6-9dff-19ae596a4a1c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Langtidsledigheden stiger - kun få kommuner går uden om",
+          "Id": "12dee113-3f2f-4203-ae16-3c01973b31fb"
+        }
+      ],
+      "Documents": null,
+      "Id": "e73a197f-c90e-4197-8a7e-591b584d3940",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og\nErhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et\noverblik over Beskæftigelses- og Erhvervsudvalgets møder og aktiviteter i\ntilknytning til udvalget.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen\nindstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Møde- og aktivitetskalenderen\nog årshjul for rapportering af nøgletal til Beskæftigelses- og Erhvervsudvalget\ner vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/61e04edc-dc4e-4d63-b928-9b1c5609a254",
+          "DocumentId": "61e04edc-dc4e-4d63-b928-9b1c5609a254"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Beskæftigelses- og Erhvervsudvalgets møde- og aktivitetskalender 2025",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Beskæftigelses- og Erhvervsudvalgets møde- og aktivitetskalender 2025",
+          "Id": "8d4e7ef2-5b19-4e5a-a390-ac2554fdc4c0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Årshjul til Beskæftigelses- og Erhvervsudvalget vedr. nøgletal 2025",
+          "Id": "f4442d59-4e98-4701-b29b-0baf155c2a6d"
+        }
+      ],
+      "Documents": null,
+      "Id": "aadbf029-0baa-4f87-9f69-ac9ed07b6797",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Beskæftigelses- og Erhvervsudvalgets møde- og aktivitetskalender 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>     <br><br>Afbud: Ronni Mark Nielsen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7d56e925-2806-4e6a-8da0-28a4d7370202",
+          "DocumentId": "7d56e925-2806-4e6a-8da0-28a4d7370202"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8de4f4db-1c50-4ee2-8da8-576be25cc555",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "d2b6711a-6c60-4f72-be63-ef69dac7e795",
+    "Navn": "Beskæftigelses- og Erhvervsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-04-28T08:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-04-28T08:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Ronni Mark Nielsen",
+        "Absent": false,
+        "ParticipationCancelled": true,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "d26b1202-df81-4def-b4b9-67d82aaa4aa2",
+  "Lydfiler": null
+}

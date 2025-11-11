@@ -1,0 +1,485 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 07. februar 2022.</div> </div> <h3><b>I</b>ndstilling</h3> <div> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></div> <div><i><br> </i></div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r Godkendt.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/be6822bc-dbe9-4d77-b615-fb65820eab8c",
+          "DocumentId": "be6822bc-dbe9-4d77-b615-fb65820eab8c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014448",
+      "Navn": "Godkendelse af dagsorden.",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d4c3f961-0920-4c42-8fad-f136cbb67d0d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014448",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden.",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><b></b> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <b></b> <h3>Resume</h3> <div>På Beskæftigelses- og Erhvervsudvalgets møde den 7. februar 2022, vil administrationen give en overordnet introduktion til erhvervsområdet.</div> <b></b> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <b></b> <h3>Sagsfremstilling</h3> <div>På mødet vil administrationen give en overordnet introduktion til erhvervsområdet, budget, organisering samt den erhvervsrettede indsats. Udvalget får lejlighed til at drøfte og tilkendegive eventuelle øvrige ønsker til fremadrettet introduktion, til arbejdsområde og opgaver.</div> <b></b> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <b></b> <h3>Øvrige forhold</h3> <div>Simon Hauberg-Lund, Erhvervschef , deltager under mødet.</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/39c04af5-2fe0-4213-ab97-574c2035caf3",
+          "DocumentId": "39c04af5-2fe0-4213-ab97-574c2035caf3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-001227",
+      "Navn": "Introduktion til erhvervsområdet",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Vækst og-erhvervspolitik 2019-2022",
+          "Id": "de6c2214-e697-4f63-8b85-03fe5d308537"
+        }
+      ],
+      "Documents": null,
+      "Id": "65d724b2-6d39-46f7-8451-29179dbd25de",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-001227",
+      "SourceId": null,
+      "Caption": "Introduktion til erhvervsområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><b></b> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <b></b> <h3>Resume</h3> <div>På Beskæftigelses- og Erhvervsudvalgets møde den 7. februar 2022, vil administrationen give en overordnet introduktion til turismeområdet.</div> <b></b> <h3>Indstilling</h3> <div><em>Center for Politik, organisation og borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <b></b> <h3>Sagsfremstilling</h3> <div>På mødet vil administrationen give en overordnet introduktion til turismeområdet, budget, organisering samt den turismerettede indsats. Udvalget får lejlighed til at drøfte og tilkendegive eventuelle øvrige ønsker til fremadrettet introduktion, til arbejdsområde og opgaver.</div> <b></b> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser. </div> <h3>Øvrige forhold</h3> <div>Simon Hauberg-Lund, Erhvervschef , deltager under mødet.</div> <div> </div> <div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3b4300bc-470c-4316-b7dd-167183f19d2c",
+          "DocumentId": "3b4300bc-470c-4316-b7dd-167183f19d2c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-001227",
+      "Navn": "Introduktion til turismeområdet",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "afec9489-db3b-4223-8c8a-62987242da41",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-001227",
+      "SourceId": null,
+      "Caption": "Introduktion til turismeområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget drøftede deres mål for politikker på beskæftigelses og erhvervsområdet.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><span>Sagsprocedure</span></h3> <div><span>Beskæftigelses- og Erhvervsudvalget</span><span>.</span></div> <h3>Resume</h3> <div><span>På </span><span>ud</span><span>valgsmød</span><span>et</span><span> i januar introducerede udvalgsmedlemmerne sig til hinanden og indledte drøftelserne af deres respektive mærkesager. Som grundlag for den videre drøftelse præsenteres der til dette møde</span><span> de</span><span> </span><span>mål og de </span><span>politikker, der gennem de sidste fire år </span><span>er arbejdet</span><span> med på udvalge</span><span>t</span><span>s</span><span> områder.</span></div> <h3>Indstilling</h3> <div><span>Center for Politik, Organisation & Borgerbetjening, Center for Job & Socialservice, Center for Dagtilbud & Skoler, Center for Børn & Familier, Center for Teknik & Miljø og Center for Sundhed & Pleje indstiller, at udvalg</span><span>et</span><span> fortsætter drøftelsen af </span><span>deres mål og </span><span>politikker.</span></div> <h3>Sagsbeskrivelse</h3> <div><span>På mødet lægges der op til, at </span><span>udvalget </span><span>forsætter drøftelsen af mål og politikker, som blev opstartet ved udvalgsmøde</span><span>t</span><span> i januar.</span></div> <div><span> </span></div> <div><span>Udvalgte politikker </span><span>fra seneste byrådsperiode er vedlagt som bilag til denne sag. De kan inddrages i drøftelsen af fremtidige mål og politikker. Drøftelserne på mødet peger frem mod Byrådets Budget- og </span><span>v</span><span>isionsseminar den 4. og 5. marts, hvor Byrådet bliver præsenteret for et oplæg om Greve Kommunes økonomi, udfordringer og større indsatsområder. Der vil på seminaret blive samlet op på udvalgenes ønsker til politiske fokuspunkter. På seminaret skal Byrådet drøfte visionen for Greve Kommune. Visionen vil danne grundlag for det kommende konkrete arbejde med kommunens nye politiske målsætninger i de forskellige fagudvalg.</span></div> <div> </div> <div>Administrationen vil gerne lægge op til en drøftelse af:</div> <ul>     <li style=\"\"><span>Hvilke politiske målsætninger har udvalget?</span></li> </ul> <ul>     <li style=\"\"><span>Hvilke 3 politiske målsætninger er de vigtigste for udvalget?</span></li> </ul> <ul>     <li style=\"\"><span>Ud fra de eksisterende politikker og mål, hvad vil udvalget gerne bygge videre på?</span></li> </ul> <div><span> </span></div> <div><span>Nedenstående er en overordnet gennemgang af arbejdet, der er foregået med </span><span>udvalgte </span><span>politikker i seneste byrådsperiode.  Det kan inddrages som et baggrundstæppe for udvalgets drøftelse.</span></div> <div><span> </span></div> <div><span>Det eksisterende fundament i arbejdet med Greve Kommunes politikker</span></div> <div><span>I den seneste byrådsperiode 2018-2021 har Greve Kommune arbejdet med et styringskoncept, som styrer efter de effektmål, der er beskrevet i kommunens 7 borgerrettede politikker. Politikkerne er stadig gældende. Effektmålene er organiseret inden for 6 liv; børneliv, ungeliv, voksenliv, seniorliv, ældreliv samt vækst- og erhvervsliv. Livene har været med til at skabe et godt fundament for at sikre et øget tværgående samarbejde i organisationen, hvor borgere og erhverv er i centrum for opgaveløsningen.</span></div> <div><span> </span></div> <div><span>Hvert udvalg er gennem perioden blevet præsenteret for status på de enkelte politikker. Seneste skriftlige status blev forelagt Byrådet den 24. august 2020. Herefter blev det besluttet, at der ikke skulle følges op på målene på grund af Covid19. På baggrund af efterspørgsel fra Byrådet blev opfølgningen efterfølgende ændret til mundtlige oplæg om arbejdet med konkrete indsatser i kommunen. Der har i perioden været afholdt en række oplæg for de enkelte fagudvalg, en rundtur den 21. september 2020 og en Markedsdag den 14. juni 2021. Begge dage har der været mundtlige oplæg om indsatser inden for de 7 politikker, og der var en videoopsamling på de to dage for Byrådet.</span></div> <div><span> </span></div> <div><span>Til det kommende arbejde med budget, vision og nye politikker står udvalgene derfor allerede på et fundament af en række mål og indsatser, der er arbejdet med og på nogle punkter fortsat arbejdes med. </span><span>Nedenstående er et kort </span><span>oprids af hvordan der er arbejdet med </span><span>udvalgte </span><span>politikker.</span></div> <div><span> </span></div> <div><span><strong>Arbejdet med Beskæftigelsespolitikken</strong></span></div> <div><span>Indenfor beskæftigelsespolitikken er der arbejdet med 7 effektmål. Målene omhandler beskæftigelsesindsatser og handlinger, der understøtter, at f.eks. en borgers ledighedsperiode er så kort som mulig, samtidig med at </span><span>borgeren opnår den højst mulige grad af selvforsørgelse gennem den rette indsats. Der har der været fokus på at få flere unge i uddannelse eller beskæftigelse, flere ledige i beskæftigelse, derudover fokus på socialt bedrageri, udsatte ledige og at flere borgere får </span><span>en</span><span> håndholdt indsats, hvis der er behov for det. Som følge af Covid19 krisen er der ekstra fokus på at styrke indsatsen i forhold til langtidsledighed og langtidssygemeldte. Der er også arbejdet på at understøtte virksomhederne i deres rekrutteringsbehov.</span></div> <div><span> </span></div> <h3>Arbejdet med Vækst- og Erhvervspolitikken</h3> <div><span>Vækst- og erhvervspolitikken understøtter arbejdet med at det lokale erhvervslivs vækst og udvikling, så virksomhederne får brug for at ansætte endnu flere. Arbejdet er knyttet til 4 temaer; heriblandt service til og modtagelse af nye virksomheder, fysiske rammer og infrastruktur, iværksætteri og synliggørelse af udbud og leverandørsamarbejde. Hvert af de 4 temaer har tilhørende effektmål, hvor der bl.a. er arbejdet med velkomst af nystartede og nytilflyttede virksomheder, fysiske rammer i kommuneplanarbejdet, dialogmøde for håndværkere i forbindelse med udbud af håndværkerydelser, opstartsarrangementer for iværksættere.</span><span> </span><span>Som i arbejdet med beskæftigelsespolitikken er og har der generelt været fokus på at understøtte virksomhederne i deres rekrutteringsbehov.</span></div> <h3>Økonomiske konsekvenser</h3> <div><span>Sagen har ingen økonomiske konsekvenser.</span></div> <h3>Lovgrundlag</h3> <div><span>Der er forskellige lovgrundlag på de forskellige fagområder.</span></div> <h3>Tidsplan</h3> <div><span>Der er planlagt følgende:</span></div> <ul>     <li style=\"\"><span>Budget- og </span><span>v</span><span>isionsseminar den 4.-5. marts: Opsamling på udvalgenes ønsker til </span><span>mål og politikker</span><span>.</span></li> </ul></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r <div>Udvalget drøftede deres mål for politikker på beskæftigelses og erhvervsområdet.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0e3f6e14-eeeb-491e-b505-e7919991cb0d",
+          "DocumentId": "0e3f6e14-eeeb-491e-b505-e7919991cb0d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-001678",
+      "Navn": "Drøftelse af politiske målsætninger",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Budgetforlig 2022",
+          "Id": "3ff4ffd3-1ec9-4755-9727-52582d722007"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beskæftigelsespolitik-2019-2022",
+          "Id": "d5b2c83f-17a8-4384-ab2b-b5a48a9c7a8a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Vækst-og-Erhvervspolitik-2019-2022",
+          "Id": "461d164d-310a-4866-96b8-91adc79e1ad4"
+        }
+      ],
+      "Documents": null,
+      "Id": "657b7c09-d28a-4e68-8de3-8114f12dd6d4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-001678",
+      "SourceId": null,
+      "Caption": "Drøftelse af politiske målsætninger",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Anbefales inden for beskæftigelses- og erhvervsområdet.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Beskæftigelse- og Erhvervsudvalget, Sundhed- og Omsorgsudvalget, Social- og Handicapudvalget, Skole-, Børne- og Ungeudvalget, Plan-, Trygheds- og Integrationsudvalget, Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3>Resume</h3> <div><span>I forbindelse med tiltrædelse af nyt byråd, besluttede Byrådet den nye styrelsesvedtægt for Greve Kommune den 1. december 2021. Denne sag forelægger den reviderede delegationsplan for Greve Kommune til godkendelse. I sagsfremstillingen gennemgås kort de enkelte ændringer til delegationsplanen.</span></div> <h3>Indstilling</h3> </div> <div> <div><span><em>Center for Politik, Organisation & Borgerbetjening indstiller, at delegationsplanen for Greve Kommune godkendes.</em></span></div> <h3>Sagsbeskrivelse</h3> <div><span>Delegationsplanen for Greve Kommune skal tilpasses den nye udvalgsstruktur i Greve Byråd. I forbindelse med gennemgang af delegationsplanen, har administrationen desuden tilføjet nogle få præciseringer. I det følgende gennemgås kort de enkelte ændringer i delegationsplanen. </span></div> <div><span> </span></div> <div>I bilag til sagen er vedlagt den gamle delegationsplan, den nye delegationsplan hvor ændringerne er markeret og den nye delegationsplan, hvor ændringerne ikke er markeret.</div> <div><strong><em> </em></strong></div> <div><strong><em>Byrådet</em></strong></div> <div>Det er præciseret, at Byrådet har ansvar for ansættelse og afskedigelse på direktørniveau.</div> <div> </div> <div><strong><em>Økonomiudvalget</em></strong></div> <div>Det er præciseret, at administrationen har beslutningskompetence, hvad angår budgetomplaceringer indenfor et budgetområde under et udvalgs bevilling.</div> <div> </div> <div>Administrationens beslutningskompetencer under personale er præciseret i en fodnote.</div> <div> </div> <div>Erhverv og Turisme flyttes til Beskæftigelses- og Erhvervsudvalget.</div> <div> </div> <div><em><strong>Beskæftigelses- og Erhvervsudvalget</strong></em></div> <div>Erhverv og Turisme overdrages fra Økonomiudvalget.</div> <div> </div> <div>Integration, kriminalitetsforebyggelse og exitstrategi for rockere og bandemedlemmer flyttes til Plan-, Integrations- og Tryghedsudvalget.</div> <div> </div> <div>Særligt Tilrettelagt Ungdomsuddannelse og Forberedende Grunduddannelse flyttes til Skole-, Børne- og Ungeudvalget.</div> <div> </div> <div><em><strong>Klima-, Teknik- og Miljøudvalget</strong></em></div> <div>Byggesagsbehandling, herunder dispensationer, overdrages fra Plan-, Trygheds- og Integrationsudvalget.</div> <div> </div> <div><strong><em>Plan,- Trygheds- og Integrationsudvalget</em></strong></div> <div>Byggesagsbehandling, herunder dispensationer, flyttes til Klima-, Teknik- og Miljøudvalget.</div> <div> </div> <div>Integration, kriminalitetsforebyggelse og exitstrategi for rockere og bandemedlemmer overdrages fra Beskæftigelses- og Erhvervsudvalget.</div> <div> </div> <div><em><strong>Kultur- og Fritidsudvalget</strong></em></div> <div>Administrativ præcisering angående tilladelser til benyttelse af arkivalier fra §7 kommunearkivet.</div> <div> </div> <div><em><strong>Skole-, Børne- og Ungeudvalget</strong></em></div> <div>Særligt Tilrettelagt Ungdomsuddannelse og Forberedende Grunduddannelse overdraget fra Erhvervs- og Beskæftigelsesudvalget.</div> <div> </div> <div><em><strong>Sundheds- og Omsorgsudvalget</strong></em></div> <div>I henhold til styrelsesvedtægten er opgaverne fra det tidligere Social-, Sundheds- og Psykiatriudvalg fordelt på Sundheds- og Omsorgsudvalget og på Social- og Handicapudvalget.</div> <div> </div> <div><em><strong>Social- og Handicapudvalget</strong></em></div> <div>I henhold til styrelsesvedtægten er opgaverne fra det tidligere Social-, Sundheds- og Psykiatriudvalg fordelt på Sundheds- og Omsorgsudvalget og på Social- og Handicapudvalget.</div> <h3><span>Lovgrundlag</span></h3> <div>Lov om kommunernes styrelse.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div><span>Sagen har ingen økonomiske konsekvenser.</span></div> <h3><span>Kommunikation</span></h3> <div>Delegationsplanen lægges på Greve Kommunes hjemmeside, når den er vedtaget endeligt i Byrådet.</div> <h3></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r <div>Anbefales inden for beskæftigelses- og erhvervsområdet.</div><br>\r \r <u>07-02-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r <div>Anbefales.</div> <div> </div><br>\r \r <u>07-02-2022 Social- og Handicapudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>08-02-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>08-02-2022 Plan-, Trygheds- og Integrationsudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>09-02-2022 Kultur- og Fritidsudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>14-02-2022 Klima-, Teknik- og Miljøudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>28-02-2022 Økonomiudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>07-03-2022 Byråd</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/eac4a981-0fc8-4c91-adc4-62d8c94fd9c2",
+          "DocumentId": "eac4a981-0fc8-4c91-adc4-62d8c94fd9c2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016268",
+      "Navn": "Delegationsplan for Greve Byråd 2022-2025",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Ny delegationsplan_med vis ændringer_pdf",
+          "Id": "1f7ed304-3937-4c80-9117-3b64fcd2b4e1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Ny delegationsplan_uden vis ændringer",
+          "Id": "7b150836-8473-4c5b-8b3e-2d1bc25b129b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Retningslinjer for dispensationer ved byggesagsbehandling_bilag til delegationsplan",
+          "Id": "c7eac191-298e-48b2-8ef3-4e29e5409618"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Udgående delegationsplan",
+          "Id": "7f7bb892-e99b-447b-81b9-fcd0f5b22174"
+        }
+      ],
+      "Documents": null,
+      "Id": "d9a5cb96-1cb2-4afc-865b-14ef6acaf6ca",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-016268",
+      "SourceId": null,
+      "Caption": "Delegationsplan for Greve Byråd 2022-2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div><b> </b></div> <div>Pkt. 1: Orienteringen blev taget til efterretning.</div> <div> </div> <div>Pkt. 2: Godkendt.</div> <div> </div> <div>Pkt. 3: Godkendt.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><b></b> <h3>Sagsprocedure </h3> <div>Beskæftigelses- og Erhvervsudvalget</div> <b></b> <h3>Resume</h3> <div>På Beskæftigelses- og Erhvervsudvalgets møde den 10. januar 2022 ønskede udvalget at få indblik i ledigheden blandt jobparate borgere. Derudover ønskede udvalget et konkret bud på initiativer der kan igangsættes, for at imødekomme virksomhedernes efterspørgsel på arbejdskraft. </div> <b></b> <h3>Indstilling</h3> <div><i>Center for Job & Socialservice </i><i>indstiller at;</i></div> <ol>     <li><i>Orienteringen tages til efterretning.</i></li>     <li><i>Jobcentret </i><i>arbejder videre med et oplæg om en intensiveret indsats for borgere på ledighedsydelse.</i></li>     <li><i>Der iværksættes en indsats overfor borgere på førtidspension med henblik på at rette deres opmærksomhed på mulighederne for at supplere førtidspension med arbejdsindtægt.</i></li> </ol> <div><i> </i></div> <b></b> <h3>Sagsbeskrivelse</h3> <div><b><em>Indblik i ledigheden blandt jobparate borgere i Greve Kommune</em></b></div> <div>I december 2021 var der ca. 457 fuldtidsledige jobparate borgere i Greve Kommune med en samlet ledighed på 1,8 %, hvor både kvinder og mænd havde en ledighed på 1,8 %. Størstedelen er dagpengemodtagere med en ledighedsprocent på 2,2 % svarende til 431 fuldtidsledige, mens de resterende 26 er jobparate kontanthjælpsmodtagere, herunder uddannelseshjælps- og overgangsydelsesmodtagere.</div> <div>I forhold til a-kasse tilhørsforhold for a-dagpengemodtagere i december 2021, havde følgende a-kasser en overledighed: Det faglige Hus på 3,3 % svarende til 45 ledige, 3F på 4,5 % svarende til 61 ledige, HK på 2,7 % svarende til 58 ledige og Kristelig a-kasse på 3,9 % svarende til 60 ledige. Samlet havde de fire a-kasser 224 fuldtidsledige ud af 431 fuldtidsledige a-dagpengemodtagere i december 2021 (senest opgjort data på helårspersoner fra Danmarks Statistik).</div> <div>52 af de ledige jobparate borgere har en lang videregående uddannelse, 119 har en mellemlang videregående uddannelse, 84 har en kort videregående uddannelse, 175 har en erhvervsuddannelse og 128 borgere har ikke en erhvervs eller videregående uddannelse (tal fra Jobcentrets fagsystem).</div> <div>Ledigheden er jævn fordelt på alle aldersgrupper i Greve Kommune, dog med en overledighed blandt 25 til 29-årige på 3,4 % svarende til 57 ledige. (Tal fra Danmarksstatistik - december 2021). Overledigheden for de 25 til 29-årige er dog lavere sammenlignet med Region Sjælland som har 3,8 %, Region Hovedstaden som har 3,8 % og hele landet på 4,1 %. Den lavere overledighed blandt 25 til 29-årige i Greve Kommune skyldes, at vi igennem de seneste år har haft særlig fokus på denne aldersgruppe.     </div> <div><b><em>Igangværende indsatser for de jobparate borgere i Greve Kommune</em></b></div> <div>Indsatsen for de jobparate borgere i Greve Kommune omfatter følgende elementer; </div> <div><i>Jobformidling af virksomhedsservice</i> - Virksomhedernes rekruttering af kvalificerede medarbejdere understøttes ved, at kvalificerede borgere direkte videreformidles til jobåbninger fra jobcentrets virksomhedsservice. </div> <div><i>Brancheskifte, om- og opkvalificering</i> - Der foretages en individuel vurdering af, om den enkelte borger forventes at kunne vende tilbage til tidligere erhverv, eller om der er behov for brancheskifte til nyt job, hjælp til om- eller opkvalificering for at kunne matche de kvalifikationer, der efterspørges. Jobcentret screener også de ledige som er i risiko for langtidsledighed, for om de med den rette opkvalificering kan bestride jobs inden for mangelområderne på arbejdsmarkedet. Jobcentret har især fokus på brancheskifte for HK’ere, da efterspørgslen på arbejdskraft ikke er stor indenfor handel og kontor. Samtidig arbejdes der med brancheskift og opkvalificering af ledige, som søger job inden for rengøring, køkken, butik og kontor for at undersøge, om flere af disse kan komme i spil til de brancher der efterspørger arbejdskraft.</div> <div><i>Fokus på voksenlæreordningen – ufaglært til faglært</i> - Der er særlig fokus på voksenlæreordningen som medvirker til at afhjælpe virksomhederne med deres mangel på arbejdskraft, samt at flere ledige opnår varig tilknytning til arbejdsmarkedet gennem opkvalificering til en anden eller tidligere branche. Borgerne understøttes i iværksættelse af realkompetencevurderinger på erhvervsskolerne og der udarbejdes opkvalificeringsplaner med henblik på at gå fra ufaglært til faglært.</div> <div>Den aktuelle ledighed på 1,8 % er meget lav. På den baggrund foreslår jobcentret også at have fokus på arbejdskraftpotentialet blandt andre ydelsesmodtagere for at understøtte virksomhedernes mangel på arbejdskraft. I det følgende beskrives to konkrete initiativer.  </div> <div><b><em>Initiativ om målrettet og intensiveret indsats overfor ledighedsydelsesmodtagere</em> </b></div> <div>Ledigheden blandt fleksjobvisiterede i Greve Kommune og i hele landet er på knap 16 %. I Greve drejer det sig på nuværende tidspunkt om ca. 120 ledighedsydelsesmodtagere. Ledighedsydelse er den ydelse, som ledige modtager, når de er visiteret til et fleksjob, men endnu ikke er i fleksjob eller er blevet opsagt fra deres tidligere fleksjob.</div> <div>I fleksjobbet skal der tages hensyn til at arbejdsevnen er nedsat grundet begrænsninger i helbredet, og arbejdstid og opgaver bliver tilrettelagt efter disse hensyn. Der er i denne målgruppe en højere ledighedsprocent og et arbejdskraftspotentiale for virksomhederne. Et konkret initiativ kunne derfor være at styrke indsatsen yderligere for borgere på ledighedsydelse ved hjælp af en mere intensiv indsats.  </div> <div><b><em>Initiativ om indsats overfor førtidspensionister med henblik på at understøtte manglen på arbejdskraft</em> </b></div> <div>I november 2021 var der 1525 borgere på førtidspension i Greve Kommune. Førtidspension er en offentlig social pension for borgere, som har en væsentlig og varig nedsat arbejdsevne.</div> <div>Førtidspensionister har som supplement til deres førtidspension mulighed for at arbejde på almindelige vilkår og kan dermed udgøre en arbejdskraftsressource. For førtidspensionister kan det at være en del af en arbejdsplads være med til at øge deres livskvalitet og flere virksomheder kan have mulighed for at få dækket deres arbejdskraftsbehov ved at ansætte førtidspensionister til konkrete opgaver. Det må dog forventes, at arbejdsudbuddet er begrænset da borgerne i forbindelse med tilkendelsen af førtidspension har fået vurderet, at de har en varig nedsat arbejdsevne. </div> <div>Jobcentret vil kommunikere målrettet overfor borgere på førtidspension med henblik på at rette deres opmærksomhed på mulighederne for at supplere førtidspension med arbejdsindtægt.</div> <div> </div> <h3><span>Økonomiske konsekvenser</span></h3> <div><span>Sagen har ingen økonomiske konsekvenser.</span></div> <h3><span>Lovgrundlag </span></h3> <div><span>Lov om Aktiv Beskæftigelsesindsats </span></div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r <div><b> </b></div> <div>Pkt. 1: Orienteringen blev taget til efterretning.</div> <div> </div> <div>Pkt. 2: Godkendt.</div> <div> </div> <div>Pkt. 3: Godkendt.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/24f63bba-1a21-480d-b1cf-7bcaa83a2818",
+          "DocumentId": "24f63bba-1a21-480d-b1cf-7bcaa83a2818"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-001359",
+      "Navn": "Konkrete initiativer for at understøtte virksomhedernes mangel på arbejdskraft",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "67411564-675c-4ea4-abd6-29df20dca6f4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "22-001359",
+      "SourceId": null,
+      "Caption": "Konkrete initiativer for at understøtte virksomhedernes mangel på arbejdskraft",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning med bemærkning om, at udvalget ønsker at blive orienteret på næste møde.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3><span>Resume</span></h3> <div><span>Udvalget orienteres om </span><span>b</span><span>eskæftigel</span><span>s</span><span>esm</span><span>inisterens </span><span>brev </span><span>til kommunerne </span><span>vedrørende </span>fejl i administrationen af 225-timersreglen på kontanthjælpsområdet. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Job & Socialservice <span>indstiller, at orienteringen tages til efterretning.</span></em></div> <h3><span>Sagsbeskrivelse</span></h3> <div><span>K</span><span>ommuner</span><span>ne</span><span> </span><span>modtog</span><span> i</span><span> november 2021 </span><span>et brev fra ministeren </span><span>om</span><span>,</span><span> </span><span>at </span><span>94</span><span> </span><span>kommuner ikke har reageret eller</span><span> </span><span>reageret utilstrækkeligt på </span><span>henvendelser fra </span><span>Styrelsen for Arbejdsmarked og Rekruttering (STAR)</span><span> i forhold til at få gennemgået sager</span><span>,</span><span> hvor borgere</span><span> uberettiget var blevet trukket i ydelse siden oktober 2016. Det drejer sig om borgere der var fritaget for at skulle følge 225-timersreglen på grund af en begrænset arbejdsevne, men som alligevel er blevet trukket i ydelsen. </span><span>225-timers</span><span>eglen betyder</span><span>, </span><span>at </span><span>forsørgelsesydelsen</span><span> til borgerne bliver nedsat hvis de har modtaget </span><span>ydelse</span><span> i sammenlagt et år inden for tre år, og de ikke har haft mindst 225 timers ordinært og </span><span>ustøttet</span><span> arbejde inden for de seneste 12 kalendermåneder.</span></div> <div><span> </span></div> <div> </div> <div> </div> <div><span>Det har i praksis været tidskrævende og svært at finde de berørte ydelsesmodtagere, som uberettiget er blevet trukket i kontanthjælp</span><span>. Dette skyldes b</span><span>l.a.</span><span> at </span><span>Greve Kommune</span><span> på henvendelsestidspunktet</span><span> overgik til ny</span><span>t</span><span> IT-system</span><span> </span><span>(KY – kommunernes ydelsessystem) </span><span>og </span><span>det </span><span>derfor ikke længere var muligt at søge data tilbage i det gamle IT-system</span><span>. Derudover har implementeringen af det nye IT</span><span>-</span><span>system været præget af mange fejl og et stort ressourcetræk i ydelsesteamet. </span><span>Samtidig har STAR </span><span>ikke </span><span>kunne</span><span> udlevere data om de </span><span>borgere</span><span>, som </span><span>kunne have fået </span><span>for lidt i ydelse</span><span>.</span><span> Det har derfor krævet en manuel udsøgning i andre fagsystemer at finde frem til de borgere, der var fritaget for 225 timers reglen</span><span>.</span><span> </span><span>Ydelses</span><span>teamet</span><span> har siden henvendelsen arbejdet på at danne et overblik og løbende været i gang med en manuel udsøgning og gennemgang af ydelsessagerne siden 2016</span><span>.</span></div> <div><span> </span></div> <div><span> </span></div> <div> </div> <div><span>På grund af denne svære udsøgningsproces har ydelsesteamet i </span><span>Greve Kommune</span><span> ikke færdigbehandlet sagerne</span><span> og har ligesom mange andre kommuner den 10. januar 2022, endelig fået </span><span>adgang til de </span><span>personnumre</span><span>, de</span><span>r</span><span> skal gennemgå</span><span>s. </span><span>Det drejer sig om </span><span>231</span><span> personnumre – der</span><span> </span><span>måske</span><span> </span><span>uberettiget </span><span>kan være</span><span> blevet trukket i ydelse siden oktober 2016.</span><span> </span><span>Ydelses</span><span>teamet er i gang med at</span><span> gennemgå </span><span>231</span><span> sager og</span><span> vil</span><span> sikre opfølgning samt efterbetaling til de berørte borgere inden udgangen af februar måned 2022</span><span>, hvor administrationen </span><span>vil sende en redegørelse til STAR.  </span></div> <h3> </h3> <h3>Økonomiske konsekvenser</h3> <div> </div> <div>Sagen har ingen økonomiske konsekvenser.</div> <div> </div> <h3>Lovgrundlag</h3> <div> </div> <div>Lov om Aktiv Socialpolitik</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning med bemærkning om, at udvalget ønsker at blive orienteret på næste møde.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7e820ea9-632e-4a41-a333-212d2ba7d183",
+          "DocumentId": "7e820ea9-632e-4a41-a333-212d2ba7d183"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-001157",
+      "Navn": "Fejl i administrationen af 225-timersreglen på kontanthjælpsområdet",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Brev til borgmestre og kommunaldirektører fra beskæftigelsesministeren november 2021",
+          "Id": "817fe5a4-1330-42e0-9f6d-30df43d622a5"
+        }
+      ],
+      "Documents": null,
+      "Id": "f574b6dc-e17c-4a87-bcbe-55ebc6c94f94",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "22-001157",
+      "SourceId": null,
+      "Caption": "Fejl i administrationen af 225-timersreglen på kontanthjælpsområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Der var ingen orientering.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <div><span> <div> <h3>Sagsprocedure</h3> </div> <div> </div> </span></div> <div>Beskæftigelses- og Erhvervsudvalget.</div> <div><span> <div> <h3>Resume</h3> </div> </span></div> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <div><span> <div> <h3>Indstilling</h3> </div> </span></div> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen har følgende til orientering:</div> <div> </div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r <div>Der var ingen orientering.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f034d26f-28a6-41e4-bdef-183a15e29f32",
+          "DocumentId": "f034d26f-28a6-41e4-bdef-183a15e29f32"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013719",
+      "Navn": "Huskeliste/ orientering fra administrationen",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a1076823-51df-4753-bbd0-83036363afb2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-013719",
+      "SourceId": null,
+      "Caption": "Huskeliste/ orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Der var ingen orientering.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><span> <div><i><br> </i></div> </span></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r Der var ingen orientering.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/75171835-72f3-4fd3-ac69-0fcd5bfdef82",
+          "DocumentId": "75171835-72f3-4fd3-ac69-0fcd5bfdef82"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013722",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "479be7d9-ccc6-4f6f-88e1-782e3eeea44f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-013722",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Beskæftigelses- og Erhvervsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Kalenderen er vedhæftet som bilag.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r Orienteringen blev taget til efterretning.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/40d54053-d3bf-4004-8501-bd45e188c67b",
+          "DocumentId": "40d54053-d3bf-4004-8501-bd45e188c67b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013723",
+      "Navn": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2022",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beskæftigelses- og Erhvervsudvalgets kalender 2022",
+          "Id": "030c9a1f-54f7-4065-b40d-06a22b8cb6e2"
+        }
+      ],
+      "Documents": null,
+      "Id": "2ceefa75-55ba-40bd-b373-e58147dde1c3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-013723",
+      "SourceId": null,
+      "Caption": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Beskæftigelses- og Erhvervsudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div> <h3><span> <div> </div> </span></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>07-02-2022 Beskæftigelses- og Erhvervsudvalget 2022</u><br>\r Godkendt.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/79967c6a-c805-4d48-89f7-fc3a96118056",
+          "DocumentId": "79967c6a-c805-4d48-89f7-fc3a96118056"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b534f269-f3b0-437f-b125-d35906d1f0d1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "d2b6711a-6c60-4f72-be63-ef69dac7e795",
+    "Navn": "Beskæftigelses- og Erhvervsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-02-07T08:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-02-07T08:00:00+01:00",
+    "Sted": "Mødelokale 4+5",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Heidi Serny Jacobsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Morten Dahlin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "9caa4ffc-18f1-4f62-8301-9b443eb98a1c",
+  "Lydfiler": null
+}

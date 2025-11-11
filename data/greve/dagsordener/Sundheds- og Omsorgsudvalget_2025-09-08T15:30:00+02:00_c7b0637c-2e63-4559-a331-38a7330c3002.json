@@ -1,0 +1,505 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nGodkendt.\n</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2825c3a5-57f4-45a7-a7d4-2b00c2f8cc49",
+          "DocumentId": "2825c3a5-57f4-45a7-a7d4-2b00c2f8cc49"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "1700ee24-5847-4ef0-b864-19403ed94a03",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Mødet blev holdt.</p>\n<p>Greve Seniorråds bemærkning blev taget til efterretning.</p>\n<p>Udvalget takker for høringssvaret, som vedlægges.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<h4><span>Lederne af de tre kommunale plejecentre,\ndet private plejecenter Langagergård samt friplejehjemmet Fribo Greve i Greve\nKommune holder oplæg om plejecentrene, for at give Sundheds- og\nOmsorgsudvalget indblik i plejecentrenes daglige drift. Sundheds- og\nOmsorgsudvalget får med oplæggene viden om Greve Kommunes plejecentre, som kan\nbruges til at drøfte udfordringer og udviklingsmuligheder.</span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at oplæggene tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>På\nmødet fortæller plejecenterlederne hver især om året der er gået, bl.a.\nift. økonomi, rekruttering og fastholdelse af medarbejdere, sygefravær, mad,\nkompetencer, beboernes hverdagsaktiviteter, udfordringer og udvikling.\nSundheds- og Omsorgsudvalget kan efterfølgende stille spørgsmål.</p>\n<h4>Lovgrundlag</h4>\n<h4><span>Servicelovens § 192 om at kommunen skal\ntilbyde ældre med særlige behov en plejebolig eller en almen plejebolig efter\nalmenboliglovens § 5 stk. 2.</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<h4>Øvrige forhold</h4>\n<p>Der er afsat 30 minutter til oplægget inkl. drøftelse og spørgsmål. </p>\n<p>Følgende ledere fra plejecentre i Greve Kommune deltager i punktet:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Connie Vejlø fra Strandcentret Plejecenter.</li>\n    <li>Tatjana Frimurer fra Lokalcenter Møllehøj.</li>\n    <li>Marianne Mouritsen repræsenterer Nældebjerg plejecenter, Kompetencecenter for demens i Jonna Danielsens fravær. </li>\n    <li>Line <span class=\"SpellE\">Havshøi</span> friplejehjem Fribo Greve (drevet af <span class=\"SpellE\">Altiden)</span></li>\n</ul>\n<p>Marlene Malling fra Langagergård Plejecenter (drevet af Forenede Care) kan desværre ikke deltage grundet ferie med beboerne. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1511e302-c609-4f12-9af9-8e0029ebef7a",
+          "DocumentId": "1511e302-c609-4f12-9af9-8e0029ebef7a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008500",
+      "Navn": "Årligt dialogmøde med plejecenterlederne",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Kommentering af dagsorden til møde i Sundheds- og Omsorgsudvalget den 8. september 2025",
+          "Id": "5d7c7d25-4c2f-4996-9442-4fe6e2eb4983"
+        }
+      ],
+      "Documents": null,
+      "Id": "2387a981-9395-4436-b5ae-599a09452364",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "25-008500",
+      "SourceId": null,
+      "Caption": "Årligt dialogmøde med plejecenterlederne",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p>Greve Seniorråds bemærkning blev taget til efterretning.</p>\n<p>Udvalget takker for høringssvaret, som vedlægges.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds og Omsorgsudvalget. </p>\n<h4>Resume</h4>\n<h4><span>Sundheds-\nog Omsorgsudvalget orienteres om konklusionerne i årsrapporterne for\nhenholdsvis magtanvendelser og utilsigtede hændelser i ældreplejen i 2024 (jf.\nbilag 1-2). Administrationen fremlægger samtidig lærings- og fokusområder i\n2025, som skal rette op på de fund årsrapporterne omfatter. </span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at resultaterne fra årsrapporterne vedr.\nmagtanvendelser og utilsigtede hændelser godkendes. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen udarbejder hvert år årsrapporter for henholdsvis\nmagtanvendelser og utilsigtede hændelser i ældreplejen. Det står i lov om\nsocial service, at Sundheds- og Omsorgsudvalget én gang om året skal orienteres\nom magtanvendelser. Derfor udarbejder administrationen en årsrapport, der\npræsenterer antallet og typen af magtanvendelser fra det forgangene år. For at\nsikre løbende kvalitetsudvikling og læring hos medarbejdere og ledere i\nældreplejen, bliver der derudover udarbejdet årsrapporter om utilsigtede\nhændelser (UTH). De to årsrapporter lægges til sagen (jf. bilag 1-2). </p>\n<p><em><strong>Årsrapport om magtanvendelser i 2023</strong></em></p>\n<p>Årsrapporten viser, at der i 2024 var 9 registreringer af magtanvendelser\nfordelt på i alt 8 borgere. Magtanvendelserne er registreret på plejecentrene\nog Rehabiliteringscentret <span class=\"spelle\">Hedebo</span>.\nNiveauet for antallet af registrerede magtanvendelser i 2024, er på et lavere\nniveau end i 2023. </p>\n<p>I 2024 skete magtanvendelserne hovedsageligt i situationer, hvor borger blev\nfastholdt i forbindelse med personlig hygiejne eller i forbindelse med\ngrænseoverskridende eller konfliktskabende adfærd. Et eksempel på en\nmagtanvendelse er en borger, der ikke ønsker personlig pleje i form af bad,\nbleskift og ren påklædningen. I denne situation er der risiko for, at borgeren\nudvikler en urinvejsinfektion. Medarbejderne kan derfor være nødsaget til at\nforetage en magtanvendelse i sådan en situation grundet en faglig vurdering og\nborgerens sundhed.</p>\n<p>Magtanvendelser er kun en mulighed, hvis det viser sig umuligt at løse\nsituationen med en socialpædagogisk indsats og andre mindre indgribende\nindsatser. Understøttelse af den enkeltes muligheder og beskyttelse af den\npersonlige frihed er altid udgangspunktet og fundamentet for indsatsen.\nMedarbejderne gør meget for at undgå at bruge magtanvendelse. Som eksempel\nanvender medarbejderne principperne i personcentreret omsorg som metode til at\nundgå magtanvendelser herunder afholdelse af beboerkonferencer, hvor den\nenkelte borger eller situation drøftes.</p>\n<p><strong><em>Årsrapport om utilsigtede hændelser i 2024</em></strong></p>\n<p>Årsrapporten viser, at der fra 2023 til 2024 er sket en lille stigning fra\n1623 til 1652 rapporteringer. Administrationen vurderer, at stigningen i\nantallet af rapporterede utilsigtede hændelser afspejler en fortsat god\nrapporteringskultur, som bidrager til kvalitetsudvikling og læring i\norganisationen.</p>\n<p>I juli 2023 blev rapporteringspligten ændret til, at alle dele af\nsundhedsvæsnet skal indrapportere hændelser, som har haft eller kunne have haft\nalvorlige eller dødelige konsekvenser for patienten/borgeren til Dansk\nPatientsikkerhedsdatabase. Der er forsat mulighed for, at rapporterer\nhændelser, som ikke er alvorlige eller dødelige, men der er ikke\nrapporteringspligt. Til denne del bruges samlerapportering i Greve Kommune. </p>\n<p><em>Alvorlighedsgraden af utilsigtede hændelser </em></p>\n<p>I 2024 blev i alt 1652 utilsigtede hændelser indrapporteret til Dansk\nPatientsikkerhedsdatabase, her af blev 352 vurderet til at have haft eller\nkunne have haft alvorlige eller dødelige konsekvenser for borgeren. I\nsagsbehandlingen af disse 352 hændelser blev det vurderet at: </p>\n<ul style=\"list-style-type: disc;\">\n    <li>291 (83 %) havde lav patientsikkerhedsrisiko </li>\n    <li>38 (11 %) havde middel patientsikkerhedsrisiko </li>\n    <li>22 (6 %) havde høj patientsikkerhedsrisiko </li>\n</ul>\n<p>De 352 hændelser handlede primært om borgere, der pådrager\nsig en infektion, medicinfejl eller borger, der oplever et fald. </p>\n<p><em><strong>Lærings- og fokusområder i 2025</strong></em></p>\n<p>På baggrund af konklusionerne i årsrapporterne for\nmagtanvendelser og utilsigtede hændelser udpeges der hvert år nogle\nindsatsområder, der skal være særligt fokus på i det kommende år. I 2025 er der\nvalgt følgende lærings- og fokusområder:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Videre implementering af samlerapportering</li>\n    <li>Inddragelse af kvalitetskonsulent i analysearbejdet af\n    utilsigtede hændelser </li>\n    <li>Uddannelse af ledere og medarbejdere vedr. viden,\n    anvendelse og indrapportering af magtanvendelser </li>\n</ul>\n<h4>Lovgrundlag</h4>\n<h4><span>Lov\nom retssikkerhed, lov om sundhed, lov om social service. </span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\nSagen sendes i høring i Greve Seniorråd og i Handicaprådet med frist den 5. september 2025 kl. 13.00.</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8f75a47c-daf4-4fae-987f-134fbee8baf7",
+          "DocumentId": "8f75a47c-daf4-4fae-987f-134fbee8baf7"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-007060",
+      "Navn": "Årsrapporter for magtanvendelse og utilsigtede hændelser i ældreplejen 2024",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Magtanvendelse - Årsrapport 2024",
+          "Id": "0bf6db3e-9f77-4c14-9140-8c63d4a62872"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Utilsigtede hændelser - Årsrapport 2024",
+          "Id": "8432be71-2486-4993-b930-98105309e324"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Præsentation - utilsigtede hændelser med høj patientsikkerhedsrisiko 2024",
+          "Id": "61c35657-feb2-4935-be18-b2a46a325096"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Kommentering af dagsorden til møde i Sundheds- og Omsorgsudvalget den 8. september 2025",
+          "Id": "40aebb6d-704d-4937-ad66-550cc1be9ce0"
+        }
+      ],
+      "Documents": null,
+      "Id": "36c963dd-4763-4746-aca1-e20f9f54115a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "25-007060",
+      "SourceId": null,
+      "Caption": "Årsrapporter for magtanvendelse og utilsigtede hændelser i ældreplejen 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p>Udvalget ønsker, at der fremlægges ny sag med samlet overblik over alle\nteknologiske tiltag samt finansiering heraf.</p>\n<p>Greve Seniorråds bemærkning blev taget til efterretning.</p>\n<p>Udvalget takker for høringssvaret, som vedlægges.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget. </p>\n<h4>Resume</h4>\n<p>Sagen giver en orientering om administrationen arbejde med udvikling og\nimplementering af E-distrikt og teknologi på ældreområdet ift. skærmbesøg, digitale\ngenoptræningsforløb, Kontakt Læge app og indkøb af nyt træningsudstyr på\nplejecentrene. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Baggrund </em></strong></p>\n<p>Regeringen, Kommunernes Landsforening og Danske Regioner indgik i december\n2023 en aftale om at styrke udbredelsen af behandling i eget hjem. Hovedtanken\ni aftalen er, at borgere der vil og kan bruge digitale løsninger til at tage\nmere aktiv del i egen behandling, skal have mulighed for det. De digitale\nindsatser skal bl.a. medvirke til at forebygge unødige indlæggelser, give borgerne\nøget indsigt i eget helbred samt øget sundhedskompetence til at kunne vurdere\nbehovet for kontakt til sundhedsvæsenet. </p>\n<p>I Greve Kommune er dette arbejde en del af programmet ”Ældre og sundhed i\nfællesskab”, der er blevet etableret, for skal sikre, at Greve Kommune får\nimplementeret de ændringer, der følger af Ældrereformen og de tilhørende\nlovgivninger. Programmet er organiseret i syv projektspor. Projektspor 3\nomhandler E-distrikt og teknologi og dette spor gives der i denne sag en orientering\nom. </p>\n<p>I Greve Kommunes budgetforlig 2025-28 er der givet midler til pilotprojekt\nom E-distrikt og indkøb af træningsudstyr i 2025 (0,750 mio. kr.) samt\nudbredelse af behandling i eget hjem i 2025 og 2026 (0,425 mio. kr.). Målet er\nafsøge hvordan teknologiske muligheder kan være med til at sikre og understøtte\nfremtidens ældrepleje i Greve Kommune, og frigive ressourcer til borgere med\nkomplekse plejebehov, da skærmbesøg oftest tager kortere tid end et fysisk besøg.\n</p>\n<p><strong><em>E-distrikt – Skærmbesøg </em></strong></p>\n<p>I Greve Kommune skal en pilotafprøvning, i andet halvår af 2025, afsøge\nmulighederne for etablering af et E-distrikt med skærmbesøg ift. sundhedslovs\nindsatser. Skærmbesøgene skal bl.a. være med til at understøtte borgernes <span class=\"spelle\">selvhjulpenhed</span> og derved øge\nderes livskvalitet. Erfaringer fra andre kommuner viser at borgere, der\nmodtager skærmbesøg, oplever en højere grad af frihed grundet færre\nforsinkelser, og at skærmbesøgene bliver varetaget af kendte ansigter.</p>\n<p>Center for Pleje og Omsorg vil afprøve en VDX-løsning, som er en del af\nomsorgssystemet, hvor igennem skærmbesøgene skal foretages. Pilotprojektet\nvedr. skærmbesøg starter i hjemmeplejegruppen <span class=\"spelle\">Allén</span>, hvor borgere der får dosispakket medicin vil\nindgå til en start. Løbende vil flere indsatser blive inddraget. Afprøvningen\nvil tage afsæt i forbedringsmodellen, og derfor vil pilotprojektet løbende\nblive analyseret, evalueret og tilpasset. </p>\n<p><strong><em>Digitale genoptræningsforløb</em></strong></p>\n<p>Center for Pleje og Omsorg har købt en udvidelse af programmet <span class=\"spelle\">Exorlive</span><span class=\"spelle\">, som\nTræningsenheden skal bruge til </span>at tilbyde borgere digitale genoptræningsforløb\nift. at kunne indfri målsætningen, fra den politiske aftale, om at en tredjedel\naf genoptræningsforløbene er helt eller delvis digitale i 2028. </p>\n<p>Erfaringer fra andre kommuner viser, at flere borgere gennemfører\ngenoptræningsforløb når den er digital, da det er mere fleksibelt ift.\nborgerens privat- og arbejdsliv. </p>\n<p>Træningsenheden starter med digitale genoptræningsforløb for borgere på\nknæ-hold, smerte-hold samt hjernerystelses-hold. Træningsenheden starter de\nførste digitale genoptræningsforløb op til september 2025. Afprøvningen vil\ntage afsæt i forbedringsmodellen og derfor vil indsatsen løbende blive\nanalyseret, evalueret og tilpasset. </p>\n<p>Udvidelse af <span class=\"spelle\">Exorlive</span><span class=\"spelle\"> giver også mulighed for, at terapeuterne kan udarbejde digitale\ntræningsforløb til borgere, der modtager hjemmepleje, som social- og\nsundhedspersonalet efterfølgende kan anvendes i samspil med borgeren. Denne del\nskal være en del af indsatserne i de faste tværfaglige teams. Det forventes at\nen pilotafprøvning herom vil kunne igangsættes primo 2026, når Greve Kommune\nhar de første erfaringer med faste tværfaglige teams.</span></p>\n<p><strong><em>Kontakt Læge app </em></strong></p>\n<p>Greve Kommune ønsker at styrke samarbejdet med almen praksis gennem brug af\ndigital konsultation i relation til borgerne. Det er valgt at afprøve appen <em><span>Kontakt Læge</span></em> i et samarbejde mellem\nNældebjerg Plejecenter, Strandcentret Plejecenter og Rehabiliteringscentret <span class=\"spelle\">Hedebo</span> og de tilknyttede læger. </p>\n<p>Appen bliver taget godt imod af medarbejderne, der kan se potentialet i at\nkunne afvikle skærmbesøg mellem borger, læge og personale. Lægerne er også <span class=\"spelle\">positive og det vil blive drøftet på først komne møde i Læge <span class=\"SpellE\">Lauget</span> efter sommerferien. </span></p>\n<p><span class=\"spelle\">Det forventes at Kontakt Læge app kan anvendes fra\nseptember 2025. </span></p>\n<p><em><strong>Indkøb af nyt træningsudstyr </strong></em></p>\n<p>I forbindelse med Greve Kommunes budgetforlig 2025-28 blev der givet midler\ntil indkøb af nyt træningsudstyr på kommunens plejecentre. I første halvår 2025\nhar Træningsenheden stået for indkøb af nyt træningsudstyr til Nældebjerg\nPlejecenter, Strandcentret Plejecenter, Møllehøj Plejecenter og Langagergård,\nhvor der fortsat kan tilbydes træning for kommunens ældre borgere, som\nunderstøtter deres livskvalitet og evne til at være længst mulig selvhjulpen. </p>\n<h4>Lovgrundlag</h4>\n<h4><span>Aftale\nom mere behandling i eget hjem. Sundhedslov.</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/225ebf3a-14ae-4ee6-af24-0f9388342667",
+          "DocumentId": "225ebf3a-14ae-4ee6-af24-0f9388342667"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-008424",
+      "Navn": "Reform - Orientering om arbejdet med E-distrikt og teknologi",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Kommentering af dagsorden til møde i Sundheds- og Omsorgsudvalget den 8. september 2025",
+          "Id": "889d9b67-d4fc-4fdb-af64-ccdfce4f9345"
+        }
+      ],
+      "Documents": null,
+      "Id": "99a9871c-0424-4e3f-8bb1-6902fff5809b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "25-008424",
+      "SourceId": null,
+      "Caption": "Reform - Orientering om arbejdet med E-distrikt og teknologi",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p>Udvalget opfordrer til, at der nedsættes en arbejdsgruppe bestående af\nledere og medarbejdere som arbejder med målgruppen til daglig, der kan bidrage\ntil at komme med anbefalinger. Også vigtigt at MED organisationen inddrages.</p>\n<p>Greve Seniorråds bemærkning blev taget til efterretning.</p>\n<p>Udvalget takker for høringssvaret, som vedlægges.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Sundheds-\nog Omsorgsudvalget.</span></h4>\n<h4>Resume</h4>\n<p>Sagen beskriver, hvordan der på Greve Kommunes plejecentre arbejdes med at\nsikre omsorg for beboere med udadreagerende adfærd gennem forskellige tiltag samt\nhvilke fremadrettede planer administrationen har for dette fremadrettet. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em> </p>\n<h4>Sagsbeskrivelse</h4>\n<h4><em>Baggrund </em></h4>\n<h4><span>Sundheds-\nog Omsorgsudvalget har med afsæt i flere konkrete borgersager bedt om en\norientering vedr. Greve Kommunes plejecentres arbejder med at sikre omsorgen\nfor beboere med udadreagerende adfærd gennem forskellige tiltag. </span></h4>\n<h4><span>Det\nvurderes at ca. 85-90% af beboerne på plejecentrene i kommunen har en demens\nsygdom. Dette tal har været stigende de sidste 10 år og er bl.a. et udtryk for\nat der kommer flere og flere ældre, der lever længere og som derfor har diverse\nsomatiske og kognitive udfordringer og/eller sygdomme. De fleste personer med\ndemens vil på et tidspunkt i sygdomsforløbet have adfærdsmæssige og psykiske\nsymptomer, men der er store individuelle forskelle. Symptomerne afhænger bl.a.\naf, hvilken demenssygdom man har, og om man er i et tidligt, moderat eller sent\nstadie af sygdommen. Adfærdsmæssige og psykiske symptomer er en følge af de\nvanskeligheder, som demenssygdommen giver i forhold til at kunne tolke, forstå\nog kommunikere med omgivelserne. Efterhånden som demenssygdommen skrider frem,\nbliver det sværere for personen med demens at udtrykke egne behov og ønsker.\nMistrivsel eller ubehag kan derfor i højere grad komme til udtryk gennem\nadfærden bl.a. gennem udadreagerende adfærd.</span></h4>\n<h4><em>Kriterier for\nvisitering af plejeboligtype</em></h4>\n<h4><span>Greve\nKommune havde tidligere skærmede pladser til borgere med kognitive udfordringer\nsom demens. Disse pladser findes ikke længere. Det er i stedet besluttet at\nhave specialiserede plejeboliger på alle plejecentrene hhv. 12 pladser på\nMøllehøj, 24 pladser på Nældebjerg og 17 på Strandcentret. Kriterierne for at\nblive tilbudt en plejebolig har ændret sig over tid som følge af udviklingen af\nborgernes generelle tilstand. I 2023 var for eksempel almene plejeboliger til\nsomatiske borgere med eller uden kognitiv funktionsnedsættelse. Frem til 2025\nhar det ændret sig til, at almene plejeboliger nu enten er til somatiske\nborgere uden kognitive funktionsnedsættelser eller til borgere med kognitive\nfunktionsnedsættelser, med roligt/let udadreagerende adfærd. Dette viser at der\ner sket en udvikling i hvilke borgere, der bliver tilbudt hvilke plejeboliger.\nBorgere med udadreagerende adfærd blive tilbudt en almen plejebolig, selvom de\ntidligere ville være blevet tilbudt en specialiseret plejebolig. Hos\nLangagergård Plejecenter er der fire højtspecialiseret pladser, der er til de\nborgere, som har behov for at blive skærmet fra deres omgivelser og som har\nbehov for en til en kontakt det meste af døgnet. </span></h4>\n<h4><span>Kriterierne\nfor visitering af plejeboligtype for hhv. 2023 og 2025 (gældende version) er\nvedlagt som bilag. Siden december 2024 har belægningen været på 100 procent på\nde fire pladser. De få gange hvor der i 2024 har været en ledig bolig, er\npladsen hurtigt blevet tilbudt en ny beboer. </span></h4>\n<h4><em>Hvilke\nkonsekvenser har udviklingen i Greve Kommune?</em><span><br>\n<br>\nAnmeldte arbejdsskader vedr. psykisk og fysisk vold trukket fra\nforsikringspartners skadesystem fra 2022 og til og med første halvår 2025,\nviser ikke en signifikant udvikling, som kan indikere en sammenhæng mellem\nudviklingen i beboernes generelle tilstand og antallet af arbejdsskader. Der\narbejdes målrettet med indrapportering af arbejdsskader. Dette gøres der for at\nsikre et retvisende billede af arbejdsskader på plejecentrene, og for at ledere\nsamt administrationen kan iværksætte tiltag. Det er aldrig i orden at\nmedarbejderne oplever psykisk og fysisk vold i deres arbejde. </span></h4>\n<h4><span>Det\ner uundgåeligt at der vil opstå konflikter mellem beboerne på plejecentrene og\nalle plejecentrene oplever, at der er konflikter mellem beboerne. Det er dog\nmeget få episoder, som ender med en politianmeldelse af en beboer grundet\noverfald. Det er den forurettede part og/eller dennes pårørende, der skal lave\nanmeldelsen til politiet. Personalet står selvfølgelig til rådighed for\nsparring og vejledning. </span></h4>\n<h4><em>Hvad hvilke\ntiltag har Greve Kommune allerede igangsat?</em></h4>\n<p>Greve Kommune har allerede flere tiltag og samarbejder, som understøtter\nplejecentre arbejdes med at sikre omsorg for beboere med udadreagerende adfærd.</p>\n<p>Der er et tæt samarbejde med Distrikts Psykiatrien, som reagerer på\nhenvendelser fra plejecentrene. Der er over tid blevet oparbejdet en god\nsamarbejdsform mellem plejecentrene og Distrikts Psykiatrien. Der er også et\ntæt samarbejde med plejecenterlægerne, der kommer fast en gang om ugen på\nplejecentrene. Det har bidraget til et godt samarbejde og faglig dialog om\nbeboerne. Center for Sundhed og Pleje stiller demenskoordinatorer til rådighed\nfor plejecentrene fast en gang om ugen til faglig sparring og opfølgning på\nborgerforløb. Derudover kan demenskoordinatorerne inddrages efter behov. </p>\n<p>På plejecentrene arbejdes der med afsæt i en personcentret tilgang hvilket\nblandt andet kommer til udtryk ved at laves beboerkonferencer, samt at der\nmorgen og aften afholdes tavlemøder med afsæt i triage. Der er månedlig\nundervisning i personcentreret omsorg derudover afholdes der på Nældebjerg\nårligt to kurser, hhv. forår og efterår, om <span class=\"grame\">nænsom nødværge</span>, magt og omsorg samt første hjælp,\nher har alle plejecentrene mulighed for at deltage med et bestemt antal\npladser. Det er derfor ikke alle medarbejdere som årligt kommer igennem dette.\nDerudover anvendes Nationalt Videnscenter for Demens læringsmateriale, blandt\nandet deres e-læring ABC-Demens, der er demensvejledere og <span class=\"spelle\">martemeo</span> terapeuter på plejecentrene og der er et\nfast introprogram til nye kollegaer med fokus på personcentreret omsorg.\nDemensvejlederne mødes fire gange årligt til undervisning af\ndemenskoordinatorerne. </p>\n<p>Det kan være vigtigt for beboere med udadreagerende adfærd og deres medbeboere, at indretningen på plejecentrene giver mulighed for afskærmning i perioder. Alle plejecentrene er forsøgt indrettet så demensvenligt som muligt, og løbende laves der individuelle planer for hvordan beboernes behov for skærmning kan imødekommes. Ofte sker skærmningen i beboerens eget hjem via en til en kontakt og fast vagt. Det har ikke været muligt at lave større ombygninger af plejecentrene for at øge demensvenligheden.</p>\n<p><strong><em>Plan fremadrettet</em></strong></p>\n<p><em><span>På plejecentrene er der allerede flere\nfaglige tiltag, som understøtter håndteringen og omsorgen af beboere med\nudadreagerende adfærd. Dog har der været gennem det sidste stykke tid været\nborgersager, som gør det nødvendigt at kigge på de eksisterende tiltag og\nvurdere om der skal yderligere tiltag til. Derfor vil administrationen\nfremadrettet arbejde med følgende punkter: </span></em></p>\n<p> <em>Kompetenceudvikling:</em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Udarbejde et konkret uddannelsesprogram med\n    obligatoriske kurser og årlige opdateringskurser, så alle medarbejdere\n    opnår færdigheder i håndtering af udadreagerende adfærd.</li>\n    <li>Sikre at alle ansatte er uddannet og kan anvende\n    personcentreret omsorg i praksis. </li>\n    <li>Plan for systematisk sparring, supervision og\n    undervisning i håndtering af høje følelsesmæssige krav på arbejdspladsen\n    til medarbejderne.</li>\n    <li>Udbredelse og anvendelse af Mate <span class=\"spelle\">Meo</span> tilgangen. </li>\n    <li>Undersøge muligheden for at flere kan tage\n    efteruddannelse i demens.</li>\n</ul>\n<p><em>Styrket tværfagligt samarbejde:</em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Øget fokus på samarbejdet med psykiatrien,\n    demenskoordinatorer og plejehjemslægerne, så vi sikrer hurtig og faglig\n    respons på henvendelser.</li>\n    <li>Øget samarbejde mellem Myndighed og plejecentrene ift.\n    tilbud af plejebolig. </li>\n    <li>Sikre kompetencer med forskellige faglige og\n    erfaringsmæssige baggrunde via rekruttering.</li>\n</ul>\n<p><em>Kvalitet: </em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Sikre systematisk evaluering af hændelser, der bruges\n    til læring på tværs af Center for Sundhed og Pleje.</li>\n    <li>Uddannelse af forbedringsagenter på hvert plejecenter\n    og generelt styrkelse af kvalitetsorganisationen.</li>\n</ul>\n<p><em>Involvering af pårørende: </em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Styrke dialogen med pårørende i forhold til forståelse,\n    håndtering og forebyggelse af udadreagerende adfærd</li>\n</ul>\n<p>Skal udfordringen løses på den lange bane, vurderer administrationen at der\nogså er behov for, at der kigges på den fysiske indretning af plejecentrene,\nsådan at det sikres at plejecentrene er demensvenligt indrettet samt at der er\nmulighed for at imødekomme beboernes behov for at blive skærmet. Derudover kan\ndet være relevant at have en intern task force af medarbejdere, der kan rykke\nud og støtte medarbejderne, når der opstår udadreagerende adfærd, gennem\nundervisning og ved at tage del af plejen. Derved kunne inddragelse af <span class=\"grame\">eksempelvis</span> Psykiatri Plys muligvis\nundgås. </p>\n<p><strong>Økonomiske konsekvenser</strong></p>\n<p><em><span>Sagen har ingen økonomiske konsekvenser\nfor Greve Kommune.</span></em></p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6a9f913b-b996-40a3-9893-a30ce0518dbd",
+          "DocumentId": "6a9f913b-b996-40a3-9893-a30ce0518dbd"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-009459",
+      "Navn": "Håndtering af udadreagerende adfærd på plejecentrene",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Målgruppeoversigt - borgere i plejebolig i Greve Kommune, 2023",
+          "Id": "91be1288-5d19-4f7e-830f-d19bfe296dae"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Målgruppeoversigt - borgere i plejebolig i Greve Kommune , januar 2025",
+          "Id": "9f22d332-b496-4515-a5e9-28ce8534dc9a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Kommentering af dagsorden til møde i Sundheds- og Omsorgsudvalget den 8. september 2025",
+          "Id": "5c509834-1aa4-4492-aa52-f50b4565c2cd"
+        }
+      ],
+      "Documents": null,
+      "Id": "f5c2edf4-f86f-430f-8397-20c0834ed8a2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "25-009459",
+      "SourceId": null,
+      "Caption": "Håndtering af udadreagerende adfærd på plejecentrene",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p>Greve Seniorråds bemærkning blev taget til efterretning.</p>\n<p>Udvalget takker for høringssvaret, som vedlægges.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Sundheds- og Omsorgsudvalget orienteres om Socialtilsynets årlige\ndriftsorienterede tilsyn på Bostedet Vangeleddet, som er et tilbud i Greve\nKommune til voksne borgere med udviklingsforstyrrelser. Tilsynet konkluderer,\nat Vangeleddet opfylder betingelserne for fortsat godkendelse og Socialtilsynet\ngiver samlet en god bedømmelse af kvaliteten. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til\nefterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Bostedet Vangeleddet blev etableret i 2018 og blev oprindelig godkendt med\n24 pladser i henhold til Almenboliglovens §105 stk. 2 til borgere med\nudviklingsforstyrrelser og et varigt og betydeligt nedsat funktionsniveau. </p>\n<p>På baggrund af det vedtagne budgetforlig 2025-28, har Greve Kommune ansøgt\nSocialtilsynet om omdannelse af tre pladser på Vangeleddet til midlertidige\nbotilbudspladser efter Servicelovens §107. Socialtilsynet har den 19. maj 2025\ngodkendt omdannelsen af de tre pladser. </p>\n<p>Bostedet Vangeleddet er således aktuelt godkendt til 21 pladser i henhold\ntil Almenboliglovens §105 stk. 2 samt tre pladser efter Servicelovens §107.\nStøtten sker efter Servicelovens §85 og målgruppen for alle pladser er fortsat\nborgere med udviklingsforstyrrelser.</p>\n<p><strong><em>Socialtilsynets tilsyn på Vangeleddet 2025</em></strong></p>\n<p>Socialtilsyn Øst har tilsynsforpligtelsen i Greve Kommune og kommer årligt\npå anmeldt eller uanmeldt driftsorienteret tilsyn på kommunens tilbud.\nSocialtilsynet har kompetence til at træffe afgørelse om påbud, skærpet tilsyn\neller ophør af godkendelse så vel som godkendelse af omdannelse af pladser.</p>\n<p>Socialtilsyn Øst besøgte Vangeleddet den 28. januar 2025. Ved tilsynsbesøget\ninterviewede Socialtilsynet ledelsen, medarbejdere og borgere. Derudover har\ntilsynet haft adgang til beskrivelser af målgruppen, pædagogiske metoder og\nøkonomi. Tilsynsrapporten er vedlagt i bilag 1. </p>\n<p><em>Konklusion på tilsyn</em></p>\n<p>Socialtilsynets konklusion er, at Vangeleddet samlet set opfylder\nkriterierne for fortsat godkendelse jf. §§8 og 12-18 i lov om Socialtilsyn. Det\nvurderes, at tilbuddet besidder den fornødne kvalitet, der skal til for at\nsikre at borgerne ydes en indsats, der er i overensstemmelse med formålet med\noffentlige og private tilbud efter lov om social service.</p>\n<p>Socialtilsynet vurderer, at Vangeleddet i meget høj grad arbejder fagligt\nkompetent med at skabe kvalitet i tilbuddet, hvilket medvirker til både trivsel\nog udvikling hos borgerne. Det vurderes bl.a., at:  </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Vangeleddet har organiseret sig hensigtsmæssigt med\n    fokus på sammenhæng mellem botilbud og samværs- og aktivitetstilbud,</li>\n    <li>ledelsen er ansvarlig og kompetent med fokus på\n    strategisk, faglig, administrativ og økonomisk drift,</li>\n    <li>der er etableret et robust fagmiljø, som understøtter\n    målgruppens behov,</li>\n    <li>medarbejderne i meget høj grad har de nødvendige\n    faglige, personlige og relationelle kompetencer</li>\n    <li>målgruppen er veldefineret, og de anvendte metoder og\n    tilgange vurderes som relevante og solidt forankret i praksis. </li>\n</ul>\n<p><em>Bedømmelse af kvaliteten</em></p>\n<p>Socialtilsynets bedømmelse af kvaliteten sker med udgangspunkt i\nkvalitetsmodellen, hvor tilbuddet vurderes ud fra syv temaer med en række\nkriterier under hvert tema. Der vurderes ud fra en fem-trins-skala, hvor 1 er\n”i meget lav grad” og 5 er ”i meget høj grad”. </p>\n<p>De syv temaer er bedømt således ved dette års tilsyn:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Uddannelse og beskæftigelse: 4,5 <em>(samme bedømmelse\n    som i 2024)</em></li>\n    <li>Selvstændighed og relationer: 4,7 <em>(samme bedømmelse\n    som i 2024)</em></li>\n    <li>Målgruppe, metoder og resultater: 5 <em>(stigning fra\n    4,8 i 2024)</em></li>\n    <li>Sundhed og trivsel: 5 <em>(samme bedømmelse som i 2024)</em></li>\n    <li>Organisation og ledelse: 5 <em>(stigning fra 4,9 i 2024)</em></li>\n    <li>Kompetencer: 5 <em>(samme bedømmelse som i 2024)</em></li>\n    <li>Fysiske rammer: 5 <em>(samme bedømmelse som i 2024)</em></li>\n</ul>\n<p><em>Øvrigt fokus i tilsynet</em></p>\n<p>Tilsynet havde ved tilsynsbesøget fokus på Greve Kommunes ansøgning om\nomdannelse af tre pladser til Servicelovens §107, herunder vilkår for\nomdannelsen.</p>\n<p>Det fremgår af rapporten, at tilsynet vurderer at omdannelsen af pladser\nikke vil medføre forringelser af den faglige kvalitet. Tilsynet vurderer, at\nledelsen er bekendt med at skulle sikre medarbejdernes viden om, hvornår og\nhvordan der arbejdes forskelligt i forhold til borgere, der er visiteret i\nhenhold til Almenboliglovens §105/§85 og borgere, der er visiteret i henhold\ntil §107. Hertil vurderes, at tilbuddet har en stabil og faglig kompetent\nmedarbejdergruppe, som vil kunne levere pædagogisk indsats til nye borgere\nefter Servicelovens §107 med baggrund i de eksisterende metoder og tilgange. </p>\n<p>På baggrund af tilsynsbesøget behandlede Socialtilsynet Greve Kommunes\nansøgning om omdannelse af pladser, som efterfølgende blev godkendt den 19. maj\n2025. </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4b280151-a166-4944-81c4-820f4cd0ff3e",
+          "DocumentId": "4b280151-a166-4944-81c4-820f4cd0ff3e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-009141",
+      "Navn": "Socialtilsyn Østs tilsyn på Vangeleddet 2025",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Tilsynsrapport Vangeleddet 26.06.2025",
+          "Id": "b02283c7-487e-4fa2-acf2-25b73c45dbd7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Kommentering af dagsorden til møde i Sundheds- og Omsorgsudvalget den 8. september 2025",
+          "Id": "c039c18c-1062-4203-b92d-35e07efb4ca8"
+        }
+      ],
+      "Documents": null,
+      "Id": "00ffcd82-493b-4829-bcea-07609a0c591f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "25-009141",
+      "SourceId": null,
+      "Caption": "Socialtilsyn Østs tilsyn på Vangeleddet 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Der var ingen henvendelser til formanden.</p>\n<p>&nbsp;</p><p></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Lukket: Henvendelser til formanden ",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c1733534-4cfd-4daf-bb07-15efd976b3c8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden ",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Formanden og udvalgets medlemmer orienterer om aktuelle\nemner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringer tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2f590df9-f11f-42a5-be03-be0bc07e19d0",
+          "DocumentId": "2f590df9-f11f-42a5-be03-be0bc07e19d0"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9b0101f3-5491-436a-ad3b-877225642a0c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.\n</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationen orienterer om aktuelle emner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringer tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><em><strong>KL Social</strong></em> <em><strong>2025</strong></em></p>\n<p>Den 26. november 2025 kl. 10.00 – 16.00 afholdes KL SOCIAL på Radisson Blu\nAarhus. </p>\n<p>KL SOCIAL er en fagkonference på det specialiserede socialområde.  </p>\n<p><strong><em>Høringssvar til Region Sjællands sundhedsberedskabsplan 2025</em></strong></p>\n<p>Region Sjælland har fremsendt deres udkast til sundhedsberedskabsplan 2025\ntil høring i Greve Kommune. </p>\n<p>Sundhedsberedskabsplan beskriver Region Sjællands evne til at udvide og\nomstille sin behandlings- og plejekapacitet ved ekstraordinære hændelser.\nPlanen er udarbejdet i henhold til Bekendtgørelse om planlægning af\nsundhedsberedskab. </p>\n<p>Sundhedsberedskabsplanen omhandler Region Sjællands eget beredskab, men\nbeskriver samtidig de forbindelser til øvrige organisationer, som er nødvendig\nfor funktionen af et samlet sundhedsberedskab på tværs af myndigheder, region\nog kommuner. </p>\n<p>Greve Kommune er som kommune derfor høringspart. Administrationen har\nudarbejdet et høringssvar til Region Sjællands udkast til\nsundhedsberedskabsplanen for 2025. Høringssvaret er fremsendt inden fristen den\n26. august 2025 og er vedlagt som bilag 1. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6a008e06-d50b-4d4a-bfd7-c8ce72b9338c",
+          "DocumentId": "6a008e06-d50b-4d4a-bfd7-c8ce72b9338c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Greve Kommunes høringssvar til Region Sjællands sundhedsberedskabsplan 2025",
+          "Id": "3b0f854e-64ea-41a0-aa43-011e56f75d46"
+        }
+      ],
+      "Documents": null,
+      "Id": "b8a7e05a-dc91-4242-8847-d18346317eee",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.\n</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Der gives et overblik over møder og aktiviteter.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Møde- og aktivitetskalenderen er vedlagt som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/098daf79-8f40-446b-b7dd-f373743f82ec",
+          "DocumentId": "098daf79-8f40-446b-b7dd-f373743f82ec"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Sundheds- og Omsorgsudvalgets mødekalender 2025",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Sundheds- og Omsorgsudvalgets mødekalender 2025",
+          "Id": "debdf775-acb8-4f16-8096-92a3aec02b7a"
+        }
+      ],
+      "Documents": null,
+      "Id": "72ed02db-3269-4b3c-a39b-fd8e7e3fadcb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Sundheds- og Omsorgsudvalgets mødekalender 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/07e1cc85-c8a8-4338-8c9f-1ca2445c7c09",
+          "DocumentId": "07e1cc85-c8a8-4338-8c9f-1ca2445c7c09"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "01067ed3-4bdc-4492-9f31-fe5f676c5bd1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "c7b0637c-2e63-4559-a331-38a7330c3002",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "f586054c-50bb-40ac-8b4f-6c32307eb77f",
+    "Navn": "Sundheds- og Omsorgsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-09-08T15:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-09-08T15:30:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "c7b0637c-2e63-4559-a331-38a7330c3002",
+  "Lydfiler": null
+}

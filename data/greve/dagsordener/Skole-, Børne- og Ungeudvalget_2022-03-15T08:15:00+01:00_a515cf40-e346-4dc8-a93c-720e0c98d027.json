@@ -1,0 +1,498 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 15. marts 2022.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e07d75ec-0bbd-4df0-b336-e1ecc703be8d",
+          "DocumentId": "e07d75ec-0bbd-4df0-b336-e1ecc703be8d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014470",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "91253d73-edf1-47f2-960f-f0095c6f65b0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014470",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3><span>Resume</span></h3> <div>Udvalget bliver introduceret til Sundhedsplejen og Tandplejens arbejdsområde. Udvalget vil få en introduktion til hvordan der arbejdes med børns sundhed i forhold til forebyggelse og behandling.</div> <div> </div> <div>Leder af Sundhedsplejen Henriette Weberg og leder af Tandplejen Marie Korsholm deltager under<span> punktet.</span></div> <h3><span>Indstilling</span></h3> <div><em>Center for Børn & Familier indstiller at, orienteringen tages til efterretning.</em> </div> <h3><span>Sagsbeskrivelse</span></h3> <div>På mødet bliver udvalget introduceret til børns sundhed. Introduktionen handler i hovedtræk om:</div> <div> </div> <ul>     <li>Sundhedsplejens indsatser for børn, unge og familier.</li> </ul> <div> </div> <ul>     <li>Sundhedsplejens indsatser for børn, unge og familier med særlige behov, herunder En God Start.</li> </ul> <div> </div> <ul>     <li>Barnets/den unges besøg hos Tandplejen.</li> </ul> <div> </div> <ul>     <li>Tandregulering.</li> </ul> <div> </div> <ul>     <li>Nyt Tandplejetilbud til de 18-21-årige.</li> </ul> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3ccc1255-b7c8-4736-91b5-711915b568fa",
+          "DocumentId": "3ccc1255-b7c8-4736-91b5-711915b568fa"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003004",
+      "Navn": "Introduktion til Sundhedsplejen og Tandplejen",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tandplejen",
+          "Id": "7951a809-cb16-4097-a367-726c6948d6db"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Sundhedsplejen",
+          "Id": "f20d5f4e-2dbb-4eab-ae56-0a0ffc021b73"
+        }
+      ],
+      "Documents": null,
+      "Id": "ebebf0c2-f01d-4cbe-aa6e-affd7901dde2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-003004",
+      "SourceId": null,
+      "Caption": "Introduktion til Sundhedsplejen og Tandplejen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>Der er i regnskab 2021 to institutioner under Skole-, Børne- og Ungeudvalget med et merforbrug inden for En Pose Penge (EPP) på mere end 2 % af det korrigerede budget, og der skal derfor forelægges handleplaner til politisk behandling.</div> <h3>Indstilling</h3> <div><em>Center for Økonomi & HR indstiller, at handleplanerne for dagtilbuddene Sandrøjel og Børnehuset Karlslunde Strand godkendes.</em><span></span></div> <h3>Sagsbeskrivelse</h3> <div>Overførselsreglerne omhandler, hvorvidt og hvordan mer- og mindreforbrug i et regnskabsår overføres ved en tilsvarende ned- eller opskrivning af budgettet til det efterfølgende regnskabsår. Reglerne er primært udformet med henblik på at understøtte både den økonomiske ansvarlighed og det økonomiske råderum hos de budgetansvarlige ledere.</div> <div> <br> På to institutioner under Skole-, Børne- og Ungeudvalget er der i regnskab 2021 et merforbrug inden for En Pose Penge (EPP) på mere end 2 % af det korrigerede budget. Overførselsreglerne tilsiger her, at der skal forelægges handleplaner i fagudvalget til politisk godkendelse. Handleplanerne skal kun behandles og godkendes i Skole-, Børne- og Ungeudvalget.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser i sig selv, idet de bevillingsmæssige konsekvenser håndteres i den generelle overførselssag, der blev behandlet af Økonomiudvalget den 28. februar og Byrådet den 7. marts.</div> <div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/424a6cfa-a091-475f-bf8f-fc7c88815fd5",
+          "DocumentId": "424a6cfa-a091-475f-bf8f-fc7c88815fd5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-000228",
+      "Navn": "Politiske handleplaner regnskab 2021 - godkendelse i fagudvalg",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handleplan Sandrøjel",
+          "Id": "ad08dfae-e95d-41c2-a35f-1259c7919935"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handleplan Karlslunde Strand",
+          "Id": "ae307940-6672-4d63-a950-50a16d446803"
+        }
+      ],
+      "Documents": null,
+      "Id": "507b3ac6-f9e0-41bb-a9c2-c0aad9986c5e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-000228",
+      "SourceId": null,
+      "Caption": "Politiske handleplaner regnskab 2021 - godkendelse i fagudvalg",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget anbefaler at følge indstillingen fra Kultur- og Fritidsudvalget idet det bemærkes, at der er i ekspertgruppen, også skal indgå fagligt personale sammen med borgerne. Herefter fremlægges der en sag om udmøntning i fagudvalgene. </div> <div>Bjarke Abel (A) undlod at tage stilling.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Kultur- og Fritidsudvalget, Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet</div> <h3><span>Resume</span></h3> <div>Børne- og Skoleudvalget og Kultur- og Fritidsudvalget besluttede på deres møder henholdsvis den 27. maj 2021 og den 26. maj 2021, at der skulle udarbejdes et driftsudvidelsesforslag om motorik til børn i Greve kommune. I budgettet blev forslaget vedtaget med 0,5 mio. kr. i 2022. I sagerne til Børne- og Skoleudvalget og Kultur- og Fritidsudvalget i maj 2021 var der opstillet tre mulige modeller for arbejdet med motorik. </div> <div> </div> <div>Begge udvalg ønskede model 3. Prisen for denne model blev estimeret til mellem 1,5 mio. kr. og 1,8 mio. kr. Med budgettet på 0.5 mio.kr. i 2022 er det således ikke muligt at få den ønskede model. I det følgende beskrives mulighederne for at arbejde med motorik i 2022 for 0,5 mio. kr.</div> <h3>Indstilling</h3> <div><span> </span><em>Center for Politik, Organisation & Borgerbetjening indstiller til Kultur- og Fritidsudvalget,</em></div> <div><em>1.  at bevillingen på 0,5 mio. kr. til motorik for børn i Greve under budgetområde 4.02 Fritid flyttes til Skole-, Børne- og Ungeudvalget, budgetområde afhængig af valgte model</em></div> <div><em><br> </em><em>Center <em>for Politik, Organisation & Borgerbetjening indstiller til <em>Skole-, Børne- og Ungeudvalget,</em></em></em></div> <div><em>2. at udvalget beslutter om målgruppen for projektet skal være være storbørnegrupper eller spireforløb</em></div> <div><em>3. </em><em>at udvalget vælger hvilken af de fire muligheder, der skal arbejdes med i 2022</em></div> <div><em> </em></div> <h3>Sagsbeskrivelse</h3> <div>I det følgende beskrives fire muligheder for at arbejde med motorik i Greve Kommune i 2022. Der tages udgangspunkt i en afgrænset målgruppe, enten storbørnegrupper der er de ældste børn i daginstitutionen eller de kommunale folkeskolers spireforløb, der er de børn der lige er stoppet i daginstitutionen og starter i førskole samt 0. klasse. I budgettet står der, at der skal arbejdes med motorik for børn mellem fem og syv år. Begge grupper falder indenfor denne aldersgruppe og det er grundet økonomien ikke muligt at arbejde med begge målgrupper i projektet.</div> <div> </div> <div>2022 bruges som en periode, hvor der afprøves et tiltag omkring motorik, der indsamles viden og erfaringer og måles om der er en effekt for børnene. Tiltaget evalueres og der kan derefter tages stilling til, om der fremover skal afsættes økonomi til at fortsætte arbejdet med motorik i Greve Kommune. Arbejdet med motorik skal perspektiveres i et samarbejde med fysioterapeuterne fra PPR og sundhedsplejen i Greve Kommune.</div> <div> </div> <div>I det følgende beskrives de fire muligheder for at arbejde med motorik i Greve i 2022.</div> <div> </div> <div><strong>1 - DGI certificering</strong></div> <div>Den første mulighed fokuserer på kompetenceudvikling af pædagoger i 2022, så de i årene frem er klædt på til at lave motorik med børnene.</div> <div> </div> <div>Første mulighed er at få DGI certificeret flere daginstitutioner i Greve Kommune. På nuværende tidspunkt er der fire idræts certificerede daginstitutioner ud af i alt 19 kommunale, syv selvejende og tre private daginstitutioner. En DGI certificering af en daginstitution koster ca. 40.000 kr. ex moms for 15 timers uddannelse af op til 25 deltagere fra daginstitutionen. Det tager et år at blive certificeret som idræts-, leg og bevægelses børnehave i DGI. Det vil derfor være muligt, at få yderligere 12 daginstitutioner DGI certificeret for den halve mio. kr. Hvis denne mulighed vælges, vil det være relevant at kigge på den geografiske placering af de daginstitutioner, der skal igennem DGI forløbet, så der sikres en geografisk spredning fordelt over hele kommunen.</div> <div> </div> <div>En DGI certificering har fokus på kompetenceudvikling af personalet i børnehave/vuggestue med fokus på at kunne skabe forskellige rum og rammer for at få børn i bevægelse. Forløbet introducerer målrettede aktiviteter, men der er også fokus på konkrete værktøjer til at planlægge og afvikle bevægelsesaktiviteter som en naturlig del af hverdagen.</div> <div> </div> <div>En DGI certificering skal holdes ved lige og kræver årligt en re-certificering hvis institutionen fortsat vil være DGI certificeret. Re-certificeringen koster 6.500 kr.</div> <div> </div> <div><strong>2 - Kompetenceudvikling</strong></div> <div>Den anden mulighed har også fokus på kompetenceudvikling af pædagogerne i daginstitutionerne til mere og bedre motorik med børnene. Her kunne man ansætte en motorik uddannet specialist i en projektstilling i 2022. Denne specialist vil kunne lave forløb med fokus på kompetenceudvikling af pædagogerne, så de i årene frem er klædt på til at en øget motorikindsats med børnene. Specialisten kan tage rundt til daginstitutionerne for at hjælpe dem med at inkorporere motorik i dagligdagen i den enkelte daginstitution. </div> <div> </div> <div>Pædagogerne vil blive inkluderet i den indledende proces, så de får ejerskab over ændringerne. Det kan eksempelvis være at indrette arealer, så de opfordrer mere til udfordrende bevægelse og aktiv leg i daginstitutionerne.</div> <div> </div> <div><strong>3 - Aktivitetsforløb</strong></div> <div>Den tredje mulighed har fokus på aktiviteter for børn. Det vil dreje sig om storbørnegrupper i daginstitutionerne i 2022. Denne mulighed kommer umiddelbart kun denne gruppe børn til gode.</div> <div> </div> <div>Den tredje mulighed baserer sig på at give børnene et forløb, hvor de helt konkret udvikler bedre motoriske færdigheder. Motorikforløbene for børnene kan enten forestås af en motorikuddannet specialist der ansættes i en projektstilling eller der kan hyres en privat udbyder. Det kan også søges at indgå en aftale med en eller flere foreninger, der vil kunne forestå forløbene. Det har Ringsted og Køge Kommuner erfaring med. Projekterne i disse kommuner er dog fortløbende og derfor ikke aftaler for et år.</div> <div> </div> <div>En bekymring kan være, om foreningernes fokus vil være på denne type samarbejde og aktivitet i denne coronasituation, hvor foreningerne har mange andre forhold at forholde sig til.</div> <div> </div> <div>Det er også et opmærksomhedspunkt, om det er muligt at finde ledige hal-tider til disse aktiviteter, da hallerne i Greve Kommune er meget optagede.</div> <div> </div> <div><strong>4 - Kombination af kompetenceudvikling og aktivitetsforløb</strong></div> <div>Den fjerde mulighed er at kombinere kompetenceudvikling af pædagogerne med aktivitetsforløb for børnene. Denne mulighed vil på grund af arbejdet med både kompetenceudvikling og aktiviteter kun være mulig for omkring 10-12 daginstitutioner i 2022. Her kunne der ansættes en specialist i motorik i en projektansættelse i 2022 og denne specialist skulle lave aktivitetsforløb for børnene med praksisnær kompetenceudvikling af pædagogerne. Det kunne både foregå i haller og i daginstitutionerne, hvor specialisten også kunne hjælpe pædagogerne med at inkorporere motorik i hverdagen. Med denne mulighed vil man både få aktiviteter for børnene og kompetenceudvikling af pædagoger.</div> <div> </div> <div><strong>Evaluering efter projektet</strong></div> <div>Når arbejdet med en af valgmulighederne er er afsluttet, bliver det evalueret med fokus på, om børnene har opnået bedre motorik og der således er en effekt af arbejdet. Alle fire forløb præsenteret ovenfor, har fokus på motorik for børn i Greve Kommune på forskellige måder. De 0,5 mio. kr. i 2022 giver mulighed for at afprøve et af forløbene på projektbasis for at afprøve effekterne og tage stilling til om der skal afsættes økonomi til arbejdet fremadrettet.</div> <div> </div> <div><strong>Administrationens anbefaling</strong></div> <div>Den faglige anbefaling er, at der bør arbejdes med storbørnegrupper i daginstitutioner i dette projekt, da det er lettere at indgå aftaler med disse frem for spireforløb i skolerne, da skolernes årsplanlægning foregår en gang årligt.</div> <div> </div> <div>Den faglige anbefaling er at vælge model 4, hvor der både er fokus på praksisnær kompetenceudvikling af personalet og motorikaktiviteter for børn. Dette vil have effekt i en længere årrække, da børnene har haft konkrete aktiviteter og pædagogerne samtidig har fået kompetenceudvikling med fokus på, hvordan motorik kan bruges i deres konkrete institution og deres nærområde i dagligdagen.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Der er afsat 0,5 mio. kr. i 2022 under Kultur- og Fritidsudvalgets budgetområde 4.02 Fritid. Dette søges med denne indstilling flyttes til Skole-, Børne- og Ungeudvalgets budgetområde afhængig af valgte model.<em> </em> Ovenstående aktiviteter afholdes indenfor det afsatte budget på 0,5 mio. kr.</div> <h3><span>Tidsplan</span></h3> <div>Arbejdet igangsættes i 2022.</div> <div> </div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r 1. Kan ikke anbefales. Udvalget anbefaler, at pengene forankres i Kultur- og Fritidsudvalget med et tæt samarbejde med dagtilbuds- og skoleområdet. Udvalget ønsker, at der nedsættes en ekspertgruppe med lokale resursepersoner blandt borgerne, som skal medvirke til at kvalificere, hvordan midlerne kan opnå bedst anvendelse for at styrke motorikken.<br>\r \r <u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>28-03-2022 Økonomiudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>04-04-2022 Byråd 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/002f40c9-6d12-4c19-8fe6-2492f795ae94",
+          "DocumentId": "002f40c9-6d12-4c19-8fe6-2492f795ae94"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-005074",
+      "Navn": "Motorik for børn i Greve",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "0f773aac-9a8e-433a-943c-9cc817085efc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-005074",
+      "SourceId": null,
+      "Caption": "Motorik for børn i Greve",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Anbefales</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <h3><span>Sagsprocedure</span></h3> <div> </div> <div>Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet.</div> <div> </div> <h3><span>Resume</span></h3> <div> </div> <div>Kvalitetsrapporten for skoleåret 2020/21 har <span>fokus på to hovedpunkter; dels a</span>t undersøge, hvordan det går med elevernes trivsel. Dels at rapportere om det samlede skolevæsens opmærksomhed på, hvordan vi bidrager til, at unge fortsætter i ungdomsuddannelse efter 9. eller 10. klasse. Som konsekvens af COVID-19, er kommunerne ifølge lovgivningen givet en række frihedsgrader, blandt andet i forhold til kvalitetsrapporten, der således er anderledes i forhold til tidligere. </div> <div> </div> <h3><span>Indstilling</span></h3> <div> </div> <div><em>Center for Dagtilbud & Skoler indstiller, at kvalitetsrapport 2020/21 for almenområdet og for specialklasserækker og -skoler godkendes.</em></div> <div> </div> <h3><span>Sagsbeskrivelse</span></h3> <div> </div> <div><span>Denne kvalitetsrapport handler om skoleåret 2020/21, som var et meget anderledes skoleår, hvor COVID-19 betød nedlukning og fjernundervisning på almenområdet og særlige retningslinjer for alle.</span></div> <div><span> </span></div> <div>Som konsekvens af COVID-19, er kommunerne ifølge lovgivningen givet en række frihedsgrader, blandt andet i forhold til kvalitetsrapporten. Der er givet frihed til ikke at udfærdige en kvalitetsrapport, men i Greve Kommune er rapporten fastholdt med et særligt fokus på to hovedpunkter: </div> <div><span> </span></div> <ul>     <li>At undersøge, hvordan det går med elevernes trivsel baseret på elevernes egne svar fra den nationale trivselsmåling.</li> </ul> <div> </div> <ul>     <li>At rapportere om det samlede skolevæsens opmærksomhed på, hvordan vi bidrager til, at unge fortsætter i ungdomsuddannelse efter 9. eller 10. klasse.  </li> </ul> <div> </div> <div>Kvalitetsrapporten består af to dele; en rapport om almenområdet og en om specialtilbud i Greve Kommune, jf. bilag 1.</div> <div> </div> <div> </div> <div><em><strong>Elevernes trivsel</strong></em></div> <div><em><strong> </strong></em></div> <div> </div> <div><em>Almenområdet</em></div> <div> </div> <div>Eleverne på almenområdet var hjemsendt fra 9. december 2020 med gradvis tilbagevenden fra den 8. februar 2021 for 0.-4. klasse, mens 5.-10. klasse vendte tilbage fra den 22. marts og i en overgang med fysisk fremmøde i 50 % af tiden. Hverdagen med fortsatte restriktioner varede et godt stykke ind i foråret.</div> <div> </div> <div> </div> <div>I Greve Kommune såvel som på landsplan ses der i den nationale trivselsmåling ikke på kort sigt konsekvenser af COVID-19, der giver anledning til særlige opmærksomhedspunkter. Tallene viser den samlede trivsel i Greve Kommune og dækker over individuelle forskelle skoler og elever imellem.</div> <div> </div> <div>Gennem en lang periode med restriktioner og periodevise nedlukninger, har der generelt i samfundet været stort fokus på børn og unges trivsel. Derfor følger den enkelte skole nøje op på om der lokalt ses resultater, der giver anledning til nye indsatser med målsætningen om at arbejde for en høj trivsel for alle elever.</div> <div> </div> <div>På kommunalt niveau har vi for 0.-3. klasse fortsat opmærksomhed på \"elever, der føler sig alene\" og \"elever, der oplever at blive drillet så de bliver kede af det\".</div> <div> </div> <div>Arbejdet med fællesskaber er af stor vigtighed, hvilket der arbejdes på i såvel skole som fritidsregi og i overgange, særligt fra dagtilbud til skole. En god skolestart er grundlæggende for gode sociale og faglige fællesskaber - fællesskaber, der senere i skolelivet er afgørende for elevernes udvikling, deltagelsesmuligheder og mestringskompetencer i deres videre liv.</div> <div> </div> <div> </div> <div><em>Specialklasserækker og -skoler</em></div> <div>Eleverne på specialområdet var ikke hjemsendt under COVID-19, men var påvirkede af uvisheden og alvoren omkring pandemien og udbredt smitte, ligesom de, der kunne, indgik i ugentlige anti-gentest på skolerne fra februar 2021.</div> <div>Vurderingen af elevernes trivsel baserer sig i høj grad på kvalitative indikatorer og observationer.</div> <div>Det centrale i trivselsarbejdet er at styrke elevernes deltagelse i fællesskaber og den enkelte elevs egen oplevelse af mestring. Aktiviteterne er tilpasset den enkelte elev med fokus på social træning.</div> <div> </div> <div> </div> <div> </div> <div><em><strong>Overgang til ungdomsuddannelse</strong></em></div> <div> </div> <div>Udgangspunktet for skolevæsenet er at bidrage til, at hver enkelt ung kommer godt videre efter folkeskolen. En ungdomsuddannelse eller et individuelt tilrettelagt forløb for øger sandsynligheden for, at et ungt menneske bevarer drømme om, hvad eget liv kan bringe, får fodfæste på arbejdsmarkedet og bliver selvforsørgende. </div> <div> </div> <div><em><em>Almenområdet</em></em></div> <div> </div> <div><span>Andelen af de elever, der kommer videre i ungdomsuddannelse efter endt 9. eller efter 10. klasse er faldet for begge grupper. Som kommune ligger vi tæt på, men lidt under landsgennemsnittet (under 1 %-point).  Vi er optaget af at få vendt udviklingen, sådan at en større andel kommer videre i ungdomsuddannelse direkte efter, at de har afsluttet grundskolen.</span></div> <div><span> </span></div> <div> </div> <div><em><em><em>Specialklasserækker og -skoler</em></em></em></div> <div> </div> <div>Elever fra specialtilbud fortsætter typisk i individuelt tilrettelagte forløb eller i forberedende aktiviteter, der har til formål at lede frem til en ungdomsuddannelse. De store forskelle, der er på elevgruppens forudsætninger, kommer blandt andet til udtryk ved, at enkelte elever går op til alle prøver, mens andre elever afslutter grundskolen uden at aflægge prøver.</div> <div> </div> <div> </div> <div> </div> <div><em>Udvikling gennem dialog og opfølgning</em></div> <div> </div> <div>Center for Dagtilbud & Skoler drøfter resultaterne fra kvalitetsrapporten med ledelsen på hver skole og specialklasserække. Center for Børn & Familier har tilsvarende drøftelser med specialskolerne. Her etableres et fælles fokus på specialklasserækkens og skolens styrker og udfordringer med afsæt i den enkelte kvalitetsrapport og ud fra emner udvalgt af ledelsen. </div> <div> </div> <h3><span>Lovgrundlag</span></h3> <div> </div> <div>Folkeskolelovens §40a, LBK nr. 1887 af 01/10/2021.</div> <div> </div> <div> </div> <div>Bekendtgørelse nr. 1350 af 22/06/202 om håndtering af faglige udfordringer hos elever i folkeskolen i forbindelse med foranstaltninger mod covid-19 i skoleåret.</div> <div> </div> <h3><span>Økonomiske konsekvenser</span></h3> <div> </div> <div>Sagen har ingen økonomiske konsekvenser</div> <div> </div> <div> </div> <h3>Kommunikation</h3> <div> </div> <div>Kvalitetsrapporten for Greve Kommune offentliggøres på kommunens hjemmeside.</div> <div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>28-03-2022 Økonomiudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>04-04-2022 Byråd 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/69e957dc-a14b-4531-a415-f70c3d753b35",
+          "DocumentId": "69e957dc-a14b-4531-a415-f70c3d753b35"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-072352K",
+      "Navn": "Kvalitetsrapport 2020/21 for Greve Kommunes almenskoler og for specialtilbud",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kvalitetsrapporter for almen- og specialområdet_2020-21_ Greve Kommune",
+          "Id": "97dcc7e1-6aaa-44c4-baf9-db12410fde0b"
+        }
+      ],
+      "Documents": null,
+      "Id": "15accccc-b719-4ad5-bd2a-a3d712209849",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "20-072352K",
+      "SourceId": null,
+      "Caption": "Kvalitetsrapport 2020/21 for Greve Kommunes almenskoler og for specialtilbud",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget undlod at tage stilling</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <strong></strong> <h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget, Skole-, Børne-, og Ungeudvalget, Økonomiudvalget og Byrådet</div> <strong></strong> <h3>Resume</h3> <div>Økonomiudvalget behandlede på deres møde den 24. januar 2022 sag om frigivelse af anlægsmidler til opstilling af pavillon ved Klub Havana. Pavillonen er tiltænkt at løse et akut pladsbehov nu, og i 3-5 år frem. Der er bevilget midler i budget 2022 til etableringen af pavillonen.</div> <div> </div> <div>Økonomiudvalget udbad sig supplerende oplysninger forud for en fornyet behandling af sagen. Udvalget ønskede således alternative muligheder afsøgt inden frigivelse af anlægsbevillingen på 2,44 mio. kr. til etablering og leje af pavilloner ved Klub Havana.</div> <div> </div> <div>Klub Havana er et fritidstilbud for børn og unge med særlige behov. Klubtilbuddet har allerede indskrevet flere børn end de er normeret til, og der opleves et fortsat stigende pres på kapaciteten. Af det til sagen vedlagte bilag er beskrevet de efterspurgte supplerende handlemuligheder, herunder eventuel overtagelse af lokalerne til de særlige ungdomsboliger i Birkelyparken og eventuel oprettelse af SFO i tilknytning til specialtilbuddene S-Klasserne på Arenaskolen og/eller Tunegrupperne på Tune skole. </div> <strong></strong> <h3>Indstilling</h3> <div><em>Center for Teknik & Miljø, Center for Børn og familier og Center for Dagtilbud og skoler indstiller til Klima-, Teknik- og Miljøudvalget,</em></div> <div><em> </em></div> <div><em>1. at der meddeles anlægsbevilling på 2,6 mio. kr. til etablering af pavilloner ved Klub Havana for en ca. 3-årig periode finansieret af de til formålet afsatte beløb i investeringsoversigten budget 2022 - 2025.</em></div> <div><em> </em></div> <div><em>2. at de bevillingsmæssige konsekvenser ved den nye tidsplan og det reviderede omfang af tilbuddet i 2022 indarbejdes i Budgetopfølgning 1, mens de i 2023 og frem indarbejdes som teknisk rettelse i Direktionens budgetforslag</em></div> <div><em> </em></div> <div><em><em>Center for Teknik & Miljø</em>, <em>Center for Børn og familier </em>og <em>Center for Dagtilbud og skoler</em> indstiller til Skole-, Børne- og Ungeudvalget,</em></div> <div><em> </em></div> <div><em>3. at orienteringen om de efterspurgte supplerende handlemuligheder tages til efterretning.</em></div> <strong></strong> <h3>Sagsbeskrivelse</h3> <div>Administrationen har afsøgt alternative handlemuligheder for tilvejebringelse af yderligere kapacitet for fritidstilbud for børn og unge med særlige behov i skolealderen.</div> <div> </div> <div>På baggrund af mødet i Økonomiudvalget den 24. januar 2022 er det, udover pavillonløsningen, undersøgt:</div> <ul>     <li>Om Klub Havana kan overtage de særlige ungdomsboliger i Birkelyparken eller </li>     <li>Om der etableres og tilbydes SFO i regi af Tune-Grupperne og S-Klasserne for indskolingsbørnene på henholdsvise Tune skole og Arenaskolen.</li> </ul> <div><em> </em></div> <div><em>De særlige Ungdomsboliger</em></div> <div> </div> <div>Det er ikke muligt på kort sigt at overtage de særlige ungdomsboliger, da de nuværende beboere er beskyttet mod opsigelse af deres tidsbegrænsede lejekontrakter efter reglerne i lejeloven. I praksis vil det tidligst være muligt at inddrage boligerne til andet kommunalt formål i 2024. </div> <div>Såfremt dette scenarie vælges, kan der etableres en dialog med beboerne om mulig frivillig fraflytning. <br> Uanset om der er tale om at lade lejekontrakterne udløbe eller dialog om tidligere frivillig fraflytning, vil der skulle findes erstatningsboliger. Denne løsning vil give udfordringer i relation til behovet for etablering af pladser i såvel skole- som fritidsregi. Med skolestart i august 2022 vurderes tidsplanen således ikke realistisk. Vælges dette scenarie, vil der derfor skulle findes midlertidige løsninger i såvel skole- som fritidsregi indtil ungdomsboligerne er fraflyttet. Dette kan løses ved pavilloner eller placering af børnene i et midlertidigt undervisningsmiljø, eksempelvis ved at etablere en udskolingsgruppe i Greve Kulturbase. Der må påregnes udgifter til såvel klargøring af nye ungdomsboliger som til indretning af nyt midlertidigt undervisningsmiljø. I givet fald bør der fremlægges en sag herom.</div> <div> </div> <div><em>Fritidstilbud i regi af specialtilbuddene</em></div> <div> </div> <div>Det vil principielt være muligt at etablere fritidstilbud i regi af de to specialtilbud. Lokalerne i begge tilbud er indrettet til undervisning, og der vil skulle etableres nogle ikke nærmere beskrevet fleksible løsninger i udvalgte lokaler for at kunne bruge disse til fritidstilbud efter endt undervisning. </div> <div>Derudover er der ikke ansat personale til at løse opgaven. Dette vil skulle ske, og det vil rumme en risiko for et sårbart tilbud med få voksne. For S-Klasserne vil der blive tale om et tilbud for 10-15 børn. For Tunegrupperne drejer det sig om 5 - 7 børn. Der er tale om børn, der i forvejen benytter SFO i regi af Havana og hertil de skolebegyndere, der ønsker et fritidstilbud. Løsningen vil betyde, at allerede indskrevne børn i Klub Havana skal skifte tilbud.</div> <div> </div> <div><em>Oprindelig forslag- pavillon ved Klub Havana</em></div> <div> </div> <div>Ved etablering af pavilloner ved Klub Havana vil der ske en investering i en midlertidig løsning.</div> <div>Pavillonen vil kunne opstilles med et sigte på 3 år, og løsningen vil løse det akutte kapacitetsbehov på fritidsområdet, hvor ledelsen og medarbejderne er i et fagligt fællesskab på én matrikel. Løsningen vil sikre kontinuitet for de børn, der allerede er indskrevet. </div> <div><span>Lovgrundlag</span></div> <div>Planloven og Bygningsreglementet.</div> <div><strong>Økonomiske konsekvenser</strong></div> <div><em>Byggeomkostninger</em></div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"648\" style=\"\">     <tbody>         <tr style=\"\">             <td valign=\"top\">             <div><em></em><strong>Projektnavn</strong></div>             </td>             <td valign=\"top\">             <div><strong>Overslag i 1.000 kr.</strong></div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Byggeri</div>             </td>             <td valign=\"top\">             <div>1.790</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Uforudsete udgifter (25%)</div>             </td>             <td valign=\"top\">             <div>400</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Rådgiver (10%)</div>             </td>             <td valign=\"top\">             <div>160</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div>Inventar, bygherreleverancer</div>             </td>             <td valign=\"top\">             <div>250</div>             </td>         </tr>         <tr style=\"\">             <td valign=\"top\">             <div><strong>I alt</strong></div>             </td>             <td valign=\"top\">             <div><strong>2.600</strong></div>             </td>         </tr>     </tbody> </table> <div> </div> <div><em>Driftsudgifter</em></div> <div>Tallene i tabellen er revideret i forhold til den oprindelige sagsfremstilling. Dels indstilles der til en midlertidig løsning henover ca. 3 år, og ikke 5 år som tidligere beskrevet (udgifterne i 2022 vil være afhængig af tidsplanen for en evt. etablering af pavillonerne). Derudover er de estimerede personalemæssige omkostninger revideret til 1 mio. kr. årligt. mod oprindeligt 1,5 mio. kr. årligt.</div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"568\" style=\"\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Afledte driftsudgifter (1.000 kr.)</strong></div>             </td>             <td valign=\"top\">             <div><strong>2022</strong></div>             </td>             <td valign=\"top\">             <div><strong>2023</strong></div>             </td>             <td valign=\"top\">             <div><strong>2024</strong></div>             </td>             <td valign=\"top\">             <div><strong>2025</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Husleje</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>             <td valign=\"top\">             <div>304</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Forbrug</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>             <td valign=\"top\">             <div>38</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Rengøring</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>             <td valign=\"top\">             <div>82</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Forsikringer</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>             <td valign=\"top\">             <div>6</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Driftsudgifter til personale -Havana</div>             </td>             <td valign=\"top\">             <div>1.000</div>             </td>             <td valign=\"top\">             <div>1.000</div>             </td>             <td valign=\"top\">             <div>1.000</div>             </td>             <td valign=\"top\">             <div>1.000</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Afledte driftsudgifter i alt</div>             </td>             <td valign=\"top\">             <div><strong>1.430</strong></div>             </td>             <td valign=\"top\">             <div><strong>1.430</strong></div>             </td>             <td valign=\"top\">             <div><strong>1.430</strong></div>             </td>             <td valign=\"top\">             <div><strong>1.430</strong></div>             </td>         </tr>     </tbody> </table> <div> Alle beløb er i 1.000 kr. (2022-priser)</div> <strong></strong> <h3>Tidsplan</h3> <div>Ved godkendelse af sagen, forventes pavillonerne at kunne være opsat i 3. kvartal 2022. Dette er forudsat, at der gives dispensation til lokalplanen. som forventes behandlet på et kommende møde i Klima-, Teknik- og Miljøudvalget. Der skal også søges om byggetilladelse.</div> <div> </div> <div> </div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>21-03-2022 Klima-, Teknik- og Miljøudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>28-03-2022 Økonomiudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>04-04-2022 Byråd 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/39036167-9a73-4840-a7b1-e0b1033333cf",
+          "DocumentId": "39036167-9a73-4840-a7b1-e0b1033333cf"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015918",
+      "Navn": "Klub Havana - frigivelse af anlægsmidler",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Notat vedr. kapacitetsudfordringer Klub Havanna - supplerende handlemuligheder",
+          "Id": "6d9da1b1-96eb-4704-90e5-a11f053e60ae"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beslutning fra Økonomiudvalget den 24. januar 2022",
+          "Id": "68ebf8ba-8b64-4e21-8069-b78136f1c9bf"
+        }
+      ],
+      "Documents": null,
+      "Id": "3c55c2a4-3776-4416-8005-100aafc6c5a1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-015918",
+      "SourceId": null,
+      "Caption": "Klub Havana - frigivelse af anlægsmidler",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, og Børne- og Ungeudvalget.</div> <h3><span>Resume</span></h3> <div>Greve Kommune skal ifølge dagtilbudsloven fastsætte styrelsesvedtægter for de kommunale dagtilbud. De nuværende vedtægter for de kommunale distrikter og dagplejen er ikke længere tidssvarende, og derfor er der behov for en revidering heraf. De reviderede vedtægter skal inden endelig politisk godkendelse sendes i høring blandt de berørte bestyrelser og MED-organisationen, hvilket vil ske efter udvalgets beslutning med denne sag.  </div> <h3><span>Indstilling</span></h3> <div><em>Center for Dagtilbud & Skoler indstiller,</em></div> <div><em> </em></div> <div><em>1. at den reviderede styrelsesvedtægt for kommunale distrikter på dagtilbudsområdet sendes i høring med de ændringer, som fremgår af sagen,</em></div> <div><em> </em></div> <div><em>2. at den reviderede styrelsesvedtægt for den kommunale dagpleje sendes i høring med de ændringer, som fremgår af sagen,</em></div> <div><em> </em></div> <div><em>3. at høringsperioden fastsættes fra 17. marts til og med den 7. april 2022, og</em></div> <div><em> </em></div> <div><em>4. at ændringen af styrelsesvedtægterne sker med umiddelbar virkning efter byrådets endelige beslutning af vedtægtsændringerne, såfremt de berørte bestyrelser er enige heri i forbindelse med høringen.</em></div> <div><span>Sagsbeskrivelse</span></div> <div>Styrelsesvedtægterne for Greve Kommunes kommunale dagtilbudsdistrikter og Greve Kommunes dagpleje er fra oktober 2014. Der er sket en række ændringer siden, og derfor har administrationen gennemgået vedtægterne med henblik på en opdatering og større ensartning mellem de to sæt styrelsesvedtægter.</div> <div> </div> <div>Nedenfor skitseres de forslåede ændringer af styrelsesvedtægterne og baggrunden herfor.</div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Ændringer i styrelsesvedtægten for kommunale distrikter</strong></div>             </td>             <td valign=\"top\">             <div><strong>Baggrund for ændringer</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 2 er ordet \"mål\" erstattet af \"prioriterede indsatser\".</div>             </td>             <td valign=\"top\">             <div>Ændringen følger af en ændring af dagtilbudsloven. Kommunalbestyrelsen må alene sætte rammer og prioriterede indsatser, som understøtter dagtilbuddenes arbejde med formålsparagraffen, den styrkede pædagogiske læreplan og en sammenhængende børnepolitik.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 2 er forældrebestyrelsens sammensætning stillet op i oversigtsform og det er angivet, hvem der er stemmeberettiget.</div>             </td>             <td valign=\"top\">             <div>Ændringen er foretaget for at gøre det mere tydeligt, hvem der kan vælges til forældrebestyrelsen, og hvem der har stemmeret.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 2 er det tilføjet, at der kan vælges én forældrerepræsentant for basisgrupperne blandt forældre med børn i basisgrupperne i distriktet.</div>             </td>             <td valign=\"top\">             <div>Det har været et ønske fra forældre med børn i basisgrupperne at være repræsenteret i bestyrelsen. Desuden fremgår det i dagtilbudsvejledningen, at denne gruppes forældre så vidt muligt bør være repræsenteret i bestyrelsen for at tilgodese disse børn og familiers særlige behov. Ifølge vejledningen bør kommunalbestyrelsen derfor tage hensyn til dette ved udarbejdelse af vedtægten.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 2 fremgår det nu, at der er to medarbejderrepræsentanter i en distriktsbestyrelse. Dette har konsekvens for valghandlingen i § 3.</div>             </td>             <td valign=\"top\">             <div>I de nuværende vedtægter fremgår det, at der er en medarbejderrepræsentant fra hver institution i distriktsbestyrelsen, men at kun to af disse har stemmeret. Praksis har dog været, at der ikke har været en medarbejderrepræsentant fra samtlige institutioner i bestyrelsen. Derfor ændres dette til, at det er de to medarbejdere med stemmeret, som har sæde i bestyrelsen.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 3 er valget af de forskellige grupper blevet delt op og behandles under hver sin overskrift: Forældrerepræsentanter, forældrerepræsentant fra basisgrupperne (ny), medarbejdere og pædagogiske ledere.</div>             </td>             <td valign=\"top\">             <div>Valget af henholdsvis forældrerepræsentanter, forældrerepræsentant fra basisgrupperne, medarbejdere og pædagogiske ledere foregår ikke helt på samme måde. Derfor er beskrivelsen af valghandlingerne delt op for at skabe større overblik og forståelse.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 3, under valg af forældrebestyrelsesrepræsentanter, fremgår det nu, at valget kan ske elektronisk, ligesom det fremgår, at valgperioden påbegyndes umiddelbart efter det konstituerende møde.</div>             </td>             <td valign=\"top\">             <div>Ved at tilføje, at valghandlingen kan ske elektronisk, gives der en større fleksibelt i forbindelse med valghandlingen. Det er også i overensstemmelse med den praksis, der har været i forbindelse ved de sidste valg.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 3 er der slettet et afsnit om<em>”Ved første valg til nyt distrikt”</em>.</div>             </td>             <td valign=\"top\">             <div>Afsnittet vurderes at være irrelevant og forvirrende, da det er en reminiscens fra dengang, Greve Kommune havde flere distrikter, som blev nedlagt/sammenlagt.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 4, om valgbarhed og valgret, er det blevet tydeliggjort, hvilke forældre der er valgbare.</div>             </td>             <td valign=\"top\">             <div>Formuleringen, om hvilke forældre der er valgbare, følger nu dagtilbudsvejledningens formulering i forhold til, hvem man kan betegne som forældre.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 4 fremgår det nu, at medarbejdere ansat i distriktets institutioner ikke er valgbare som forældrerepræsentanter i distriktsbestyrelsen.</div>             </td>             <td valign=\"top\">             <div>Baggrunden for ændringen er, at et distrikt er at sammenligne med en institution med flere enheder, ifølge dagtilbudsloven. Det betyder, at medarbejderen ikke på én og samme tid kan være ansat som medarbejder i en enhed under institutionen (distriktet) og samtidig være forældrerepræsentant i selv samme.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 6 er det tilføjet, at også repræsentanter for Børnerådet skal vælges af og blandt forældrerepræsentanterne i bestyrelsen.</div>             </td>             <td valign=\"top\">             <div>Tidligere har det alene fremgået, at formand og næstformand vælges blandt forældrerepræsentanterne i bestyrelsen.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 6 er det slettet, at bestyrelsen ved underskrift skal bekræfte, at de er indforstået med tavshedspligten.</div>             <div> </div>             <div>Til sætningen,<em>”Bestyrelsen er omfattet af forvaltningslovens regler om tavshedspligt...”</em>, er det tilføjet, at bestyrelsen som hovedregel ikke kan behandle personsager.</div>             </td>             <td valign=\"top\">             <div>Det er ikke påkrævet at få bekræftet tavshedspligten med underskrift, og det har hidtidig været praktiseret forskelligt. I stedet anvendes formuleringen fra Skolestyrelsesvedtægten:</div>             <div>Bestyrelsen er omfattet af forvaltningslovens regler om tavshedspligt<em>\"og kan som hovedregel ikke behandle personsager. Dog har bestyrelsen ret til at blive orienteret under lukket møde, om ledelsens håndtering af sager af principiel betydning for institutionens virksomhed.”</em></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 7 er det præciseret, at det er forældrerepræsentanter og medarbejderrepræsentanter, der har stemmeret, og at den pædagogiske leder deltager i bestyrelsens møder uden stemmeret.</div>             </td>             <td valign=\"top\">             <div>Der er foretaget mindre ændringer som følge af de præciseringer, der er til, hvem der er stemmeberettigede, jf. ændringer i § 2.</div>             <div> </div>             <div> </div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 7 er det tilføjet, at bestyrelsen ud over offentlighedsloven også er omfattet af forvaltningsloven og reglerne i persondataforordningen (GDPR).</div>             <div> </div>             <div>Eftersætningen, om at bestyrelsen i sin forretningsorden kan beslutte at referaterne kun skal være tilgængelige for bestyrelsen eller distriktslederen, slettes.</div>             </td>             <td valign=\"top\">             <div>Det er vigtigt at henlede bestyrelsernes opmærksomhed på, at de er en del af den offentlige forvaltning, og at der fx kan begæres aktindsigt i deres referater, dokumenter og kommunikation. Ligesom de er omfattet af reglerne for håndtering af personfølsomme oplysninger.</div>             <div> </div>             <div>Det ligger i forlængelse af ovenstående, ligesom referaterne kan have generel interesse for forældre med børn i distriktet.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>§ 8 er opdateret med bestyrelsens minimumskompetencer, som de fremgår af dagtilbudsloven.</div>             </td>             <td valign=\"top\">             <div>Afsnittet om bestyrelsens kompetencer og opgaver er opdateret, så det følger dagtilbudsloven med de seneste ændringer, ligesom distriktslederens rolle for at understøtte dette er opdateret.</div>             </td>         </tr>     </tbody> </table> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><strong>Ændringer i styrelsesvedtægten for dagplejen</strong></div>             </td>             <td valign=\"top\">             <div><strong>Baggrund for ændringer</strong></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 2 er ordet \"mål\" erstattet af \"prioriterede indsatser\".</div>             </td>             <td valign=\"top\">             <div>Ændringen følger af en ændring af dagtilbudsloven. Kommunalbestyrelsen må alene sætte rammer og prioriterede indsatser, som understøtter dagtilbuddenes arbejde med formålsparagraffen, den styrkede pædagogiske læreplan og en sammenhængende børnepolitik.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 2 er forældrebestyrelsens sammensætning stillet op i oversigtsform, og det er angivet, hvem der er stemmeberettiget.</div>             </td>             <td valign=\"top\">             <div>Ændringen er foretaget for at gøre det mere tydeligt, hvem der kan vælges til forældrebestyrelsen, og hvem der har stemmeret.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 3 er valget af de forskellige grupperblevet delt op og behandles under hver sin overskrift:</div>             <div>Forældrerepræsentanter, medarbejder og dagplejepædagog.</div>             </td>             <td valign=\"top\">             <div>Valget af henholdsvis forældrerepræsentanter, medarbejder og dagplejepædagog foregår ikke helt på samme måde. Derfor er beskrivelsen af valghandlingerne delt op for at skabe større overblik og forståelse.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 3, under valg af forældrebestyrelsesrepræsentanter, fremgår det nu, at valget kan ske elektronisk, ligesom det fremgår, at valgperioden påbegyndes umiddelbart efter det konstituerende møde.</div>             </td>             <td valign=\"top\">             <div>Ved at tilføje, at valghandlingen kan ske elektronisk, gives der en større fleksibelt i forbindelse med valghandlingen. Det er også i overensstemmelse med den praksis, der har været i forbindelse ved de sidste valg.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 4 om valgbarhed og valgret er det blevet tydeliggjort, hvilke forældre der er valgbare.</div>             </td>             <td valign=\"top\">             <div>Formuleringen, om hvilke forældre der er valgbare, følger nu dagtilbudsvejledningens formulering i forhold til, hvem man kan betegne som forældre.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 4 fremgår det nu, at medarbejdere ikke er valgbare som forældrerepræsentanter i dagplejens bestyrelse.</div>             </td>             <td valign=\"top\">             <div>Medarbejderen kan på én og samme tid ikke være dagplejer og sidde i bestyrelsen for dagplejen som forældrerepræsentant.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 6 er det tilføjet, at også repræsentanter for Børnerådet skal vælges af og blandt forældrerepræsentanterne i bestyrelsen.</div>             </td>             <td valign=\"top\">             <div>Tidligere har det alene fremgået, at formand og næstformand vælges blandt forældrerepræsentanterne i bestyrelsen.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 6 er det slettet, at bestyrelsen ved underskrift skal bekræfte, at de er indforstået med tavshedspligten.</div>             <div> </div>             <div>Til sætningen<em>”Bestyrelsen er omfattet af forvaltningslovens regler om tavshedspligt...”</em>er det tilføjet, at bestyrelsen som hovedregel ikke kan behandle personsager.</div>             </td>             <td valign=\"top\">             <div>Det er ikke påkrævet at få bekræftet tavshedspligten med underskrift, og det har hidtidig været praktiseret forskelligt. I stedet anvendes formuleringen fra Skolestyrelsesvedtægten:</div>             <div>Bestyrelsen er omfattet af forvaltningslovens regler om tavshedspligt<em>\"og kan som hovedregel ikke behandle personsager. Dog har bestyrelsen ret til at blive orienteret under lukket møde, om ledelsens håndtering af sager af principiel betydning for institutionens virksomhed.”</em></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 7 er det præciseret, at det er forældrerepræsentanter og medarbejderrepræsentanter, der har stemmeret, og at dagplejepædagogen deltager i bestyrelsens møder uden stemmeret.</div>             </td>             <td valign=\"top\">             <div>Der er foretaget mindre ændringer som følge af de præciseringer, der er til, hvem der er stemmeberettigede, jf. ændringer i § 2.</div>             <div> </div>             <div> </div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>I § 7 er det tilføjet, at bestyrelsen ud over offentlighedsloven også er omfattet af forvaltningsloven og reglerne i persondataforordningen (GDPR).</div>             <div> </div>             <div>Eftersætningen, om at bestyrelsen i sin forretningsorden kan beslutte at referaterne kun skal være tilgængelige for bestyrelsen eller lederen af dagplejen, slettes.</div>             </td>             <td valign=\"top\">             <div>Det er vigtigt at henlede bestyrelsens opmærksomhed på, at den er en del af den offentlige forvaltning, og at der fx kan begæres aktindsigt i dens referater, dokumenter og kommunikation. Ligesom den er omfattet af reglerne for håndtering af personfølsomme oplysninger.</div>             <div> </div>             <div>Det ligger i forlængelse af ovenstående, ligesom referaterne kan have generel interesse for forældre med børn i dagplejen.</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Der er indsat en ny § 8 om<em>”Bestyrelsens kompetencer og opgaver”</em>, som de fremgår af dagtilbudsloven.</div>             </td>             <td valign=\"top\">             <div>For at understrege dagplejebestyrelsens opgaver i henhold til lovgivningen, og for at sikre ensartethed med styrelsesvedtægten for de kommunale distrikter, er der indsat en ny § 8 om<em>”Bestyrelsens kompetencer og opgaver”</em>.</div>             </td>         </tr>     </tbody> </table> <div> </div> <div>De reviderede styrelsesvedtægter er vedlagt som bilag i en version, hvor ændringerne er markeret med korrektur og i en version uden korrektur.</div> <div> </div> <div>Ifølge de nugældende styrelsesvedtægter kan byrådet beslutte at ændre vedtægterne med en frist på tre måneder og efter forudgående indhentet udtalelse fra bestyrelserne. Ændringer kan dog ske med kortere varsel, hvis bestyrelserne og byrådet er enige herom.</div> <div> </div> <div>Bestyrelserne skal have en frist på mindst tre uger til at afgive deres udtalelse, hvilket der er taget højde for i den fassatte høringsperiode.</div> <div> </div> <div>I forbindelse med høringen forslår Center for Dagtilbud & Skoler, at bestyrelserne samtidig bliver spurgt, om de er enige i, at ændringen af styrelsesvedtægterne sker med umiddelbar virkning efter byrådets endelige beslutning, fremfor med tre måneders varsel.</div> <div><span>Lovgrundlag</span></div> <div>Dagtilbudslovens § 16, stk. 1. Heraf fremgår det, at <em>”Kommunalbestyrelsen fastsætter efter indhentet udtalelse fra forældrebestyrelserne vedtægter for styrelsen af de kommunale dagtilbud.”</em></div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen økonomiske konsekvenser. </div> <div><span>Kommunikation</span></div> <div>Høringen foretages blandt de kommunale bestyrelser for Distrikt Syd, Distrikt Nord, Greve dagpleje, Lokal-MED og Område-MED.</div> <h3><span>Tidsplan</span></h3> <div>Høringsperiode: den 17. marts til og med den 7. april 2022.</div> <div> </div> <div>Sag med henblik endelig godkendelse af de reviderede styrelsesvedtægter, på baggrund af høringen:</div> <div> </div> <div> <div> <ul>     <li>Skole-, og Børne- og Ungeudvalget: 31. maj 2022.</li>     <li>Økonomiudvalget: 13. juni 2022.</li>     <li>Byrådet: 20. juni 2022.</li> </ul> </div>  <div> </div> <div>I følge Greve Kommunes delegationsplan er det byrådets kompetence at godkende de endelige vedtægter.</div> <div> </div> </div></div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/396ddf9c-ac23-4b77-bf9c-ff64d45958e5",
+          "DocumentId": "396ddf9c-ac23-4b77-bf9c-ff64d45958e5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-007532",
+      "Navn": "Reviderede kommunale styrelsesvedtægter på dagtilbudsområdet",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Revideret styrelsesvedtægt for dagplejen i Greve Kommune - uden korrektur",
+          "Id": "0857099c-f6a3-4124-9063-b6bf442dfad0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Revideret styrelsesvedtægt for kommunale distrikter på dagtilbudsområdet i Greve - uden korrektur",
+          "Id": "b65b5526-ebaa-4108-b6b5-a1af309471af"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Revideret styrelsesvedtægt for dagplejen i Greve Kommune - med korrektur",
+          "Id": "bbf65a87-4cf9-4dbc-b9f0-48f77cd5d702"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Revideret styrelsesvedtægt for kommunale distrikter på dagtilbudsområdet i Greve - med korrektur",
+          "Id": "c42af5b4-6f5a-42d0-8512-bc880a19a293"
+        }
+      ],
+      "Documents": null,
+      "Id": "d75856a6-30b1-48a6-bf3e-fd0eecc16ed4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-007532",
+      "SourceId": null,
+      "Caption": "Reviderede kommunale styrelsesvedtægter på dagtilbudsområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget har besluttet, at nogle af udvalgets møder skal afvikles på kommunens skoler og institutioner. </div> <div>Orienteringen blev taget til efterretning</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><span> <div><i><br> </i></div> </span></h3> <h3></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/005dbd0a-291e-4685-bb39-1a02e0dd0dbb",
+          "DocumentId": "005dbd0a-291e-4685-bb39-1a02e0dd0dbb"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014467",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c1cc8e65-e17e-459f-8e6f-3a5d9fd41e38",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014467",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></div> </div> <h3>Sagsfremstilling</h3> <div><strong>Orientering fra administrationen:</strong></div> <div><strong> </strong></div> <div>- Behov for øget kapacitet på Bugtskolen</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/83fa25ab-ff04-4223-b4b3-5605eeecd651",
+          "DocumentId": "83fa25ab-ff04-4223-b4b3-5605eeecd651"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013716",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "78a57a5e-b362-4f0d-a46f-ab9a73962b5e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-013716",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <div> </div> <div> <h3>Sagsprocedure</h3> </div> <div><span>Skole-, Børne- og Ungeudvalget.</span></div> <h3>Resume</h3> <div>I sagen gives et overblik over Skole-, Børne- og Ungeudvalget udvalgsmøder og møder i tilknytning til udvalget.</div> <h3> <div><span>Indstilling</span></div> </h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning</em></div> <h3>Sagsbeskrivelse</h3> <h3> <div> </div> </h3> <div>Kalenderen er vedhæftet som bilag.</div> <div> <div> <strong></strong></div> </div> <div> </div> <div> </div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b8e2207b-b586-4845-855b-dd6e9bfa274d",
+          "DocumentId": "b8e2207b-b586-4845-855b-dd6e9bfa274d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014469",
+      "Navn": "Skole-, Børne- og Ungeudvalgets kalender 2022",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kalender for Skole-, Børne- og Ungeudvalget 2022",
+          "Id": "ef4ba1b3-b1e6-48c7-945c-dfc5e42d05cb"
+        }
+      ],
+      "Documents": null,
+      "Id": "cee01c30-500e-4044-9699-5f6a871e2d82",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-014469",
+      "SourceId": null,
+      "Caption": "Skole-, Børne- og Ungeudvalgets kalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3><span>Resume</span></h3> <div>Elektronisk underskriftsark.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/282eb54a-99e5-417e-9d71-c5ff55be8d61",
+          "DocumentId": "282eb54a-99e5-417e-9d71-c5ff55be8d61"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014468",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ae41c1d3-cdb9-4296-8035-805b17b6ebd1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-014468",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "473469a9-b1d4-4d5e-b869-b1ed1bbcb012",
+    "Navn": "Skole-, Børne- og Ungeudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-03-15T08:15:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-03-15T08:15:00+01:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "a515cf40-e346-4dc8-a93c-720e0c98d027",
+  "Lydfiler": null
+}

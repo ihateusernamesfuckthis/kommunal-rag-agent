@@ -1,0 +1,184 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Dagsordenen blev godkendt.</p><br><br>Fraværende: Mehmet Zeki Dogru</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Økonomiudvalget.</p>\n<h2><span>Resume</span></h2>\n<p>Godkendelse af dagsorden for ekstraordinært møde den 27. oktober 2022.</p>\n<h2><span>Indstilling</span></h2>\n<p><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes.</em></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3bc05b8e-e852-46d4-b8fb-9a543f9afa23",
+          "DocumentId": "3bc05b8e-e852-46d4-b8fb-9a543f9afa23"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014439",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4a75d969-eed4-4437-8abf-c15b67c02bb1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "398aefc4-58e7-4b40-b6dc-d5c4ca1ddb42",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014439",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "4a75d969-eed4-4437-8abf-c15b67c02bb1"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Notat med ansættelsesudvalgets indstilling og beskrivelse af løn- og ansættelsesvilkår, herunder opsigelsesvarsel blev udleveret på mødet. </p>\n<p class=\"paragraph\"> </p>\n<p> Økonomiudvalget anbefaler overfor Byrådet at ansættelsesudvalgets indstilling godkendes med den præcisering, at forhandling af løn- og ansættelsesvilkår sker inden for rammerne af det udleverede notat om løn- og ansættelsesvilkår, herunder opsigelsesvarsel samt at tiltrædelse sker hurtigst muligt og med afsæt i den kommende direktørs nuværende opsigelsesvarsel.</p>\n<p> </p><br><br>Fraværende: Mehmet Zeki Dogru</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>Sagsprocedure</h2>\n<p>Økonomiudvalget og Byrådet.</p>\n<h2>Resume</h2>\n<p>Greve Kommune skal have ny direktør. Stillingen har været igennem to ansættelsesrunder. Ansættelsesudvalget har afholdt første samtaler den 16. september 2022. Der har været afholdt ny runde af første samtaler  den 11. oktober og anden samtaler den 26. oktober. </p>\n<p> </p>\n<p>Økonomiudvalget skal godkende ansættelsesudvalgets indstilling, som herefter sendes til Byrådet til godkendelse. Indstilling om valg af kandidat forelægges på selve mødet.</p>\n<h2>Indstilling</h2>\n<p><em>Borgmesteren indstiller, at Økonomiudvalget godkender og herefter overfor Byrådet indstiller, </em></p>\n<ol>\n    <li>\n    <p><em>at den af ansættelsesudvalgets foreslåede kandidat tilbydes ansættelse som direktør i Greve Kommune pr. 1. december 2022</em></p>\n    </li>\n    <li>\n    <p><em>at Borgmesteren bemyndiges til at forhandle de endelige løn- og ansættelsesvilkår, idet det bemærkes at dette sker inden for rammerne af rammeaftalen om kontraktansættelse og chefaftalen</em></p>\n    </li>\n    <li>\n    <p><em>at offentliggørelse om ansættelse sker efter aftale med den nye direktør</em></p>\n    </li>\n</ol>\n<h2>Økonomiske konsekvenser</h2>\n<p>Der vil være økonomiske konsekvenser i form af lønudgifter til ny direktør, som er præciseret i ansættelsespapiret. </p>\n<h2>Kommunikation</h2>\n<p>Der udarbejdes pressemeddelelse, og offentliggørelse sker efter aftale med den nye direktør.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d7f87565-1338-428c-84a4-de2fbc85f687",
+          "DocumentId": "d7f87565-1338-428c-84a4-de2fbc85f687"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-008924",
+      "Navn": "Indstilling om ansættelse af direktør",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5773af69-218b-4d5d-b6b8-97d28beb39dd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "398aefc4-58e7-4b40-b6dc-d5c4ca1ddb42",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-008924",
+      "SourceId": null,
+      "Caption": "Indstilling om ansættelse af direktør",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5773af69-218b-4d5d-b6b8-97d28beb39dd"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Økonomiudvalget.</p>\n<h2><span>Resume</span></h2>\n<p>Elektronisk underskriftsark. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7163d6ab-5c9d-4773-974a-878fb785937c",
+          "DocumentId": "7163d6ab-5c9d-4773-974a-878fb785937c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014501",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9179c84c-ae82-4717-966f-62be244456af",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "398aefc4-58e7-4b40-b6dc-d5c4ca1ddb42",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-014501",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "49a1c3b3-741b-4c22-86a1-f27bf55df8d1",
+    "Navn": "Økonomiudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-10-27T07:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-10-27T07:30:00+02:00",
+    "Sted": "Biblioteket",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "398aefc4-58e7-4b40-b6dc-d5c4ca1ddb42",
+  "Lydfiler": null
+}

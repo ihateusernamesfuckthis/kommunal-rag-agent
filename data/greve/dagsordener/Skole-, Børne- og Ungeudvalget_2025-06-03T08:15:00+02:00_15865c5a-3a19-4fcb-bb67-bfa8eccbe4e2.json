@@ -1,0 +1,738 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at dagsordenen godkendes.</em></p>\n<p><em></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/47e2b362-5baf-466e-898e-4a0f9e5db49f",
+          "DocumentId": "47e2b362-5baf-466e-898e-4a0f9e5db49f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "6d022c9d-734f-4fc7-a8ab-f7e26a24b579",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalget får uddybet ansøgning fra Hedelyklasserne om brobygning til\nerhvervslivet, med henblik på at genvurdere ansøgningen.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at mulig udmøntning af 0,5 mio. kr. til\nHedelyklassernes brobygning godkendes.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><em><strong>Baggrund</strong></em></p>\n<p>Skole-, Børne- og Ungeudvalget behandlede på møde den 4. februar 2025,\nhvordan midler fra læringsmiljøpuljen udmøntes i 2025. Ved samme møde ønskede\nudvalget at få uddybet ansøgningen fra Hedelyklasserne med henblik på at\ngenvurdere ansøgningen.</p>\n<p><em><strong>Hedelyklassernes brobygning</strong></em></p>\n<p>For at styrke overgangen til voksen- og arbejdslivet har Hedelyklasserne\ngennemført en prøvehandling, hvor eleverne får praksiserfaring gennem\nstrukturerede praktikforløb i samarbejde med lokale virksomheder. <br>\n<br>\nIndsatsen bygger på Greve Kommunes Børne- og Ungepolitik, der vægter, at børn\nog unge i specialiserede tilbud får bedre muligheder for at mestre overgangen\ntil voksenlivet ud fra deres ressourcer. <br>\n<br>\n<em>Mål</em><br>\n<br>\n- At udvikle elevernes forståelse af arbejdsmarkedet gennem\npraksiserfaring. <br>\n<br>\n- At skabe en stærkere overgang fra grundskole til uddannelse eller job. <br>\n<br>\n- At styrke elevernes sociale, personlige og faglige kompetencer, så de bliver\nlivsduelige og selvhjulpne.  </p>\n<p>Ansøgningen er vedlagt som bilag 1, \"Individuel brobygning og\npraktikafklaring for sårbare og udsatte elever\".</p>\n<h4>Lovgrundlag</h4>\n<p>Folkeskoleloven, dagtilbudsloven og\nspecialundervisningsbekendtgørelsen. </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Der er ingen økonomiske konsekvenser for Greve Kommune, da midlerne tages\nindenfor rammen.</p>\n<p>Fra læringsmiljøpuljens 2 mio. kr. i 2025 har udvalget udmøntet 1,5 mio. kr.\nDer er reserveret 0,5 mio. kr. til mulig udmøntning til Hedelyklasserne.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<h4>Øvrige forhold</h4>\n<p><span>Afdelingsleder Mette Damgaard Bruun deltager\nunder punktet for at give en uddybet præsentation.</span></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e3ed22ef-e011-436f-b0ba-2af22b639da8",
+          "DocumentId": "e3ed22ef-e011-436f-b0ba-2af22b639da8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005392",
+      "Navn": "Mulig udmøntning af midler til individuel brobygning til erhvervslivet for sårbare elever",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Individuel brobygning og praktikafklaring for sårbare og udsatte elever",
+          "Id": "fafc4df4-634c-4f8e-a80c-c57559429b1d"
+        }
+      ],
+      "Documents": null,
+      "Id": "fc411d67-581e-4b6e-a696-11c8a4a5d4dc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "25-005392",
+      "SourceId": null,
+      "Caption": "Mulig udmøntning af midler til individuel brobygning til erhvervslivet for sårbare elever",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Gennem en årrække har der i Greve været en ambition om at styrke samarbejdet\nmellem skoleområdet og det lokale erhvervsliv. Ønsket er, at flere unge får en\nrelevant introduktion til at arbejde i erhvervslivet og herunder de\nhåndværksmæssige fag. Med aftalen om Kvalitetsløft af Folkeskolen øges ambitionerne til samarbejdet mellem skole og erhverv. </p>\n<p>Det har i praksis vist sig svært at etablere og drive samarbejdet, og\nmed denne sag ønsker administrationen at orientere om et tiltag med ansættelse\naf en erhvervsplaymaker, som kan drive samarbejdet. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em> </p>\n<h4>Sagsbeskrivelse</h4>\n<p><em><strong>Baggrund</strong> </em></p>\n<p>Op imod hver 5. ung gennemfører ikke en ungdomsuddannelse, der giver dem\nadgang til et job. Samtidig har virksomheder svært ved at rekruttere\nkvalificeret arbejdskraft. En udfordring, der vokser i de kommende år.</p>\n<p>Greve Kommune underskrev derfor sammen med Dansk Industri I <span class=\"SpellE\">i</span> januar 2022 en aftale, som gennem en fælles alliance har\ntil formål at styrke samarbejdet mellem lokale virksomheder og kommunen for at\nfå flere unge til at vælge en erhvervsuddannelse, og senest har Byrådet i maj måned 2025 behandlet en ny aftale med Dansk Industri, og her er der fortsat fokus på unge i uddannelse. </p>\n<p>I ”Aftale om folkeskolens kvalitetsprogram – 19.marts 2024” under ”Mere\npraktisk undervisning og valgfrihed til de ældste elever” beskrives\ninitiativer, som understøtter og komplementerer Greve Kommunes samarbejde med\nDI herunder:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Juniormesterlære i udskolingen</li>\n    <li>Erhvervspraktik for alle</li>\n</ul>\n<p>Ud over indsatserne fra kvalitetsprogrammet, så arbejdes der lokalt i Greve med erhvervssamarbejde via initiativet \"fagenes dag\", som er et samarbejde mellem to lokale folkeskoler og forskellige lokale erhvervsdrivende. På fagenes dag arbejder hele årgange med at møde forskellige erhvervsfag, og eleverne får lov til at prøve fagene af i praksis. Det initiativ ønskes udbredt til hele skolevæsenet. </p>\n<p>Det har i praksis vist sig svært at etablere og drive samarbejdet mellem\nskolerne og erhvervslivet i det omfang, og med den systematik, som ønskes.\nUdfordringerne har bl.a. været en mangel på koordination mellem skoler og\nvirksomheder, og skoler og virksomheder har haft begrænsede ressourcer til at\ninvestere i samarbejdsprojekter, hvilket har begrænset omfanget og kvaliteten\naf indsatsen. Alt i alt har det generelt været svært at etablere langvarige og\nstrukturerede samarbejder. </p>\n<p><em><strong>Erhvervsplaymaker </strong></em></p>\n<p>Samarbejdet med DI, samt nævnte initiativer i kvalitetsprogrammet, kalder på\net styrket samarbejde med virksomheder i kommunen. I starten af 2025 er det opgjort i en undersøgelse, at 14 danske kommuner har etableret ordningen med\nerhvervsplaymaker, og til at sikre den lokale styrkelse af samarbejdet mellem\nskoler og erhverv i Greve ansættes der en erhvervsplaymaker pr. 1. januar 2026.</p>\n<p>En erhvervsplaymaker skal understøtte samarbejdet mellem skoler og\nerhvervsliv på mange forskellige måder, og nedenstående er eksempler på opgaver\ni funktionen. </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Netværksdannelse: Erhvervsplaymakeren etablerer og\n    vedligeholder netværk mellem skoler og lokale virksomheder, herunder at\n    afvikle møder, workshops og netværksarrangementer, hvor skolernes og\n    erhvervsvirksomhedernes medarbejdere kan udvikle samarbejdet. </li>\n    <li>Praktikforløb: Koordinering af praktikforløb, hvor\n    elever får mulighed for at arbejde i virksomheder og få praktisk erfaring.\n    </li>\n    <li>Virksomhedsbesøg: Organisering af virksomhedsbesøg,\n    hvor elever kan se, hvordan forskellige virksomheder fungerer, og lærer om\n    forskellige jobroller og karrieremuligheder.</li>\n    <li>Projektarbejde: Facilitering af samarbejdsprojekter\n    mellem skoler og virksomheder, hvor eleverne kan arbejde på virkelige\n    problemstillinger og udvikle løsninger i samarbejde med erhvervslivet.</li>\n    <li>Undervisningsmateriale: Udvikling af\n    undervisningsmateriale i samarbejde med virksomheder, så eleverne får en\n    mere praktisk og relevant læring.</li>\n</ul>\n<p>Erhvervsplaymakeren fungerer altså som en brobygger, der sikrer, at eleverne\nfår adgang til faktiske læringsmiljøer i erhvervslivet, og på den måde får\neleverne reelle praktiske erfaringer. Samtidig får virksomhederne mulighed for\nat præge fremtidens arbejdskraft, og starte en tidlig rekruttering. </p>\n<p><em><strong>Finansiering</strong> </em></p>\n<p>Der er endnu ikke klarhed over den samlede økonomi til kvalitetsløft af folkeskolen, herunder de midler, som kommunen forventes at blive tildelt via DUT-midlerne (DUT\n= Det Udvidede Totalbalanceprincip). Det er dog administrationens forventning, at ansættelsen kan ske indenfor den samlede økonomiske ramme til kvalitetsløft af folkeskolen.  </p>\n<h4>Økonomiske konsekvenser </h4>\n<p>Økonomien til ansættelsen afholdes indenfor rammen af midlerne til kvalitetsløft af folkeskolen.  </p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/dfd54af5-d44a-4aed-b54f-2efa84c60a53",
+          "DocumentId": "dfd54af5-d44a-4aed-b54f-2efa84c60a53"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004941",
+      "Navn": "Reform - Erhvervsplaymaker i Greve",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8048dd6b-ac28-4972-ba81-b56963906239",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "25-004941",
+      "SourceId": null,
+      "Caption": "Reform - Erhvervsplaymaker i Greve",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p>Udvalget ønsker dog, at administrationen allerede nu går i dialog med de faglige organisationer og ledelserne på dagtilbudsområdet og skoleområdet om, hvordan de oplever brugen af AULA. Derudover ønsker udvalget, at temaet bliver behandlet i Center-MED. Eksempelvis hvad der fungerer godt og hvad der fungerer mindre godt. Udvalget ønsker herefter en orientering om, hvad denne dialog har bibragt af viden. </p>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne - og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Den 19. november 2024 behandlede Skole-, Børne- og Ungeudvalget en sag om\nmidtvejsstatus på den kommunale Børne- og Ungepolitik. Udvalget besluttede, at\nde ønskede en sag på kommende dagsorden under overskriften \"AULA - nu og i\nfremtiden?\".</p>\n<p>I sagen orienteres udvalget om baggrunden for indførelsen af AULA, og\nhvordan der fremadrettet arbejdes med brugen af AULA.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at det godkendes, at afvente det nationale initiativ om bedre praksis i brugen af Aula.  </em> </p>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Baggrund for indførelsen af AULA</em></strong></p>\n<p>AULA blev udviklet som en del af Brugerportalsinitiativet, som blev\nbesluttet af den danske regering og KL (Kommunernes Landsforening) i\n2014. </p>\n<p>Initiativet var en udløber af folkeskolereformen, og havde til formål at\nskabe en digital kommunikationsplatform, der kunne understøtte samarbejdet om\nbørns læring og trivsel. Særligt var der fokus på samarbejdet mellem skole og\nhjem. </p>\n<p>AULA blev idriftsat i folkeskolerne i 2019 og i dagtilbud i 2020.</p>\n<p>Skiftet fra <span class=\"SpellE\">SkoleIntra</span>, som var den tidligere\nkommunikationsplatform, til AULA blev drevet af flere faktorer:</p>\n<ul style=\"list-style-type: disc;\">\n    <li><em>Forenkling og brugervenlighed</em><span>:</span> <span class=\"SpellE\">SkoleIntra</span>\n    blev kritiseret for at være komplekst og stressende for forældre på grund\n    af de mange beskeder. AULA blev designet med enkle og overskuelige rammer\n    for kommunikationen, hvilket skulle gøre det lettere for forældre at\n    navigere og finde relevant information </li>\n    <li><em>Overblik og sammenhæng:</em> AULA omfatter både\n    skoler og dagtilbud, hvilket giver forældre mulighed for at følge deres\n    barns udvikling fra vuggestue til skole </li>\n    <li><em>Sikkerhed:</em> Det tidligere system (<span class=\"SpellE\">SkoleIntra</span>)\n    blev udviklet før GDPR, og der var behov for en platform, der kunne\n    håndtere moderne databeskyttelseskrav. </li>\n</ul>\n<p>AULA tilbyder funktioner som beskeder, opslagstavler, kalender og\nugeskemaer, hvilket gør det muligt for skolerne at informere forældrene om\nundervisning og aktiviteter.</p>\n<p><strong><em>De kontraktlige forhold</em></strong></p>\n<p>Kontrakten løber ind til 1. november 2029, og hvis den <span class=\"GramE\">opsiges</span>\ner det med 6 måneders opsigelse, altså til 1. maj 2030. </p>\n<p>Den samlede udgift for AULA på skoleområdet er i 2025 499.501 kr. </p>\n<p><strong><em>AULA og fremtiden - lokalt i Greve </em></strong></p>\n<p>Lokalt i Greve har der været drøftelser med skolerepræsentanterne i Børne-\nog Skolerådet om den fremtidige brug af AULA. Drøftelserne havde afsat i dels\nen bekymring for det tidsforbrug, som medarbejderne på skolerne har i\nforbindelse med kommunikationen mellem dagtilbud/skole og hjem, og dels en bekymring for\nden tone og sprogsprog, som opleves på AULA. Til det sidste skal forstås, at\nder blandt medarbejderne er en oplevelse af, at tonen fra nogle forældre er\nblevet skærpet, og til tider er ubehagelig og grænseoverskridende. Det er\nvigtigt at understrege, at det er fra et klart mindretal af forældrene <span class=\"GramE\">at den skærpede tone</span> opleves, men det er også vigtigt at\ngøre opmærksom på, at der reelt opleves en stigning i antal og i\n\"råhed\". </p>\n<p>Udkommet af dialogen med dagtilbuds- og skolebestyrelserne var, at der ikke er et ønske om\ncentrale tiltag fra administration eller politisk niveau i forhold til regler\nog retningslinjer. Den enkelte bestyrelse håndterer således selv at lave\nretningslinjer for brug og tone på egen institution eller skole. Bestyrelserne kan eks. arbejde med bestemte tidsrammer for svar fra medarbejderne til forældrene, et sprogligt kodeks, begrænsede adgange for bestemte typer af kommunikation etc. </p>\n<p>Til arbejdet i bestyrelserne er\nder et ønske om, at administrationen understøtter med en skabelon/rammesætning\nfor drøftelserne, som bestyrelserne kan tage udgangspunkt i. Denne udarbejdes\nefter sommerferien 2025. </p>\n<p><strong><em><span>AULA og fremtiden -\nnationalt </span></em></strong></p>\n<p>Forligspartierne\nbag kvalitetsløftet af folkeskolen har som et af de i alt 33 initiativer\nbesluttet at der skal kigges på en bedre praksis for brugen af AULA, og\nherunder at der skal nedsættes en arbejdsgruppe, der skal komme med\nanbefalinger til det gode skole-hjem-samarbejde. </p>\n<p>Arbejdsgruppen skal undersøge, hvordan AULA bliver brugt i\ndag, og hvilke udfordringer og fordele der er ved systemet. På baggrund af\nevalueringen skal arbejdsgruppen komme med anbefalinger til, hvordan AULA kan\nforbedres for at understøtte en bedre kommunikation mellem skole og hjem,\nog <span>hvordan systemet kan integreres bedre i\nskolernes dagligdag og understøtte elevernes læring og trivsel</span></p>\n<p><strong><em>Anbefaling</em></strong></p>\n<p>Det er administrationens anbefaling, at vi i Greve afventer den nationale arbejdsgruppes anbefalinger. Når deres arbejde er <span class=\"GramE\">færdigt</span> vil det blive publiceret i en rapport, og\nhovedtrækkene i denne forelægges Skole, Børne og Ungeudvalget til brug for\nvidere drøftelse af den lokale anvendelse af AULA.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cecb51e3-26c7-42e6-8465-6aa55c35daab",
+          "DocumentId": "cecb51e3-26c7-42e6-8465-6aa55c35daab"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004911",
+      "Navn": "Reform - AULA - nu og i fremtiden",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "bf48686e-868f-4f60-b0ea-8589cc740a57",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "25-004911",
+      "SourceId": null,
+      "Caption": "Reform - AULA - nu og i fremtiden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1. - 2. Godkendt med den tilføjelse, udvalget ønsker at administrationen undersøger muligheden for også at indgå driftsoverenskomst med FGU-Skolen Øst.</div>\n<p> </p>\n<br>\n<br>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Skole-, Børne- og Ungeudvalget godkendte på deres møde den 7. januar\n2025 rammen for at udvikle juniormesterlære i Greve Kommune. Denne sag\nomfatter beslutning og delegering, som følger af den særlige bekendtgørelse og\nvejledning om juniormesterlære.</p>\n<h4>Indstilling</h4>\n<h4><span><em>Administrationen indstiller,</em></span></h4>\n<ol>\n    <li><em><span>at juniormesterlære i Greve Kommune, som beskrevet i sagen, godkendes, og</span></em></li>\n    <li><span><em>at uddelegering godkendes, så administrationen kan: a) organisere og tilrettelægge skoledelen af juniormesterlære, b) have tilsyn med virksomheder, der har elever i juniormesterlære, og c) have tilsyn med de praktiske undervisningsforløb, der har elever i juniormesterlære.</em></span></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Baggrund</em></strong></p>\n<p>Juniormesterlære indgår i Folkeskolens kvalitetsprogram. I udformningen\naf ordningen, er der en vis fleksibilitet i forhold til kommunens adgang til at\nplanlægge tilbuddet efter lokale hensyn, for eksempel at juniormesterlære\nsamles på én skole i kommunen.</p>\n<p>Alle elever på 8. og 9. årgang har ret til at vælge juniormesterlære.\nTilsvarende har elever, der starter i juniormesterlære, ret til at vende\ntilbage til og afslutte folkeskolen ordinært.</p>\n<p><strong><em>Kapacitet</em></strong></p>\n<p>I Greve planlægges til opstart med én klasse med maksimalt 25 elever. Klassen samler elever fra 8.\nog 9. årgang, som i skoleåret 2025/26 går sammen og modtager tilpasset\nundervisning. Administration har været i dialog med lederne af udskolingsafdelingerne på kommunens folkeskoler for at få et estimat af antallet af elever, der forventes at ønske at indgå i ordningen. Det er på baggrund af tilbagemeldinger herfra, at der planlægges med én klasse til opstart i august 2025. Hvis det viser sig, at der er elever til mere end én klasse, så oprettes der en klasse mere. </p>\n<p><span>Fra 2026/27 oprettes der årligt en ny 8. klasse, hvorefter der er minimum er én klasse på hver af de to årgange. </span></p>\n<p><span><strong><em>Mosedeskolen er juniormesterlæreskole</em></strong></span></p>\n<p>Mosedeskolen er distriktsskole for elever, der har valgt juniormesterlære. Det følger af, at juniormesterlære samles på én skole i kommunen.</p>\n<p>Valget af Mosedeskolen er sket efter dialog med alle skolelederne på folkeskolerne, og Mosedeskolen er bl.a. valgt da skolen i forvejen har erfaringer med erhvervssamarbejde, og har lærere, der har både relevant erfaring og kontakt til erhvervslivet, og som ønsker at drive arbejdet med Juniormesterlære. </p>\n<p><span><strong><em>Åbent hus og ansøgningsfrist</em></strong></span></p>\n<p>Ansøgningsfristen er sat til den 26. maj, og herefter har administrationen er mere præcist billede af antallet af tilmeldte elever. </p>\n<p>Administrationen afholdte den 7. maj 2025 sammen med Mosedeskolen åbent hus for interesserede elever og forældre. Der kom i alt ca. 70 deltagere, og heraf var ca. 45 deltagere forældre, og ca. 25 deltagere var elever. Til det åbne hus fik forældrene et kort indføring i selve ordningen om juniormesterlære, og så var der oplæg fra en repræsentant fra erhvervslivet. Til stede var også de lærere, som skal drive tilbuddet, og der var repræsentation fra skolevejledningen. </p>\n<p><em><strong>Til- og framelding</strong></em></p>\n<p>Fristen for at tilmelde sig juniormesterlære i 2025/26 er den 26. maj 2025. Fristen er fastsat af hensyn til kunne vurdere og styre kapaciteten i antallet af elever, og af hensyn til planlægning af skoleåret 2025/26. Der er herefter\nløbende optag, forudsat der er plads i juniormesterklassen. </p>\n<p><strong><em>Afbrudt forløb</em></strong></p>\n<p>Eleverne har undervejs i juniormesterlæreforløber mulighed for at melde sig fra ordningen igen. I lovgivningen er det fastsat, at en elev senest kan melde sig fra ordningen den 1. marts i et skoleår. Den enkelte kommune har dog mulighed for at fastsætte en anden dato, og således har Skole-, Børne- og Ungeudvalget ifølge loven mulighed for at sætte en anden frist for, hvornår\nelever i juniormesterlære i 9. klasse senest kan framelde sig og overgå til\nalmindelig undervisning i folkeskolen. Administrationen anbefaler, at kommunen følger datoen fra lovgivningen. </p>\n<p>Skolelederen på den skole, der modtager elever, der vælger at vende tilbage\ntil folkeskolen for at afslutte den almindelige folkeskole ved at aflægge alle\nobligatoriske prøver, foretager en konkret og individuel vurdering af eleven i\nforhold til prøvekravene.</p>\n<p><em><strong>Praktikaftale</strong></em></p>\n<p>Eleven og forældre skal indgå en aftale om praktikforløb med en virksomhed.\nAftalen er en standardformular, som Børne- og Undervisningsministeriet gør\ntilgængelig. Aftalen skal godkendes af Mosedeskolen, der har ansvar for at\nvurdere om aftalen lever op til kravene efter folkeskoleloven og bekendtgørelse\nom juniormesterlære.</p>\n<p><strong><em>Driftsoverenskomst om praktisk undervisning</em></strong></p>\n<p>Hvis det ikke er muligt for en elev og elevens forældre at finde en praktiskplads i en virksomhed, så skal kommunen sørge for at stille praktisk undervisning til rådighed. Den praktiske undervisning skal altså træde i stedet for praktik i en virksomhed. Den praktiske undervisning kan foregå enten på en erhvervsskole, i regi af FGU eller på en ungdomsskole.</p>\n<p>Administrationen har valgt at indgå en aftale med EUC Sjælland om at tilbyde den praktiske undervisning. Undervisningen vil finde sted i Køge. Her har EUC Sjælland en bred vifte af erhvervsuddannelser samlet, og det vil give eleverne i praktisk undervisning en bred vifte af erhvervsuddannelser at blive introduceret til.  </p>\n<p><strong><em>Organisering og ressourcer</em></strong></p>\n<p>Der er, og vil fortsat være, et ressourcetræk i Ungecenteret, <span class=\"SpellE\">ErhvervsCentret</span> og Center for Dagtilbud & Skoler\nfor at udvikle, indgå aftaler med virksomheder og uddannelsesinstitutioner,\nsamt vejlede elever om ordningen.</p>\n<p>Juniormesterklassen på Mosedeskolen udgør hovedparten af de samlede\nudgifter, som Greve Kommune skal finansiere. Der er allokeret to lærere til ordningen, og skolens ledelse har også en del opgaver at varetage. Dertil kommer udgifter til\npraksisfaglig undervisning ved EUC-Sjælland samt at friholde elever fra\nudgifter til transport og <span class=\"GramE\">eksempelvis</span> arbejdstøj\nm.m. </p>\n<p>Den samlede udgift estimeres til mellem 1,2 mio. kr. og 1,4 mio. kr. det første år. Det estimat tager udgangspunkt i, at der etableres én klasse. </p>\n<h4>Lovgrundlag</h4>\n<p>Bekendtgørelse om juniormesterlære, BEK nr. 322 af 20/03/2025 og tilhørende\nVejledning til kommuner om organisering og tilrettelæggelse af\njuniormesterlæreordningen i 8. og 9. klasse, Børne- og <span class=\"SpellE\">Undervisnings-ministeriet</span>\n10/04/25.</p>\n<p>Juniormesterlære indgår i lovforslag om Folkeskolens kvalitetsprogram,\n\"Forslag til lov om ændring af lov om folkeskolen, lov om\nerhvervsuddannelser og forskellige andre love. (Folkeskolens kvalitetsprogram\nm.v.)\"</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Den samlede udgift estimeres til mellem 1,2 mio. kr. og 1,4 mio. kr. det første år. Det estimat tager udgangspunkt i, at der etableres én klasse. </p>\n<p>Der er endnu ikke klarhed over den samlede økonomi til kvalitetsløft af folkeskolen, herunder de midler, som kommunen forventes at blive tildelt via DUT-midlerne (DUT = Det Udvidede Totalbalanceprincip). Det er dog administrationens forventning, at ansættelsen kan ske indenfor den samlede økonomiske ramme til kvalitetsløft af folkeskolen. </p>\n<h4>Høring </h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fa3b30a7-6aee-47e5-8dab-a33fbc783109",
+          "DocumentId": "fa3b30a7-6aee-47e5-8dab-a33fbc783109"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-012408",
+      "Navn": "Reform - Juniormesterlære fra august 2025 for elever i 8. og 9. klasse i Greve Kommune",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "aea5a6eb-8e9d-4ea8-a37e-b26c1711782c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "24-012408",
+      "SourceId": null,
+      "Caption": "Reform - Juniormesterlære fra august 2025 for elever i 8. og 9. klasse i Greve Kommune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget ønsker sagen genoptaget på kommende møde, idet udvalget ønsker, at administrationen undersøger, om Trivselskommissionens formand Rasmus Mejer kan inviteres til at give oplæg om undersøgelsen for interesserede i Greve Kommune.</p>\n<p>Tina Rottbøll (A) stemte imod med en mindretalsudtalelse: \"Greves Kommunes ressourcer kan bruges bedre end på oplysning om Trivselskommissionens arbejde ved Rasmus Meyer. Alternativt et fagligt nærværende oplæg som kan bidrage til inspiration og kvalificering af praksis.\"</p>\n<br>\n<br>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n</p>\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<p>\n</p>\n<div>\n<h4>Resume</h4>\n<h4><span>Trivselskommissionen\nblev nedsat af regeringen den 11. august 2023 og fik til opgave at belyse\ntrivselsudfordringerne og komme med anbefalinger til, hvordan mistrivsel og\nsårbarhed kan forebygges og afhjælpes, samt hvordan robusthed og <span class=\"spelle\">myndiggørelse</span> kan styrkes. </span></h4>\n<h4><span>Målgruppen\nfor arbejdet er den brede, almene gruppe af børn og unge mellem 0-25 år. Den\n25. februar 2025 blev anbefalinger offentliggjort.<br>\n<br>\nMed denne sag skal udvalget drøfte og beslutte, hvorledes der skal arbejdes med\nanbefalinger i Greve Kommune.</span></h4>\n<h4>Indstilling</h4>\n</div>\n<p><em>Administrationen indstiller, at sagen inklusive bilag sendes i høring i\nbestyrelserne på dagtilbudsområdet, skoleområdet og klubområdet, jf. de i sagen\nskitserede spørgsmål godkendes.</em></p>\n<p>\n</p>\n<div>\n<h4>Sagsbeskrivelse</h4>\n</div>\n<p>Trivselskommissionen har været nedsat med en formand og ti medlemmer med\nbred viden om børn og unges trivsel. Ifølge kommissionens hjemmeside og\nafrapportering har kommissionen løbende inddraget yderligere eksperter,\npraktikere, organisationer og relevante aktører.</p>\n<p>Kommissionens afsæt har været et kommissorium, vedlagt sagen som bilag 1. </p>\n<p>Af kommissoriet fremgår følgende blandt andet; </p>\n<p>\n</p>\n<div>\n<ul style=\"list-style-type: disc;\">\n    <li>Børn og unge trives generelt godt i Danmark. De fleste\n    har venner, indgår i fællesskaber både fysisk og digitalt og har et\n    netværk, de kan dele gode såvel som dårlige oplevelser med</li>\n    <li>Undersøgelser viser at mistrivsel blandt børn og unge\n    er en voksende udfordring. Den stigende mistrivsel rammer børn og unge i\n    alle samfundslag, men børn og unge med lav socioøkonomisk baggrund har\n    større risiko for at mistrives</li>\n    <li>Der findes i dag ikke et entydigt svar på, hvorfor\n    flere børn og unge mistrives, eller hvordan udfordringerne løses</li>\n    <li>Kommissionens arbejde skal fokusere på den brede,\n    almene gruppe af børn og unge mellem 0-25 år</li>\n    <li>Kommissionen skal se på, hvordan man fremmer børn og\n    unges generelle trivsel, forebygger mistrivsel samt bedst muligt opsporer\n    og støtter børn og unge i særlig risiko for og med begyndende tegn på\n    mistrivsel.</li>\n</ul>\n</div>\n<p>Af kommissoriet fremgår det <span class=\"grame\">endvidere</span> at\nkommissionens arbejde skal tage afsæt i følgende fire temaer;</p>\n<p>\n</p>\n<div>\n<ul style=\"list-style-type: disc;\">\n    <li>Vi lever sammen: Fællesskaber og relationer </li>\n    <li>Vi kan alle få brug for hjælp: Tidlig indsats og\n    forebyggelse </li>\n    <li>Vi kan godt: Livsmod og robusthed </li>\n    <li>Vi er online: Det gode digitale liv </li>\n</ul>\n</div>\n<p>Den 25. februar 2025 blev anbefalingerne offentliggjort. Administrationen\nhar siden offentliggørelsen forholdt sig til anbefalingerne, sat dem ind i\nkonteksten af den gældende børne- og ungepolitik, det vedtagne børne- og\nungesyn og den besluttede udviklingsretning for Greve Kommune. </p>\n<p><em><strong>Trivselskommissionens anbefalinger<br>\n</strong></em>Trivselskommissionens afrapportering fylder 148 sider\nog er vedlagt sagen som bilag 2.<br>\nMed 148 sider kan en opsummering alt andet lige alene være et udsnit og en\nvurdering af, hvilke dele af afrapporteringen der har størst betydning.\nNedenstående udsnit er således administrationens vurdering af det\nvæsentligste og med afsæt i bilag 3, som er kortere opsummering af\nkommissionens arbejde og anbefalinger.</p>\n<p><em>Trivselsforståelse</em></p>\n<p>Af afrapporteringen fremgår det, at ord som trivsel og mistrivsel bruges i\nflæng i den offentlige samtale. <br>\nSamtidig forstås begreberne mistrivsel og psykisk sygdom tit under ét. Den\nbegrebsmæssige uklarhed betyder dels at den offentlige samtale om (mis)trivsel\nofte bliver ukvalificeret og rodet, dels at det bliver svært både nationalt og\nlokalt at formulere klare og konkrete svar på udfordringerne. </p>\n<p>Kommissionen tager afsæt i WHO´s definition af mental sundhed, som har tre\ndimensioner; </p>\n<p>\n</p>\n<div>\n<ul style=\"list-style-type: disc;\">\n    <li>En oplevelsesdimension, som handler om at have det godt</li>\n    <li>En funktionsdimension, som handler om at kunne fungere\n    godt i sin hverdag og i samspil med andre</li>\n    <li>En ansvarsdimension, som handler om både have evnerne\n    og rammerne til og vilkårene for at kunne tage ansvar for sit eget liv og\n    de fællesskaber, man indgår i </li>\n</ul>\n</div>\n<p>Af afrapporteringen fremgår det, at kommissionen er inspireret af\ndefinitionen fordi, at denne tydeliggør, at trivsel ikke er en følelse af\nkonstant velvære. Det fremgår <span class=\"grame\">endvidere</span> at trivsel\nsnarere dækker over en række egenskaber, der gør den enkelte i stand til at\nhåndtere dagligdagens og livets udfordringer.</p>\n<p>\nEndelig fremgår det, at trivsel er mere og andet end fraværet af psykisk sygdom\nog at man således godt kan være i trivsel og samtidig have en psykisk sygdom\neller udviklingsforstyrrelse, lige som man kan være i mistrivsel uden at have\nen psykisk sygdom eller udviklingsforstyrrelse. </p>\n<p>Det fremgår at trivselskommissionens forståelse af trivsel er følgende; </p>\n<p><em>Man trives, når man overordnet set er glad for sit liv. Man trives, når\nman kan udvikle sig, udfolde sine evner samt indgå i og bidrage til\nfællesskaber. Man kan trives, selv om man oplever perioder med modgang og\nudfordringer. Det afgørende er, at man kan håndtere sådanne perioder. </em></p>\n<p> Endelig fremgår det at kommissionens forståelse af mistrivsel er\nfølgende; </p>\n<p><em>Mistrivsel er oplevelsen af længerevarende utilfredshed med livet, et\nfravær af egenskaber, der gør det muligt at håndtere perioder med modgang og\nudfordringer, manglende tro på egne evner og/eller isolation fra fællesskabet. </em></p>\n<p><em>Anbefalingerne </em><em><br>\n</em>Trivselskommissionens afrapportering indeholder 35 anbefalinger.</p>\n<p>Anbefalingerne afrapporteres under følgende otte\ntemaer;</p>\n<p>\n</p>\n<div>\n<ul style=\"list-style-type: disc;\">\n    <li>Nyt sprog for trivsel </li>\n    <li>Et balanceret digitalt liv </li>\n    <li>Karakterdannelse og <span class=\"spelle\">myndiggørelse</span>\n    </li>\n    <li>En tidssvarende pædagogisk praksis </li>\n    <li>Fællesskaber i tiden </li>\n    <li>Krop og bevægelse </li>\n    <li>Tidlig og rettidig indsats </li>\n    <li>Forældreskab anno 2025 </li>\n</ul>\n</div>\n<p><em><strong>Trivselskommissionens anbefalinger ind i den samlede\nudviklingsretning i Greve Kommune</strong></em></p>\n<p>Trivselskommissionens anbefalinger bevæger sig på både lovgivningsniveau,\nsamfundsniveau og lokalt niveau. Det ligger ikke inden for administrationens\nkompetenceniveau at forholde sig til det lovgivningsmæssige niveau og derfor\nskal nedenstående vurdering i højere grad læses ind i samfundsniveauet og det\nlokale niveau. <br>\n<br>\nDet er administrationens vurdering, at kommissionens anbefalinger bredt set går\nfint i tråd med Greve Kommunes udviklingsretning på børne- og ungeområdet givet\nigennem Børne- og Ungepolitikken, anbefalingerne i den specialpædagogiske\nanalyse og Greve Kommunes Børne- og ungesyn. </p>\n<p><span class=\"grame\">Eksempelvis</span> i form af følgende anbefalinger; </p>\n<p>\n</p>\n<div>\n<ul style=\"list-style-type: disc;\">\n    <li>Anbefaling nr. 1 om en ny måde at tale om trivsel på og\n    at alle skal gøre sig umage med at nuancere sproget om trivsel og\n    mistrivsel </li>\n    <li>Anbefaling nr. 11 om karakterdannelse som en central\n    del af dagtilbud og folkeskole </li>\n    <li>Anbefaling nr. 17 om en tidssvarende pædagogisk praksis\n    i dagtilbud, grundskole og på ungdomsuddannelser </li>\n    <li>Anbefaling nr. 19 om et stærkere almenområde, der\n    understøtter trivsel for flere</li>\n    <li>Anbefaling nr. 24 om at alle børn og unge bør have en\n    fritidsaktivitet sammen med andre </li>\n    <li>Anbefaling nr. 26 om kommunal prioritering af flere\n    børn og unge i fritids- og foreningslivet og samarbejde mellem fritids- og\n    foreningslivet</li>\n    <li>Anbefaling nr. 28 om trygge ungefællesskaber </li>\n    <li>Anbefaling nr. 31 om systematisk opsporing af børn og\n    unge i risiko for mistrivsel </li>\n    <li>Anbefaling nr. 32 om pædagogiske og socialfaglige\n    trivselsindsatser, som en del af lettilgængelige behandlingstilbud </li>\n</ul>\n</div>\n<p><em><strong>Håndtering af trivselskommissionens anbefalinger i Greve Kommune</strong></em></p>\n<p>Som det fremgår ovenfor, er såvel trivselsforståelse som anbefalinger bredt\nset i tråd med den politisk besluttede udviklingsretning i Greve Kommune.\nKommissionens anbefalinger adresserer også et behov for, at det afklares rent\nstyringsmæssigt, hvordan der skal arbejdes med anbefalingerne. <br>\n<br>\nEn række af anbefalingerne falder fint i tråd med det allerede igangsatte\narbejde, <span class=\"grame\">eksempelvis</span> tidlig opsporing og kvalitet på\ndagtilbudsområdet. Det vil således være naturligt om administrationen har fokus\npå anbefalingerne i det videre arbejde, men fastholder børne- og\nungepolitikken, anbefalingerne i den specialpædagogiske analyse og Greve\nKommunes Børne- og ungesyn som de centrale styringsmæssige dokumenter. </p>\n<p>Kommissionens anbefalinger indeholder <span class=\"grame\">eksempelvis</span>\nanbefalinger om smartphonefrie grundskoler og ungdomsuddannelser og dermed en\nkonkret anbefaling om, at gøre grundskoler smartphonefrie – også i SFO og\nfritidshjem/klub. Det fremgår <span class=\"grame\">endvidere</span> at der kan\nvære undtagelser, <span class=\"grame\">såfremt</span> disse anvendes i\nfaglig/pædagogisk kontekst. <br>\n<br>\nDet er således et lokalpolitisk <span class=\"grame\">handlerum,</span> at udstede\net forbud. </p>\n<p>Af budgetforliget for 2025-28 fremgår der et særskilt afsnit under\noverskriften ”Sammen om skolen i Greve Kommune”. Her fremgår det blandt andet\nat <span class=\"spelle\">forligsparterne</span> ønsker at give skolebestyrelserne\nstørre indflydelse på drift, økonomi og udvikling. Det kan tale for at udlægge\narbejdet med trivselskommissionens anbefalinger til bestyrelserne på\nhenholdsvis dagtilbudsområdet, skoleområdet og klubområdet, herunder også at\nforholde sig til et eventuelt forbud mod smartphones i kommunens tilbud på\nområdet. <br>\n<br>\nFor at imødekomme <span class=\"spelle\">forligsparternes</span> ønske om at give\nstørre indflydelse til bestyrelserne foreslår administrationen med denne sag,\nat sende nærværende sag inklusive bilag i høring hos alle bestyrelser med\nfølgende spørgsmål; </p>\n<p>\n</p>\n<div>\n<ul style=\"list-style-type: disc;\">\n    <li><em>Hvordan ønsker I som bestyrelse, at Greve Kommune\n    tilgår Trivselskommissionens anbefalinger?</em></li>\n    <li><em>Skal arbejdet indlejres i den nuværende\n    udviklingsretning eller ønsker I særskilte indsatser i relation til\n    anbefalingerne?</em></li>\n    <li><em>Hvordan forholder I jer specifikt til anbefalingen om\n    smartphonefrie tilbud? Hvem bør i givet fald træffe beslutning om\n    forbuddet; Skole-, Børne- og Ungeudvalget eller den enkelte bestyrelse? </em></li>\n</ul>\n</div>\n<p>Der kan ligeledes argumenteres for at sende sagen i høring i MED-systemet.\nDet er administrationens vurdering at der er medarbejderrepræsentation i\nbestyrelserne og at medarbejderperspektivet kan dækkes af den vej rundt.</p>\n<p>\n</p>\n<div>\n<h4>Økonomiske\nkonsekvenser </h4>\n</div>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<p>\n</p>\n<div>\n<h4>Høring</h4>\n<h4><span>Administrationen\nforeslår, at sagen sendes i høring hos  relevante niveauer i MED organisationen umiddelbart efter udvalget behandling heraf.\n<br>\nHøringsfristen fastsættes til mandag den 25. august 2025, og sagen genoptages på udvalgets møde den 9. september 2025. </span></h4>\n</div>\n<p> </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c0a554fd-fa84-47de-9876-a53b0835321c",
+          "DocumentId": "c0a554fd-fa84-47de-9876-a53b0835321c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005322",
+      "Navn": "Håndtering af Trivselskommissionens anbefalinger",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Kommissorium for Trivselskommissionen",
+          "Id": "d759bfb5-e86b-4567-9e7b-4537a6b8cf3c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Trivselskommissionens afrapportering",
+          "Id": "4863e46d-bb3b-4500-8257-2d92c8fd7ea4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Kort om Trivselskommissionens afrapportering",
+          "Id": "571a5c52-874d-4bbe-864d-c1774433e32f"
+        }
+      ],
+      "Documents": null,
+      "Id": "44da4ac6-3039-4ea6-b19b-91f0d4d305fe",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "25-005322",
+      "SourceId": null,
+      "Caption": "Håndtering af Trivselskommissionens anbefalinger",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\n1. - 2. Godkendt.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne - og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen beskriver de udfordringer i Dagplejen, som er i forbindelse med det stigende antal af ældre dagplejere og udfordringen med rekruttering af nye dagplejere. </p>\n<p>For at sikre en bæredygtig fremtid for Dagplejen foreslår administrationen at iværksætte en proces, der adresserer udfordringerne, og sigter mod at styrke Dagplejen, som en attraktiv pasningsform med et attraktivt arbejdsmiljø for dagplejerne. </p>\n<p>Derudover foreslår administrationen et konkret tiltag med at skabe et gæstehus med fastansatte medarbejdere, som kan varetage gæstefunktionen.</p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller,</em></p>\n<ol>\n    <li><em>at igangsættelse af en proces med henblik på at sikre fremtiden for Dagplejen godkendes, og</em></li>\n    <li><em>at oprettesen af et gæstedagplejehus  med virkning fra den 1. september 2025 godkendes.</em></li>\n</ol>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Dagplejen sikrer børn en tryg pasning i et hjemligt miljø. Over en længere årrække og med et blik ud i fremtiden, ses en bekymrende udvikling hvor en stor del af dagplejerne er blevet ældre og nærmer sig pensionsalderen. Dette samtidig med, at rekrutteringsudfordringerne gør det svært at tiltrække nye og kvalificerede dagplejere. Der er aktuelt 24 dagplejere ansat i Greve Kommune, og heraf er 13 dagplejere over 58 år.  </p>\n<p>Dagplejernes grundlæggende vilkår bliver udfordret i flere sammenhænge. </p>\n<p>Ved fravær ved sygdom, ferie eller andet bliver den fraværende dagplejers børn placeret i gæstepleje hos en anden dagplejer. Det giver et ekstra arbejdspres at tage gæstebørn ind, og for børnene kan det være svært at skulle skifte ind i en ny gruppe, som ikke altid er den samme. </p>\n<p>Derudover oplever dagplejerne begrænset fleksibilitet i jobbet. Således kan man som dagplejer ikke tage en time ud af arbejdsdagen til lægebesøg, tandlæge o.l. Sådanne aktiviteter betyder, at dagplejeren enten skal tage en hel fridag, eller at der meldes en hel sygedag ind ved eks. lægebesøg. </p>\n<p>Ydermere er det svært at lave genopstartsplaner efter længere tids fravær på grund af sygdom, operation eller lignende. Igen handler det om, at dagplejeren skal være fuldt til rådighed hele dagen, og at der ikke kan laves en delvis genoptrapning. </p>\n<p><strong><em>Proces for fremtidens dagpleje</em></strong></p>\n<p>Administrationen foreslår, at udvalget tager stilling til, om der skal igangsætte en proces, som har til sigte at skabe en fremtidig dagpleje i Greve Kommune, hvor struktur og arbejdsvilkår for den enkelte dagplejer er moderne og attraktive. Administrationen ønsker herunder, at udvalget tilkendegiver, hvis der er særlige fokuspunkter, som udvalget ønsker der skal være opmærksomhed på i udviklingen af fremtidens dagpleje. </p>\n<p><strong><em>Konkret forslag til oprettelse af gæstehus</em></strong></p>\n<p>Som et første konkret skridt i udviklingen af dagplejen foreslår administrationen, at der etableres et gæstehus. Initiativet skal bl.a. være med til at øge fleksibiliteten for dagplejerne, og at skabe genkendelighed og kontinuitet for børnene. </p>\n<p>I gæstehuset ansættes 2-3 medarbejdere, der vil fungere som gæstepleje, når dagplejerne er fraværende, og som vikarer for dagplejerne i dagplejerens hjem, hvis de har behov for at gå til kortvarig konsultation hos læge, tandlæge eller lignende.</p>\n<p> Gæstehuset foreslås placeret i Dagplejehuset, som er placeret i Gersagerparken nr. 74. </p>\n<p>Gæstehuset vil kunne skabe:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Rammer som giver børn og forældre en genkendelig og tryg base, når deres dagplejer er fraværende</li>\n    <li>De fastansatte i gæstehuset, vil kunne tage ud og vikariere i dagplejernes hjem, hvilket giver større fleksibilitet i forhold til at kunne gå til tandlæge, læge, skole-/hjemsamtaler og andet i arbejdstiden </li>\n    <li>Give større mulighed for at tilgodese feriedage og ferier</li>\n    <li>Bedre mulighed for pædagogisk sparring, som kan højne kvaliteten i dagplejen</li>\n    <li>Større mulighed for at tage på kursus</li>\n    <li>Bedre mulighed for at skabe et fælles Greve Dagpleje</li>\n    <li>En drift og fleksibilitet, som kan gøre det lettere at rekruttere nye dagplejere </li>\n    <li>Give bedre mulighed for de dagplejere, som har seniorvilkår</li>\n    <li>Give bedre mulighed for langsom optrapning efter længerevarende fravær (sygdom).</li>\n</ul>\n<p>Samtidig giver det den fordel, at børnene ved fravær af den vanlige dagplejer kan blive passet i den samme gruppe som vanligt og ikke blive spredt ud på flere forskellige dagplejere. </p>\n<p>Med et stigende antal dagplejere som nærmer sig pensionsalderen er det administrationens vurdering, at det bl.a. med dette tiltag vil øge attraktionen for nye dagplejere. Hvis det ikke lykkes at tiltrække nye dagplejere, vil det indenfor en kortere årrække ikke længere være muligt at tilbyde dagpleje i Greve Kommune.</p>\n<p>MED-systemet i dagplejen og forældrebestyrelsen for dagplejen har været inddraget. I begge fora er der opbakning til forslaget. </p>\n<h4>Lovgrundlag</h4>\n<p>Dagtilbudsloven § 1, stk. 2.</p>\n<h4>Økonomiske konsekvenser </h4>\n<p>Sagen vil betyde en mindre, samlet merudgift på 0-6 års området. Merudgiften er endnu ikke mulig at beregne præcist, og vil bero på fremtidige søgemønstre mellem vuggestue og dagpleje. Dagplejen har ved de seneste budgetopfølgninger haft større mindreforbrug. </p>\n<h4></h4>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<i>.</i></p>\n<h4>Tidsplan</h4>\n<p>Dagplejehuset er indrettet således at det kan bruges til gæstepleje og kan dermed hurtig blive til et egentligt gæstehus, så snart der er ansat personale til det. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0e38348b-4cdb-4bf6-ae0c-0f78e0c6cd6b",
+          "DocumentId": "0e38348b-4cdb-4bf6-ae0c-0f78e0c6cd6b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005144",
+      "Navn": "Fremtidens dagpleje",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "384397b1-a40c-4280-bd2d-af47663346e7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "25-005144",
+      "SourceId": null,
+      "Caption": "Fremtidens dagpleje",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<br>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne-, og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Med denne sag fremlægges den årlige kapacitetsvurdering for den fremtidige\nefterspørgsel efter pladser på dagtilbuds-, SFO- og klubområdet. Vurderingen danner\ngrundlag for eventuelle tilpasninger af kapaciteten for at imødekomme\nfremtidige behov. Sagen konkluderer, at den planlagte kapacitet på kort sigt er udfordret, og at kapaciteten på mellemlangt sige fra 2026-2032 er tilstrækkelig i relation til den forventede efterspørgsel. Fra 2032 og frem vurderes det, at der igen vil være pres på den samlede kapacitet. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune følger løbende kapacitetsbehovet på dagtilbudsområdet i\nforlængelse af de årlige befolkningsprognoser. Befolkningsprognosen giver viden\nom, hvor mange børn der forventes og kapacitetsvurderingen vurderer det\nkonkrete behov for antal pladser i de kommunale dagtilbud. </p>\n<p>Greve Kommune har i de senere år arbejdet med tilpasning af kapaciteten på\ndagtilbudsområdet som reaktion på et forventet stigende behov. Tilbage fra\nkapacitetsprognosen fra 2017 har det været forventningen, at der ville være\nkapacitetsudfordringer de kommende år. I anlægskataloget til budget 2021-2024\nblev der estimeret ca. 275 manglende daginstitutionspladser i 2023-2024, og på\nden baggrund blev der afsat midler til opførelse af ny daginstitution. Dette\nresulterede i beslutningen om at bygge et nyt dagtilbud i Greve midt, ved\nBorgerhuset, med 150 pladser. Det er ligeledes besluttet, at der med\nrenoveringen af Lunas Ark også sker en udvidelse af kapaciteten.</p>\n<p><strong><em>Kapacitetsvurdering</em></strong></p>\n<p>Kapacitetsvurderingen er en sammenlægning af befolkningsprognosen og den\nfaktiske og forventerede kapacitet. Den anvendte kapacitet i analysen består af\nkommunale og selvejende dagtilbud, herunder dagplejen, privatinstitutioner,\nprivate dagplejer, private pasningsordninger og tilskud til pasning af egne\nbørn. Allerede planlagte udvidelser er medregnet. </p>\n<p>Kapacitetstallene opdateres forud for den årlige analyse og der tages dermed\nhøjde for ændringen i antal pladser i den enkelte institutioner, i antallet af\nkommunale og private dagplejere og i antallet af private passere og familier,\nder passer eget barn.</p>\n<p>Den nye befolkningsprognose opjusterer på de forventede fødselstal med 35-40\nbørn per årgang for årgangene 2025-2028 sammenlignet med den tidligere\nbefolkningsprognose. Niveauet for forventede fødselstal ligger nu på 570-575\nbørn per årgang for årgangene 2025-2028. Årgang 2024 sluttede på 550 børn mod\nforventet 526 børn. </p>\n<p>Kapacitetsvurderingen i 2025 viser, at der fortsat er pres på kapaciteten på\n0-2 års området. I den nye prognose fremgår det, at dette pres forventes at\nstige i de kommende år og i alle år prognosen dækker, forventes der at være for\nfå vuggestuepladser. På 3-5 års området ser ud til, at der i perioden fra\nnovember 2025 til april 2026 vil være manglende kapacitet. </p>\n<p><span>I slutningen af 2025 og den første halvdel af\n2026 kan det blive nødvendigt at tilvejebringe ekstra kapacitet og i en større\ndel af året end vanligt at opskrive kapaciteten i de enkelte dagtilbud til\nderes maksimale kapacitet – kaldet sæsonkapaciteten. Samtidig vurderes det, at\nder på tværs af kommunens dagtilbud skal omlægges børnehavepladser til\nvuggestuepladser.</span></p>\n<p>Fra 2026 og frem til 2032 ser det ud til, at de planlagte udvidelser, sammen\nmed de eksisterende muligheder for kortvarige maksimal udnyttelse af kapaciteten, kan dække\nbehovet. Herefter ser er igen ud til at være pres på kapaciteten. Dog skal der\nher gøres opmærksom, at prognosen så langt fremme er behæftet med\nusikkerhed. </p>\n<p>Denne vurdering bygger på den forudsætning, at Greve Kommune på\ndagtilbudsområdet er ét samlet distrikt. Hermed får familier tilbudt en\ndagtilbudsplads, men ikke nødvendigvis en plads i det ønskede område eller den\nønskede institution. Dette er en vigtig forudsætning, da der i perioder er\nmangel på pladser i enkelte områder og samtidig overskydende plads i andre\nområder.</p>\n<p>Konklusion bygger på nedenstående oversigter over udviklingen år for år.\nAnalysen er foretaget med udgangspunkt i data måned for måned på henholdsvis\nbehov og kapacitet. Der er fastlagt en kapacitet i hvert dagtilbud som tager\nhøjde for blandt andet institutionens indretning, pædagogisk bæredygtighed og\nnaturlig inddeling i vuggestue- og børnehavegrupper. </p>\n<p><em>0-2 års området samlet for Greve Kommune</em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Årstal*</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Forventet behov</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Kapacitet</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Afvigelser mellem kapacitet og behov</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2026</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1150</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1130</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-20</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2027</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1177</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1167</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-10</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2028</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1218</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1167</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-51</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2029</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1225</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1167</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-58</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2030</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1221</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1167</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-54</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2031</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1217</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1167</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-50</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2032</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1211</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1167</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-44</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2033</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1206</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1167</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-35</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>* Der tages udgangspunkt i tallet for december året før, som grundlag for behov\nog kapacitet i det kommende år.</p>\n<p><em>3-5 års området samlet for Greve Kommune</em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Årstal*</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Forventet behov</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Kapacitet</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Afvigelser mellem kapacitet og behov</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2026</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1860</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1807</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-53</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2027</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1875</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1873</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-2</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2028</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1803</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1873</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>70</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2029</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1821</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1873</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>52</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2030</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1861</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1873</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>12</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2031</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1880</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1873</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-7</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2032</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1901</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1873</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-28</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>2033</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1902</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1873</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-29</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>* Der tages udgangspunkt i tallet for december året før, som grundlag for\nbehov og kapacitet i det kommende år.</p>\n<p>Skønnet er forholdsvis sikkert i de første år af kapacitetsvurderingen, mens\nusikkerhedsforholdet stiger i den sidste del af perioden. Det forventes, at de\nmanglende pladser på 0-2 årsområdet kan tilvejebringes ved løsninger, der\nallerede arbejdes med i indeværende år. Det er <span class=\"GramE\">eksempelvis</span>\nved midlertidig omlægning af børnehavepladser til vuggestuepladser, inddragelse\naf lokaler andre steder og udnyttelse af sæsonpladser i en længere periode af\nåret. Presset på kapaciteten <span class=\"grame\">er ser</span>\ndog ud til at blive af et omfang, hvor ganske små udsving kan gøre udfordre at\ntilvejebringe den nødvendige kapacitet. </p>\n<p><em><strong>Den videre proces</strong></em></p>\n<p>Administrationen arbejder løbende på at udvikle gode løsninger i\ndagligdagen, som bevirker at Greve Kommune udnytter den eksisterende kapacitet\noptimalt. Kapacitetsvurderingen viser, at der kan være et mindre behov for at\nøge kapaciteten yderligere end den allerede planlagte, men grundet den\nusikkerhed, der altid er forbundet med prognoser, er det ikke muligt at\nklarlægge størrelsen af et sådant behov.</p>\n<p>Administrationen vurderer på nuværende tidspunkt, at det er sandsynligt, at dette kan løses med justering af de nuværende tiltag.</p>\n<p><em><strong>Prognose for SFO-\nog klubområdet</strong></em></p>\n<p>Den nuværende kapacitet på\nbåde SFO- og klubområdet er tilstrækkelig til at rumme det vurderede behov. Der\nfremlægges derfor ikke yderligere analyse af området. </p>\n<h4>Økonomiske konsekvenser </h4>\n<p>Budgettildelingen på kommuneniveau tilpasses i forbindelse med\nbudgetlægningen. Derudover kan der være økonomiske konsekvenser ved\nmidlertidigt at omdanne børnehavepladser til vuggestuepladser, da det <span class=\"grame\">eksempelvis</span> kræver pusleborde og\nplads til at sove til middag (liggehaller).</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f868db88-8671-4399-92e8-709f541f3121",
+          "DocumentId": "f868db88-8671-4399-92e8-709f541f3121"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005365",
+      "Navn": "Kapacitetsanalyse for dagtilbuds-, SFO- og klubområdet",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Høringssvar fra Handicaprådet DH-Greve",
+          "Id": "b47df9d6-0b93-461f-9089-b5dd3162533d"
+        }
+      ],
+      "Documents": null,
+      "Id": "21b9d095-d58f-4f1f-98dd-273690695446",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "25-005365",
+      "SourceId": null,
+      "Caption": "Kapacitetsanalyse for dagtilbuds-, SFO- og klubområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<br>\n<br>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>På baggrund af befolkningsprognosen har administrationen udarbejdet en kapacitetsvurdering i relation til det fremtidige behov for klasselokaler på skoleområdet. Vurderingen af kapaciteten viser overordnet, at der er den nødvendige kapacitet til rådighed til at håndtere efterspørgslen.</p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller, </em><em>at orienteringen tages til efterretning.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Befolkningsprognosen i tal</em></strong></p>\n<p>Befolkningsprognosen forudsiger følgende udvikling over de kommende 10 år for Greve Kommunes 9 almenskoler:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Samlet stigning på 196 elever fra 5.187 til 5.383 svarende til 3,8 %.</li>\n    <li>Alle skoler undtaget Tune Skole: En stigning på 165 elever fra 4.581 til 4.746 svarende til 3,6 %.</li>\n    <li>Tune Skole: En stigning på 31 elever fra 606 til 637 svarende til 5,1 %.</li>\n</ul>\n<p><strong><em>Kapacitetsvurdering</em></strong></p>\n<p>Kapacitetsvurderingen skabes ud fra årets befolkningsprognose, og viser skønnet over behovet for klasselokaler i den 10-årige periode fra august 2025 til udgangen af skoleåret 2034/35. Kapacitet vurderes ud fra antallet af potentielle klasselokaler, der er rådighed på skolerne, i forhold til det antal klasselokaler, der er nødvendig på de respektive skoler i relation til elevtallet. Ved skolestart august 2025 vil i alt 229 klasselokaler ud af i alt 254 være i brug (fordelt som 31 ud af maksimalt 33 på Tune Skole og 198 ud af maksimalt 221 på de øvrige almenskoler).</p>\n<p>Kapacitetsvurderingen dækker ikke skolernes totale anvendelse af lokalekapaciteten – der er ikke taget hensyn til virkninger af den indskrænkning i lokaler til andet brug, der vil ske med voksende behov for klasselokaler.</p>\n<p>Tilsvarende er der ikke vurderet på muligt behov for flere faglokaler, som et resultat af stigende elevtal og antal stamklasser. </p>\n<p>Denne kapacitetsvurdering dækker heller ikke udnyttelse og behov vedr. lokaler til specialrækkerne på henholdsvis Arenaskolen, Hedelyskolen og Tune Skole. </p>\n<p><strong><em>Skoleindskrivning i Greve Kommune</em></strong></p>\n<p>I folkeskoleloven er det fastsat, at der på den enkelte skole maksimalt må være gennemsnitligt 26 elever pr. spor til skolestart på 0., 1. og 2. klassetrin, mens der på 3. – 9. klassetrin må være 28 elever.</p>\n<p>Skolestyrelsesvedtægten for Greve Kommune fastsætter, at der ved skole skoleindskrivningen kun oprettes hele klasser med mellem 22 til 25 elever pr. klasse i gennemsnit på årgangen.</p>\n<p>Skoledistrikterne vil for elever, der skal begynde skolegang på 0. klassetrin, kunne blive midlertidigt justeret i perioden frem til skolestarten pr. 1. august. </p>\n<p><strong><em>Alle skoler undtaget Tune Skole</em></strong></p>\n<p><strong><em> </em></strong>Kapacitetsanalysen tager her udgangspunkt i, at <em>standardfordelingen</em> af klasser:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>To spor på Arenaskolen, Damagerskolen, Karlslunde Skole</li>\n    <li>Tre spor på Hedelyskolen, Holmeagerskolen, Krogårdsskolen, Mosedeskolen og Strandskolen</li>\n</ul>\n<p>I den fremtid, som skoleprognosen beskæftiger sig med, vil der hvert år ved skolestart i 0. klasse skulle bruges mindst 21 klasser. Da sammenlægninger af klasser på tværs af en årgang på en skole er en sjælden foreteelse, giver prognosen, at den totale anvendelse på længere sigt vil blive 10 * 21 = 210 klasser ud af en samlet kapacitet på 221. Det vil være tilfældet fra skolestart 2031. Ved starten af skoleåret 2025/26 udnyttes 198 af de maksimalt 221 lokaler, der er til rådighed som klasselokaler. </p>\n<p>Når antallet af klasser i perioden stiger med 6,1 %, mens elevtallet kun stiger med 3,8 %, skyldes det, at årgange med et lavere antal klasser end standardfordeling gennem perioden skiftes ud med nye årgange, hvor standardfordelingen er fuldt gennemført. Der vil således overordnet set ske et lille fald i den samlede kapacitetsudnyttelse i og med at den gennemsnitlige klassekvotient på de 8 almenskoler (Tune Skole undtaget) vil falde en smule, fra 22,8 til 22,4 elever pr. klasse.</p>\n<p>Udgangspunktet for en rationel anvendelse af kapacitet og økonomi er, at der hvert år ved skoleindskrivningen pr. 1. april (overførsel af børnehavebørn til SFO/den kommende skole) sker en fordeling af eleverne på skoledistrikterne med maksimum 25 elever i hver klasse, der sikrer, at standardfordelingen bliver overholdt. Skoleprognosen viser, at dette kan lade sig gøre inden for alle år i perioden. </p>\n<p>Skoleprognosen forudser et pres på særligt Mosedeskolen og Strandskolen, hvorfor det vil blive nødvendigt at føre elever til andre skoler ved skoleindskrivningen. I slutningen af perioden vil det tilsvarende også gælde for Krogårdsskolen.</p>\n<p>På baggrund af det forventede pres på de omtalte distrikter er det administrationen vurdering, at det på et senere tidspunkt kan give mening at udarbejde en nærmere analyse af kommunens inddeling af skoledistrikter. Analysen skal afdække om det er relevant med en permanent ændring af distrikterne. </p>\n<p><strong><em>Tune Skole</em></strong></p>\n<p>Tune Skole er som de øvrige store skoler i standardfordelingen en tresporet skole.</p>\n<p>Befolkningsprognosen forudsiger, at der vil være et stabilt og højt antal elever til skolestart i 0. klasse i alle år gennem perioden. I enkelte år – 2027/28 og efter 2031/32 – vil prognosen være særlig følsom, og en tilgang af få elever vil kunne føre til, at der skal være 4 og ikke tre klasser til skolestart. Da skolen maksimalt har 33 klasselokaler til rådighed, betyder det, at der maksimalt 3 gange i løbet af et tiår kan være 4 klasser på et klassetrin. </p>\n<p>Tune skole kan forvente en mindre stigning på den gennemsnitlige klassekvotient, fra 19,5 til 20,5 elever pr. klasse ved periodens slutning.</p>\n<p><strong><em>Generel usikkerhed ved prognosen</em></strong></p>\n<p>Befolkningsfremskrivninger er naturligt nok altid behæftet med en vis usikkerhed. Usikkerheden er størst i slutningen af perioden, og for god ordens skyld skal der gøres opmærksom på, at usikkerheden med hensyn til elever til skolestart er stor efter 2031, da disse børn på nuværende tidspunkt endnu ikke er født.</p>\n<p>Da kapacitetsvurderingen er afhængig af bestemte tærskelværdier angivet i folkeskolelovgivningen, kan den ved ændringer i den aktuelle befolkningsudvikling til forskellige tidspunkter blive særlig følsom.</p>\n<h4>Økonomiske konsekvenser </h4>\n<p>Det stigende børnetal og dermed antal elever og klasser, har indflydelse på den løbende demografiske regulering af budgetter til skolernes løn- og materialeudgifter. Det vil tilsvarende også gælde for den løbende regulering af budgetter til SFO og klubberne.</p>\n<p><strong>Høring</strong></p>\n<p>Der er ikke høringspligt i denne sag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/60e7f603-8033-4504-abbe-92b4ea250b0b",
+          "DocumentId": "60e7f603-8033-4504-abbe-92b4ea250b0b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005375",
+      "Navn": "Kapacitetsanalyse, skoler 2025 til 2035",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Høringssvar fra Handicaprådet DH-Greve",
+          "Id": "ab5459bd-acf2-4ff2-a2c5-2e1476a779cc"
+        }
+      ],
+      "Documents": null,
+      "Id": "b01c3b45-7d93-4ea0-90a0-691414d84641",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "25-005375",
+      "SourceId": null,
+      "Caption": "Kapacitetsanalyse, skoler 2025 til 2035",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Skole-,\nBørne- og <span class=\"spelle\">Ungeudvalget.</span></span></h4>\n<h4>Resume</h4>\n<h4><span>Den 19. november 2024 behandlede Skole-, Børne- og Ungeudvalget en sag om midtvejsstatus på den kommunale Børne- og Ungepolitik. Udvalget besluttede, at de ønskede en sag på kommende dagsorden overgangen fra børnehave til skole for børnene i Greve. </span></h4>\n<h4><span>Sagen\npræsenterer ’Gode Overgange’, Greve Kommunes etablerede overgangsnetværk, der\nsikrer en tryg og god overgang fra dagtilbud til skole for alle børn. Netværket\nsamler fagfolk fra dagtilbud og skoler for at drøfte og udvikle\novergangsarbejdet med fokus på børn med særlige behov og systematisk\nvidensdeling. </span></h4>\n<h4><span>Sagen\nbelyser netværkets kontinuerlige fokus på progression, børneperspektivet og\nforældresamarbejde samt det fremtidige arbejde med implementering af\nmotorikprojektet KaMiBe og revision af det eksisterende overgangsmateriale. </span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<p><strong>Sagsbeskrivelse</strong></p>\n<h4><em><span><strong>Beskrivelse af overgangsnetværket Gode Overgange</strong></span></em></h4>\n<h4><span>For\nat sikre en god overgang fra dagtilbud til skole har Greve kommune et\novergangsnetværk kaldet Gode Overgange. I netværket mødes alle dagtilbud,\nselvejende institutioner og skoler fire gange årligt og drøfter\novergangsarbejdet. Netværket har fokus på at skabe gode og trygge overgange for\nalle Greve Kommunes børn og at sikre at børn (og forældre), der har brug for\nlidt ekstra støtte ved SFO-start, modtager støtten hurtigst muligt i SFO/\nskolen. Netværket arbejder med, at vigtig viden om børn i dagtilbud bliver\noverleveret systematisk til SFO/ skoler og dermed sikre, at børn med behov for\nstøtte ikke bliver overset/glemt i overgangen.</span></h4>\n<h4><span>Overgangsnetværket\narbejder ud fra et kommissorium kaldet Pædagogisk Kontinuitet (bilag 1). I Pædagogisk\nkontinuitet er arbejdsgangen mellem dagtilbud og skole fastlagt, og det er\nbesluttet hvad alle børn har krav på ved overgangen til SFO/ skole.\nKommissoriet beskriver for eksempelvis </span><span>hvilke krav, der er til beskrivelser af børn, diverse deadlines,\nhvornår der skal indkaldes til møder osv.</span></h4>\n<h4><span>Overgangsnetværket\nbestår af pædagoger fra alle storbørnsgrupper i dagtilbud og selvejende\ninstitutioner, SFO-pædagoger, børnehaveklasseledere og alle dagtilbudsledere,\nledere i selvejende institutioner og indskolingsledere.</span></h4>\n<h4><em><span><strong>I fokus for nuværende i </strong></span></em><span class=\"spelle\"><em><span><strong>overgangsnetværket</strong></span></em></span></h4>\n<h4><span>Netværket\nhar et kontinuerligt fokus på at skabe progression, sammenhæng og lærerige\nforløb for alle børn i overgangen, uanset deres forudsætninger. Netværket\narbejder med udgangspunkt i Greve kommunes Børne- og Ungesyn, et skærpet fokus\npå børneperspektivet samt et stærkt forældresamarbejde i forbindelse med\novergangen fra dagtilbud til SFO/skole. </span></h4>\n<h4><span>I\novergangsnetværket er der fokus på, hvordan børn bedst muligt hjælpes i\novergangen mellem dagtilbud og skole. Netværket har i samarbejde med PPR, for\neksempel, drøftet børns skoleparathed. Centralt i drøftelserne var, hvordan\ndagtilbud og skoler i fællesskab kan fremme skoleparathed og håndtere\nvurderingen af eventuel skoleudsættelse. </span></h4>\n<h4><span>Derudover\ngives der, på netværket, rum for, at de enkelte dagtilbud og skoler kan\nadressere lokale udfordringer og indgå aftaler. Overgangsnetværket giver altså\nmulighed for at drøfte aktuelle problemstillinger og udfordringer men også for\nat indsamle gode erfaringer og ideer, alt sammen for at gøre den kommende\novergang bedst mulig for Greve kommunes børn. </span></h4>\n<h4><em><span><strong>Det fremtidige arbejde i overgangsnetværket</strong></span></em></h4>\n<h4><span>Skole-,\nBørne, og Ungeudvalget besluttede den 4. februar, 2025 (pkt. 2) at arbejdet med\nmotorikprojektet KaMiBe integreres i overgangsarbejdet mellem dagtilbud og\nskoler. Det vil betyde, at første gang hvor KaMiBe benyttes som en del af\novergangskonceptet, vil være ved SFO-start i april 2026. </span></h4>\n<h4><span>I\nefteråret 2024 blev der nedsat en arbejdsgruppe hvis formål var at gennemgå og\njustere det eksisterende overgangsmateriale. Arbejdsgruppen er desuden optaget af at gøre\nnetværksmøder endnu mere relevante og nærværende for praktikerne. Det kan blandt\nandet ske ved at afholde adskilte møder for ledere og for pædagoger/lærere. Dette\nfor at have et stærkere fokus på henholdsvis pædagogik for pædagoger/lærere og organiserings-/ledelsesunderstøttelse\nfor ledere.</span></h4>\n<h4><span>Med\ninspiration fra Thomas Nordahl vil arbejdsgruppen også være optaget af at\nstyrke systematikken i overgangsarbejdet samt at hvordan der kan indsamles relevante\ndata med henblik på evaluering og kvalitetsforbedringer. Thomas Nordahl er professor i pædagogik, og er tilknyttet Universitetet i Inlandet i Norge og Ålborg Universitet i Danmark. Thomas Nordahl har i en lang årrække forsket i en bred vifte af temaer på både skoleområdet og dagtilbudsområdet, og herunder har bl.a. forsket i overgange mellem dagtilbud og skoler. </span></h4>\n<h4><span>Ovenstående\nproces er pågående og sker i sammenhæng med implementeringen af KaMiBe.\nArbejdet forventes at løbe frem til skolestart 2026 og forventes at give et\novergangsmateriale der sikrer en god overgang, er simpelt og anvender KaMiBe. </span></h4>\n<h4>Lovgrundlag</h4>\n<h4><span>Dagtilbudsloven\n§7, stk. 5. er rammesættende for overgangsarbejdet, der står: ”Dagtilbud skal i\nsamarbejde med forældrene sikre børn en god overgang fra hjem til dagtilbud.\nDagtilbud skal <span class=\"grame\">endvidere</span> i samarbejde med forældre og\nskole sikre børn en god sammenhængende overgang mellem dagtilbud og fra\ndagtilbud til fritidstilbud og skole ved at udvikle og understøtte deres\ngrundlæggende kompetencer og lysten til at lære.”</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/35a76002-5faf-4772-8d08-361ba3b7ab54",
+          "DocumentId": "35a76002-5faf-4772-8d08-361ba3b7ab54"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004938",
+      "Navn": "Gode overgange",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Pædagogisk kontinuitet og samarbejde Skoleår 2024 - 2025",
+          "Id": "16f1de6b-903e-49ce-9c6c-a4cd74ae1aed"
+        }
+      ],
+      "Documents": null,
+      "Id": "6c74db13-4a8d-4324-a939-03ca6f9a7b5c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "25-004938",
+      "SourceId": null,
+      "Caption": "Gode overgange",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Anbefales med bemærkning om, at det frem mod behandling i Økonomiudvalget og Byrådet undersøges, hvorvidt den frembragte initiativretssag på Byrådets møde den 19. marts 2025 vedrørende behandlingsskoler har betydning for Greve Kommune deltagelse i udbuddet.</p>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet</p>\n<h4>Resume</h4>\n<p>Med denne sag træffes der beslutning om, hvorvidt Greve Kommune skal\ntilslutte sig et fælles udbud af behandlings- og specialundervisningstilbud\nsammen med 28 andre kommuner på Sjælland. Udbuddet vil forventeligt øge\nkvaliteten og føre til mere konkurrencedygtige priser.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at det godkendes, at Greve Kommune\ntilslutter sig fælles udbud af behandlings- og specialundervisningstilbud.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Københavns Kommune udbyder i efteråret 2025 behandlings- og\nspecialundervisningstilbud (tidligere kaldet dagbehandling) til børn og\nunge sammen med 28 øvrige kommuner på Sjælland. Greve Kommune har\nmuligheden for at tilslutte sig det fælles udbud frem til 1. august 2025.</p>\n<p>Et behandlings- og specialundervisningstilbud er visiteret efter Barnets Lov\nog Folkeskoleloven.</p>\n<p>Greve Kommune havde i 2024 cirka 45 børn i behandlings- og\nspecialundervisningstilbud. Udgiften i 2024 var cirka 25 mio. kr. og\ngennemsnitsprisen var cirka 550.000. kr. pr. år.  </p>\n<p><strong><em>Udbuddet</em></strong></p>\n<p>Udbuddet gennemføres for tredje gang af Københavns Kommune. I det seneste\nudbud (2020-2025) deltog 18 omegnskommuner, og denne gang er de øvrige kommuner\npå Sjælland inviteret ind. Indtil videre har i alt 28 kommuner tilkendegivet,\nat de vil deltage. </p>\n<p>Udbudsmaterialet består en kravspecifikation og et aftalegrundlag, som\ntilsammen udgør rammen for den kvalitet og faglighed, som tilbuddene skal\nlevere. Udbudsmaterialet er under udarbejdelse, men fra den nuværende\nkravspecifikation, kan det fremhæves, at der stilles krav om:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>plan for <span class=\"spelle\">tilbageslusning</span>\n    til almenskolen, </li>\n    <li>indsatser for skolevægring, </li>\n    <li>pasning i ferier og krav om heldagstilbud</li>\n    <li>fuld fagpakke og faglokaler</li>\n    <li>familiebehandling og inddragelse af netværk</li>\n    <li>understøttelse af barnets deltagelse i\n    fritidsaktiviteter</li>\n    <li>nedsat betaling ved nedsat skema</li>\n</ul>\n<p>Rammeaftalen er inddelt i delaftaler svarende til de kommuner som er\ntilsluttet udbuddet. De behandlings- og specialundervisningstilbud, som byder\nind med det ’bedste forhold mellem pris og kvalitet’ på den enkelte delaftale\nvinder. Priserne vil på forhånd være låst af et prisspænd, som et behandlings-\nog specialundervisningstilbud skal holde sig indenfor. Prisspændet vedrører\nkategoriseringen af barnet/den unges behov. Jo større støttebehov, jo højere\npris.</p>\n<p>Kvalitativt vurderes behandlings- og specialundervisningstilbuddene på deres\nbesvarelse en række spørgsmål vedrørende undervisningsdelen, behandlingsdelen\nsamt samarbejdet med forældre og fagpersoner. </p>\n<p>Valg af behandlings- og specialundervisningstilbud til barnet/den unge vil\naltid bero på en konkret og individuel vurdering. Med udgangspunkt i barnets/\nden unges behov og den geografiske nærhed træffes der afgørelse om valg af et\nbehandlings- og specialundervisningstilbud der er tilsluttet udbuddet. </p>\n<p>Aftalen er ikke-eksklusiv, dvs. at Greve Kommune fortsat kan visitere til\ntilbud uden for aftalen, hvis det vurderes bedst for barnet/den unge.</p>\n<p>Det er administrationens vurdering, at tilslutning til et fælles udbud vil\nbidrage til:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Højere faglig kvalitet i tilbuddene særlig i forhold\n    til tilsyn med progression og <span class=\"spelle\">tilbageslusning</span>\n    til almenområdet.</li>\n    <li>Styrke det tværkommunale samarbejde om tilbud på det\n    specialiserede børneområde, som er en del af de fælleskommunale principper\n    som kommunerne i Region Sjælland har tiltrådt.</li>\n    <li>Styrke konkurrencen på markedet for behandlings- og\n    specialundervisningstilbud og bidrage til konkurrencedygtige priser.</li>\n    <li>Forsyningssikkerhed. Et behandlings- og\n    specialundervisningstilbud er kun forpligtet til at levere pladser til de\n    omfattede kommuner. Hvis Greve Kommune står udenfor, kan det betyde færre\n    pladser, færre leverandører og potentielt højere priser.</li>\n</ul>\n<p>Rammerne for udbuddet\nunderstøtter Greve Kommunes vision, Børne- og Ungepolitik og Børne- og Ungesyn,\nblandt andet for det der vedrører, fællesskaber, læring, trivsel, familie og\nnetværk. Desuden understøtter det, den ønskede effekt der vedrører at flere\nbørn og unge med særlige behov modtager relevant støtte og opnår\ndeltagelsesmuligheder enten i almenmiljøet eller tættere koblet til\nalmenmiljøet. </p>\n<h4>Lovgrundlag</h4>\n<p>Barnets Lov, Folkeskoleloven, udbudsloven. </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Omkostningen til juridisk bistand og projektledelse af udbuddet afholdes af\nkommunerne i fællesskab. Greve Kommunes andel udgør 75.000 kr. i 2025 og 75.000\nkr. i 2026. Udgiften finansieres inden for Pædagogisk Psykologisk\nRådgivnings eksisterende økonomiske ramme.</p>\n<h4>Høring</h4>\n<p><strong><span>Sagen sendes i høring i\nHandicaprådet med frist den 1. juni 2025 kl. 15.00.</span></strong></p>\n<h4>Tidsplan</h4>\n<p>Udbuddet offentliggøres i september/oktober 2025 og aftalerne træder i kraft\n1. august 2026.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/502d56f5-b747-448a-ab2f-785f701740e7",
+          "DocumentId": "502d56f5-b747-448a-ab2f-785f701740e7"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-006410",
+      "Navn": "Tilslutning til fælles udbud af behandlings- og specialundervisningstilbud",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b03571c2-4b68-46cc-8cc7-4d2749760259",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "25-006410",
+      "SourceId": null,
+      "Caption": "Tilslutning til fælles udbud af behandlings- og specialundervisningstilbud",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Udvalget takker borgerne for de mange forskellige navneforslag. <br>\nUdvalget besluttede, at den nye institution skal navngives ”Børnehuset Rådhushaven”, jf. forslag 9 af de indkomne forslag. Baggrunden herfor er, at det kommende børnehus er beliggende på grunden for det tidligere rådhus og af respekt for historien kombineres med udviklingen af et moderne børnehus. <br>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Den 25. marts 2025 (pkt. 4) besluttede Skole-, Børne- og Ungeudvalget at\nigangsætte en borgerinddragende proces med henblik på at navngive den nye\ndaginstitution ved Greve Borgerhus. Konkurrencen er nu afsluttet. I denne sag\nfremlægges de indkomne 84 navneforslag, og udvalget skal træffe beslutning om\ninstitutionens navn, så den nye daginstitution kan navngives. </p>\n<h4>Indstilling</h4>\n<h4><em><span>Administrationen indstiller, at\nnavnet på den nye daginstitution ved Greve Borgerhus ud fra de 84 indkomne\nborgerforslag godkendes.</span></em></h4>\n<h4>Sagsbeskrivelse</h4>\n<p>En ny daginstitution ved Greve Borgerhus er under opførelse og forventes\nklar til at modtage op til 150 vuggestue- og børnehavebørn i sommeren 2026.\nInstitutionen opføres i to plan og udformes som et multifunktionelt byggeri,\nder uden for åbningstid også vil stille faciliteter som bevægelsessal og\nfællesrum til rådighed for kommunens øvrige borgere.</p>\n<p>Byggeriet består af fire sammenhængende gruppehuse, der omkranser et\ncentralt hjerterum, hvor børnene kan samles på tværs af grupperne. To af\ngruppehusene indeholder grupperum til vuggestue- og børnehavebørn, mens de\nøvrige rummer køkken, personalefaciliteter og servicefunktioner.\nDaginstitutionen er tegnet af Friis & Moltke Arkitekter og opføres af\nSkovby Entreprise. En nærmere beskrivelse af projektet fremgår af bilag 1.</p>\n<p>Med henblik på at inddrage borgerne i navngivningen af institutionen blev\nder den 8. april 2025 iværksat en navnekonkurrence via kommunens Facebookside.\nKonkurrencen løb over tre uger og mødte stor interesse blandt borgerne.\nOpslaget blev vist 44.858 gange og modtog 115 likes, 121 kommentarer samt 295\nlikes på kommentarerne. I alt indkom der 84 unikke navneforslag fra borgere i\nforskellige aldersgrupper. De indkomne navneforslag er samlet og vedlagt som\nbilag 2.</p>\n<p>På baggrund af de indkomne navneforslag har administrationen foretaget en\nudvælgelse af fem navne, som er kendetegnet ved deres enkelhed.</p>\n<p>De fem navne, som administrationen indstiller til beslutning, er:</p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Børnehuset Lillevang</li>\n    <li>Børnehuset Klatretræet</li>\n    <li>Børnehuset Spiren</li>\n    <li>Børnehuset <span class=\"spelle\">Grevlingen</span></li>\n    <li>Børnehuset <span class=\"spelle\">Børnebakken</span></li>\n</ol>\n<p>De foreslåede navne er udvalgt med henblik på at afspejle enten en lokal\nforankring eller er inspireret af naturen. Navnene er desuden kendetegnet ved\nat være korte, enkle og lette at udtale, hvilket gør dem anvendelige i daglig\nbrug.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag.</p>\n<h4>Kommunikation</h4>\n<p>Det valgte navn offentliggøres via kommunens Facebookside og kommunens\nøvrige informationskanaler.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4e5a1509-df2c-46d0-a33d-4da1e4bb1002",
+          "DocumentId": "4e5a1509-df2c-46d0-a33d-4da1e4bb1002"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-004795",
+      "Navn": "Ny daginstitution ved Borgerhuset - navngivning",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Ny daginstitution ved Borgerhuset projekt",
+          "Id": "f2541f1b-e2db-4821-8d3d-b2d5a00be230"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Navneforslag til ny daginstitution",
+          "Id": "97a0b4e8-df86-4e30-983b-d253863c7f37"
+        }
+      ],
+      "Documents": null,
+      "Id": "dd49114d-464d-4273-8107-dca1b0cfaaf5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "24-004795",
+      "SourceId": null,
+      "Caption": "Ny daginstitution ved Borgerhuset - navngivning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Skole-, Børne- og Ungeudvalget.</span></h4>\n<h4>Resume</h4>\n<h4><span>Skole- Børne og Ungeudvalget har på mødet\n25. marts 2025 ønsket en beskrivelse af, hvordan sagsgangen i samarbejdet\nmellem dagtilbud/skoler og PPR fungerer i praksis, herunder hvordan Pædagogisk Psykologisk Rådgivnings (<span class=\"SpellE\">PPR)</span> ressourcer prioriteres. I denne sag er det beskrevet, hvordan der arbejdes med deltagelsesmuligheder og med visitation til\nspecialtilbud.</span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget tager orienteringen til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Kommune ønsker at styrke mulighederne for deltagelse, så flere\nbørn med særlige behov får en hverdag, der ligger tæt op ad den, som børn i\nalmindelighed har. Det er hensigten, at alle børn trives, udvikler sig og\nlærer.</p>\n<p>Derfor arbejdes der med at understøtte børns udvikling i deres\nalmenmiljøer. Det er naturligvis vigtigt, at alle børns sociale og faglige\nudvikling følges, så deres behov tilgodeses. </p>\n<p>Nogle børn har behov for særlige udviklingsstøttende indsatser i deres\nklasse. Indimellem har nogle børn behov for at modtage deres skoletilbud i et\naf Greve Kommunes specialtilbud i en periode. Udgangspunktet for dette er\nbeskrivelsen af det enkelte barns behov. Der visiteres ikke til indsatser på\nbaggrund af en diagnose.</p>\n<p><em><strong>Udviklingsstøttende\nindsatser - skoleområdet</strong></em></p>\n<p>Der kan iværksættes forskellige typer af udviklingsstøttende indsatser,\nnår et barn ikke trives. Der kan <span class=\"GramE\">eksempelvis</span> være tale\nom:</p>\n<p>1) Specialpædagogisk rådgivning mv. til fx forældre, lærere og pædagoger.</p>\n<p>2) Særlige undervisningsmaterialer og tekniske hjælpemidler, som er\nnødvendige i forbindelse med undervisningen af barnet.</p>\n<p>3) Undervisning i folkeskolens fag og fagområder, der tilrettelægges\nunder særlig hensyntagen til barnets indlæringsforudsætninger. </p>\n<p>4) Undervisning og træning i funktionsmåder og arbejdsmetoder, der tager\nsigte på at afhjælpe eller begrænse virkningerne af psykiske, fysiske,\nsproglige eller sensoriske funktionsvanskeligheder.</p>\n<p>5) Personlig assistance der kan hjælpe barnet til at overvinde\npraktiske vanskeligheder i forbindelse med skolegangen.</p>\n<p>Det er skoleleder, der iværksætter indsatser for klasser, grupper af\nbørn eller enkeltbørn på skolen i samarbejde med Pædagogisk Psykologisk\nRådgivning (PPR).</p>\n<p>Jf. Greve Kommunes børne- og ungesyn er kontekstens for barnets trivsel\nafgørende og derfor udmøntes støtten med henblik på at understøtte\nbørnefællesskabet. Det er et brud med tidligere måder at arbejde på – altså at\ngå fra individbaserede tiltal til tiltag i den kontekst barnet indgår i. <br>\nDet er endnu ikke sådan, at det er indarbejdet i alle dele af støtte og\nkompenserende tiltag, men Greve Kommune arbejder i den retning. </p>\n<p>Inden PPR bliver bragt ind i givne udfordringer, er der arbejdet lokalt\npå at afhjælpe givne problemstillinger. På skolerne – og i kommunens\ndaginstitutioner – er der faguddannet personale med ekspertise i forskellige\npædagogiske tiltag. Det kan <span class=\"GramE\">eksempelvis</span> være\ninkluderende dagbehandlere, inklusionsvejledere, trivselsmedarbejdere, faglige\nvejledere etc. <br>\n<br>\nDer iværksættes aldrig PPR tiltag uden at skolen, eller institutionen, kan\ndokumentere hvilken særlig indsats der er gjort for at afhjælpe en given udfordring.\nDette sker dels for at sikre, at en <span class=\"GramE\">PPR indsats</span> står\npå skuldrene af godt pædagogisk arbejde og dels for at sikre, at <span class=\"GramE\">PPR ressourcer</span> bruges mest hensigtsmæssig i relation til en\nudfordrings omfang. </p>\n<p>Dette iværksættes efter Folkeskolelovens § 3, stk. 2 </p>\n<p><em><strong>Drøftelse\naf specialtilbud udenfor almenskolen</strong></em></p>\n<p>Indimellem har nogle børn behov for at modtage deres skoletilbud i et af\nGreve Kommunes specialtilbud i en periode. Dette drøftes på møde med Det\nCentrale Visitationsudvalg (CVI).</p>\n<p>Der lægges i drøftelsen vægt på barnets funktionsniveau og behov samt\npå, hvilke inkluderende indsatser i almenskolens læringsmiljø, der har været\narbejdet med eller ses at kunne arbejdes med for at skabe trivsel og faglig\nudvikling for barnet. En diagnose giver ikke ret til specialpædagogisk bistand.\nDette er præciseret i lovgivningen. Det er barnets behov, der er afgørende for\nbeslutningen om den specialpædagogiske bistand.</p>\n<p>Skolelederen fremsender indstillingsskema til drøftelse med Det Centrale\nVisitationsudvalg (CVI). Som grundlag for vurdering og afgørelse skal der\nforeligge en pædagogisk psykologisk vurdering, samt en skoleudtalelse. Hvis der\nforeligger børnepsykiatriske undersøgelser eller andre fagpersoners\nbeskrivelser/udtalelser vedrørende barnets ressourcer, vanskeligheder og behov,\nvedlægges de som bilag.</p>\n<p>Skoleleder drøfter barnets behov på møde med CVI og træffer afgørelse\nom, hvilket specialundervisningstilbud barnet tilbydes. Afgørelsen meddeles\nskriftligt til forældrene med kopi til skoleleder, inklusive klagevejledning.</p>\n<p>Det Centrale Visitationsudvalg har 4 faste medlemmer:</p>\n<ul>\n    <li>Leder af Pædagogisk Psykologisk Rådgivning (formand)</li>\n    <li>Leder fra Familierådgivningen</li>\n    <li>Fagspecialist fra PPR</li>\n    <li>Souschef i Center for Dagtilbud & Skoler</li>\n</ul>\n<p>Iværksættelse af specialundervisning sker efter Folkeskolelovens § 20\nstk. 2 og Bekendtgørelse nr. 693 af 20. juni 2014 om folkeskolens\nspecialundervisning og anden specialpædagogisk bistand og på baggrund af\nindstilling fra skolelederen efter drøftelse med barnets forældre og\nindstilling til PPR.</p>\n<p><strong><em>Undersøgelse\nog vurdering</em></strong></p>\n<p>Skoleleder indstiller efter aftale med forældrene til en pædagogisk psykologisk vurdering (PPV) af PPR. PPR foretager efter aftale med forældrene en pædagogisk psykologisk vurdering og opgør på baggrund heraf forslag til, hvordan de specialpædagogiske behov kan imødekommes. Det er CVi, der på baggrund af den samlede indstilling fra skolen, der træffer afgørelse om et eventuelt specialundervisningstilbud. Omfanget af en PPV fylder ca. 8 til 12 sider og udarbejdes over en periode på ca. 3 måneder. Arbejdet tilrettelægges i samarbejde med skolen ledelse, og der tages her hensyns til det enkelte barns behov og den samlede opgave portefølje. Udarbejdelsen sker blandt andet ved dialog med barnet og dets forældre, og de tilknyttede pædagoger og lærere. Der indgår observationerne i barnets dagligdagsmiljø samt eventuelle relevante test.</p>\n<p><span><em>Revisitation</em></span></p>\n<p>Skolelederen, forældre og PPR drøfter mindst én gang om året om barnets\nspecialundervisningstilbud skal fortsætte, ændres eller ophøre.</p>\n<p>Revisitationen drøftes herefter i CVI med deltagelse af skoleleder fra\nbåde specialtilbud samt almenskolen. Afgørelsen meddeles skriftligt til\nforældrene, inklusive klagevejledning.</p>\n<p><strong><em>Årshjul</em></strong></p>\n<p>Det Centrale Visitationsudvalg arbejder systematisk ud fra et årshjul,\nhvor der er fastsat datoer for de ordinære visitationsmøder, visitationsmøder\nfor skolebegyndere og for <span class=\"SpellE\">revisitationer</span>. Hertil\nkommer akutvisitationer. Akutvisitationer skal forstås som visitationer der\nikke kunne forudses og som ikke kan vente til næste ordinære visitationsmøde.\nEt barns mistrivsel opstår sjældent fra det ene øjeblik til det andet og jf.\novenstående skal skolen, eller institutionen, fortløbende arbejde med\ninkluderende tiltag i barnets dagligdagsmiljø.</p>\n<p><strong><em>Prioritering\naf ressourcer</em></strong></p>\n<p>Pædagogisk Psykologisk Rådgivning består af en række forskellige\nfaggrupper, som samarbejder med og understøtter både almenområdet, dagtilbud og\nskoler samt specialområdet. Der er følgende faggrupper:</p>\n<p>Psykologer, ca. 15 årsværk</p>\n<p>Logopæder, ca. 10 årsværk</p>\n<p>Specialpædagogiske konsulenter, ca. 7 årsværk</p>\n<p>Ressourcepædagoger og pædagogiske vejledere, ca. 17 årsværk</p>\n<p><span class=\"SpellE\">Fysio</span>- og ergoterapeuter, ca. 3,5 årsværk</p>\n<p>Fagspecialister og konsulenter, ca. 3 årsværk.</p>\n<p>Medarbejderne i PPR betjener:</p>\n<p>31 dagtilbud: 155 stuer</p>\n<p>9 folkeskoler: 233 klasser</p>\n<p>5 specialtilbud: 193 børn</p>\n<p>4 basisgrupper: 20 børn</p>\n<p>Der er stor efterspørgsel efter <span class=\"SpellE\">PPR’s</span>\nressourcer og det kræver en naturlig prioritering. PPR arbejder med at\nprioritere ressourcerne der hvor behovet er størst. I relation til de enkelte\nbørn foretages der konkrete og individuelle vurderinger af hvilke sager der er\nmest presserende. Der vil derfor altid være responstid på indsatser fra PPR,\nmen man tilstræber altid at prioritere på bedste vis.</p>\n<p>Jf. den specialpædagogiske analyse arbejdes der på at sikre gode\ninkluderende læringsmiljøer enten i eller tæt på almenområdet. I takt med at\nudviklingsretningen lykkes vil der blive mindre efterspørgsel på at udarbejde <span class=\"SpellE\">PPV`er</span>, hvilket vil frigive PPR ressourcer til at indgå i\nden enkelte skoles eller institutions dagligdag – samtidig med at børn og unge\nkan blive sammen med deres kammerater og tæt på det miljø og de fritidstilbud,\nhvor de bor. </p>\n<h4>Lovgrundlag</h4>\n<p>Folkeskoleloven og Bekendtgørelse om folkeskolens specialundervisning og\nanden specialpædagogisk bistand.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/990c9382-f1ca-41bc-bae6-483a82d75fee",
+          "DocumentId": "990c9382-f1ca-41bc-bae6-483a82d75fee"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005439",
+      "Navn": "Visitation og ressourcer i Pædagogisk Psykologisk Rådgivning",
+      "Punktnummer": "13",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Høringssvar fra Handicaprådet DH-Greve",
+          "Id": "0e5c0cbd-b053-4eb6-82d9-2c642bb852eb"
+        }
+      ],
+      "Documents": null,
+      "Id": "5c97d9a9-65ba-455b-881b-36e62f66ece2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "25-005439",
+      "SourceId": null,
+      "Caption": "Visitation og ressourcer i Pædagogisk Psykologisk Rådgivning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>Orienteringen blev taget til efterretning.<br><p></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e5328cbf-cd71-4a23-8ef3-43c0ba51eb9c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning idet udvalget ønsker en orientering på et kommende møde vedrørende toiletforhold i skolerne, herunder forhold omkring rengøring og eventuel opdeling af toiletter. </p>\n<p>Udvalget ønsker endvidere en sag på et kommende møde om udmøntningen af midler til forberedelse i dagtilbud som besluttet i budgetforlig 2025-2028. </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole- og Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om aktuelle emner.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><i>Administrationen indstiller, at orienteringer tages til efterretning.</i></em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Formanden orienterer om:</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/957e5ed0-5621-4a6b-8cb7-40d2c8fae87a",
+          "DocumentId": "957e5ed0-5621-4a6b-8cb7-40d2c8fae87a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "15",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "dbeb82de-8eee-4299-9fdc-9ea869cce722",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.</p>\n<p>Vedrørende orienteringen om anvendelse af køleskabe på skolerne ønsker udvalget, at skolebestyrelserne spørges til deres holdning til at anskaffe køleskabe på skolerne. En eventuel anskaffelse vil være under forudsætning af, at skolerne selv afholder udgifterne til anskaffelse, rengøring og drift. Udvalget understreger, at varetagelsen af rengøringen ikke må foretages af skolens personale. </p>\n<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationen giver et kort overblik over orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p> Administrationen har følgende til orientering:</p>\n<p><em><strong>- Opfølgning på behandling af sag om midtvejsstatus på politikker - udvalget mangler at behandle en enkelt opfølgning. Denne kommer på august-mødet. </strong></em></p>\n<p><em><strong>- Orientering om rammer og regler for brug af køleskabe på skoleområdet. </strong></em></p>\n<p><em><strong>- Orientering fra kvalitetsundersøgelse på dagtilbudsområdet, orientering fra KL og Børne- og Undervisningsministeren samt indbudt infomøde (bilag 1 og 2).</strong></em></p>\n<p><em><strong>- Orientering om status på forsøgsordning med skolemad </strong></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/43926993-07eb-4e54-88d4-1cb6ca74f928",
+          "DocumentId": "43926993-07eb-4e54-88d4-1cb6ca74f928"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "16",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Brev fra Børne- og Undervisningsministeren",
+          "Id": "e15e2b57-f666-4981-93a5-25224cd4f546"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Remedieret materiale - Kvalitet i dagtilbud",
+          "Id": "de654d0e-9932-4626-bf72-3cb90aacff0d"
+        }
+      ],
+      "Documents": null,
+      "Id": "489d28a9-2227-4ce4-94ca-6f11a13312f4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "16",
+      "Sorting": 16,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Skole-, Børne- og Ungeudvalgets møder og aktiviteter i tilknytning til udvalget.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Møde- og aktivitetskalenderen til Skole-, Børne- og Ungeudvalget er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/75250e42-7c46-4d52-b22f-f5af419f4a5c",
+          "DocumentId": "75250e42-7c46-4d52-b22f-f5af419f4a5c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Skole-, Børne- og Ungeudvalgets møde- og aktivitetskalender 2025",
+      "Punktnummer": "17",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Skole-, Børne- og Ungeudvalgets møde- og aktivitetskalender 2025",
+          "Id": "3a0ad9f6-cb83-4380-8013-6306cf5830be"
+        }
+      ],
+      "Documents": null,
+      "Id": "2bdd9976-3711-48e0-ae26-d15bdfa5b4af",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "17",
+      "Sorting": 17,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Skole-, Børne- og Ungeudvalgets møde- og aktivitetskalender 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/43819840-a38f-4d38-b1f3-fca91e163a51",
+          "DocumentId": "43819840-a38f-4d38-b1f3-fca91e163a51"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "18",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "da3b387f-1854-46e8-841a-33593f05c3bd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+      "Number": "18",
+      "Sorting": 18,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "473469a9-b1d4-4d5e-b869-b1ed1bbcb012",
+    "Navn": "Skole-, Børne- og Ungeudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-06-03T08:15:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-06-03T08:15:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "15865c5a-3a19-4fcb-bb67-bfa8eccbe4e2",
+  "Lydfiler": null
+}

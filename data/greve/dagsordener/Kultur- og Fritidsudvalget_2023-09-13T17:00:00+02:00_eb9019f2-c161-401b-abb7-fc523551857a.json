@@ -1,0 +1,373 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n\n<p>Kultur- og Fritidsudvalget.</p>\n<p>\n<div>\n<h4>Resume</h4>\n</div>\n\n<p>Godkendelse af dagsorden for mødet den 13. september 2023.</p>\n<p>\n<div>\n<h4>Indstilling</h4>\n</div>\n\n<p><em>Administrationen indstiller, at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/74fa969f-7d73-4015-aab7-3fa5e2621923",
+          "DocumentId": "74fa969f-7d73-4015-aab7-3fa5e2621923"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014482",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "963c3d24-48f2-4089-bec5-a7c91fe0be47",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014482",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur- og Fritidsudvalget besøger foreningen Mosede Dart Klub. Besøget er planlagt efter udvalgets ønsker om at besøge eller få besøg af kommunens foreninger i forbindelse med udvalgsmøder i 2023. </p>\n<p>Formålet er at udvalget får indsigt i, hvad aktørerne i forskellige foreninger begejstres af, har af udfordringer og de har succes med. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget tager besøget ved Mosede Dart Klub til efterretning. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Mosede Dart Klub fremviser foreningens lokalitet på Damagerskolen og orienterer om klubbens virke.</p>\n<p><em><strong>Praktik</strong></em></p>\n<p>Tidspunkt: Kl. 16.30 - 17.00.</p>\n<p>Sted: Kultur- og Fritidsudvalget mødes hos Mosede Dart Klub, Damagerskolen, Blågårdsvej 100, 2670 Greve</p>\n<p>Efter besøget fortsætter udvalgsmødet på Greve Rådhus. Derfor indregnes ca. 15. minutters transport, før mødet fortsætter kl. 17.15.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6fc1a8b2-b302-4553-a85b-a0f9f95ca082",
+          "DocumentId": "6fc1a8b2-b302-4553-a85b-a0f9f95ca082"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-009534",
+      "Navn": "Besøg ved foreningen Mosede Dart Klub",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d68b5d07-a1d3-4b69-b769-2b4bbb39a782",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-009534",
+      "SourceId": null,
+      "Caption": "Besøg ved foreningen Mosede Dart Klub",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt.</p>\n<p>2. Godkendt.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur- og Fritidsudvalget skal tage stilling til udvalgets kalender 2024 på baggrund af den godkendte mødekalender for Byrådet og Økonomiudvalget i 2024.</p>\n<p>Udkast til udvalgets mødekalender er udarbejdet, så der tages hensyn til sagernes videre forløb i Økonomiudvalget og Byrådet.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<p><em>1. at den foreslåede mødekalender for Kultur- og Fritidsudvalget godkendes</em></p>\n<p><em>2. at den faste mødedag bliver onsdag med mødestart kl. 16.30.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 4. september 2023 godkendte Byrådet mødedatoerne for Økonomiudvalget og Byrådet i 2024. Det blev besluttet, at afholde ni årlige møder i henholdsvis Økonomiudvalget og Byrådet i lighed med 2023.</p>\n<p>Møderne foreslås afholdt på følgende datoer:</p>\n<p>10. januar</p>\n<p>7. februar</p>\n<p>20. marts</p>\n<p>24. april</p>\n<p>29. maj</p>\n<p>14. august</p>\n<p>11. september</p>\n<p>9. oktober</p>\n<p>20. november</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udgifterne til mødeforplejning mv. afholdes inden for udvalgets budgetramme.</p>\n<h4>Kommunikation</h4>\n<p>Den godkendte mødekalender vil blive offentliggjort på kommunens hjemmeside og mødedagene vil blive skrevet ind i kalender for Byrådets medlemmer.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f41b254d-0957-402c-b7c5-88caf600d995",
+          "DocumentId": "f41b254d-0957-402c-b7c5-88caf600d995"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005195",
+      "Navn": "Mødekalender 2024 for Kultur- og Fritidsudvalget",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Politisk mødekalender 2024",
+          "Id": "3f91346f-77cf-4d7d-88eb-dd6aa1bf25e8"
+        }
+      ],
+      "Documents": null,
+      "Id": "e04b0a63-a9df-49f8-a259-e2f40207154a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-005195",
+      "SourceId": null,
+      "Caption": "Mødekalender 2024 for Kultur- og Fritidsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur- og Fritidsudvalget har godkendt en ny struktur for Idræts- og\nFritidspuljerne. Den ny struktur har medført konkrete ændringer af\nFritidsrådets og Idrætsrådets kommissorium og forretningsorden som udvalget\nbedes tage til efterretning i denne sag.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orientering om ændringer af Idrætsrådets\nog Fritidsrådets kommissorium og forretningsorden tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kultur og Fritidsudvalget godkendte på mødet den 26. april 2023 en ny\nstruktur for Idræts- og Fritidspuljerne. </p>\n<p>Den nye struktur sikrer, at Idrætsrådet og Fritidsrådet er klædt bedre på\ntil at vurdere ansøgningerne, og at tilbageløbsmidler fra puljerne kan\ngenfordeles til nye puljeansøgninger. Den nye struktur ligger til grund for\nbehandlingen af puljeansøgninger i 2023.</p>\n<p>Processen for fordeling af puljemidler er ændret på tre områder:</p>\n<ol style=\"list-style-type: decimal;\">\n    <li>Kultur- og fritidsadministrationen bidrager med en\n    faglig vurdering af de indkomne ansøgninger til Idræts- og\n    Fritidspuljerne. </li>\n    <li>I Idrætsrådets er det formandskabet, der fungerer som\n    puljeudvalg. Fritidsrådet fastholder deres puljeudvalg som hidtil.</li>\n    <li>Processen for ansøgninger til puljerne fremrykkes til\n    tidligere på året, så tilbageløbsmidler fra puljerne kan genfordeles til\n    nye puljeansøgninger inden for samme budgetår. </li>\n</ol>\n<p>Det har medført konkrete ændringer i Idrætsrådets og Fritidsrådets\nkommissorium og forretningsorden. Ændringerne er behandlet og godkendt på\nIdrætsrådsmødet den 21. august 2023 og Fritidsrådsmødet den 15. august 2023.\n</p>\n<p>Ændringerne følger nedenfor i form af et skematisk overblik over de nye formuleringer overfor de gamle og med rød markering af ændringerne. </p>\n<p> <em><span>Fritidsrådets\nkommissorium (jf. bilag 1)</span></em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Ny</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Gammel</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>5.3\n            Fritidsrådet godkender kommissorium for Fritidsrådets udvalg.</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Fritidsrådet udpeger 3 personer til hvert af følgende stående\n            udvalg: Lokalefordelingsudvalg og Facilitetsudvalget. Fritidsrådet udpeger </span><span>op til 5</span><span> personer til\n            Fritidspuljeudvalget. Når udvalgene er nedsat arbejder de uafhængigt af\n            Fritidsrådet med opgaver inden for kommissoriet, og konstituerer sig med en\n            formand</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Fritidsrådet udpeger 3 personer til hvert af følgende stående\n            udvalg: Lokalefordelingsudvalg, Fritidspuljeudvalget og Facilitetsudvalget.\n            Når udvalgene er nedsat arbejder de uafhængigt af Fritidsrådet med opgaver\n            inden for kommissoriet, og konstituerer sig med en formand.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>Kultur- og\n            Fritidsudvalget kan beslutte at uddelegere kompetencen i forhold til\n            specifikt definerede opgaver.</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Fritidspuljeudvalget med </span><span>op til 5</span><span> medlemmer fra Fritidsrådet er bemyndiget til\n            at anbefale fordeling af midler fra Fritidspuljen.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Fritidspuljeudvalget med 3 medlemmer fra Fritidsrådet er\n            bemyndiget til at anbefale fordeling af midler fra Fritidspuljen.</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><em><span>Fritidsrådets\nforretningsorden (jf. bilag 2)</span></em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Ny</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Gammel</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>Stk. 2.2.2:\n            Form</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Puljeansøgningerne behandles </span><span>umiddelbart efter ansøgningsfristen</span><span>. Derudover\n            fastlægger udvalget selv arbejdsform og mødefrekvens.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Puljeansøgningerne behandles fra primo november umiddelbart\n            efter ansøgningsfristen. Derudover fastlægger udvalget selv arbejdsform og\n            mødefrekvens.</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><em><span>Idrætsrådets\nkommissorium (jf. bilag 3)</span></em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Ny</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Gammel</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>5.3 Idrætsrådet\n            godkender kommissorium for Idrætsrådets udvalg.</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Idrætsrådet udpeger 3 personer til hvert af følgende stående\n            udvalg: </span><span>Lokalefordelingsudvalg og Facilitetsudvalget</span><span>. Når udvalgene\n            er nedsat arbejder de uafhængigt af Idrætsrådet med opgaver inden for\n            kommissoriet, og konstituerer sig med en formand.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Idrætsrådet udpeger 3 personer til hvert af følgende stående\n            udvalg: Lokalefordelingsudvalg, Idrætspuljeudvalget og Facilitetsudvalget.\n            Når udvalgene er nedsat arbejder de uafhængigt af Idrætsrådet med opgaver\n            inden for kommissoriet, og konstituerer sig med en formand.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>5.5 Idrætsrådet\n            skal i samarbejde med Fritidsrådet rådgive og anbefale Kultur- og\n            Fritidsudvalget i forbindelse med:</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Idrætspuljeudvalget </span><span>udgøres af Idrætsrådets formandskab bestående af\n            den til en hver tid siddende formand og næstformand. Formandskabet er\n            bemyndiget til at virke som høringspart ved administrationens indstilling til\n            fordeling af Idrætspuljemidler<em>.</em></span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Idrætspuljeudvalget med 3 medlemmer er bemyndiget til at\n            anbefale fordeling af midler fra Idrætspuljen.</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><em><span>Idrætsrådets\nforretningsorden (jf. bilag 4)</span></em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Ny</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Gammel</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>Stk. 2.2\n            Idrætspuljeudvalget</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Idrætsrådet udpeger </span><span>den til en hver tid siddende formand og\n            næstformand til at udgøre idrætspuljeudvalg. Formanden og næstformanden\n            agerer høringspart ved administrationens indstilling til fordeling af\n            puljemidler til Kultur- og Fritidsudvalget.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Idrætsrådet udpeger 3 personer (en stemmeberettiget repræsentant\n            udpeges til også at sidde i IR).</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>Stk. 2.2.1\n            Formål</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Den til en hver tid siddende formand og næstformand af Idrætsrådet\n            har ansvaret for at vurdere ansøgningerne til idrætspuljen og agere\n            høringspart i forbindelse med den administrative behandling af ansøgningerne\n            før </span><span>indstilling\n            af ansøgninger til godkendelse i Kultur- og Fritidsudvalget.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Alle stemmeberettigede medlemmer af Idrætsrådet har ansvaret for\n            behandling af ansøgninger til idrætspuljen, og indstilling af ansøgninger til\n            godkendelse i Kultur- & Fritidsudvalget.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>Stk. 2.2.2 Form</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Puljeansøgninger </span><span>vurderes umiddelbart efter ansøgningsfristen</span><span>. Derudover\n            fastlægger formandskabet selv arbejdsform og mødefrekvens.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Puljeansøgninger behandles fra primo november umiddelbart efter\n            ansøgningsfristen. Derudover fastlægger Idrætsrådet selv arbejdsform og\n            mødefrekvens.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>I formandskabets vurdering og efterfølgende høring indgår </span><span>eventuelle\n            uforbrugte puljemidler, samt puljemidler inden for rammen i det kommende års\n            kommunale budget.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>I Idrætsrådets behandling af ansøgninger sker både en\n            indstilling af uforbrugte puljemidler, samt puljemidler inden for rammen i\n            det kommende års kommunale budget.</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" valign=\"top\">\n            <p><strong><span>Stk. 2.2.3\n            Kompetencer</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Idrætsrådet giver </span><span>den til en hver tid siddende formand og\n            næstformand mandat til at vurdere indkomne ansøgninger og agere høringspart i\n            forbindelse med administrationens indstilling </span><span>til Kultur- og Fritidsudvalget.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Idrætsrådet giver mandat til direkte indstilling til Kultur- og\n            Fritidsudvalget vedr. fordeling af idrætspuljemidlerne.</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<h4>Lovgrundlag</h4>\n<p>Idræts- og Fritidspuljerne uddeles med afsæt i Greveordningen. Puljerne\nunderstøtter begge Folkeoplysningslovens krav om en udviklingspulje.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Der er ingen økonomiske konsekvenser for Greve Kommune. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a6547829-4f89-4dda-87df-854a7b71a279",
+          "DocumentId": "a6547829-4f89-4dda-87df-854a7b71a279"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-007529",
+      "Navn": "Ændringer i Idrætsrådet og Fritidsrådets forretningsorden og kommissorium",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Fritidsrådets kommissorium 2023 (Nyt vedr. fritidspuljen)",
+          "Id": "70268431-8e3a-43c6-b46a-91d7a9482adf"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Fritidsrådets forretningsorden 2023 (nyt vedr. fritidspuljen)",
+          "Id": "f76d63a1-9e1c-4ee8-9913-7cc5c8af2ba9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Idrætsrådets kommissorium 2023 (nyt vedr. Idrætspuljen)",
+          "Id": "2ba248e2-55e5-4476-b27b-aff50e7e7c8d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Idrætsrådets forretningsorden 2023 (nyt vedr. Idrætspuljen)",
+          "Id": "d4775e3d-1c0e-4f9c-b639-569685a1760a"
+        }
+      ],
+      "Documents": null,
+      "Id": "6f6d42bf-bd4a-4b9b-a75e-537bbd25578c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-007529",
+      "SourceId": null,
+      "Caption": "Ændringer i Idrætsrådet og Fritidsrådets forretningsorden og kommissorium",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Følgende orienteringer blev taget til efterretning:\n<p>Henvendelse fra Sydkystens Modeljernbaneklub.</p>\n<p>Der er udvalgt to 18-årige borgere til at repræsentere Greve Kommune ved gallataffel i anledning af Prins Christians 18-års fødselsdag.</p>\n<p>Pokalkamp i Tune.</p>\n<p>Stillingsopslag til direktør for Portalen.</p>\n<p> Budgetforslaget vedr. nedlæggelse af Idrætsrådets og Fritidsrådets sekretariat og etablering af et Folkeoplysningsudvalg.</p>\n<p><em> </em></p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n\n<p>Kultur- og Fritidsudvalget.</p>\n<p>\n<div>\n<h4>Resume</h4>\n</div>\n\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle\nemner.</p>\n<p>\n<div>\n<h4>Indstilling</h4>\n</div>\n\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til\nefterretning.</em></p>\n<p>\n- Henvendelse fra Sydkystens Modeljernbaneklub vedlagt som bilag 1-3. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/51842935-de92-4ddd-afc8-7c5f2722eda8",
+          "DocumentId": "51842935-de92-4ddd-afc8-7c5f2722eda8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014479",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "db985bbb-5bbc-4cc8-9cee-f27924c6c211",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-014479",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Følgende orienteringer blev taget til efterretning:</p>\n<p>Støtteerklæring for DIF.</p>\n<p>Sag til Kultur- og Fritidsudvalget om lokaletilskud angående blandt andet Sydkystens Karateklub er under udarbejdelse.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n\n<p>Kultur- og Fritidsudvalget.</p>\n<p>\n<div>\n<h4>Resume</h4>\n</div>\n\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter,\nog hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<p>\n<div>\n<h4>Indstilling</h4>\n</div>\n\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<p>\n<div>\n<h4>Sagsbeskrivelse</h4>\n</div>\n\n<p>Administrationen har følgende til orientering:</p>\n<p>- Støtteerklæring, DIF, Get2sport, vedlagt som bilag 1 og 2.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/48b9a242-3b46-443b-a63d-0516a2949a71",
+          "DocumentId": "48b9a242-3b46-443b-a63d-0516a2949a71"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013714",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Støtteerklæring for DIF get2sport",
+          "Id": "77b59ef6-1da3-48dd-be47-68ebbd74df0a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Underskrevet støtteerklæring",
+          "Id": "12b04bbf-69e6-44d5-b583-583e57904497"
+        }
+      ],
+      "Documents": null,
+      "Id": "03961494-4a3f-4df4-ab6e-4586162aac3a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-013714",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Kultur- og Fritidsudvalgets møder og møder i\ntilknytning til udvalget.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen til efterretning.</em> </p>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/418ba0a0-fc65-4028-a7ae-319d2bfceec5",
+          "DocumentId": "418ba0a0-fc65-4028-a7ae-319d2bfceec5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014480",
+      "Navn": "Kultur- og Fritidsudvalget mødekalender 2023 - september",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Kultur- og Fritidsudvalgets kalender 2023 - september",
+          "Id": "ff8f9ff1-1c18-4e07-b0dc-4216cfa10d93"
+        }
+      ],
+      "Documents": null,
+      "Id": "1a08435c-719c-4364-9d59-6d54d3e38292",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014480",
+      "SourceId": null,
+      "Caption": "Kultur- og Fritidsudvalget mødekalender 2023 - september",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n\n<p>Kultur- og Fritidsudvalget.</p>\n<p>\n<div>\n<h4>Resume</h4>\n</div>\n\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/86f9d6e5-7119-47c8-99b7-f0adcfaf6cef",
+          "DocumentId": "86f9d6e5-7119-47c8-99b7-f0adcfaf6cef"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014481",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "395f102f-da3c-4cde-86ab-972e85be0862",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eb9019f2-c161-401b-abb7-fc523551857a",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014481",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "425869ca-7441-4d9d-b497-27bc7d5bbbc2",
+    "Navn": "Kultur- og Fritidsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-09-13T17:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-09-13T17:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "eb9019f2-c161-401b-abb7-fc523551857a",
+  "Lydfiler": null
+}

@@ -1,0 +1,328 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n\n<p>Sundheds- og Omsorgsudvalget.</p>\n<p>\n<div>\n<h4>Resume</h4>\n</div>\n\n<p>Godkendelse af dagsorden for mødet den 11. september 2023.</p>\n<p>\n<div>\n<h4>Indstilling</h4>\n</div>\n\n<p><em>Administrationen indstiller at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ba1734bc-4f91-47d2-83bf-e8022673cc47",
+          "DocumentId": "ba1734bc-4f91-47d2-83bf-e8022673cc47"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014445",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c30cde1e-1db5-4a9b-8386-002798572571",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "484ba3fc-8247-49a0-8999-af633f0cb374",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014445",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt </p>\n<p>2. Godkendt</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Sundheds- og Omsorgsudvalget skal tage stilling til udvalgets kalender 2024 på baggrund af den godkendte mødekalender for Byrådet og Økonomiudvalget i 2024. </p>\n<p>Udkast til udvalgets mødekalender er udarbejdet, så der tages hensyn til sagernes videre forløb i Økonomiudvalget og Byrådet.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<p><em>1. at den foreslåede mødekalender for Sundheds- og Omsorgsudvalget godkendes</em></p>\n<p><em>2. at den faste mødedag bliver mandag med mødestart kl. 15.30</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 4. september 2023 godkendte Byrådet mødedatoerne for Økonomiudvalget og Byrådet i 2024. Det blev besluttet at afholde ni årlige møder i henholdsvis Økonomiudvalget og Byrådet i lighed med 2023.</p>\n<p>Møderne foreslås afholdt på følgende datoer:</p>\n<p>8. januar</p>\n<p>5. februar</p>\n<p>18. marts</p>\n<p>22. april</p>\n<p>3. juni</p>\n<p>12. august</p>\n<p>9. september</p>\n<p>7. oktober</p>\n<p>18. november</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udgifter til mødeforplejning mv. holdes inden for udvalgets budgetramme.</p>\n<h4>Kommunikation</h4>\n<p>Den godkendte mødekalender vil blive offentliggjort på kommunens hjemmeside og mødedagene vil blive skrevet ind i kalender for Byrådets medlemmer.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/16263b5a-570d-41c4-9b0d-9228d7fcb76d",
+          "DocumentId": "16263b5a-570d-41c4-9b0d-9228d7fcb76d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005195",
+      "Navn": "Mødekalender 2024 for Sundheds- og Omsorgsudvalget",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Politisk mødekalender 2024",
+          "Id": "f27d2337-b8e7-4bcd-8ce5-b28279e47203"
+        }
+      ],
+      "Documents": null,
+      "Id": "290db405-29a1-44f9-ae33-c881e71a8e77",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "484ba3fc-8247-49a0-8999-af633f0cb374",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-005195",
+      "SourceId": null,
+      "Caption": "Mødekalender 2024 for Sundheds- og Omsorgsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Sundheds- og Omsorgsudvalget godkender ’Sundhedshuset’ som det nye navn.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Sundheds- og Omsorgsudvalget godkendte den 22. maj 2023 processen for gennemførelse af navnekonkurrence for det nye Sundhedshus. Navngivningen vedrører det nuværende Greve Videnscenter (den gamle Hundige Skole). Byrådet skal godkende navnet for det nye Sundhedshus. Når navnet er godkendt, vil administrationen annoncere navnet via en pressemeddelelse samt udlodde en præmie til den borger, som har forslået det navn Byrådet godkender.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at ét af følgende navne godkendes som navnet på det nye Sundhedshus på Hundige Allé 11:</em></p>\n<ol>\n    <li><em>Sundhedshuset</em></li>\n    <li><em>Greve Sundhedscenter</em></li>\n    <li><em>Greve Sundhedshus</em></li>\n    <li><em>Sundhedscenter Greve</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p><em><strong>Om det nye Sundhedshus</strong></em><br>\nByrådet besluttede den 21. september 2020 (pkt. 25), at der skulle gennemføres en navnekonkurrence, for navngivning af det nye Sundhedshus, som i dag hedder Greve Videnscenter. Oversigtskort over Greve Videnscenter er vedlagt (jf. bilag 1 og 2).</p>\n<p><strong><em>Navnekonkurrencen er gennemført</em></strong><br>\nNavnekonkurrencen er gennemført i overensstemmelse med den proces, som Sundheds- og Omsorgsudvalget godkendte den 22. maj 2023 (pkt. 4). Oplysninger om deltagelse i navnekonkurrencen er annonceret via opslag på Facebook og i lokalavisen Sydkysten. Der har været mulighed for at deltage i navnekonkurrencen ved at skrive en kommentar med sit navneforslag i opslaget på Facebook. Derudover har det været muligt at deltage via e-mail eller brev. Forslag til navne på det nye Sundhedshus er udelukkende indkommet via kommentarer til opslaget på Facebook.</p>\n<p><strong><em>Indkomne forslag og administrationens anbefaling</em></strong><br>\nDer er i alt indkommet 78 kommentarer og forslag til navne på Greve Kommunes Facebookside, og en række forslag nævnes flere gange. Der er i alt indkommet 29 forskellige forslag til navne på det nye Sundhedshus. Alle indkomne forslag er vedlagt (jf. bilag 3).</p>\n<p>Administrationen indstiller, at ét af disse fire forslag godkendes som navn til det nye Sundhedshus:</p>\n<p><em>                      a. Sundhedshuset</em><em><br>\n<em>                      b. Greve Sundhedscenter</em><br>\n<em>                      c. Greve Sundhedshus</em><br>\n<em>                      d. Sundhedscenter Greve</em></em></p>\n<p>Administrationen indstiller ét af ovenstående forslag til godkendelse, da disse fire navneforslag er blevet foreslået af flest borgere og har modtaget flest likes. </p>\n<p><em><strong>Præmie til vinder af navnekonkurrencen</strong></em><br>\nSom led i processen for navnekonkurrencen besluttede Sundheds- og Omsorgsudvalget, at administrationen skal udlodder en præmie til den borger, som foreslår det navn, som Byrådet godkender. Præmien er et gavekort på 1.000 kr. til Waves Shoppingcenter. Da flere borgere har forslået det samme navn, vil der blive trukket lod om, hvem der skal modtage præmien. Vinderen af navnekonkurrencen annonceres på Greve Kommunes Facebookside den 3. oktober 2023.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser.</p>\n<h4>Kommunikation</h4>\n<p>Der er annonceret om navnekonkurrencen på Greve Kommunes Facebookside og i Sydkysten.</p>\n<h4>Tidsplan</h4>\n<p>Navnekonkurrencen er gennemført i perioden 1. - 31. august 2023. Vinderen af et gavekort på 1.000 kr. til Waves annonceres på Greve Kommunes Facebookside den 3. oktober 2023.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4c6300fe-4b9b-4b9d-9123-8d3eb90148d6",
+          "DocumentId": "4c6300fe-4b9b-4b9d-9123-8d3eb90148d6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-008557",
+      "Navn": "Sundhedshuset, valg af navn",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1: Oversigtskort over Greve Videncenter",
+          "Id": "a8fc37b3-2194-4591-a570-5994528f1833"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2: Oversigtsplan over stueetagen",
+          "Id": "b91c62b7-9e63-4b78-a388-740992c74f63"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3: Indkomne forslag til navn på Sundhedshuset i Hundige",
+          "Id": "8b10bf41-fb61-408a-a26c-f168c2c4b363"
+        }
+      ],
+      "Documents": null,
+      "Id": "491cc705-48ba-4dc3-8843-bdc26710ff0c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "484ba3fc-8247-49a0-8999-af633f0cb374",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-008557",
+      "SourceId": null,
+      "Caption": "Sundhedshuset, valg af navn",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Ingen orienteringer.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Formanden orienterer om:</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d678cd3c-6011-428d-95c6-28939043870e",
+          "DocumentId": "d678cd3c-6011-428d-95c6-28939043870e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014447",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9bd7b271-90e5-4992-b488-80d4a587552d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "484ba3fc-8247-49a0-8999-af633f0cb374",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-014447",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget. </p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen orienterer om:</p>\n</div>\n<p><strong><em>Henvendelse fra KL vedrørende Bæredygtige akutsygehuse - høringssvar fra KKR Sjælland</em></strong></p>\n<p><em>Høringsbrev vedlagt som bilag 1.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d3111f58-216e-4722-8428-73014986ad42",
+          "DocumentId": "d3111f58-216e-4722-8428-73014986ad42"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014441",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Bæredygtige akutsygehuse - høringssvar fra KKR Sjælland",
+          "Id": "62ea5dc0-65bd-44d5-91f6-340fd9163d55"
+        }
+      ],
+      "Documents": null,
+      "Id": "ba0f6dfb-80ef-44a6-9141-aed56e3c88fd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "484ba3fc-8247-49a0-8999-af633f0cb374",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-014441",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Sundheds- og Omsorgsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kalenderen er vedlagt som bilag.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/409d5577-fd49-4142-80f0-0273c9bfc934",
+          "DocumentId": "409d5577-fd49-4142-80f0-0273c9bfc934"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014442",
+      "Navn": "Sundheds- og Omsorgsudvalgets mødekalender 2023",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Sundheds- og Omsorgsudvalgets kalender 2023",
+          "Id": "93e3618c-38e8-4125-a2aa-2c82e432bb49"
+        }
+      ],
+      "Documents": null,
+      "Id": "81e38dda-0ee4-4d12-bae4-f47b5973f1e0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "484ba3fc-8247-49a0-8999-af633f0cb374",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-014442",
+      "SourceId": null,
+      "Caption": "Sundheds- og Omsorgsudvalgets mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e92c7860-9263-4c2c-a315-68da6585d182",
+          "DocumentId": "e92c7860-9263-4c2c-a315-68da6585d182"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014446",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "16a16732-4fea-4998-8bce-33e6014fcc19",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "484ba3fc-8247-49a0-8999-af633f0cb374",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014446",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "f586054c-50bb-40ac-8b4f-6c32307eb77f",
+    "Navn": "Sundheds- og Omsorgsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-09-11T15:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-09-11T15:30:00+02:00",
+    "Sted": "Skriftligt møde",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "484ba3fc-8247-49a0-8999-af633f0cb374",
+  "Lydfiler": null
+}

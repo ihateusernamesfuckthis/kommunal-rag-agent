@@ -1,0 +1,514 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4><span>Sagsprocedure</span></h4>\n<p>Social- og Handicapudvalget.</p>\n<h4><span>Resume</span></h4>\n<p>Godkendelse af dagsorden for mødet den 22. maj 2023.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes. </i></p>\n<p> </p>\n<h2></h2>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5ff12846-2522-4be8-8395-828eed73dc9a",
+          "DocumentId": "5ff12846-2522-4be8-8395-828eed73dc9a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014477",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "97dfa528-e8b6-4a0a-9cc9-dfb519443b11",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014477",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Taget til efterretning idet udvalget ønsker, at der inviteres til 2 årlige møder mellem udvalget og Handicaprådet. Udvalget ønsker, at møderne indføres i udvalgets mødekalender.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Social- og Handicaprådet.</p>\n<h4>Resume</h4>\n<p>Social- og Handicapudvalget mødes med Handicaprådet for at drøfte aktuelle emner og det fortløbende samarbejde. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at drøftelserne tages til efterretning.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Handicaprådet har givet udtryk for gerne, at ville drøfte følgende emner med udvalget; </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Mulighed for gennemgående mentorordning/støttepersoner efter det 18. år </li>\n    <li>Koordinerende sagsbehandler</li>\n    <li>Nedslag med udgangspunkt i GAP anbefalinger </li>\n</ul>\n<p>Dialogen finder sted i tidsrummet kl. 17.00 - 17.30.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/81f437fe-7c4f-4e29-b25e-9fb0fa509ff8",
+          "DocumentId": "81f437fe-7c4f-4e29-b25e-9fb0fa509ff8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005730",
+      "Navn": "Dialog mellem Handicaprådet og Social- og Handicapudvalget om samarbejdet",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "aa909e37-384d-4590-bc51-00a848b5c0fa",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-005730",
+      "SourceId": null,
+      "Caption": "Dialog mellem Handicaprådet og Social- og Handicapudvalget om samarbejdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Udvalget anbefaler at der udarbejdes et udvidelsesforslag.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget, Økonomiudvalget og Byrådet</p>\n<h4>Resume</h4>\n<p>I sagen skal Byrådet beslutte, om der skal udarbejdes budgetforslag om forlængelse af bevillingen til en ekstra sagsbehandler, der udløber ved udgangen af 2023. Sagen beskriver derfor emner af betydning for Byrådets beslutningsgrundlag, så som sagsantal, sagsbehandlingstider og økonomi. Sagen beskriver desuden forskellige fakta og data om myndighedsfunktionen. </p>\n<p>Antallet af sagsbehandlere på det specialiserede voksenområde har betydning for sagsbehandlingen af borgerne og for kommunens økonomi.  </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at der udarbejdes udvidelsesforslag til Budget 2024-2027 om forlængelse af bevillingen til en ekstra sagsbehandler i myndighedsfunktionen på det specialiserede voksenområde.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>I det vedtagne budget 2022-25 tilførte Byrådet midlertidigt en ekstra sagsbehandler i to år på det specialiserede voksenområde for at <em>”sikre tilstrækkeligt med sagsbehandlere, så kommunen kan lave en bedre sagsbehandling.”</em> (Citat fra budgetforligspartiernes pjece ”Budgetforlig 2022. Et godt liv med en grøn hverdag”). Bevillingen udløber ved udgangen af 2023. Derfor skal Byrådet beslutte, om der i budgetmaterialet for Budget 2024-27 skal udarbejdes forslag om at forlænge bevillingen. Efter den vedtagne tids- og procesplan for Budget 2024-27 kan der i budgetmaterialet kun indarbejdes forslag om udvidelser, hvis Byrådet har besluttet det.  </p>\n<p>Sagen beskriver emner, der er relevante for Byrådets beslutningsgrundlag: Myndighedsfunktionens opgaver, sagsantal, sagsbehandlingstider og økonomi.</p>\n<p>Derudover indeholder sagen forskellige fakta og data om myndighedsfunktionen på området. Disse oplysninger er med i sagen, fordi Social- og Handicapudvalget på udvalgsmødet den 13. marts 2023 (punkt 4) besluttede, at udvalget ønsker en sag på et kommende møde med fokus på rekruttering, personaleomsætning og kompetencer i personalegruppen på det sociale myndighedsområde.  </p>\n<p>Sagens emner er uddybende beskrevet i vedlagte bilag. Resten af denne sagsbeskrivelse er derfor et resume af det mere detaljerede bilag. </p>\n<p><strong><em>Myndighedsfunktionens opgaver</em></strong></p>\n<p>Myndighedsfunktionen på det specialiserede voksenområde varetager myndighedsopgaver og anden sagsbehandling – herunder også rådgivning og vejledning - for voksne med nedsat fysisk eller psykisk funktionsevne og/eller sociale problemer. Det drejer sig hovedsagelig om socialpædagogisk støtte i eget hjem, midlertidige og længerevarende botilbud, aktivitets- og samværstilbud, beskyttet beskæftigelse, forsorgshjem, krisecentre og merudgifter. Lovgrundlaget for indsatserne findes i Servicelovens afsnit om voksne.</p>\n<p><strong><em>Sagsantal</em></strong></p>\n<p>Først fra juni 2022 er der løbende og systematisk lavet opgørelser af teamets samlede sagsantal, og derfor er der ikke sammenlignelige tal for tidligere år. Udviklingen i sagsantallet i de seneste ca. 9 måneder siden juni 2022 fremgår af denne tabel:</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"248\">\n    <tbody>\n        <tr>\n            <td>\n            <p>Dato</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Sager<br>\n            i alt</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Sager pr.<br>\n            rådgiver</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>08-06-2022</p>\n            </td>\n            <td>\n            <p>560</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>53,1</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>21-12-2022</p>\n            </td>\n            <td>\n            <p>582</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>55,2</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>10-03-2023</p>\n            </td>\n            <td>\n            <p>603</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>57,2</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Sagsantallet er støt stigende, og er i perioden steget med knapt 8%, sådan at hver rådgiver i gennemsnit har fået fire sager mere. Dansk Socialrådgiverforening opererer med disse vejledende sagsantal:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Voksenhandicapområdet: ca. 55-70 sager pr. sagsbehandler</li>\n    <li>Voksenpsykiatriområdet: ca. 50-65 sager pr. sagsbehandler</li>\n</ul>\n<p>Byrådet har i tidligere budgetvedtagelser benyttet sig af såkaldte Forretningsmæssige Investeringer, hvor en investering i flere sagsbehandlere hentes hjem på besparelser via prisforhandlinger, billigere tilbud og eventuelt hjemtagelser, hvor dette er muligt og relevant. Den del af myndighedsarbejdet kræver hyppig opfølgning i borgersagerne og tidskrævende prisforhandlinger med især private tilbud. Derfor er det en forudsætning, at den enkelte rådgivers sagsantal ikke må være for højt. Ellers er det ikke muligt at prioritere opfølgning og forhandling tilstrækkeligt.</p>\n<p><strong><em>Sagsbehandlingstider</em></strong></p>\n<p>Sagsbehandlingstider kan endnu ikke trækkes ud af områdets IT-fagsystem, men må opgøres manuelt. Derfor godkendte Social- og Handicapudvalget den 25. april 2022 (punkt 3), at sagsbehandlingstid indtil videre kun opgøres på de to områder, hvor der er flest sager:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Socialpædagogisk støtte i eget hjem, servicelovens §85. Godkendt sagsbehandlingstid ifølge kvalitetsstandard = 8 uger</li>\n    <li>Midlertidige botilbud, servicelovens §107. Godkendt sagsbehandlingstid ifølge kvalitetsstandard = 12 uger</li>\n</ul>\n<p>Status viser følgende for perioden 1. juni 2022 – 10. april 2023:</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"335\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Samlet opgørelse §85 og §107</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Antal</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Afgjorte sager i alt</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>23</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Heraf afgørelse inden for fristen </p>\n            </td>\n            <td valign=\"bottom\">\n            <p>11</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Heraf afgørelse efter fristen </p>\n            </td>\n            <td valign=\"bottom\">\n            <p>12</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Sagsbehandlingstiden er overholdt i 11 sager ud af i alt 23 = 48%. </p>\n<p><strong><em>Økonomi – besparelser fra myndighedens prisforhandlinger</em></strong></p>\n<p>Tilbage i 2019 blev myndighedsfunktionen tilført to årsværk som en investering, der skulle modsvares af besparelser opnået ved tæt sagsopfølgning, prisforhandlinger, billigere tilbud mv. En evaluering viste et positivt økonomisk udbytte af investeringen, og derfor tilførte Byrådet yderligere et tredje årsværk fra 2021. </p>\n<p>Der er dermed i budgetterne før 2022 tilført i alt tre varige årsværk som en investering, der skal nedbringe udgifterne. Den samlede investering udgør 1,5 mio. kr. årligt. En opgørelse viser, at tæt opfølgning og prisforhandlinger har medført udgiftsreduktion i 17 sager på i alt 2,6 mio. kr. i 2022 stigende til foreløbig 3,9 mio. kr. i 2023. </p>\n<p>På trods heraf har det været nødvendigt med tillægsbevillinger til området: </p>\n<ul>\n    <li>I 2021 blev der givet tillægsbevillinger på 7,8 mio. kr.</li>\n    <li>I 2022 blev der givet tillægsbevillinger på 18,2 mio. kr.</li>\n    <li>Og som det fremgår af Budgetopfølgning 1, forventes der også i 2023 at være en betydelig økonomisk udfordring i størrelsesorden cirka 20-22 mio. kr.  </li>\n</ul>\n<p>Den ekstra midlertidige sagsbehandler i 2022-23 har Byrådet imidlertid ikke bevilget som en investering, der skal reducere udgifterne yderligere. Stillingen er derimod som nævnt  bevilget for at sikre tilstrækkeligt med sagsbehandlere, så kommunen kan lave en bedre sagsbehandling. Den ekstra sagsbehandler har dog i sagens natur medført, at sagsantallet pr. sagsbehandler er lavere, end det ellers ville have været, helt konkret 10% lavere. Og netop dette har har givet bedre betingelser for at prioritere den nødvendige tætte sagsopfølgning. Det er derfor også administrationens vurdering, at behovet for tillægsbevillinger formentlig havde været endnu større i 2022 og i 2023 uden den ekstra sagsbehandler.    </p>\n<p><strong><em>Fakta og data om myndighedsfunktionen</em></strong></p>\n<p>Er beskrevet i vedlagte bilag med oplysninger om bl.a. personalenormering, kønsfordeling, aldersprofiler, anciennitet, uddannelsesbaggrund, personaleomsætning, rekruttering, opgaver og opgavefordeling, visitation samt prisforhandling.</p>\n<h4>Lovgrundlag</h4>\n<p>Byrådets beslutning.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>En forlængelse af bevillingen med en ekstra sagsbehandler koster 0,5 mio. kr. årligt. Forlængelsen kan både være midlertidig og varig. Af hensyn til fastholdelse og rekruttering vil administrationen foreslå en varig forlængelse som første prioritet, men muligheden for en midlertidig forlængelse vil i givet fald også fremgå af budgetforslaget.</p>\n<p>De opnåede besparelser ved forhandlinger i de konkrete borgersager indregnes løbende i Budgetopfølgningen, og indgår også i den årlige budgetlægning i mængdereguleringen på det specialiserede voksenområde. Mængdereguleringen indgår i budgetmaterialet i budgetkataloget med tekniske rettelser.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/aabaf712-2b78-4e84-bf8d-bf5774c413fe",
+          "DocumentId": "aabaf712-2b78-4e84-bf8d-bf5774c413fe"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-004456",
+      "Navn": "Forlængelse af midlertidig bevilling til ekstra sagsbehandler i myndighedsfunktionen på det specialiserede voksenområde",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Præsentation af myndighedsfunktionen på det specialiserede voksenområde",
+          "Id": "fd0ae1f5-e42c-4970-9150-ff84b8439c18"
+        }
+      ],
+      "Documents": null,
+      "Id": "149dcd72-f78b-4ca3-8e3b-d3cb93f7396f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-004456",
+      "SourceId": null,
+      "Caption": "Forlængelse af midlertidig bevilling til ekstra sagsbehandler i myndighedsfunktionen på det specialiserede voksenområde",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget</p>\n<h4>Resume</h4>\n<p>Sagen giver en status på, hvordan det går med den politisk besluttede handleplan på det specialiserede voksenområde og udviklingen i de vigtigste aktivitetstal. Det er en tilbagevendende sag, som har betydning for Social- og Handicapudvalgets mulighed for løbende at følge udviklingen i arbejdet. Handleplanen skal medvirke til, at udgifterne stiger mindre, samtidig med at der kommer gode løsninger for borgerne.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at status 1/2023 på handleplanen tages til efterretning.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Social- og Handicapudvalget godkendte den 9. januar 2023 (punkt 4) en handleplan med 15 indsatser på det specialiserede voksenområde. Udvalget besluttede samtidig, at der skal forelægges status på handleplanen tre gange årligt på de møder, hvor udvalget behandler Budgetopfølgning 1, 2 og 3, samt at sagen også skal indeholde aktivitetstal, der viser udviklingen over tid på udvalgte områder. </p>\n<p><strong><em>Status på indsatserne i handleplanen</em></strong></p>\n<p>Status på hver enkelt af de 15 indsatser er beskrevet i vedlagte bilag, og hver indsats er desuden markeret i overskriften med en farve, der overordnet viser status i arbejdet med den pågældende indsats i forhold til indhold og tidsplan, hvor der er disse fire muligheder:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n    <li>Indsatsen er afsluttet (blå)</li>\n    <li>Indsatsen forløber helt eller nogenlunde som planlagt (grøn)</li>\n    <li>Indsatsen forløber ikke som planlagt, der er problemer med indhold og/eller tidsplan (gul)</li>\n    <li>Indsatsen skal først igangsættes på et senere tidspunkt (orange)</li>\n</ol>\n<p>Den aktuelle status er, at 12 indsatser forløber som planlagt, mens tre indsatser helt i overensstemmelse med deres tidsplaner først sættes i gang på et senere tidspunkt. Ingen indsats er altså afsluttet endnu, og endnu har der heller ikke vist sig problemer med nogen af indsatserne. Arbejdet med flere af indsatserne går dog først for alvor i gang i løbet af andet kvartal.   </p>\n<p>I fire af indsatserne er der dog sket ændringer i indhold eller tidsplan, siden Social- og Handicapudvalget fik præsenteret handleplanen i januar 2023. Det drejer sig om disse indsatser:</p>\n<ul style=\"list-style-type: disc;\">\n    <li><strong><em>Indsats nr. 4 a: Opfølgning på botilbudsanalysen i Budget 2023(-26) – Hundige Bygade.</em></strong> Det har hidtil været forudsat, at et eventuelt botilbud i Hundige Bygade skal anlægges og drives kommunalt. Som et supplerende alternativ hertil vil det imidlertid nu også blive afdækket, om det kan være en mulighed  at etablere og/eller drifte et botilbud i samarbejde med privat aktør, selvejende institution, pensionskasse eller lignende. Denne tilføjelse skyldes især hensynet til en formodet udfordret anlægsramme i de kommende år<br>\n    <br>\n    </li>\n    <li><strong><em>Indsats nr. 4 b: Opfølgning på botilbudsanalysen i Budget 2023(26) – Grønlykkeparken og Dahliahuset.</em></strong> Det indgår nu ikke længere i indsatsen, at muligheden for at omdanne ældreboligerne de to steder fra almene boliger til kommunalt ejede botilbud efter serviceloven skal undersøges. Det er administrationens vurdering, at en sådan omdannelse ikke er økonomisk realistisk, ligesom det vil medføre en betydelig længere beslutningsproces. Det forudsættes derfor, at boligerne driftsmæssigt og økonomisk fortsætter som almene boliger, og at det udelukkende er boligernes målgruppe, der ændres  fra plejekrævende ældre til voksne med nedsat funktionsevne <br>\n    <br>\n    </li>\n    <li><strong><em>Indsats nr. 6: Flere almene boliger til kommunal boliganvisning på det specialiserede voksenområde.</em></strong> Her er tidsplanen rykket med cirka et år, sådan at en aftale med boligselskaberne nu først skønnes at kunne være på plads i begyndelsen af 2024. Det skyldes Byrådets ønske om at udvikle en mere datadrevet boliganvisning i samarbejde med boligselskaberne. En konsekvens af dette er, at indsatsen om flere almene boliger til det specialiserede voksenområde kommer senere i gang end oprindeligt forventet<br>\n    <br>\n    </li>\n    <li><strong><em>Indsats nr. 9: Efterværn</em></strong>. Indsatsen forventes nu først afsluttet i marts/april 2024, cirka 4 måneder senere end oprindeligt planlagt. Forsinkelsen skyldes primært, at udarbejdelse af kommissorium for opgaven er kommet senere i gang, og har taget længere tid end forventet.</li>\n</ul>\n<p><strong><em>Aktivitetstal</em></strong></p>\n<p>Aktivitetstal er nøgletal, der viser udviklingen over tid på udvalgte områder. Social- og Handicapudvalget besluttede den 9. januar 2023, hvilke aktivitetstal, udvalget ønsker at følge – i alt otte: Syv aktivitetstal på de områder, der økonomisk fylder mest, suppleret af et aktivitetstal om det samlede sagsantal på det specialiserede voksenområde.</p>\n<p>Aktivitetstallene er vedlagt som bilag, og viser udviklingen fra Regnskab 2021 frem til Budgetopfølgning 1/2023. Gennemgående viser tallene stigende udgifter, både på grund af et stigende antal borgere i de dyreste foranstaltninger og på grund af stigende gennemsnitspriser. Også det generelle sagsantal er stigende.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. </p>\n<p>I det vedtagne budget 2023-26 indgår dog en rammebesparelse på 1,5 mio. kr. årligt med henvisning til den samlede handleplan. Heraf er på nuværende tidspunkt udmøntet 0,725 mio. kr. i 2023 og 1,450 mio. kr. fra 2024. Udmøntningen vedrører handleplanens indsats nummer 3 om ”Bedre kapacitetsudnyttelse i egne boligfællesskaber”. Konkret realiseret ved at ændre målgruppen i boligfællesskabet Freyas Kvarter 40-42, besluttet af Byrådet den 6. marts 2023.   </p>\n<h4>Tidsplan</h4>\n<p>Indsatserne i handleplanen har meget forskellig tidshorisont, og den samlede handleplan gælder foreløbig frem til slutningen af denne byrådsperiode ved udgangen af 2025.</p>\n<p>Næste statussag forelægges for Social- og Handicapudvalget samtidig med udvalgets behandling af Budgetopfølgning 2 på udvalgsmødet den 9. oktober 2023.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/72bd3ea2-eadb-4289-ba4e-7e36ed5f5b36",
+          "DocumentId": "72bd3ea2-eadb-4289-ba4e-7e36ed5f5b36"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-004340",
+      "Navn": "Handleplan på det specialiserede voksenområde, status 1/2023",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handleplan - status 1 2023",
+          "Id": "317cca3e-1c0c-40d4-a7c2-df1682f0b3c9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Aktivitetstal 2023 BO 1",
+          "Id": "c905d3c5-0654-43b3-803b-1479a2dd1eb1"
+        }
+      ],
+      "Documents": null,
+      "Id": "88f719ff-1fb6-4ba9-9085-3cba61b501f1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-004340",
+      "SourceId": null,
+      "Caption": "Handleplan på det specialiserede voksenområde, status 1/2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">5. Sagen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget, Social- og Handicapudvalget, Økonomiudvalget\nog Byrådet</p>\n<h4>Resume</h4>\n<p>Byrådet skal beslutte, om der skal indføres et stop for visitation af plejekrævende ældre til plejeboligerne i Grønlykkeparken i Hundige og Dahliahuset ved Hedebo i Greve landsby. Tiltaget er nødvendigt, hvis plejeboligerne skal omlægges til botilbud på det specialiserede voksenområde. Der beskrives to modeller for den videre proces med at omlægge de to steder til et botilbud for voksne. Byrådet skal beslutte, hvilken model, der skal arbejdes videre med. </p>\n<p>Omlægningen medfører udgifter til tomgangsleje i en midlertidig periode, og har betydning for antallet af plejeboliger.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller til Sundheds- og Omsorgsudvalget, at\nudvalget</em></p>\n<p><em><span>1.</span></em><em> Godkender et stop for visitation af  plejekrævende ældre til ledige plejeboliger i Grønlykkeparken\nog Dahliahuset med virkning fra den 20. juni 2023<br>\n</em></p>\n<p><em>2. Godkender at visitationsstoppet og den videre proces med omlægning til botilbud for voksne på det specialiserede  voksenområde sker enten i henhold til model A eller model B</em></p>\n<p><em>3. Godkender at den skønnede\nudgift i 2023 på 0,070 mio. kr. indarbejdes i Budgetopfølgningen </em></p>\n<p><em>4. Godkender at der\nudarbejdes udvidelsesforslag til Budget 2024-27 med beløb svarende til den besluttede model, jævnfør indstillingspunkt 2 og afsnittet om økonomiske konsekvenser</em></p>\n<p><em><br>\n</em><em>Administrationen indstiller til Social- og Handicapudvalget,</em></p>\n<p><em>5. at udvalget tager sagen\ntil efterretning</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>I budgetlægningen for Budget 2023-26 indgik en budgetanalyse om muligheden for at etablere botilbud på det specialiserede voksenområde i bygninger i kommunen, der i forvejen anvendes til boligformål. Analysen viste, at der er behov for at få etableret flere lokale botilbud, og at der potentielt kan opnås besparelser på i gennemsnit cirka 150.000 kr. pr. plads sammenlignet med tilsvarende eksterne botilbud. Endvidere vil etablering af botilbud i Greve Kommune betyde, at borgere med et behov herfor, i højere grad kan forblive i deres nærmiljø. Analysen foreslog tre konkrete egnede lokaliteter:</p>\n<ol>\n    <li>Grønlykkeparken i Hundige. 12 almene ældreboliger ejet af Greve Boligselskab. Bruges i dag som plejeboliger, og hører organisatorisk til Strandcentret</li>\n    <li>Dahliahuset i Greve landsby. Otte almene ældreboliger ejet af Greve Kommune. Bruges i dag som plejeboliger, og hører organisatorisk til Hedebo</li>\n    <li>Hundige Bygade. 18 ældreboliger/”pensionistboliger” ejet af Greve Kommune. Bruges i dag som ældreboliger og midlertidige boliger til ukrainske flygtninge</li>\n</ol>\n<p>Forslaget indgik i uændret form i det Budget 2023-26, som Byrådet vedtog den 2. oktober 2022. Dermed bekræftede Byrådet, at der skal arbejdes videre med alle tre steder som mulige placeringer af botilbud for voksne, og opfølgning på botilbudsanalysen indgår også som et indsatsområde i den vedtagne handleplan på det specialiserede voksenområde. Opfølgning på botilbudsanalysen med forslag til konkrete målgrupper, drift, økonomi mv. forelægges til politisk behandling i begyndelsen af 2024.</p>\n<p>Sagen handler om at forberede, at Grønlykkeparken og Dahliahuset over en periode kan udfases som plejeboliger, og i stedet anvendes som botilbud til voksne med nedsat funktionsevne.</p>\n<p><strong><em>Grønlykkeparkens og Dahliahusets egnethed som botilbud på det specialiserede voksenområde</em></strong></p>\n<p>Botilbudsanalysen viste, at begge steder er velegnede. Hvis der skal prioriteres mellem de to steder, konkluderede analysen dog, at Grønlykkeparken har første prioriteret. Dels fordi der er flest boliger, dels fordi beliggenheden er bedre i forhold til transport, indkøbsmuligheder mv. og samtidig ligger tæt på Bostedet Vangeleddet, hvilket potentielt muliggør samdrift</p>\n<p><strong><em>Formålet med at omlægge Grønlykkeparken og Dahliahuset til botilbud for voksne  </em></strong></p>\n<p>Målet er todelt: For det første er det et mål at skabe flere lokale botilbud for voksne med nedsat funktionsevne og dermed give de berørte borgere mulighed for at blive boende i kommunen. Og for det andet er det et mål at reducere udgifterne på det specialiserede voksenområde uden serviceforringelser for borgerne, idet Greve Kommune, bl.a. baseret på erfaringerne fra etableringen af Bostedet Vangeleddet, forventes at kunne drive egne botilbud til en lavere gennemsnitspris end tilsvarende eksterne tilbud. </p>\n<p><strong><em>Betydning for plejeboligkapaciteten hvis Grønlykkeparken og Dahliahuset nedlægges som plejeboliger</em></strong></p>\n<p>Det er administrationens vurdering, at de i alt 20 plejeboliger kan udfases. Det bærende element i den vurdering er, at plejeboligkapaciteten udbygges i de nærmeste år:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Friplejehjemmet Fribo Greve i Hundige åbner for de første borgere i juni 2023. Indflytning sker herefter i etaper frem til november 2024, hvor alle 75 boliger vil være beboet. Administrationen skønner, at mellem en tredjedel og halvdelen af boligerne vil gå til borgere fra Greve Kommune. Det svarer til cirka 25-38 boliger</li>\n    <li>Et nyt kommunalt plejecenter med 72 boliger i Lundegårdsparken i Tune forventes at åbne i første halvår 2026</li>\n</ul>\n<p>Dertil kommer, at udfasningen af plejeboligerne i Grønlykkeparken og Dahliahuset vil forløbe over noget tid, sådan at der ikke vil opstå et pludseligt, akut behov for flere plejeboliger.    </p>\n<p>Administrationen arbejder aktuelt med en kapacitetsanalyse på ældreområdet, hvori der indgår en analyse af den fremtidige plejeboligkapacitet holdt op imod det forventede fremtidige behov for plejeboliger. Kapacitetsanalysen forventes at være færdig medio 2023, og forelægges efterfølgende til politisk behandling efter sommerferien 2023. Hvis den mod forventning viser, at Grønlykkeparken og Dahliahuset fremadrettet ikke kan udfases som plejeboliger, vil sagen om stop for visitation blive forelagt til ny politisk behandling. </p>\n<p><strong><em>To modeller for visitationsstop og omlægning af Grønlykkeparken og Dahliahuset </em></strong></p>\n<p>Med udgangspunkt i den gennemsnitlige fraflytning/naturlige afgang i Grønlykkeparken og Dahliahuset vurderer administrationen, at det vil tage ca. fire år frem til engang i 2027, før der ikke længere er beboere i bygningerne, Det vil derfor medføre en stigende udgift over årene til tomgangsleje, hvis de to steder skal være helt eller næsten helt tømt for beboere, før de kan tages i brug som botilbud på det specialiserede voksenområde. I 2026 – hvor udgiften vil være højest – vil tomgangslejen således udgøre ca. 1,2 mio. kr. Administrationen fremlægger derfor to alternative modeller, hvor omlægningen sker i en glidende overgang. Begge modeller indebærer, at der i en overgangsperiode bor to forskellige målgrupper i bebyggelserne.</p>\n<p><em>Model A –visitationsstop i to år</em></p>\n<p>Modellen indebærer et toårigt visitationsstop fra medio 2023 til medio 2025. I løbet af de to år vurderes det, at ca. halvdelen af boligerne i både Grønlykkeparken og Dahliahuset vil blive ledige, det vil sige ca. seks ledige boliger i Grønlykkeparken og ca. fire i Dahliahuset. Medio 2025 kan de visiterede borgere i den nye målgruppe flytte ind i løbet af en komprimeret periode på en til to måneder. Perioden med to forskellige målgrupper kan muligvis forkortes, hvis de nuværende beboere tilbydes at flytte til en anden plejebolig uden omkostninger for beboeren. Ingen kan dog tvinges til at flytte mod sin vilje.</p>\n<p>Fordelene ved model A er: </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Udgiften til tomgangsleje begrænses</li>\n    <li>Indflytning af borgere på det specialiserede voksenområde kan komme i gang hurtigere, end hvis der skal ventes på, at de to steder skal tømmes helt eller næsten helt for beboere </li>\n    <li>Dermed kan der hurtigere realiseres en forventet besparelse på udgifterne til eksterne botilbud på det specialiserede voksenområde</li>\n</ul>\n<p>Ulemperne ved model A er: </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Udfordringen ved at blande to forskellige målgrupper: plejekrævende ældre med yngre borgere med en sandsynligvis psykisk betinget nedsat funktionsevne. De to målgruppers behov er forskellige</li>\n    <li>Kravene til personalets kompetencer er derfor også forskellige </li>\n    <li>Der kan opstå utilfredshed hos de nuværende beboere og deres pårørende </li>\n    <li>Visitationen af borgere i en ny målgruppe kan blive vanskeliggjort af, at de pågældende borgere vil have betænkeligheder ved at flytte ind et sted, hvor cirka halvdelen af beboerne er plejekrævende ældre</li>\n    <li>Pladser på plejecentre i Greve Kommune er aktivitetsbestemte. Det betyder, at hvis der er færre beboere, er afregningen lavere. Hvis der bor få beboere, kan det være vanskeligt at holde serviceniveauet, primært i ydertimerne, inden for den økonomiske ramme</li>\n</ul>\n<p>Administrationen vurderer, at modellens udfordringer kan løses, og at udfordringerne potentielt kan mindskes, hvis de nuværende beboere tilbydes en omkostningsfri flytning til en plejebolig et andet sted.  </p>\n<p><em>Model B – løbende indflytning af borgere i ny målgruppe, straks efter målgruppen er politisk godkendt</em></p>\n<p>Forslag til ny målgruppe indgår som nævnt i den opfølgning på botilbudsanalysen, der forelægges til politisk behandling i begyndelsen af 2024. Herefter kan processen med at visitere relevante borgere sættes i gang. Indflytning kan derefter ske successivt frem mod sommerferien 2024 i de boliger, der er blevet ledige siden visitationsstoppet. Det forventes at dreje sig om cirka 1/3 af boligerne, det vil sige ca. fire ledige boliger i Grønlykkeparklen og ca. tre i Dahliahuset. </p>\n<p>Fordelene ved model B er i hovedtræk de samme som i model A:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Udgiften til tomgangsleje reduceres yderligere</li>\n    <li>Indflytning af borgere i ny målgruppe kan komme i gang hurtigere</li>\n    <li>Hurtigere realisering af forventet besparelse på udgifterne til eksterne botilbud</li>\n</ul>\n<p>Ulemperne ved model B vurderes at være nogenlunde de samme som i model A for så vidt angår udfordringen ved at blande to målgrupper med forskellige behov, de forskellige krav til personalets kompetencer, potentiel modstand hos nuværende beboere og pårørende, samt udfordringen med at holde serviceniveauet i ydertimerne inden for den økonomiske ramme på plejecenterområdet. </p>\n<p>Administrationen vurderer, at visitationen af borgere i den nye målgruppe bliver vanskeliggjort i model B. De pågældende borgeres betænkelighed ved at flytte ind vurderes at blive en større udfordring, jo færre ”ligesindede” i egen målgruppe, der flytter ind samtidig.    </p>\n<p>Også i denne model vurderer administrationen, at udfordringerne potentielt kan reduceres, hvis de nuværende beboere tilbydes en omkostningsfri flytning til en plejebolig et andet sted.  </p>\n<p><em>Administrationens anbefaling af model</em></p>\n<p>Ud fra en samlet vurdering anbefaler administrationen model A. Modellen er dyrere end model B, men administrationen tillægger det stor betydning, at perioden med blandede beboermålgrupper bliver så kort som muligt. Dette både af hensyn til beboerne i begge målgrupper, deres pårørende og personalet.      </p>\n<h4>Lovgrundlag</h4>\n<p>Byrådets beslutning.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Udgiften til tomgangsleje i de to modeller kan resumeres sådan her:</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"256\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Mio. kr.</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>2023</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>2024</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>2025</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Model A</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0,07</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0,5</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0,7</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Model B</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0,07</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0,2</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>0,0</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Udgiften i 2023 på 0,070 mio. kr. vil indgå i Budgetopfølgningen. Hvis Byrådet godkender sagen, vil der blive udarbejdet udvidelsesforslag til Budget 2024-27 med de beløb, der svarer til den model, Byrådet vælger. Det skal understreges, at der er tale om skønnede beløb. Der vil blive fulgt op på økonomien, når den samlede opfølgning på botilbudsanalysen forelægges i begyndelsen af 2024, herunder eventuelle midler til omkostningsfri flytning til nuværende beboere.</p>\n<p>Det kan supplerende oplyses, at der i det vedtagne budget er indarbejdet en rammebesparelse på 1,5 mio. kr. årligt fra 2026, med henvisning til botilbudsanalysen og bestræbelserne på at etablere flere lokale botilbud på det specialiserede voksenområde. Beløbet er et meget foreløbigt skøn.</p>\n<h4>Kommunikation</h4>\n<p>De nuværende beboere og deres pårørende skal informeres om et visitationsstop for plejekrævende ældre borgere til ledige boliger og de videre planer for omlægningen. Desuden skal Greve Boligselskab, der ejer boligerne i Grønlykkeparken, og boligselskabet KAB, der administrerer boligerne i Dahliahuset for Greve Kommune, orienteres.</p>\n<p>Referat af Seniorrådets behandling af sagen vil foreligge til udvalgets møde. Handicaprådet har ikke møde inden den politiske behandling, men har mulighed for at sende sine bemærkninger, når dagsordenen til udvalgsmødet er publiceret.</p>\n<h4>Tidsplan</h4>\n<p>Stoppet for visitation af plejekrævende ældre træder i kraft umiddelbart efter Byrådets beslutning. Den videre tidsplan afhænger af, hvilken model, der vælges. Tidsplanen for de to modeller fremgår af denne oversigt:</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"427\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Handling</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Model A</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Model B</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Visitationsstop påbegyndes</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Juni 2023</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Juni 2023</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Opfølgning på botilbudsanalyse, forslag til målgrupper mv.</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Jan/feb 2024</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Jan/feb 2024</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Visitation af nye målgrupper sættes i gang</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Forår 2025</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Forår 2024</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Indflytning af nye målgrupper går i gang</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Medio 2025</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Medio 2024</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p>Omlægning fuldt gennemført</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Medio 2027</p>\n            </td>\n            <td valign=\"bottom\">\n            <p>Medio 2027</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Tidspunktet for fuldt gennemført omlægning kan potentielt fremrykkes, hvis de nuværende beboere tilbydes flytning til anden plejebolig. </p>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22-05-2023 Sundheds- og Omsorgsudvalget</u><br>\r\nBeslutning ikke frigivet<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/49621e06-4549-44cc-86a7-e27b08e5767f",
+          "DocumentId": "49621e06-4549-44cc-86a7-e27b08e5767f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-003614",
+      "Navn": "Stop for visitation af plejekrævende ældre til ledige plejeboliger i Grønlykkeparken og Dahliahuset",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fa14af26-f61d-4564-b157-edd8cd823340",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "23-003614",
+      "SourceId": null,
+      "Caption": "Stop for visitation af plejekrævende ældre til ledige plejeboliger i Grønlykkeparken og Dahliahuset",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Sagen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget</p>\n<h4>Resume</h4>\n<p>I <span class=\"grame\">indeværende</span> sag\norienteres fagudvalget om indholdet i budgetopfølgning 1 2023 inden for eget\nudvalgsområde. Budgetopfølgning 1 2023 blev behandlet af Byrådet den 15. maj\n2023.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at sagen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><span class=\"grame\">Indeværende</span> sag skal ses i\nsammenhæng med den samlede budgetopfølgning 1 2023, som er udarbejdet pr. 28.\nfebruar og blev behandlet af Byrådet den 15. maj 2023.</p>\n<p>Det korrigerede budget for Social- og Handicapudvalget udgør 252,6 mio. kr.,\nhvoraf 272,8 mio. kr. ligger indenfor servicerammen og en forventet indtægt på\n20,2 mio. kr. som ligger udenfor servicerammen.</p>\n<p>Afvigelser på udvalgets område gennemgås nedenfor.</p>\n<p><em><strong>Områder under Social- og Handicapudvalget</strong></em></p>\n<p>På udvalgets område forventes et samlet merforbrug på 16,5 mio. kr., men\nhvor der i forbindelse med BO0 er skabt en pulje til finansiering på 23,2 mio.\nkr. der er placeret under Økonomiudvalget. De væsentligste afvigelser er\nfølgende:</p>\n<p>Botilbud: Der forventes merudgifter på 20,2 mio. kr. på botilbud og\nbotilbudslignende tilbud.</p>\n<p>Hjælpemidler (§60 selskab): Der forventes merudgifter til hjælpemidler på\n2,9 mio. kr.</p>\n<p>Refusion for ”dyre enkeltsager”: Der forventes en merindtægt på 6,3 mio.\nkr., og som hænger sammen med de stigende udgifter på det specialiserede\nvoksenområde.</p>\n<p>Hjælpemidler (<span class=\"spelle\">kropsbårende</span>):\nDer forventes et <span class=\"spelle\">mindreforbrug</span>\npå 2,3 mio. kr. </p>\n<p><em>Inden for og udenfor servicerammen</em></p>\n<p>Af det samlede merforbrug ligger de 22,6 mio. kr. indenfor servicerammen,\nhvorimod der ligger et merforbrug / forventet ekstraindtægt udenfor\nservicerammen på 6,1 mio. kr. som omhandler ekstra refusioner i forbindelse med\nrefusion for ”dyre enkeltsager” på 6,3 mio. kr. og et <span class=\"spelle\">merforbug</span> på 0,2 mio. kr. vedr. tomgangsleje.</p>\n<p>Alle enkeltafvigelser på udvalgets område kan ses i bilag 1.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen selvstændig økonomiske konsekvenser, da det bevillingsmæssige er besluttet i budgetopfølgning 1, som blev behandlet af Byrådet den 15. maj 2023.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/167124a6-d6e0-4cc9-ac18-ced40b4faea0",
+          "DocumentId": "167124a6-d6e0-4cc9-ac18-ced40b4faea0"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-003096",
+      "Navn": "Budgetopfølgning 1 (2023)",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 Afvigelser på ordinært drift Social- og Handicapudvalget",
+          "Id": "f425671c-741c-4e0c-ae1d-9ed72f2f5a76"
+        }
+      ],
+      "Documents": null,
+      "Id": "0a1059ca-dc30-4fae-9810-cd45f4961bf3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "23-003096",
+      "SourceId": null,
+      "Caption": "Budgetopfølgning 1 (2023)",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Sagen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Alle fagudvalg.</p>\n<h4>Resume</h4>\n<h4><span>Årsregnskab\n2022 og revisionens beretning er jf. Styrelsesloven godkendt i Økonomiudvalget\nog Byrådet. Ifølge tidsplanen for årsregnskabet orienteres fagudvalgene\nefterfølgende.</span></h4>\n<h4>Indstilling</h4>\n<h4><em><span>Administrationen indstiller, at orienteringen om det samlede\nårsregnskab 2022 og revisionens beretning tages til efterretning. </span></em></h4>\n<h4>Sagsbeskrivelse</h4>\n<p><span>Administrationen har udarbejdet årsregnskab 2022\nefter gældende regler fra Indenrigs- og Sundhedsministeriet. Å</span>rsregnskabet\ner den 1. april 2023 punkt 12, afgivet af Byrådet til revisionen, efter\nindstilling fra Økonomiudvalget, til gennemgang og påtegning. Dette i henhold\ntil den kommunale styrelseslov. Byrådet har den 15. maj 2023 punkt 18, efter\nindstilling fra Økonomiudvalget, godkendt årsregnskabet og revisionens\nberetning. Jævnfør tidsplanen orienteres fagudvalgene efterfølgende.</p>\n<p><strong><em>Revisionsberetning</em></strong></p>\n<p>Greve Kommunes revisionsfirma PwC har afsluttet revision af årsregnskabet\nfor 2022 og udarbejdet en revisionsberetning. Revisionen har ikke givet\nanledning til forbehold, og afgiver derfor revisionspåtegning til årsregnskab\n2022. Der er ingen revisionsbemærkninger til regnskab 2022, hvormed det er\nrevisionens opfattelse, at regnskabet giver et retvisende billede af kommunens\nfinansielle situation. </p>\n<p>Revisionen har blandt andet påset, at regnskabet er retvisende uden\nvæsentlige fejlinformationer. Revisionen har pligt til at afgive\nrevisionsbemærkninger, <span class=\"GramE\">såfremt</span> det vurderes,\nat eksempelvis regnskabet i væsentligt omfang ikke opfylder kravene i\nIndenrigs- og Sundhedsministeriets regelsæt, eller der er disponeret i strid\nmed gældende love og bestemmelser mv. Da der ikke er revisionsbemærkninger til\nregnskab 2022, er der ikke udarbejdet besvarelse til revisionsberetningen. Revisionsberetningen\nindeholder observationer og anbefalinger på forskellige områder, som\nadministrationen vil arbejde videre med. </p>\n<p><strong><em>Årsregnskab 2022</em></strong></p>\n<p>Greve Kommunes regnskab for 2022<span> afspejler et år,\nhvor kommunen har været ramt af prisstigninger, kurstab, udgifter til fordrevne\nfra Ukraine og en voldsom vækst i udgifterne til de specialiserede\nsocialområder, derudover har kommunen haft store anlægsinvesteringer.</span></p>\n<p><span>Af tabellen på følgende side fremgår hovedtallene\nfra kommunens regnskabsopgørelse fra årsregnskab 2022.</span></p>\n<p>Tabel 1. Hovedtal. Kolonne <span class=\"SpellE\">a-d</span> indeholder\nbudget og regnskab for 2022, og kolonne e henviser til det restkorrigerede\nbudget i 2022.</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"629\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Beløb i 1.000 kr.</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Oprindeligt budget 2022 (a)</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Tillægsbevillinger og omplaceringer 2022\n            (b)</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Korrigeret budget 2022 (c)</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Forbrug 2022</span></strong><strong><span><br>\n            <strong>(d)</strong></span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><span class=\"SpellE\"><strong><span>Restkorr</span></strong></span><strong><span>. budget 2022 (e)</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Skatter m.v.</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-3.269.247</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>9.552</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-3.259.695</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-3.255.275</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-4.420</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Driftsudgifter\n            netto*</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3.154.600</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>23.615</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3.178.215</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3.171.885</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>6.330</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Renter</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1.366</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1.659</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3.025</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>11.661</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-8.636</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Ordinært\n            driftsresultat*</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>-113.281</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>34.826</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>-78.455</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>-71.729</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>-6.726</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Anlæg ekskl.\n            Køb og salg</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>138.400</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>53.694</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>196.782</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>120.486</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>76.296</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Køb og salg</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-5.100</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-9.465</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-14.565</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-6.450</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-8.116</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Anlæg i\n            alt</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>133.300</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>44.229</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>182.217</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>114.036</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>68.181</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Resultat\n            i alt</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>20.019</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>79.055</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>103.761</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>42.307</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>61.455</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span>*inkl. forsyningsområdet</span></p>\n<p><span>Kolonne <span class=\"SpellE\">a-d</span>: - = indtægter, + = udgifter</span></p>\n<p><span>Kolonne e, ”Rest <span class=\"SpellE\">korr</span>. budget” henviser til det tilbageværende budget i\n2022, + = resterende budget/ <span class=\"SpellE\">mindreforbrug</span>/merindtægt,\n- = merforbrug/<span class=\"SpellE\">mindreindtægt</span></span></p>\n<p><strong><em><span>Hovedtendenserne i Greve Kommunes samlede\nregnskab for 2022 er:</span></em></strong></p>\n<ul style=\"list-style-type: disc;\">\n    <li><span>Det samlede resultat viser et underskud på\n    42,3 mio. kr. mod et korrigeret budgetteret underskud på 103,8 mio.\n    kr. Området dækker resultatet af kommunens udgifter til drift\n    og anlæg, renteudgifter og indtægter fra skatter, tilskud, udligning\n    og refusioner.</span></li>\n    <li>Det ordinære\n    driftsresultat inkl. forsyningsområdet udgør et overskud på 71,7 mio. kr.\n    mod et korrigeret budgetteret overskud på 78,5 mio. kr. Området er ekskl.\n    anlæg.</li>\n    <li>Anlægsresultatet viser\n    et forbrug på 114,0 mio. kr. mod et korrigeret budget på 182,2 mio. kr.</li>\n    <li>Der har i 2022 været et\n    træk på kassebeholdningen på 115,9 mio. kr. Dette skyldes især\n    underskuddet på regnskabet samt et større <span class=\"SpellE\">urealiseret</span>\n    kurstab på 47,4 mio. kr. Kassetrækket finansieres af tidligere års\n    overskud.</li>\n    <li>Greve Kommune anvendte i\n    2022 10,1 mio. kr. mere end den korrigerede serviceramme. Dette\n    svarer til en overskridelse på 0,4 %.</li>\n    <li>Greve Kommune har\n    overholdt anlægsrammen med 19,9 mio. kr.</li>\n</ul>\n<p>Af nedenstående tabel fremgår budget, regnskab og restkorrigeret budget for\ndriftsudgifter for 2022 fordelt på udvalg.</p>\n<p><span>Tabel 2. Budget, regnskab og restkorrigeret budget\nfor driftsudgifter for 2022 fordelt på udvalg</span></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"614\">\n    <tbody>\n        <tr>\n            <td rowspan=\"3\" valign=\"top\">\n            <p><strong><span>Driftsudgifter</span></strong></p>\n            <p><strong><span>Beløb i mio. kr.</span></strong></p>\n            </td>\n            <td rowspan=\"3\" valign=\"top\">\n            <p><strong><span>Oprindeligt budget 2022(a)</span></strong></p>\n            </td>\n            <td rowspan=\"3\" valign=\"top\">\n            <p><span class=\"SpellE\"><strong><span>Tillægsbevil-linger</span></strong></span><strong><span> og omplaceringer 2022 (b)</span></strong></p>\n            </td>\n            <td rowspan=\"3\" valign=\"top\">\n            <p><strong><span>Korrigeret budget 2022 (c)</span></strong></p>\n            </td>\n            <td rowspan=\"3\" valign=\"top\">\n            <p><strong><span>Forbrug 2022</span></strong></p>\n            <p><strong><span>(d)</span></strong></p>\n            </td>\n            <td rowspan=\"3\" valign=\"top\">\n            <p><span class=\"SpellE\"><strong><span>Restkorr</span></strong></span><strong><span>. budget 2022 (e)</span></strong></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td></td>\n        </tr>\n        <tr>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Økonomiudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>396,0</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-16,6</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>379,4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>366,4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>13,1</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Klima-, Teknik-\n            og Miljøudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>144,4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2,9</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>147,2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>144,2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3,0</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Skole-, Børne-\n            og Ungeudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>943,2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>14,6</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>957,8</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>950,5</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>7,4</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Kultur- og\n            Fritidsudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>68,8</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>6,2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>75,0</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>74,4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>0,7</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Sundheds- og\n            Omsorgsudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>695,5</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>13,0</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>708,5</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>730,1</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-21,5</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Social- og\n            Handicapudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>222,7</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>24,6</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>247,3</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>241,0</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>6,3</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Plan- og\n            Tryghedsudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2,3</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3,4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>5,7</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4,7</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1,1</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Beskæftigelses-\n            og Erhvervsudvalget</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>681,6</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-24,4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>657,2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>660,8</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>-3,6</span></p>\n            </td>\n            <td></td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>I alt</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>3.154,6</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>23,6</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>3.178,2</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>3.171,9</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>6,3</span></strong></p>\n            </td>\n            <td></td>\n        </tr>\n    </tbody>\n</table>\n<p><span>Kolonne <span class=\"SpellE\">a-d</span>: - = indtægter, + = udgifter</span></p>\n<p><span>Kolonne e, ”Rest <span class=\"SpellE\">korr</span>.\nbudget” henviser til det tilbageværende budget i 2022 hvor + = et resterende\nbudget/ <span class=\"SpellE\">mindreforbrug</span>/merindtægt, - =\nmerforbrug/<span class=\"SpellE\">mindreindtægt</span></span></p>\n<p><span>Greve Kommunes samlede nettodriftsudgifter\nudgjorde i 2022 3.171,9 mio. kr., hvilket er et <span class=\"SpellE\">mindreforbrug</span> på\n6,3 mio. kr. i forhold til det korrigerede budget på 3.178,2 mio. kr. </span></p>\n<p><span>Der har været overholdelse af budgettet for 6\nudvalg og overskridelse for 2 udvalg. I 2022 havde Greve Kommune 22\ndriftsbudgetområder fordelt på de 8 udvalg. Der har i 2022 været overholdelse\naf budgetterne på 14 budgetområder og overskridelse på 8 budgetområder.</span></p>\n<h4>Lovgrundlag</h4>\n<h4><span>Styrelsesloven,\nRegnskabsbekendtgørelsen og Indenrigs- og Sundhedsministeriets Bekendtgørelse\nom kommunens budget- og regnskabsvæsen, revision mv.</span></h4>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Kommunikation</h4>\n<p>Årsregnskab 2022 offentliggøres på kommunens hjemmeside. </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>22-05-2023 Beskæftigelses- og Erhvervsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Sagen blev taget til efterretning.</p>\n<p> </p><br>\r\n\r\n<u>22-05-2023 Sundheds- og Omsorgsudvalget</u><br>\r\nBeslutning ikke frigivet<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4c17d2b8-c76b-43b0-9748-5c3d59370e43",
+          "DocumentId": "4c17d2b8-c76b-43b0-9748-5c3d59370e43"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-010546",
+      "Navn": "Orientering om årsregnskab 2022 og revisionsberetning",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Årsregnskab 2022",
+          "Id": "521aed40-ebdd-4f62-b750-fe017e5cc3a6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Revisionsberetning for årsregnskabet 2022",
+          "Id": "f37e642f-f484-4363-9715-4718530a3684"
+        }
+      ],
+      "Documents": null,
+      "Id": "713705b9-368d-4b3a-bfba-d32541259078",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "22-010546",
+      "SourceId": null,
+      "Caption": "Orientering om årsregnskab 2022 og revisionsberetning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget</p>\n<h4>Resume</h4>\n<p>Social- og Handicapudvalget besluttede på mødet den 13. marts 2023, at behandle en sag om opfølgning på erfaringer fra Social- og Sundhedspolitisk Forum afholdt i Aalborg den 11. og 12 maj. <br>\nSagen har således til formål, at udvalget får mulighed for at drøfte de indsamlede erfaringer. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>KL afholder én gang årligt Social- og Sundhedspolitisk Forum, hvor centrale emner sættes på dagsordenen. <br>\nKonferencen er bygget op omkring oplæg i plenum og mindre workshops, som deltagerne kan vælge sig ind på. Årets tema for konferencen var <em>Vi tager ansvar for velfærd. </em>På mødet blev der afholdt oplæg i plenum og workshops om blandt andet; </p>\n<ul>\n    <li>Frisættelse og afbureaukratisering</li>\n    <li>Omsorg </li>\n    <li>Sundhed og forebyggelse </li>\n    <li>Fremtidens velfærd </li>\n    <li>Unges mistrivsel </li>\n    <li>Bæredygtig udvikling på socialområdet </li>\n    <li>Robusthedskommissionen </li>\n</ul>\n<p>Programmet fra Social- og Sundhedspolitisk Forum er vedlagt sagen som bilag. </p>\n<h4>Lovgrundlag</h4>\n<p>-</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/513214c0-3a5b-4676-a0e4-1f472a817486",
+          "DocumentId": "513214c0-3a5b-4676-a0e4-1f472a817486"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-004153",
+      "Navn": "Opsamling fra KL's Social- og Sundhedspolitisk Forum",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Program Social og Sundhedspolitisk Forum 2023",
+          "Id": "57e1a5f7-1b75-49d1-8e23-dbe629cc3941"
+        }
+      ],
+      "Documents": null,
+      "Id": "b9ab97d1-0963-490c-8bf7-8a162d99c683",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "23-004153",
+      "SourceId": null,
+      "Caption": "Opsamling fra KL's Social- og Sundhedspolitisk Forum",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n</div>\n- Status på botilbud Magnoliavej.</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cf85d9a0-4f73-4257-88dc-1b9bd8a810b3",
+          "DocumentId": "cf85d9a0-4f73-4257-88dc-1b9bd8a810b3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014473",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2c28199f-669c-418a-9c8c-e956b3383542",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-014473",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<strong></strong>\n<h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.</p>\n<strong></strong>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<strong></strong>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</em></p>\n<strong></strong>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p>- Orientering om henvendelse fra Danske Handicaporganisationer (DH) Greve vedr. pædagogisk praksis i Greve Kommunes tilbud.</p>\n<p>- Orientering fra Social- og boligministeren til Folketingets Socialudvalg  om overholdelse af lovgivningen i forbindelse med byrådets behandling af det årlige Danmarkskort.</p>\n<p>- Administrationen orienterer om status på unge, der er fraflyttet de særlige ungdomsboliger i Birkelyparken.</p>\n<p> </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8480d7d7-2daa-43bb-b740-2d14449cd7fc",
+          "DocumentId": "8480d7d7-2daa-43bb-b740-2d14449cd7fc"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013715",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Orientering fra Social- og Boligministeren til Folketingets Socialudvalg om overholdelse af lovgivningen vedr. det årlige Danmarkskort",
+          "Id": "4751fb1c-2084-45da-a96e-44cdc26284af"
+        }
+      ],
+      "Documents": null,
+      "Id": "9bfd06f1-1b7f-4ba3-9f57-a4a298e18155",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-013715",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning med bemærkning om, at mødet den 14. august 2023 starter kl. 17.00. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4><span>Sagsprocedure</span></h4>\n<p>Social- og Handicapudvalget</p>\n<h4><span>Resume</span></h4>\n<p>I sagen gives et overblik over Social- og Handicapudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning</i></p>\n<h4><span>Sagsbeskrivelse</span></h4>\n<p>Mødekalenderen er vedhæftet som bilag.</p>\n<p> </p>\n<h2></h2>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/52c1867f-ec16-49f4-9dd8-f0f6f56ddf8b",
+          "DocumentId": "52c1867f-ec16-49f4-9dd8-f0f6f56ddf8b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014474",
+      "Navn": "Social- og Handicapudvalget - mødekalender 2023",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Social- og Handicapudvalgets mødekalender 2023 - maj",
+          "Id": "759be410-7756-4be4-8320-a8d4242385be"
+        }
+      ],
+      "Documents": null,
+      "Id": "db715e98-3b71-46cb-9e45-c4924bf2fb35",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-014474",
+      "SourceId": null,
+      "Caption": "Social- og Handicapudvalget - mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark. </p>\n<h2><span></span></h2>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/482b45ce-dad6-4974-98a7-713a80dc7f1a",
+          "DocumentId": "482b45ce-dad6-4974-98a7-713a80dc7f1a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014478",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "80d84f09-3f0f-40e2-9b39-0712c26db70c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-014478",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "29a68a87-8011-4734-bcb5-75598c5bef77",
+    "Navn": "Social- og Handicapudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-05-22T17:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-05-22T17:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "cf06b334-94f1-4ce7-a022-6d5fec10fa18",
+  "Lydfiler": null
+}

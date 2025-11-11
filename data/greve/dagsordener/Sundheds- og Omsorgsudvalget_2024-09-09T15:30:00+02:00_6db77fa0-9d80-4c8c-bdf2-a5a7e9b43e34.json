@@ -1,0 +1,366 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nGodkendt.</p>\n<p> </p>\n<br><br><br>Afbud: Lone Mortensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 9. september 2024.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e55fed01-5b89-474e-8f79-58328163249c",
+          "DocumentId": "e55fed01-5b89-474e-8f79-58328163249c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014445",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "eb99653a-4796-4e39-b4a5-1de4514990ee",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014445",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOplæggene blev taget til efterretning.</p>\n<p> </p>\n<br>\n<br><br><br>Afbud: Lone Mortensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Lederne af de tre kommunale plejecentre, det private plejecenter\nLangagergård samt friplejehjemmet Fribo Greve i Greve Kommune holder oplæg om\nplejecentre, for at give Sundheds- og Omsorgsudvalget indblik i\nplejecentrenes daglige drift. Sundheds- og Omsorgsudvalget får med\noplæggene viden om Greve Kommunes plejecentre, som kan bruges til at drøfte\nudfordringer og udviklingsmuligheder.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at oplæggene tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>På mødet fortæller plejecenterlederne hver især om året der er gået,\nherunder bl.a. økonomi, rekruttering og fastholdelse af medarbejdere,\nsygefravær, mad, kompetencer, beboernes hverdagsaktiviteter og udvikling.\nSundheds- og Omsorgsudvalget kan efterfølgende stille spørgsmål.</p>\n<h4>Lovgrundlag</h4>\n<p>Servicelovens §192 om at kommunen skal tilbyde ældre med særlige behov en\nplejebolig eller en almen plejebolig efter almenboliglovens §5 stk. 2.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser.</p>\n<h4>Tidsplan</h4>\n<p>Der er afsat 30 minutter til oplægget inklusiv drøftelse og\nspørgsmål.</p>\n<h4>Øvrige forhold</h4>\n<p>Lederne fra de fem plejecentre i Greve Kommune deltager i punktet:</p>\n<p>Marianne Mouritsen fra Nældebjerg plejecenter, Kompetencecenter for demens.</p>\n<p>Connie Vejlø fra Strandcentret plejecenter.</p>\n<p>Tatjana Frimurer fra Lokalcenter Møllehøj.</p>\n<p>Marlene Malling fra Langagergård plejecenter (drevet af Forenede Care).</p>\n<p>Hanne Staanum og ny leder fra Fribo Greve friplejehjem (drevet af <span class=\"SpellE\">Altiden</span>).</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7ae51512-3ff7-4e0b-936a-edeafd8c97e6",
+          "DocumentId": "7ae51512-3ff7-4e0b-936a-edeafd8c97e6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-015642",
+      "Navn": "Årligt dialogmøde med plejecenterlederne",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c49f8555-27bd-4103-98a7-68991d4d069e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-015642",
+      "SourceId": null,
+      "Caption": "Årligt dialogmøde med plejecenterlederne",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nIkke godkendt med bemærkning om, at udvalget ønsker dialog med Stop Spild Lokalt i Greve om hensigten med bevillingen. Hertil at bemærkninger fra Handicaprådet og Greve Seniorråd blev taget til efterretning.</p>\n<p>Høringssvar fra Handicaprådet og Greve Seniorråd vedlægges.</p>\n<p> </p><br><br>Afbud: Lone Mortensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.  </p>\n<h4>Resume</h4>\n<p>Sundheds- og Omsorgsudvalget orienteres om organisationen Stop Spild Lokalt\nGreve, der uddeler overskudsmad til økonomisk trængte borgere. Stop Spild Lokalt\nhar den 10. juni 2024 indført et håndteringsgebyr på 35 kr., som borgerne skal\nbetale i forbindelse med uddeling af maden. Dette har medført en drøftelse af,\nom Greve Kommune fortsat skal støtte Stop Spild Lokalt Greve.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at støtten på 10.000 kr. fra puljen under\n§79 i serviceloven ophører fra 1. januar 2025 til Stop Spild Lokalt Greve.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><em><strong>Om organisationen Stop Spild Lokalt</strong></em></p>\n<p>Stop Spild Lokalt er Danmarks største frivillige organisation, der henter,\nbringer og uddeler overskudsmads til økonomisk trængte borgere via\nudleveringssteder kaldet madoaser i hele landet. Overskudsmaden er mad og\nråvarer, som stadig kan spises, men som pga. udløbet datomærkning eller\nbeskadiget emballage ikke kan sælges i dagligvarebutikkerne. I Greve Kommune\nligger der en madoase i Gersagerparken 87, som har eksisteret siden 2019 med\ntilknytning af ca. 50 frivillige, der hver dag kører ud til 17\ndagligvarebutikker og afhenter mad. Derefter pakkes maden og gøres klar til\nudlevering til borgere. I 2023 vandt Stop Spild Lokalt Greve Kommunes Grønne\nFællesskabspris, som hylder foreninger og fællesskaber, der gør en særlig\nindsats i forhold til klima, bæredygtighed og den grønne omstilling i Greve\nKommune.</p>\n<p><em><strong>Indførelse af håndteringsgebyr</strong></em></p>\n<p>Den 10. juni 2024 har organisationen indført et håndteringsgebyr på 35 kr.,\nnår der skal udleveres mad. Hovedorganisationen i Stop Spild Lokalt har\nbegrundet indførelsen af håndteringsgebyret med, at der er udgifter forbundet\nmed fx indkøb af engangshandsker og plastikposer af hygiejnemæssige grunde i\nforbindelse med udlevering af maden. Derudover har de frivillige udgifter til\nfx kørsel (brændstof), når de afhenter maden i dagligvarebutikkerne. Indførelse\naf gebyret har både medført kritik og forståelse fra de lokale organisationer\nog frivillige samt fra brugerne af ordningen i hele landet.</p>\n<p><em><strong>Greve Kommunes rolle</strong></em></p>\n<p>Greve Kommune støtter lokalafdelingen af Stop Spild Lokalt Greve via\npuljemidlerne under §79 i serviceloven. Sundheds- og Omsorgsudvalget godkendte\nden 13. november 2023 (pkt. 3), at støtte med 10.000 kr. i 2024 og i 2025 (i\nalt 20.000 kr.). Midlerne går til indkøb af en batteridrevet stabler (til\nstabling af kasser) samt fire \"møbelhunde\" til håndtering af\nfødevarekasser. Formålet med puljemidlerne under §79 i serviceloven er at\nstøtte forebyggende og aktiverende aktiviteter for voksne med særlige behov herunder\nborgere med handicap samt ældre borgere. I Greve Kommune er det besluttet, at\nmidlerne skal understøtte aktiviteter for ældre. Aktiviteter er fx kortspil,\nteater, sang, motion med videre. Puljen understøtter således muligheden for at\nfastholde de ældre i aktiviteter over en længere årrække for på den måde at\nbidrage til at forebygge ensomhed, isolation og inaktivitet.</p>\n<p>Sundheds- og Omsorgsudvalget kan vælge at trække støtten på 10.000 kr. fra\nog med 1. januar 2025 med henvisning til <em>Retningslinjer for tildeling\naf §79 tilskud </em>med den begrundelse, at indførelse af et\nhåndteringsgebyr er ekskluderende for at målgruppen kan benytte sig af\ntilbuddet.</p>\n<p>Foreninger fik tilsagn om midlerne i 2024 i efteråret 2023, så støtten i\n2025 kan trækkes. </p>\n<h4>Lovgrundlag</h4>\n<p>Støtte til forebyggende og aktiverende tilbud under §79 er en kan-opgave for\nkommunerne under lov om social service.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Hvis Sundheds- og Omsorgsudvalget vælger at trække støtten på 10.000 kr. i\n2025 til Stop Spild Lokalt i Greve, vil det generere 10.000 kr. i frie midler,\nsom kan uddeles til andre foreninger med udgangspunkt i retningslinjer for\ntildeling af §79 tilskud.</p>\n<h4>Tidsplan</h4>\n<p>Sundheds- og Omsorgsudvalget godkender uddeling af midler under §79-puljen\nhvert andet år. Senest er der uddelt midler den 13. november 2023. Der er\nplanlagt ny uddeling af midler i november 2025 for årene 2026 og 2027. </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e627a01b-ffb6-4140-a29c-b09a38acca10",
+          "DocumentId": "e627a01b-ffb6-4140-a29c-b09a38acca10"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-015642",
+      "Navn": "Stop Spild Lokalt i Greve  - ophør af støtte",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Høring af Stop Spild Lokalt i Greve - ophør af støtte",
+          "Id": "532ea9bd-ba4e-498b-bcb0-47724a8bd08a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Høringssvar Stop Spild Lokalt i Greve - ophør af støtte_Greve Seniorråd",
+          "Id": "a0e32f9f-85d5-40e2-98e5-713173922e31"
+        }
+      ],
+      "Documents": null,
+      "Id": "12155588-61f7-4132-bb05-d08e2c598c07",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-015642",
+      "SourceId": null,
+      "Caption": "Stop Spild Lokalt i Greve  - ophør af støtte",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.</p>\n<p>&nbsp;</p>\n<br><p>Afbud: Lone Mortensen<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016092",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b22e04d6-222c-4c38-b08d-420a9481a720",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-016092",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.</p>\n<p> </p>\n<br><br><br>Afbud: Lone Mortensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle\nemner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Formanden orienterer om:</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0acd69f7-f908-4119-a801-7f63f1a8f96b",
+          "DocumentId": "0acd69f7-f908-4119-a801-7f63f1a8f96b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014447",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a5e7a52b-72dc-4ef0-b196-81ad2e5c4bd2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-014447",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning.</p>\n<p> </p>\n<br><br><br>Afbud: Lone Mortensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget. </p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter,\nog hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen orienterer om:</p>\n<p><strong><em>Ældrelov i høring.</em></strong></p>\n<p><em>I forbindelse med vedtagelse af ældrereformen har Social-, Bolig- og\nÆldreministeriet fremsendt udkast til ældrelov (jf. bilag 1), lov om ændringer\nsom følge af ældreloven (jf. bilag 2), lov om ældretilsyn (jf. bilag 3) og lov\nom lokalplejehjem (jf. bilag 4) i høring. KL (Kommunernes Landsforening)\nfremsender høringssvaret på vegne af de 98 kommuner. Høringsfristen er fra den\n23. august til den 19. september 2024. Herefter skal ældreloven og de øvrige\nlovgivninger vedtages i Folketinget. Ældreloven træder i kraft den 1. juli\n2025.</em></p>\n<p><em><strong>Ny privat leverandør af hjemmepleje, <span class=\"SpellE\">AjourCare</span>,\nstarter den 1. oktober 2024 i Greve Kommune.</strong></em></p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/39eddae1-2852-4f49-951d-1568337ba823",
+          "DocumentId": "39eddae1-2852-4f49-951d-1568337ba823"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014441",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Udkast til forslag til ældrelov",
+          "Id": "e1134ea6-fcc0-49f1-b83b-95214ca8f0c2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Udkast til forslag til lov om ændringer som følge af ældreloven, lov om ældretilsyn og lov om lokalplejehjem",
+          "Id": "3df435b7-be25-4b03-ba43-9d72de59b351"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Udkast til forslag til lov om ældretilsyn",
+          "Id": "e1c48045-db4f-4d3f-bc12-c38a6d158da7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Lovforslag om lokalplejehjem",
+          "Id": "0ed53ffb-f1dc-43cd-bcc1-57a809532f49"
+        }
+      ],
+      "Documents": null,
+      "Id": "a5bcaaf9-84d8-4152-b5d3-52e5cc1e3059",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-014441",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Lokalitet for dialogmøde den 21. oktober 2024 er ændret fra Strandcentrets cafe til Portalen.</p>\n<p> </p><br><br>Afbud: Lone Mortensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Sundheds- og Omsorgsudvalgets udvalgsmøder og\nmøder i tilknytning til udvalget.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kalenderen er vedlagt som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/54eaafff-5ac1-46a0-acbf-72ef84b5621c",
+          "DocumentId": "54eaafff-5ac1-46a0-acbf-72ef84b5621c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014442",
+      "Navn": "Sundheds- og Omsorgsudvalgets mødekalender 2024",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Sundheds- og Omsorgsudvalgets mødekalender 2024",
+          "Id": "30d1f451-9722-4bae-99bc-6027d19a75c0"
+        }
+      ],
+      "Documents": null,
+      "Id": "2f39a080-2fc8-4641-9a04-a3fa26ed55d5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014442",
+      "SourceId": null,
+      "Caption": "Sundheds- og Omsorgsudvalgets mødekalender 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\"> </p>\n<p> </p><br><br>Afbud: Lone Mortensen</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/25b0f09b-0002-449f-8ec7-c8ca12e09fe3",
+          "DocumentId": "25b0f09b-0002-449f-8ec7-c8ca12e09fe3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014446",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4f0a3395-4ee8-4512-8be2-460b8146ce60",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014446",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "f586054c-50bb-40ac-8b4f-6c32307eb77f",
+    "Navn": "Sundheds- og Omsorgsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-09-09T15:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-09-09T15:30:00+02:00",
+    "Sted": "Møde/grupperum 13.45c, Langagergård",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": true,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "6db77fa0-9d80-4c8c-bdf2-a5a7e9b43e34",
+  "Lydfiler": null
+}

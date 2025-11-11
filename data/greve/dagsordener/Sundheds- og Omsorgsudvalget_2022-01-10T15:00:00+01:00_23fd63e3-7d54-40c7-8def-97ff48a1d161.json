@@ -1,0 +1,475 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 10. januar 2022.</div> </div> <h3>Indstilling</h3> <div> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1e6b3018-aeab-4fc7-a453-74e8665ab312",
+          "DocumentId": "1e6b3018-aeab-4fc7-a453-74e8665ab312"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014445",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a60e31c7-ab00-40a4-92ea-d60dbc02cef9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014445",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Temamødet blev afholdt</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Temamøde på Sundheds- og Omsorgsudvalgets møde den 10. januar 2022, hvor byrådet er inviteret. </div> <h3><span>Resume</span></h3> <div>Sundheds- og Omsorgsudvalgets afholder temamøde den 10. januar 2022 om udbudsbetingelserne for det nye plejehjem, der skal bygges i Tune. Som vanligt er alle byrådets medlemmer inviteret til at deltage.</div> <h3><span>Indstilling</span></h3> <div><em>Der skal ikke træffes beslutning på temamødet. </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Byrådet besluttede i foråret 2020, at der skal opføres et nyt alment plejecenter med 75 pladser på et udpeget areal i Lundegårdsparken i Tune. Antallet af boliger er af Byrådet den 20. september 2021 justeret til 72. Det almene boligselskab, der skal eje og opføre plejecentret skal findes gennem et udbud. Udbudsmaterialet skal godkendes af Byrådet, på anbefaling af Sundheds- og Omsorgsudvalget, Klima-, Teknik- og Miljøudvalget og Plan-, Trygheds- og Integrationsudvalget samt Økonomiudvalget.</div> <div> </div> <div>Sundheds- og Omsorgsudvalget behandler sagen på deres dagsorden umiddelbart efter temamødet og de øvrige fagudvalg behandler sagen på deres møder henholdsvis tirsdag den 11. januar og mandag den 17, januar. Herefter går sagen videre til Økonomiudvalget og Byrådet. </div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Der er ingen økonomiske konsekvenser.</div> <h3>Øvrige forhold</h3> <div>Greve Kommunes rådgiver deltager på temamødet. </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6097eece-9358-402d-8af0-3c480888f605",
+          "DocumentId": "6097eece-9358-402d-8af0-3c480888f605"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014347",
+      "Navn": "Temamøde om udbudsbetingelser for det nye plejehjem i Tune",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fe248ea5-62a6-4efd-91b7-f36ee9701e1e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "21-014347",
+      "SourceId": null,
+      "Caption": "Temamøde om udbudsbetingelser for det nye plejehjem i Tune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget tog den gensidige introduktion til efterretning</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div> Sundheds- og Omsorgsudvalget.</div> <b></b> <h3>Resume</h3> <div>Udvalgets medlemmer præsenterer sig for hinanden. Fortæl lidt om motivation for medlemskab af udvalget, politiske mærkesager og ønsker til samarbejde internet i udvalget</div> <b></b> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller a</em><i>t udvalgets medlemmer præsenterer sig for hinanden ift. fx motivation for medlemskab af udvalget, politiske mærkesager og ønsker til samarbejde internt i udvalget</i></div> <b></b> <h3>Sagsbeskrivelse</h3> <div>På det konstituerende møde den 1. december 2021 valgte udvalget formand og modtog et udkast til plan for møderne i 2022. Som led i udvalgets opstart præsenterer medlemmerne sig for hinanden med særlig fokus på visioner, ønsker og politiske perspektiver på udvalgets hovedopgaver. </div> <div><span>Økonomiske konsekvenser</span></div> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7736055c-53b9-4aae-b1c3-26360c6292fe",
+          "DocumentId": "7736055c-53b9-4aae-b1c3-26360c6292fe"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016162",
+      "Navn": "Gensidig introduktion",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "999af759-eba2-44ad-9193-b07bdf417f5d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-016162",
+      "SourceId": null,
+      "Caption": "Gensidig introduktion",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget godkendte årsplanen med bemærkning om, at mødet den 7. februar holdes på Hedebo og at mødet den 14. marts holdes kl 12-00-17.00 inkl møde og rundtur til institutioner i Center for Sundhed og Pleje.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div> Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>Administrationen medbringer et udkast til plan for udvalgets møder i 2022 som drøftes. Dagsorden for møderne i første kvartal justeres efter behov. </div> <b></b> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller </em><em>at udvalget drøfter den medbragte plan for udvalgets møder i 2022 og beslutter eventuelle justeringer for møderne i første kvartal.</em></div> <b></b> <h3>Sagsbeskrivelse</h3> <div>På det konstituerende møde den 1. december 2021 drøftede udvalget et første oplæg til plan for møderne i 2022. På nærværende første udvalgsmøde i den ny valgperiode bliver planen drøftet mere detaljeret med henblik på at præcisere dagsorden for de følgende 2- 3 møder i udvalget.</div> <div> </div> <div>Planen indeholder konkrete sager og emner af introducerende karakter.</div> <div><span>Økonomiske konsekvenser</span></div> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/44bcc6a8-ccd6-4487-93b6-ffd11aa9077c",
+          "DocumentId": "44bcc6a8-ccd6-4487-93b6-ffd11aa9077c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016162",
+      "Navn": "Drøftelse af udvalgets årsplan",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ef1a8fbb-403c-49db-b39e-23e927ec6db8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-016162",
+      "SourceId": null,
+      "Caption": "Drøftelse af udvalgets årsplan",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Sagen blev udsat.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>På Sundheds- og Omsorgsudvalgets møde den 10. januar 2022, vil administrationen give en overordnet introduktion om sundheds- og ældreområdet.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>På mødet vil centerchef Martin Nordentoft Rasmussen give en overordnet introduktion til organisering, ansvarsområder, styring, sikkerhed, kvalitet, tilsyn og udviklingsprojekter på sundheds- og omsorgsområdet i Greve Kommune. Udvalget får lejlighed til at drøfte og tilkendegive eventuelle øvrige ønsker til fremadrettet introduktion.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <h3><span>Kommunikation</span></h3> <div>Centerchef Martin Nordentoft Rasmussen orienterer under punktet.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e7e92b27-5b20-4585-946d-11820b202e4f",
+          "DocumentId": "e7e92b27-5b20-4585-946d-11820b202e4f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-000063",
+      "Navn": "Introduktion til sundheds- og omsorgsområdet",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e0fc8d57-8739-4adf-857d-993fe949d0f7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "22-000063",
+      "SourceId": null,
+      "Caption": "Introduktion til sundheds- og omsorgsområdet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Formanden orienterede om henvendelser til formanden og udvalget samt dr&oslash;ftelse af dem p&aring; m&oslash;der.</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016092",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a1acbfcd-178b-4250-97d6-fdb9d73a165b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-016092",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1-7 anbefales med følgende bemærkning under punkt 1</div> <ul>     <li>at boligselskabernes klimapolitik indgår i bedømmelsen</li>     <li>at der indgår demenskompetencer i vurderingen af tilbuddene, så demensdemensvenlig indretning sikres</li>     <li>at det forudsættes at der er to vejs kaldeanlæg</li>     <li>at det undersøges om der mangler loftlifte på badeværelse. Medarbejderne og arbejdsmiljø skal afklares ift om liften skal dække hele lejligheden. </li>     <li>At det afdækkes om medicinskabe er på badeværelset da de så bliver fugtig.</li> </ul> <div> </div> <div>Udvalget tog Seniorrådets og Handicaprådets bemærkninger til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget, Plan-, Trygheds- og Integrationsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet. </div> <h3><span>Resume</span></h3> <div>Byrådet besluttede i foråret 2020, at der skal opføres et nyt alment plejecenter med 75 pladser på et udpeget areal i Lundegårdsparken i Tune. Antallet af boliger blev af Byrådet den 20. september 2021 justeret til 72. Denne sag omhandler godkendelse af det udbudsmateriale, der skal ligge til grund for udbud af det afsatte areal og retten til at opføre og eje plejecentret. Funktionsprogrammet og udbudsbetingelserne er hoveddokumenter i udbuddet, som gennemføres blandt fire inviterede almene boligselskaber i løbet af første halvår 2022. </div> <h3><span>Indstilling</span></h3> <div><i>Center for Teknik & Miljø og Center for Sundhed & Pleje indstiller overfor Sundheds- og Omsorgsudvalget og <i>Klima-, Teknik- og Miljøudvalget;</i></i></div> <div><i> </i></div> <div><i>1. at funktionsprogram og udbudsbetingelser godkendes,</i></div> <div><i> </i></div> <div><i>2. at det godkendes, at administrationen gennemfører udbud af bygherreopgave blandt de fire udvalgte almene boligselskaber,</i></div> <div><i> </i></div> <div><i>3. at størrelsen på daghjemmet på plejecentret til visiterede borgere opnormeres fra 30 til 40 dagligt besøgende,</i></div> <div><i> </i></div> <div><i>4. at tids- og handleplan for gennemførelse af udbud godkendes,</i></div> <div><i> </i></div> <div><i>5. at merudgift til deponering på 13,5 mio.kr., svarende til justeret værdi af serviceareal, samt ny periodisering indarbejdes i budgetforslag for budget for 2023 til 2026,</i></div> <div><i> </i></div> <div><i>6. at der udarbejdes bruttoanlægsforslag til budget 2023 – 2026 vedrørende anskaffelse af plejesenge, inventar og løsøre til en anslået værdi af ca. 8,5 mio.kr. til plejecentret, og</i></div> <div><i> </i></div> <div><i>7. at udgiften til Greve Kommunes leje af servicearealer på plejecentret indarbejdes som en teknisk rettelse i budgettet for 2023 til 2026.</i></div> <div><i> </i></div> <div><i> </i></div> <div><i>Center for Teknik & Miljø og Center for Sundhed & Pleje indstiller overfor Plan-, Trygheds- og Integrationsudvalget; </i></div> <div><i> </i></div> <div><i>1. at der godkendes principper for lokalplan, og</i></div> <div><i> </i></div> <div><i>2. at det godkendes at arbejdet med lokalplanen igangsættes med de i sagen beskrevne planprincipper.</i></div> <div><i> </i></div> <div><i> </i><i> </i></div> <div><i>Center for Teknik & Miljø og Center for Sundhed & Pleje indstiller overfor Økonomiudvalget;</i></div> <div><i> </i></div> <div><i>1. at det godkendes, at administrationen gennemfører udbud af grund i forbindelse med udbud af bygherreopgave blandt fire almene boligselskaber, og</i></div> <div><i> </i></div> <div><i>2. at udkast til grundaftale godkendes.</i></div> <h3><span>Sagsbeskrivelse</span></h3> </div> <div>Byrådet besluttede i foråret 2020, at der skal opføres et nyt alment plejecenter med 75 pladser på et udpeget areal i Lundegårdsparken i Tune. De overordnede planprincipper for plejecentrets dimensioner, højde og placering blev samtidig besluttet. Principperne er gengivet i den skitse til lokalplan, som er vedlagt sagen. Lokalplanen skal udarbejdes i forbindelse med plejecentrets endelige disponering og behandles politisk i marts 2023. I lokalplanen får planprincipperne status af lokalplankrav. </div> <div> </div> <div>Et alment plejecenter er støttet byggeri, hvor Greve Kommune opnår anvisningsret til plejeboligerne på centret. Greve Kommune skal yde tilskud til byggeriet gennem et såkaldt grundkapitaltilskud, svarende til ti procent af byggeriets anskaffelsessum. Endvidere skal Greve Kommune deponere et beløb svarende til hvad plejecentrets serviceareal er værd. Deponering kræves hvis en kommune lader en almen eller anden bygherre opføre et plejecenter, som kompensation for den udgift kommunen ville have haft, ved selv at bygge og eje. </div> <div> </div> <div>Byrådet har godkendt, at der gennemføres et udbud blandt fire udvalgte almene boligselskaber. Det boligselskab som vinder udbuddet skal opføre og eje plejecentret, på det areal Greve Kommune samtidig sælger til boligselskabet. I udbuddet konkurreres der på plejecentrets kvalitet og funktion og hvordan der skal samarbejdes med Greve Kommune, under projektering og drift af plejecentret. Kvalitet, funktion og samarbejde er vigtigt, da Greve Kommune ønsker at plejecentret bliver et godt og trygt hjem for borgerne samt en god og effektivt drevet arbejdsplads. </div> <div> </div> <div>Byrådet godkendte den 20. september 2021 det værdiprogram, der beskriver Greve Kommunes visioner og ønsker for byggeriets udformning, indretning og funktioner. Byrådet besluttede samtidig at justere antallet af pladser til 72. Plejecentrets størrelse er uændret på 7.500 kvadratmeter (etageareal). </div> <div> </div> <div>Udbuddet skal gennemføres i perioden fra januar til maj, 2022. I denne sag indstiller administrationen, at betingelser og det materiale der ligger til grund for udbuddet godkendes og at den tids- og procesplan der er lagt for udbuddet godkendes. Sagen har endvidere tre indstillingspunkter, som handler om udgifter der skal indarbejdes i budgettet for 2023 til 2026 til deponering, indretning og leje af serviceareal. Endvidere indstiller administrationen, at det daghjem for visiterede borgere, der skal være på plejecentret opnormeres, så det dagligt kan besøges af 40 borgere, frem for de oprindeligt planlagte 30 borgere. Foruden indholdet af udbudsmaterialet, gennemgår sagen det forberedende arbejde og den involvering af borgere og interessenter, der har været i processen.    </div> <div> </div> <div><i>Udbud af grund</i></div> <div><i> </i></div> <div>Udbuddet omfatter en grund på ca. 13.000 kvadratmeter beliggende ved Tune Parkvej i den nordøstlige del af Lundegårdsparken i Tune. Byggefeltet grænser op til fredskoven i det nordøstlige hjørne af parken, mod syd afgrænset af Hegnsstien og mod vest af et tættere bevokset parkområde.</div> <div> </div> <div>Det udbudte område giver mulighed for at opføre almene plejeboliger med tilhørende serviceareal, således at plejecentrets samlede etageareal bliver ca. 7.500 kvadratmeter. Indeholdt i dette areal er et dagcenter for visiterede borgere til 40 dagligt besøgende og en sundhedsklinik, hvor borgere fra lokalområdet kan modtage sygeplejeindsatser fra hjemmesygeplejen. Planprincipperne er givet af kommuneplanrammen og gengivet i den skitse til lokalplanen, som er vedlagt sagen til godkendelse. Planprincipperne er de følgende:</div> <div> </div> <ol>     <li style=\"\">Et samlet etageareal på 7.800 kvadratmeter, svarende til byggeprocent på 60.</li>     <li style=\"\">Byggeri tillades opført i op til tre etager, maximal højde 11 meter.</li>     <li style=\"\">Byggelinje med ti meters respektafstand til fredskoven.</li>     <li style=\"\">Der gives god mulighed for anlægning af parkeringspladser med grøn armering indenfor afstandszonen for fredskoven.</li>     <li style=\"\">Vejadgang fra Tune Parkvej.</li>     <li style=\"\">Tilslutning til eksisterende stinet i området.</li>     <li style=\"\">Der gives mulighed for omlægning af den eksisterende sti, som går fra i retning nord til syd.</li>     <li style=\"\">Hensyntagen til og for så vidt muligt bevarelse af eksisterende træer og grøn beplantning.</li>     <li style=\"\">Mindst 55 parkeringspladser, hvoraf mindst 45 pladser skal anlægges fra start.</li>     <li style=\"\">Parkeringspladser kan placeres mellem de bevaringsværdige træer og beplantning op mod Tune parkvej.</li>     <li style=\"\">Byggeriet skal nedtrappes i højden i retning mod øst.</li> </ol> <div> </div> <div>Planprincipperne har status af rammesættende krav til byggeriet, som sammen med krav om antallet af pladser og øvrige mindstekrav indgår i udbuddet. Lokalplanen skal muliggøre boligselskabets byggeri og bliver derfor udarbejdet i koordination med boligselskabets dispositionsforslag. Lokalplanen fremsættes til politisk godkendelse i marts 2023. Det er således planprincipperne, som de fremgår af punkt 1 til 11 ovenfor, der i denne sag indstilles til godkendelse, og det indstilles samtidigt at arbejdet med lokalplanen kan igangsættes. </div> <div> </div> <div>Grunden udbydes med mulighed for at opføre ca. 7.500 kvadratmeter. Størrelsen er sat ud fra mindstekrav om boligstørrelse på 65 kvadratmeter bruttoareal per bolig og et skøn i forhold til størrelsen af et funktionelt serviceareal. Planprincipperne giver dog mulighed for et samlet etageareal på 7.800 kvadratmeter, svarende til en bebyggelsesandel af grunden på 60 %. De resterende 300 kvadratmeter gør det muligt at give boligselskabet tilladelse til senere udbygning af plejecentret. Det er Byrådet, der skal beslutte en eventuel senere udbygning.</div> <div> </div> <div>Greve Kommunes rådgiver har undersøgt hvordan plejecentret kan indpasses på byggefeltet. Undersøgelsen viser, at et byggeri kan holdes i to etager, enten for hele byggeriet, eller i to etager med en samtidig optrapning til tre etager mod vest. Således er der gode muligheder for at nabobebyggelsen til øst på adressen Lundegårdsparken genereres mindst muligt. </div> <div> </div> <div>Følgende fire almene boligselskaber inviteres til at afgive bud: </div> <div> </div> <ul>     <li style=\"\">Boligselskabet Sjælland.</li>     <li style=\"\">DAB.</li>     <li style=\"\">DOMEA.</li>     <li style=\"\">KAB.</li> </ul> <div> </div> <div>De fire boligselskaber er fundet gennem markedsundersøgelse og forhåndsdialog. Alle fire boligselskaber har angivet, at de er interesseret i at afgive tilbud. Udbuddet gennemføres i perioden januar til maj, 2022. Boligselskabernes tilbud bedømmes af administrationen, sammen med den udpegede rådgiver. Når det vindende tilbud er fundet, kan Byrådet den 22. maj 2022 godkende at grunden sælges til vinderen. </div> <div> </div> <div><i>Udbudsmodellen</i></div> <div><i> </i></div> <div>Udbuddet kombinerer et grundsalg med alment boligformål med en bygherrekonkurrence, hvor et funktionsprogram danner basis for udbuddets krav og ønsker til byggeriets overordnede disponering og indretning, funktionalitet, udearealer og adgangsforhold. Retten til at købe grunden, opføre og eje plejecentret tildeles det boligselskab, som bedømmes til bedst at leve op til udbuddets kriterier. Kriterierne fremgår i det følgende:</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td>             <div> </div>             </td>             <td>             <div>Kriterium</div>             </td>             <td>             <div>Vægt</div>             </td>             <td>             <div>Beskrivelse</div>             </td>         </tr>         <tr>             <td>             <div>1.</div>             </td>             <td>             <div>Økonomi</div>             </td>             <td>             <div>20 %</div>             </td>             <td>             <div>Kriteriet vedrørende økonomi omhandler vilkår for leje af servicearealer, administrationsgebyr og administrative omkostninger i forbindelse med byggesagen</div>             </td>         </tr>         <tr>             <td>             <div>2.</div>             </td>             <td>             <div>Kvalitet</div>             </td>             <td>             <div>40 %</div>             </td>             <td>             <div>Tilbudsgivers skitse for plejehjemmet og beskrivelser af byggeriets udformning, funktionalitet, efterlevelse af minimumskrav og kvalitet udover minimumskrav</div>             </td>         </tr>         <tr>             <td>             <div>3.</div>             </td>             <td>             <div>Proces</div>             </td>             <td>             <div>40 %</div>             </td>             <td>             <div>Samarbejdsorganisation, der skal sikre Greve Kommune indflydelse på byggeriets udformning og et godt samarbejde, når plejecentret tages i brug</div>             </td>         </tr>     </tbody> </table> <div> </div> <div>Udbudsstrategien indebærer, at salgsprisen for grunden skal svare til den kommunale udgift til grundkapital, som svarer til ti procent af anskaffelsessummen. Ved at lade grundpriselementet neutralisere, bliver udbuddet en konkurrence om, hvilket boligselskab der kan levere mest kvalitet, de bedste lejevilkår for servicearealerne og bedst lever op til Greve Kommunes krav, ønsker og visioner for plejecentret.</div> <div> </div> <div><i>Udbudsmaterialet</i></div> <div><b><i> </i></b></div> <div>Greve Kommunes rådgiver og arbejdsgrupper fra Center for Teknik & Miljø og Center for Sundhed & Pleje har udarbejdet et funktionsprogram, som specificerer minimumskrav til indretning, funktionalitet og øvrige ønsker til plejecentret. Ud fra funktionsprogrammet, planprincipperne for grunden og de krav der stilles i bygningsreglementet og øvrig lovgivning, skal de inviterede boligselskaber gennem skitser og beskrivelser give deres bud på et godt og funktionelt plejecenter. </div> <div> </div> <div>Udover funktionsprogrammet og det tidligere godkendte værdiprogram, består udbudsmaterialet af de generelle konkurrencebetingelser for udbuddet, hovedtidsplan frem mod ibrugtagning af plejecentret, lokalplan i udkast og udkast til grundkøbsaftalen. Se i øvrigt oversigt over bilag, længere nede. </div> <div> </div> <div><i>Udbudsform og minimumskrav</i></div> <div><b><i> </i></b></div> <div>I den valgte udbudsform udbyder Greve Kommune en bygherrerolle og ejerskab af et plejecenter. Udbudsformen betyder, at ansvaret for at efterleve de krav der stilles, overdrages til det vindene boligselskab. Greve Kommune yder et tilskud til byggeriets grundkapital og indtræder endvidere som langvarig lejer af plejecentrets serviceareal. Greve Kommune har derfor en stor og saglig interesse i byggeriets projektering, som boligselskabet som bygherre skal forsøge at tilgodese bedst muligt. Hvis boligselskabet som bygherre på et tidspunkt ekstraordinært vurderer, at et af de opstillede krav ikke kan efterleves grundet fx økonomi, vil Greve Kommune blive inddraget for at finde en løsning, der bevarer mest mulig funktionalitet i forhold til det kravet beskriver. </div> <div><strong><br> </strong></div> <div><i>Inddragelse af borgere og faglige input</i></div> <div><b><i><strong> </strong></i></b></div> <div>Byrådet godkendte den 20. september 2021 det værdiprogram, som beskriver Greve Kommunes visioner og ønsker for byggeriets udformning, indretning og funktioner. </div> <div> </div> <div>I udformningen af værdiprogrammet hentede rådgiver inspiration fra deltagere fra et eksternt panel, hvor naboer i Tune og øvrige interessenter kom med bidrag til formulering af visioner omkring hjemlighed for beboerne, samspil med lokalsamfundet, naboskab og integration med Lundegårdsparken. Endvidere blev der den 25. maj 2021 afholdt borgermøde i Tunehallerne, hvor interesserede borgere afgav bemærkninger til værdiprogrammets temaer og byggeriets placering i Lundegårdsparken. Social-, Sundheds- og Psykiatriudvalget afholdt den 26. maj 2021 et temamøde, hvor udvalget kommenterede på temaerne.</div> <div> </div> <div>Værdiprogrammets hovedgreb og pointer går igen i funktionsprogrammet. Funktionsprogrammet har dog et højere detaljeringsniveau og er skrevet ud fra mere byggetekniske termer.</div> <div> </div> <div>Der vil fortsat være inddragelse af naboer og interessenter, når det vindende boligselskab planlægger og projekterer det nye plejehjem. Inddragelsen vil også involvere de faglige funktioner, der skal have til huse på plejecentret. Under delkriteriet om proces, bliver boligselskabernes model for inddragelse bedømt.  </div> <div> </div> <div><i>Oversigt over udbuddets bilag</i></div> <div><b><i> </i></b></div> <div>Det samlede udbudsmateriale består af konkurrencebetingelserne og en række bilag. I oversigten nedenfor, fremgår det hvad indholdet af de forskellige bilag er.</div> <div> </div> <table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td>             <div> </div>             </td>             <td>             <div>Titel</div>             </td>             <td>             <div>Indhold</div>             </td>             <td>             <div>Bilag</div>             </td>         </tr>         <tr>             <td>             <div>1)</div>             </td>             <td>             <div>Konkurrencebetingelser</div>             </td>             <td>             <div>Konkurrencebetingelserne er udbuddets hoveddokument, hvor rammer for udbuddet opstilles.</div>             </td>             <td>             <div>Vedlagt til godkendelse</div>             </td>         </tr>         <tr>             <td>             <div>2)</div>             </td>             <td>             <div>Funktionsprogram</div>             </td>             <td>             <div>Funktionsprogrammet beskriver minimumskrav, ønsker og forslag, som boligselskaberne i deres løsning og projektbeskrivelse skal leve op til og give bud på.</div>             </td>             <td>             <div>Vedlagt til godkendelse</div>             </td>         </tr>         <tr>             <td>             <div>3)</div>             </td>             <td>             <div>Værdiprogram</div>             </td>             <td>             <div>Værdiprogrammet beskriver Greve Kommunes visioner og ønsker for byggeriets udformning, indretning og funktioner. Værdiprogrammet er godkendt af Byrådet d. 20. september 2021.</div>             </td>             <td>             <div>Vedlagt til orientering</div>             </td>         </tr>         <tr>             <td>             <div>4)</div>             </td>             <td>             <div>Grundkøbsaftale</div>             </td>             <td>             <div>Grundkøbsaftalen fastsætter vilkår for Greve Kommune overdragelse af grunden til det vindende boligselskab. Grundkøbsaftalen er genstand for udbuddet.</div>             </td>             <td>             <div>Vedlagt til godkendelse</div>             </td>         </tr>         <tr>             <td>             <div>5)</div>             </td>             <td>             <div>Skitse til lokalplan</div>             </td>             <td>             <div>Skitse til lokalplan indarbejder plangrundlag og de besluttede planprincipper fra Byrådets beslutning i foråret 2020. Lokalplanen bliver efter hovedtidsplanen godkendt af Byrådet til februar eller marts 2023.</div>             </td>             <td>             <div>Vedlagt til orientering</div>             </td>         </tr>         <tr>             <td>             <div>6)</div>             </td>             <td>             <div>Hovedtidsplan</div>             </td>             <td>             <div>Hovedtidsplan er godkendt af Byrådet den 20. september 2021. Hovedtidsplanen er revideret i december 2021, men uden betydning for færdiggørelse af plejecentret.</div>             </td>             <td>             <div>Vedlagt til orientering</div>             </td>         </tr>     </tbody> </table> <div> </div> <div>Når udbudsmaterialet annonceres overfor de indbudte boligselskaber, vedlægges øvrige bilag, som vedrører servitutter, ledningsoplysninger, jordbunds- og miljøforhold samt udtalelse vedrørende arkæologi. </div> <div> <h3><span>Lovgrundlag</span></h3> <div>Der henvises generelt til Almenboligloven og Forvaltningsloven, og heraf afledt lovgivning, der grundlæggende er bestemmende for boligselskabets henholdsvis Greve Kommunes handlemuligheder, forpligtelser og rettigheder i relation til grundkøbsaftale, lejeaftale med videre.</div> <div> </div> <div>Anden relevant lovgivning:</div> <div> </div> <div>Planloven, i relation til formål med grundsalget, herunder også det forestående lokalplanarbejde.</div> <div> </div> <div>Skovloven, i relation til den tilstødende fredskov.</div> <h3><span>Økonomiske konsekvenser</span></h3> </div> <div> <div><i><strong>Salgspris og tilskud til grundkapital</strong></i></div> <div><i><strong> </strong></i></div> <div>Udbudsstrategien for grundsalg og valg af bygherre for plejecentret i Tune indebærer, at anskaffelsessummen for servicearealerne per kvadratmeter skal være den samme, som gælder for plejeboligerne.</div> <div> </div> <div>Endvidere bestemmer udbudsstrategien, at følgende budgetmæssige forudsætninger gælder:</div> <div> </div> <ul>     <li style=\"\">Salgsprisen for grunden skal udligne den kommunale udgift til grundkapital, svarende til ti procent af anskaffelsessummen.</li>     <li style=\"\">På basis af maksimumbeløbet for støttet boligbyggeri per 1. januar 2022 fastsættes salgsprisen til 3.188 kr. inkl. moms per kvadratmeter støtteberettiget areal og serviceareal.</li>     <li style=\"\">Den samlede salgspris for grunden udgør dermed 23.910.000 kr. inkl. moms ved opførelse af de planlagte 7.500 kvadratmeter.</li> </ul> <div> </div> <div>Grundkøbesummen reguleres i forhold til den fremtidige fremskrivning af maksimumbeløbet for støttet boligbyggeri i hovedstadsområdet og i forhold til endelig fastsættelse af det samlede støtteberettigede boligareal og serviceareal. Den endelige fastsættelse finder sted ved landmåleropgørelse og som indberettet i skema B for støttet boligbyggeri. </div> <div> </div> <div>I fastsættelse af ovenstående principper, forudsætter Greve Kommune endvidere, at de økonomiske rammer for bolig- og serviceareal skal indeholde anskaffelse af fast inventar, fastmonterede hjælpemidler, fastmonteret udstyr samt øremærkede reservationer til en samlet værdi af i alt 16 mio. kr. eksklusive moms. </div> <div> </div> <div>Gennem valuarvurdering af den 14. oktober 2021 har administrationen sikret sig, at markedsprisen for grundens værdi er konstateret. I valuarvurderingen er det forudsat, at grunden udbydes til støttet byggeri og med det formål at opføre almene plejeboliger med tilhørende serviceareal.</div> <div> </div> <div><i>Indkøb af inventar og løsøre til plejecentret</i></div> <div><b><i> </i></b></div> <div>I Greve Kommunes budget for 2023 til 2026 skal der afsættes midler til indkøb af inventar og løsøre til plejecentret, herunder til indretning af træningslokale, visse hjælpemidler og senge til plejeboligerne. I budgettet udarbejdes der derfor et bruttoanlægsforslag på 8,5 mio.kr. til anskaffelse af inventar og løsøre.  </div> <div> </div> <div><i>Udgift til deponering for servicearealer</i></div> <div><i> </i></div> <div>I forbindelse med værdiprogrammets godkendelse den 20. september blev antallet af plejeboliger justeret fra 75 til 72. Størrelsen på servicearealet er i den vejledende arealoversigt i funktionsprogrammet sat til 2.820 kvadratmeter, svarende til et serviceareal på 38 %. Den endelige størrelse af servicearealet kan først bestemmes, når det vindende boligselskab er udpeget og byggeriets udformning er kendt. En del af servicearealet vil rumme funktioner, som ikke direkte har med plejecentret at gøre: daghjem, sundhedsklinik og delvist træningssalen. </div> <div> </div> <div>Greve Kommune skal deponere et beløb, svarende til værdi af servicearealet. Ændringerne i antallet af boliger har betydning for størrelsen af det beløb, Greve Kommune skal reservere til deponering. Den nye udgift til deponering er sat til 90,9 mio. kr. </div> <div> </div> <div>Der er allerede afsat følgende beløb i budget 2021 til 2024 til dækning af deponeringsudgifter for servicearealer: 38,3 mio. kr. i 2023 og 38,3 mio. kr. i 2024, i alt 76,6 mio. kr. </div> <div> </div> <div><span>Den nye udgift til deponering betyder, at der skal afsættes yderligere 13,5 mio. kr. Administrationen indstiller, at merudgiften på 13,5 mio. kr. indarbejdes i forslag til budget 2023 til 2026. </span></div> <div><span> </span></div> <div>Ændringer i hovedtidsplanen fra 2020 betyder endvidere, at deponeringsudgiften forskydes over budgetårene. Administrationen indstiller, at ny <span>periodisering heraf indarbejdes i budget 2023 til 2026.</span></div> <div><span> </span></div> <div><i>Leje af serviceareal</i></div> <div><b><i> </i></b></div> <div>Greve Kommune skal leje servicearealerne, når plejecentret tages i brug. Udgiften skal dækkes af Greve Kommune, også selvom en privat leverandør skal udføre plejen på plejecentret. Fastsættelsen af lejen sker ud fra objektive kriterier. Udgiften kendes, når det vindende boligselskab er udpeget. Udgiften til leje af servicearealer indarbejdes som en teknisk rettelse i budgettet for 2023 til 2026.  </div> <div><b><i> </i></b></div> <div><i>Mulige afledte anlægsudgifter</i></div> <div><i> </i></div> <div>Anlægsudgifter i forbindelse med eventuel omlægning eller renovering af trafikale anlæg på Tune Parkvej er ikke omfattet af byggeri af plejecentret. Viser det sig hensigtsmæssigt at gennemføre omlægning eller renovering, skal dette indarbejdes i budgettet.  </div> <h3><span>Tidsplan</span></h3> <table>     <tbody>         <tr>             <td><strong>Tid</strong></td>             <td><strong>Handling</strong></td>         </tr>         <tr>             <td>Uge 2 og 3 2022</td>             <td>Sundheds- og Omsorgsudvalget, Klima-, Teknik- og Miljøudvalget og Plan-, og Trygheds- og Integrationsudvalget behandler indstilling om godkendelse af udbudsbetingelser</td>         </tr>         <tr>             <td>24/1-22</td>             <td>Økonomiudvalgets behandler fagudvalgs anbefaling om godkendelse af udbudsbetingelser for grundsalg og valg af bygherre</td>         </tr>         <tr>             <td>31/1-22</td>             <td>             <div>Byrådet behandler Økonomiudvalgets anbefaling om godkendelse af udbudsbetingelser for grundsalg og valg af bygherre</div>             </td>         </tr>         <tr>             <td>Januar - maj 2022</td>             <td>Udbudsprocessen (tilbudsfrist d. 31/3-22, tilbudsbedømmelse afsluttet d. 20/4-22, styregruppen godkender projektgruppens indstilling om vindende bud d. 26/4-22)</td>         </tr>         <tr>             <td>9/5-22</td>             <td>På fællesmøde med Økonomiudvalget og de tre indstillende fagudvalg behandles administrationens indstilling om grundsalg og valg af bygherre</td>         </tr>         <tr>             <td>23/5-22</td>             <td>Byrådet behandler Økonomiudvalgets anbefaling om godkendelse af grundsalg og valg af bygherre</td>         </tr>         <tr>             <td>Uge 22, 2022</td>             <td>Indgåelse af kontrakt med vindende boligselskab om køb af grund og opførelse af plejecenter</td>         </tr>         <tr>             <td>Juni 2022 - 2025</td>             <td>Projektering, myndighedsbehandling, lokalplansproces og byggeri af plejecenter</td>         </tr>         <tr>             <td>Udgangen af 2025</td>             <td>Plejecentret tages i brug </td>         </tr>     </tbody> </table> <div> </div> <div>Ovenstående tids- og handleplan følger den hovedtidsplan for plejecentret, som Byrådet godkendte den 20. september 2021. Hovedtidsplanen er revideret i december 2021, men uden betydning for færdiggørelse af plejecentret.   </div> <h3><span>Øvrige forhold</span></h3> <div>Greve Seniorråd og Handicaprådet har høringskompetence i forhold til udbuddet. Administrationen gennemgår sagsfremstilling og udbudsmateriale på rådenes ordinære møder. </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/773db51d-3192-4795-8a72-454412632f13",
+          "DocumentId": "773db51d-3192-4795-8a72-454412632f13"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014347",
+      "Navn": "Godkendelse af udbudsbetingelser for grundsalg - nyt plejehjem i Tune",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Konkurrencebetingelser - udbud af plejehjem i Tune 131221",
+          "Id": "1c03e0c4-6a07-4957-93be-e1f42e743268"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Nyt plejecenter i Tune - funktionsprogram 211221",
+          "Id": "dee98902-f39c-478c-b72e-bbac02da47ba"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Værdiprogram for Tune Plejehjem 200921",
+          "Id": "8df44dac-dd27-4764-8465-342729c02faf"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Grundkøbsaftale - nyt plejecenter i Tune 040122",
+          "Id": "9f85aa24-6752-4e66-9010-67a85aa14b73"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Skitse til Lokalplanforslag 15.24- Plejecenter i Lunden i Tune- 20122021",
+          "Id": "2c924f35-9a86-4895-810b-693935d74d5e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Hovedtidsplan - nyt plejehjem i Tune - 141221",
+          "Id": "9f00e1e8-2887-43cc-afba-35526c0f7225"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "21-014347-14 Handicaprådets høringssvar til udbudsmateriale 060122",
+          "Id": "6d73069b-8806-4bcc-9a8e-11efb0319bc9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "21-014347-15 Handicaprådet-DH - høringssvar til udbud af nyt plejehjem i Tune 090122",
+          "Id": "92e6f8ea-3ad6-4cb1-b788-b52123930da1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "21-014347-16 Referat Greve Seniorråd 070122",
+          "Id": "df279834-e8f3-4464-80b7-c11368dca459"
+        }
+      ],
+      "Documents": null,
+      "Id": "4e068480-3109-42fc-96e2-03fbe8f3a79c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014347",
+      "SourceId": null,
+      "Caption": "Godkendelse af udbudsbetingelser for grundsalg - nyt plejehjem i Tune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Henvendelser sendes til formanden og direktør.</div> <div>Borgmester og direktør skal godkende besøg på institutioner.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d6e62196-dbc6-4f46-9cf7-f8570785ddaf",
+          "DocumentId": "d6e62196-dbc6-4f46-9cf7-f8570785ddaf"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014447",
+      "Navn": "Orientering fra formanden/ gensidig orientering",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "cb3b31bd-4a02-48de-901d-9efeb855baff",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014447",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/ gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Styrelsen for Patientsikkerhed var den 2. december 2021 på tilsyn hos hjemmesygeplejen. Det var et opfølgende tilsyn med henblik på at undersøge om påbud af 8. november 2021 var efterlevet i forhold til håndtering af risikosituationslægemidlet methotrexat. Styrelsen har ved tilsynsbesøget konstateret, at påbuddet ikke var efterlevet fuldt ud. Der er behov for yderligere opfølgning i form af et nyt tilsynsbesøg. På et kommende møde følges op vedrørende tilsyn på området. </div> <div> </div> <div>Styrelsen for Patientsikkerhed har den 2. december 2021 været reaktivt ældretilsyn hos hjemmepleje nord. Styrelsen har sendt partshøring af tilsynsrapport til gruppen, hvor de får vurdering ’Mindre problemer af betydning for den fornødne kvalitet’. På et kommende møde følges op vedrørende tilsyn på området.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen orienterer om: </div> <div>Fællesmøde den 23. maj 2022 med Klima-, Teknik- og Miljøudvalget, Plan-, Trygheds- og Integrationsudvalget om plejehjem i Tune.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/11098760-ced0-4c1c-b1d7-a915fb968cc8",
+          "DocumentId": "11098760-ced0-4c1c-b1d7-a915fb968cc8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014441",
+      "Navn": "Huskeliste/ orientering fra administrationen",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "173aa3c7-e204-45c2-8abd-9738e9ac8226",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-014441",
+      "SourceId": null,
+      "Caption": "Huskeliste/ orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget tog orienteringen til efterretning med bemærkning om, at kalenderen opdateres og indkaldes i henhold til punkt 4. </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Sundheds- og Omsorgsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Der er ingen ændringer til kalenderen.</div> <div> </div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><b>Aktiviteter i 2021</b></div>             </td>             <td valign=\"top\">             <div><b>Dato</b></div>             </td>             <td valign=\"top\">             <div><b>Kl.</b></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Januar</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>10. januar</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Februar</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>07. februar</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Marts</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>14. marts</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>April</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>25. april</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Maj</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Fællesmøde med Plan,- Tryghed- og Integrationsudvalget og Klima,- og Teknik- og Miljøudvalget om plejehjem i Tune</div>             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>25. maj</div>             <div> </div>             <div> </div>             <div>30. maj</div>             </td>             <td valign=\"top\">             <div>Kommer</div>             <div> </div>             <div> </div>             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Juni</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div> -</div>             </td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Juli</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>August</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>15. august</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>September</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>12. september</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>Oktober</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>10. oktober</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>November</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Sundheds- og Omsorgsudvalget</div>             </td>             <td valign=\"top\">             <div>14. november</div>             </td>             <td valign=\"top\">             <div>15.00</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div>December</div>             </td>             <td valign=\"top\"></td>             <td valign=\"top\"></td>         </tr>         <tr>             <td valign=\"top\">             <div>Ingen udvalgsmøder</div>             </td>             <td valign=\"top\">             <div>-</div>             </td>             <td valign=\"top\"></td>         </tr>     </tbody> </table> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a721a089-37d4-41e7-a6c1-5f82a77d502f",
+          "DocumentId": "a721a089-37d4-41e7-a6c1-5f82a77d502f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014442",
+      "Navn": "Sundheds- og Omsorgsudvalget - mødekalender 2022",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8071e8d3-add3-478e-866d-e8831fb3fc6d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-014442",
+      "SourceId": null,
+      "Caption": "Sundheds- og Omsorgsudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Elektronisk underskriftsark.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d0625540-15b6-46bb-941a-082052e862ed",
+          "DocumentId": "d0625540-15b6-46bb-941a-082052e862ed"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014446",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5bb2341c-3d17-4072-b9ae-6b4c1fb370b4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-014446",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "f586054c-50bb-40ac-8b4f-6c32307eb77f",
+    "Navn": "Sundheds- og Omsorgsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-01-10T15:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-01-10T15:00:00+01:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "23fd63e3-7d54-40c7-8def-97ff48a1d161",
+  "Lydfiler": null
+}

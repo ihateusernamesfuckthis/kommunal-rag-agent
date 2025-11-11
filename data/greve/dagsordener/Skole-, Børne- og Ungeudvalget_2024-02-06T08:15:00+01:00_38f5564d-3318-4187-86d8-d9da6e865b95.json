@@ -1,0 +1,481 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p> </p><br><br>Fraværende: Linda Heegaard, Marc Genning</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 6. februar 2024.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><i>Administrationen indstiller, at dagsordenen godkendes</i></em></p>\n<p><em></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8df5c694-187b-45be-87c8-c53d5b4bde20",
+          "DocumentId": "8df5c694-187b-45be-87c8-c53d5b4bde20"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014470",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5dcd535c-93b8-488a-856c-4a98f4943cfb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014470",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Linda Heegaard",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5dcd535c-93b8-488a-856c-4a98f4943cfb"
+        },
+        {
+          "Name": "Marc Genning",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5dcd535c-93b8-488a-856c-4a98f4943cfb"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Social- og Handicapudvalget og Skole-, Børne- og Ungeudvalget</p>\n<h4>Resume</h4>\n<p>Sagen indeholder en mundtlig gennemgang af fire borgercases. De fire borgercases skal illustrere kompleksitet, økonomi og hvorfor nogle sager indklages til Ankestyrelsen.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Social- og Handicapudvalget og Skole-, Børne- og Ungeudvalget drøfter de fremlagte borgercases, og tager dem til efterretning. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Borgersagerne på udvalgenes områder er nogle gange sammenfaldende, hvilket betyder, at sagerne er hjemmehørende i to forskellig udvalg. Derfor har administrationen udvalgt nogle cases, der præsenteres for både Social- og Handicapudvalget og for Skole-, Børne-, og Ungeudvalget.</p>\n<p>Denne sag med borgercases blev blandt andet bestilt i forbindelse med byrådets behandling den 6. november 2023 af sagen vedrørende Klagesager på det sociale område i Greve Kommune i 2022.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. </p>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>05-02-2024 Social- og Handicapudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Taget til efterretning. </p>\n<p> </p><br>\r\n<br>Afbud: Maria Witthøft\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4d7bca69-00cc-420b-81b6-9a2caacd5e0e",
+          "DocumentId": "4d7bca69-00cc-420b-81b6-9a2caacd5e0e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-001224",
+      "Navn": "Borgercases på Børne- og Ungeområdet og Social- og Handicapudvalgets område",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2735a67f-dc89-41f3-aeae-6f6b30672bc1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "24-001224",
+      "SourceId": null,
+      "Caption": "Borgercases på Børne- og Ungeområdet og Social- og Handicapudvalgets område",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Byrådet vedtog den 4. september 2023 anbefalingerne i den specialpædagogiske analyse, den 2. oktober 2023 blev budgettet for 2024-27 vedtaget og på mødet i udvalget den 14. november 2023 blev det besluttet, hvilke af anbefalingerne, der skal arbejdes med i 2024. Som en del af budforliget er der afsat midler til at understøtte implementeringen af anbefalingerne. <br>\n<br>\nI denne sag orienteres udvalget om forventningerne til de sager, som udvalget skal behandle i relation til implementeringen i 2024. Med sagen har udvalget mulighed for at drøfte status på implementeringen og der skabes med sagen et overblik over behandlingen af sager i 2024. Den samlede implementering skal bidrage til, at understøtte målsætningen om tidlig indsats og at hjælp til børn og unge i udsatte positioner i udgangspunkt sker i barnets nærmiljø.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at Skole-, Børne- og Ungeudvalget tager orienteringen til efterretning.</i></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Baggrund</em></strong></p>\n<p> Med den specialpædagogiske analyse, er der vedtaget 17 anbefalinger til, hvordan Greve Kommune kan arbejde med tidlig indsats. Målet med udviklingsretningen er, at børn og unge i udsatte positioner opspores tidligt og at der gives hjælp tidligt. Dette således, at børn og unge i udsatte positioner i udgangspunkt, hjælpes i deres nærmiljø. <br>\n<br>\nAdministrationen har været i dialog med de faglige organisationer og tillige haft dialog med Børnerådet og Skolerådet om, hvilke anbefalinger der skal iværksættes i 2024. De foreslåede anbefalinger er en vurdering af, at skabe størst mulig effekt ud fra de ressourcer der er til rådighed i 2024 og administrationens vurdering baseret på dialogen og ledelsesmæssige drøftelser heraf. <br>\n<br>\nMed budgettet for 2024-27 er der afsat følgende økonomiske ramme til at understøtte implementeringen af anbefalingerne;  </p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p>2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>2025</p>\n            </td>\n            <td valign=\"top\">\n            <p>2026</p>\n            </td>\n            <td valign=\"top\">\n            <p>2027</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Implementeringsmidler </p>\n            </td>\n            <td valign=\"top\">\n            <p>2 mio.</p>\n            </td>\n            <td valign=\"top\">\n            <p>5 mio. </p>\n            </td>\n            <td valign=\"top\">\n            <p>5 mio. </p>\n            </td>\n            <td valign=\"top\">\n            <p>- 2 mio.</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Den økonomiske målsætning med indsatserne er, at der investeres 12 mio. over tre år og at indsatserne vil have effekt på kommunens udgifter til segregerede indsatser således, at der efterfølgende over 3 år ses samme nedgang (eller mere) i udgifterne til segregerede indsatser, som der har været investeret.<br>\nHertil er der yderligere afsat 0,5 mio. i 2024, 2,0 mio. i 2025 og 2026 og 1,5 mio. i 2027 til at understøtte udviklingen af de fysiske læringsmiljøer i relation til den specialpædagogiske analyses formål. <br>\n<br>\nPå mødet den 14. november 2023 besluttede udvalget, at der i 2024 skal arbejdes med følgende anbefalinger; </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Et fælles børne- og ungesyn </li>\n    <li>Ny mødestruktur for det centrale visitationsudvalg </li>\n    <li>Model for før-visitation </li>\n    <li>Inkluderende dagbehandling </li>\n    <li>Tidlig opsporingsmodel </li>\n    <li>Mellemformer </li>\n</ul>\n<p>Udvalget besluttede tillige, at der i 2024 budgetafsatte midler på 2,0 mio. anvendes som følger;</p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p>Fælles børne- og ungesyn </p>\n            </td>\n            <td valign=\"top\">\n            <p>0,2 mio. </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Inkluderende dagbehandling </p>\n            </td>\n            <td valign=\"top\">\n            <p>1 mio. </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Tidlig opsporingsmodel på dagtilbudsområdet </p>\n            </td>\n            <td valign=\"top\">\n            <p>0,2 mio. </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Mellemformer, coteaching </p>\n            </td>\n            <td valign=\"top\">\n            <p>0,6 mio.</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p> <em><strong>Sager til behandling i 2024</strong></em> <br>\nI 2024 arbejdes der således på at implementere før omtalte anbefalinger. Nogle implementeringsaktiviteter kører uden behov for yderligere politiske beslutninger og andre initiativer kræver nye politiske beslutninger. <br>\n<br>\nAktuelt ser planen for politiske sager i Skole-, Børne- og Ungeudvalget således ud; </p>\n<p><em>Udvalgsmøde den 19. marts</em> <br>\nSag med forslag til ny model for fordeling af specialundervisningsmidler. <br>\nSagen henhører til anbefalingen om ny økonomisk styringsmodel, hvor fordelingen af specialundervisningsmidler udgør en delmængde. Sagen fremlægges med forslag om at sende den nye model i høring. </p>\n<p><em>Udvalgsmødet den 23. april</em> <br>\nSag med forslag til udviklingsproces for kvalitet og tidlig opsporing på dagtilbudsområdet. <br>\nSagen henhører til anbefalingen om tidlig opsporingsmodel. </p>\n<p>Herudover sag med forslag til fælles børne- og ungesyn i Greve Kommune. <br>\nAdministrationen har arbejdet sammen med interessenterne på det samlede børne- og ungeområde og har sendt et udkast til fælles børne- og ungesyn i høring hos interessenterne. Udvalget behandler sagen efter endt høring. </p>\n<p><em>Udvalgsmødet den 4. juni</em> <br>\nGenoptagelse af sag efter endt høring om forslag til ny model for fordeling af specialundervisningsmidler. <br>\nI sagen skal der således træffes beslutning om forslaget til en ny model. <br>\n<br>\nHerudover sag med kommissorium for udarbejdelse af en ny samlet økonomistyringsmodel. <br>\nDenne sag henhører til anbefalingen om en ny økonomisk styringsmodel på området samt den igangværende budgetanalyse af samme. </p>\n<p><em>Udvalgsmødet den 13. august</em> <br>\nSag med forslag til prioritering af, hvilke anbefalinger der skal arbejdes med i 2025. <br>\nI sagen skal der foruden prioritering af hvilke anbefalinger der skal arbejdes med i 2025, tillige træffes beslutning om anvendelsen af de i budgettet afsatte 5 mio. til implementering af anbefalingerne. </p>\n<p><em>Udvalgsmødet den 10. september</em> <br>\nSag med forslag om at sende forslag til ny økonomistyringsmodel i høring. <br>\nSagen henhører til anbefalingen om en ny økonomisk styringsmodel på området. </p>\n<p><em>Udvalgsmøde den 19. november</em> <br>\nGenoptagelse af sag om ny økonomistyringsmodel efter endt høring. </p>\n<p>Ovenstående er sådan som administrationen forventer, at sagsmængden i relation til implementering af anbefalingerne ser ud lige nu. Der kan forekomme ændringer, ligesom udvalget kan have ønske om andre sager eller en ændret rækkefølge. Udvalget vil løbende blive orientereret om implementeringen. </p>\n<p><em><strong>De samlede anbefalinger</strong></em> <br>\nDen specialpædagogiske analyse er besluttet med følgende 17 anbefalinger; </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Et fælles børne- og ungesyn </li>\n    <li>Kompetencestrategi for det specialpædagogiske område </li>\n    <li>Kompetencestrategi for det almene område </li>\n    <li>Model for før-visitation </li>\n    <li>Et praksisnært PPR </li>\n    <li>Ny mødestruktur for det centrale visitationsudvalg </li>\n    <li>SFO i specialtilbud </li>\n    <li>Målgruppebeskrivelser for specialtilbud </li>\n    <li>Inkluderende dagbehandling </li>\n    <li>Mellemformer </li>\n    <li>Tidlig opsporingsmodel </li>\n    <li>Styrkede overgange </li>\n    <li>Fælles faglig leder af de specialpædagogiske tilbud </li>\n    <li>En ny økonomisk styringsmodel </li>\n    <li>Investering i fysiske rammer </li>\n    <li>Sammenhæng med forenings- og kulturlivet </li>\n    <li>Koordineret sagsbehandling </li>\n</ul>\n<p>Den specialpædagogiske analyse og anbefalingerne er vedlagt sagen som bilag. <br>\nHeri udfoldes ovenstående 17 anbefalinger.</p>\n<h4>Lovgrundlag</h4>\n<p>Dagtilbudsloven og Folkeskoleloven.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Der er i budgettet for 2024, 2025 og 2026 afsat i alt 12 mio. kroner til implementering af anbefalingerne. <br>\nHerefter forventes det, at de budgetafsatte midler kan reduceres tilsvarende over en periode på 3 år.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/796d7d71-283b-494d-b38f-180a1557f48c",
+          "DocumentId": "796d7d71-283b-494d-b38f-180a1557f48c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-000879",
+      "Navn": "Overblik over sager i 2024, implementering af anbefalinger i den specialpædagogiske analyse",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Analyse af det specialpædagogiske område - Greve Kommune 2022-2023",
+          "Id": "84801d57-3651-4726-bb4d-184f93a56c1e"
+        }
+      ],
+      "Documents": null,
+      "Id": "f002a0db-5ad7-48fa-88c3-a086f0c308e3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "24-000879",
+      "SourceId": null,
+      "Caption": "Overblik over sager i 2024, implementering af anbefalinger i den specialpædagogiske analyse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. og 2. indstilles godkendt med følgende bemærkning: skolebestyrelsernes og dagtilbudsbestyrelsernes høringssvar anerkendes idet, at der indskrives i kommissoriet, at formanden for Skole-, Børne- og Ungeudvalget, i samråd med administrationen kan indkalde til ekstraordinære møder, såfremt der sker væsentlige økonomiske eller lovgivningsmæssige ændringer på området. Herudover gives dagordensgruppen mandat til at arbejde med forskellige organiseringsformer af  møderne.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Byrådet har besluttet, at Børnerådet og Skolerådet skal samles til\nét fælles råd. Udkast til kommissorium for det nye fælles råd har været i høring\nblandt bestyrelserne på dagtilbuds- og skoleområdet og MED-organisationen. Der\nskal træffes endelig politisk beslutning om det nye råds kommissorium, herunder\nhvordan rådet skal sammensættes.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at det nye kommissorium for det fælles Børne- og\n    Skoleråd godkendes</em></li>\n    <li><em>at det træder i kraft med byrådets beslutning</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Skole-, Børne- og Ungeudvalget besluttede den 10. oktober 2023 at sende\nudkast til nyt kommissorium for det fælles Børne- og Skoleråd i høring, i\nperioden fra 15. november til og med 12. januar 2024. Beslutningen om at samle <span class=\"spelle\">Børnerådet</span> og Skolerådet er taget med vedtagelsen af budget\n2024.</p>\n<p>Det nye fælles kommissorium, som har været i høring, tager afsæt i det\nnuværende kommissorium for <span class=\"spelle\">Børnerådet,</span> som blev\ngodkendt af Byrådet den 19. juni 2023, og kommissoriet for Skolerådet, som det\nfremgår af skolestyrelsesvedtægtens bilag 3, godkendt af Byrådet den 31. januar\n2022. Udkast til nyt kommissorium er vedlagt sagen.</p>\n<p>Det nye fælles kommissorium for Børne- og Skolerådet er som udgangspunkt en\nsammenfletning af de eksisterende to kommissorier, suppleret med nogle\nændringer:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Administrationen lægger bl.a. op til at øge antallet af\n    repræsentanterne for skolebestyrelserne, sådan at både formand og\n    næstformand er medlemmer af Børne- og Skolerådet. Dette vil skabe en bedre\n    balance mellem repræsentationen på dagtilbudsområdet og skoleområdet, da\n    bestyrelsesformændene på dagtilbudsområdet er flere og typisk vil\n    repræsentere mindre institutionstyper end skolerne. </li>\n    <li>Derudover øges antallet af skoleledere i rådet til to,\n    så der er lighed i forhold til dagtilbudsområdet.</li>\n    <li>I dag fremgår det, at Skole og Forældres lokalafdeling\n    er repræsenteret i Skolerådet, dette udgår af det nye kommissorium, da\n    organisationen ikke har en lokalafdeling i Greve.</li>\n    <li>Repræsentationen af medarbejderrepræsentanter er\n    revideret, så der er en repræsentant fra både dagtilbuds- og skoleområdet,\n    valgt af og blandt medarbejderrepræsentanter i de kommunale\n    forældrebestyrelser og skolebestyrelser.</li>\n    <li>Det er tilføjet, at souschefen for Center for Dagtilbud\n    & Skoler, med ansvar for skoleområdet, er medlem af Børne- og\n    Skolerådet i lighed med enhedschefen på dagtilbudsområdet.</li>\n    <li>Der afholdes tre årlige møder, hvor et af dem er\n    reserveret til budgetdrøftelser. Dette i lighed med det nuværende\n    Børneråd. Skolerådet har i dag 2-4 årlige møder, ifølge deres\n    kommissorium.</li>\n    <li>Antallet af formøde-forældrerepræsentanter er fastsat\n    til fire (to fra dagtilbudsområdet og 2 fra skoleområdet). </li>\n    <li>Det er tilføjet, Børne- og Skolerådet opfylder kravet i\n    folkeskolelovens § 46 a om oprettelse et fælles forum til drøftelse af det\n    lokale skolevæsens vilkår og udvikling.</li>\n</ul>\n<p>Der er indkommet ét fælles høringssvar fra forældrebestyrelserne for de kommunale dagtilbud, undtaget den integrerede institution Møllehaven og\nDagplejen, som ikke er en del af høringssvaret. Der er ligeledes indkommet ét\nfælles høringssvar fra skolebestyrelserne, suppleret af et høringssvar fra\nskolebestyrelsen på Strandskolen.</p>\n<p>De fælles høringssvar forholder sig primært til selve beslutningen om at\nsamle <span class=\"spelle\">Børnerådet</span> og Skolerådet, og i begrænset omfang\ntil selve kommissoriet og sammensætningen af det nye fælles Børne- og Skoleråd.</p>\n<p>I høringssvarene gives der direkte udtryk for, at man ikke ønsker, at de to\nråd bliver sammenlagt til et fælles råd:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Skolebestyrelserne: <em>”Skolebestyrelserne er direkte\n    imod et fælles børne-/unge-/daginstitutions-/skoleråd, der alene vil\n    svække dialogen og alene tjene som et alibi i den politiske proces, da der\n    ikke vil være tid og rum for en seriøs dialog.”</em></li>\n    <li>De kommunale dagtilbud: <em>”En sammenlægning af Børne-\n    og Skolerådet er en kraftig forringelse af <span class=\"spelle\">Børnerådet</span>\n    og det er en kraftig forringelse af Skolerådet”. ”Det er vores klare\n    overbevisning at forældrenes bidrag og inddragelse vil blive kraftigt\n    reduceret med sammenlægningen.”</em></li>\n</ul>\n<p>Med udgangspunkt i ønsket om to separate råd, peges der i høringssvarene på\nnogle muligheder for at mindske arbejdet omkring møderne. Der peges bl.a. på,\nat Børnerådsmødet og Skolerådsmødet kunne ligge i forlængelse af hinanden,\neventuelt med overlap til fælles informationer og oplæg, der ikke kræver\nefterfølgende diskussion.</p>\n<p>Høringssvarene er vedlagt i sin fulde længde, som bilag A, B og C.</p>\n<h4>Lovgrundlag</h4>\n<p>Folkeskolelovens § 46 a, hvoraf det fremgår, at der skal oprettes et\nfælles forum til drøftelse af det lokale skolevæsens vilkår og udvikling, <span class=\"grame\">såfremt</span> der ikke er nedsat et fælles rådgivende organ i\nhenhold til folkeskolelovens § 41, stk. 1, nr. 4.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen forelægges som følge af Byrådets vedtagelse af Budget 2024, den 2.\noktober 2023. Som en del heraf er det besluttet, at <span class=\"spelle\">Børnerådet</span>\nog Skolerådet skal lægges sammen til ét fælles råd som led i kommunens arbejde\nmed afbureaukratisering.</p>\n<p>Følgende fremgår bl.a. af forligsteksten: <em>\"Derudover er gruppen\nenige om at der reduceres i omfanget og frekvens af råd og nævn. Reduktionen\nskal ske så alle nuværende borgere og interessent grupper fortsat er\nrepræsenterede og inddragede, men i en enklere og mere effektiv struktur.\nGruppen er enige om, at idræts- og fritidsområdet skal samles i et samlet\nfolkeoplysningsudvalg, samt at børneområdet skal samles i ét fælles råd.\"</em></p>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Kommunikation</h4>\n<p>Efter byrådets endelige beslutning vil de involverede forældrebestyrelser,\nskolebestyrelser og MED- organisationen blive informeret herom.</p>\n<h4>Tidsplan</h4>\n<table border=\"0\" cellspacing=\"3\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td>\n            <p><strong><span>Tidsplan og proces</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Udvalg</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>Datoer</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sag om nyt kommissorium for\n            Børne- og Skolerådet - beslutning om at sende i høring</span></p>\n            </td>\n            <td>\n            <p><span>Skole-, Børne- og\n            Ungeudvalget</span></p>\n            </td>\n            <td>\n            <p><span>14. november 2023</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Høringsperiode fra den 15.\n            november 2023 til og med</span></p>\n            <p><span>den 12. januar 2024</span></p>\n            </td>\n            <td>\n            <p> </p>\n            </td>\n            <td>\n            <p> </p>\n            <p><span>15. november 2023 - 12.\n            januar 2024</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sag om nyt kommissorium for\n            Børne- og Skolerådet - beslutning efter høring</span></p>\n            </td>\n            <td>\n            <p><span>Skole-, Børne- og\n            Ungeudvalget</span></p>\n            </td>\n            <td>\n            <p><span>6. februar 2024</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sag om nyt kommissorium for\n            Børne- og Skolerådet - beslutning efter høring</span></p>\n            </td>\n            <td>\n            <p><span>Økonomiudvalget</span></p>\n            </td>\n            <td>\n            <p><span>28. februar 2024</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sag om nyt kommissorium for\n            Børne- og Skolerådet - endelig beslutning efter høring</span></p>\n            </td>\n            <td>\n            <p><span>Byrådet</span></p>\n            </td>\n            <td>\n            <p><span>13. marts 2024</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Nyt kommissorium for Børne-\n            og Skolerådet træder i kraft med byrådets godkendelse og publiceres\n            efterfølgende på Greve.dk og sendes til skolebestyrelser og\n            forældrebestyrelser for de kommunale og selvejende institutioner og dagplejen\n            samt MED-organisationen.</span></p>\n            </td>\n            <td>\n            <p> </p>\n            </td>\n            <td>\n            <p><span>13. marts 2024</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/eb412047-9f51-4250-8355-52925780a5df",
+          "DocumentId": "eb412047-9f51-4250-8355-52925780a5df"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-012095",
+      "Navn": "Nyt kommissorium for fælles Børne- og Skoleråd - efter høring",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Nyt kommissorium for fælles Børne- og Skoleråd",
+          "Id": "40fc837b-03ac-4385-9438-fa322d7902c6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag A: Hørringsvar fra de kommunale forældrebestyrelser på dagtilbudsområdet til kommissorium for nyt fælles Børne- og Skoleråd",
+          "Id": "4b093b9a-bb3c-4dad-84d5-e58e334e9565"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag B Høringssvar fra skolebestyrelserne til kommissorium for nyt fælles Børne- og Skoleråd",
+          "Id": "031563cb-10c6-4259-aa4a-b22b09d4936b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag C: Supplerende høringssvar fra skolebestyrelsen for Strandskolen til det fælles høringssvar fra skolebestyrelserne, vedr. kommissorium for nyt fælles Børne- og Skoleråd",
+          "Id": "2a8321a0-d3e9-4cc3-871d-38e9fd460a22"
+        }
+      ],
+      "Documents": null,
+      "Id": "e289cf8b-8bb0-48e6-9696-324d3556c3cb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-012095",
+      "SourceId": null,
+      "Caption": "Nyt kommissorium for fælles Børne- og Skoleråd - efter høring",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt</p>\n<p>2. Godkendt</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>I afdækningen af det specialpædagogiske område er det besluttet af Byrådet, at der skal arbejdes med i alt 17 anbefalinger. Skole-, Børne- og Ungeudvalget besluttede på mødet den 21. november 2023, hvilke af disse anbefalinger der skal arbejdes med i 2024. </p>\n<p>I tillæg hertil foreslår administrationen, at der i 2024 også arbejdes med anbefalingen om at arbejde hen imod oprettelse af SFO-tilbud i tilknytning til det enkelte specialtilbud. I denne sag præsenteres således forslag til at etablere SFO i tilknytning til specialtilbud på Arenaskolen med en glidende opstart. </p>\n<p>I sagen skal der tages stilling til, om administrationen skal arbejde videre hermed.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, </i></p>\n<ol>\n    <li><i>at der etableres SFO for de kommende indskolingselever (0.-3. klasse) i S-klasserne på Arenaskolen, og at der startes med de kommende skolestartere pr. august 2024</i></li>\n    <li><i>at administrationen bemyndiges til at udarbejde lignende, fremtidige løsninger for Tuneklasserne og Hedelyklasserne.</i></li>\n</ol>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><i><strong>Baggrund</strong></i></p>\n<p>Én af de 17 anbefalinger i den specialpædagogiske analyse omhandler oprettelse af SFO i tilknytning til alle specialtilbud beliggende på almenskolerne og Kirkemosegård, så børn og unge også i deres fritidstilbud bevarer tilknytningen til det almene område.</p>\n<p>I dag har alle elever, der er tilknyttet et specialundervisningstilbud, deres fritid i enten Klub Havana eller på Klub Brogården. Det gælder for både eleverne i SFO-alderen (0.-3. klasse) og eleverne i klubalderen (4.-9. klasse). Det betyder i praksis, at alle eleverne efter endt undervisning skifter lokation, når de skal i fritidstilbud. Nogle er selvtransporterende, mens andre hentes af enten taxa eller en af de busser, som er tilknyttet klubtilbuddene.</p>\n<p><i><strong>Forslag til ny organisering af SFO for 0.-3. klasse i S-klasserne</strong> </i></p>\n<p>Det foreslås, at der med opstart d. 1.8.2024 etableres SFO for de elever, der indskrives i 0. klasse i S-klasserne beliggende på Arenaskolen.</p>\n<p>Oprettelsen af SFO tjener tre primære formål:</p>\n<ol>\n    <li>At skabe en sammenhængende dag for de mindste elever, hvor de ikke skal skifte fysisk lokation midt på dagen efter endt undervisning. På denne måde skal eleverne i de tidlige skoleår ikke bruge energi på at forholde sig til et ekstra skifte i løbet af dagen. </li>\n    <li>At skabe en større sammenhæng mellem specialundervisningstilbuddet og den almene fritid. Med en placering på samme matrikel som den almene SFO vil det være muligt at lave aktiviteter og forløb, hvor eleverne fra S-klasserne og almenklasserne kan være sammen i fritiden. Det vil være i det omfang, som er relevant og udviklende for den enkelte elev i S-klasserne, men med placeringen i sammenhæng med almen-SFO er muligheden skabt.</li>\n    <li>At give Klub Havana og Klub Brogåden bedre sammenhæng mellem antallet af børn og de kvadratmeter, som klubben har til rådighed. Særligt for Klub Havana har der over en længere periode været pres på lokalerne, da antallet af børn med behov for et specialfritidstilbud har været stigende. En glidende opstart af en mindre gruppe på Arenaskolen samt Byrådets beslutning om, at, de fire ungdomsboliger i Birkelyparken fremadrettet indgår som en del af de fysiske rammer i Klub Havana, løser den fysiske kapacitetsudfordring i Klub Havana.</li>\n</ol>\n<p><i><strong>Det nye tilbud i praksis</strong></i></p>\n<p>Der er ikke nogen af de elever, der i dag har deres fritid på enten Klub Havana eller Klub Brogården, der skal skifte fritidstilbud. Det foreslås således, at det nyetablerede SFO-tilbud i S-klasserne starter med indskrivning af kommende 0. klasseelever. Elever, der fremadrettet skal indskrives i indskolingen i S-klasserne, kan få tilbudt deres fritid i det nye tilbud, men det gælder altså ikke de elever, der allerede er i Havana eller på Brogården.</p>\n<p>Med udgangspunkt i ovenstående forventes det, at tilbuddet starter op med 4-5 elever. Med de kommende skoleårs indskrivninger af elever vil det samlede antal af elever stige, og efter fuld indfasning forventes mellem 15-25 børn i SFO i S-klasserne.</p>\n<p><i>Drøftelse med Arenaskolen og Klub Havana <br>\nAdministrationen har været i løbende dialog med såvel Arenaskolen som Klub Havana. <br>\nBegge parter bakker op om den skitserede løsning med en gradvis indfasning af nye skolestartende børn og samarbejder om fortløbende etableringen af det nye tilbud.</i></p>\n<p><i><strong>Lokaler</strong> </i></p>\n<p>Der anvendes eksisterende lokaler på Arenaskolen. Det forventes, at der skal foretages istandsættelse af lokalerne, indkøbes interiør og etableres garderober. Det endelige overblik over arbejdet, samt en estimeret økonomi til arbejdet, er ikke endeligt opgjort. Det forventes at være mindre justeringer, som kan afholdes inden for den eksisterende økonomiske ramme.  </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Driften af det nye tilbud kan håndteres under den nuværende økonomi, idet taksten pr. barn fremadrettet vil tilgå Arenaskolen og ikke Klub Havana. <br>\n<br>\nDet forventes at der skal ske mindre justeringer af de fysiske rammer, som forventes at kunne afholdes inden for de eksisterende økonomiske rammer. Såfremt det mod forventning ikke kan afholdes inden for den eksisterende økonomiske ramme, vil der blive forelagt en fornyet sag. </p>\n<h4>Tidsplan</h4>\n<p>Det nye tilbud vil kunne iværksættes pr. 1. august 2024.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ef0060a1-e3b0-4189-80ea-17c89d3d322b",
+          "DocumentId": "ef0060a1-e3b0-4189-80ea-17c89d3d322b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "24-001219",
+      "Navn": "SFO i specialtilbud på Arenaskolen",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "DH Greve høringssvar om SFO i specialtilbud på Arenaskolen",
+          "Id": "0d0182a1-05f9-471a-8b53-6f46d1c07571"
+        }
+      ],
+      "Documents": null,
+      "Id": "e2657d17-bf81-4f2e-9f9d-ead8f8d3fb9c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "24-001219",
+      "SourceId": null,
+      "Caption": "SFO i specialtilbud på Arenaskolen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Alle elever fra almenskolernes 8. årgang deltager til DM i Skills den 19. april 2024, hvor de kan møde fagligt stolte lærlinge, der dyster om at blive Danmarks bedste i eget fag. Sagen orienterer om formålet med elevernes deltagelse og om, hvordan deltagelsen har sammenhæng med elevernes afklaring og valg af uddannelse efter grundskolen.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at sagen tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Hvert år afvikles danmarksmesterskaber for elever fra erhvervsskolerne – kaldet DM i Skills. Her dystes i at blive Danmarks bedste inden for sit fag, f.eks. bager, elektriker, tømrer eller social- og sundhedsassistent og mange flere. Det er dedikerede faglærte, som brænder for deres fag.</p>\n<p>En klasse fra Krogårdskolen, som vandt<em> Skills </em>i Køge i efteråret, kandiderer til finalestævnet til den såkaldte <em>Skills stafet </em>for elever på 8. årgang.</p>\n<p><strong><em>Formål med at deltage</em></strong></p>\n<p>DM i Skills byder på en sjælden lejlighed til at opleve faglig stolthed og forskellige ungdomsuddannelser under ét tag.  Eleverne får mulighed for udvide deres kendskab til de over 100 erhvervsuddannelser, samt indsigt i de mange erhvervs betydning for samfundets sammenhængskraft.</p>\n<p>Gennem praktiske aktiviteter, vejledning og observationer kan besøget være med til at styrke elevernes valgkompetence. Et besøg på DM i Skills ligger således i tråd med Greve Kommunes pligt til og interesse i at vejlede bredt til ungdomsuddannelse.</p>\n<p><strong><em>Forberedelse og sammenhæng med vejledning om uddannelse og job</em></strong></p>\n<p>Elevernes udbytte af besøget på messen styrkes, ved at forberede besøget og efterbehandler indtryk og erfaringer. For at understøtte det, modtager lærere på 8. årgang inspirationsmateriale, som klasserne arbejder med i ugerne før og efter messen. </p>\n<p>En arbejdsgruppe med repræsentanter fra udskolingen og ungecenterets skolevejledere har prioriteret og anbefalet kommunikation til skolerne om DM i Skills.</p>\n<p>Forældre/ myndighedsindehavere til elever på 8. årgang modtager information om skolernes arbejde med og deltagelse i DM i Skills. Der er mulighed for alle for at besøge messen lørdag 20. april, gerne sammen med de unge mennesker.</p>\n<p>Besøget ligger også i god tråd med Greve Kommunes Børne- og Ungepolitik, som beskriver, at Greve Kommune er ansvarlig for at præsentere unge for forskellige uddannelses- og beskæftigelsesmuligheder, så de træffer deres uddannelsesvalg på et oplyst grundlag, samt at kommunen understøtter det statslige mål om, at flere unge gennemfører en erhvervsuddannelse. </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ce65189a-8933-493d-a4d7-89e590a5cc70",
+          "DocumentId": "ce65189a-8933-493d-a4d7-89e590a5cc70"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-007715",
+      "Navn": "Orientering om elevers deltagelse i DM i Skills i 2024",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "6aca2db6-f883-4885-9f1e-446f2c0fb88a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "23-007715",
+      "SourceId": null,
+      "Caption": "Orientering om elevers deltagelse i DM i Skills i 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Sundheds- og Omsorgsudvalget og Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Sundheds- og Omsorgsudvalget og Skole-, Børne- og Ungeudvalget orienteres om et samarbejde mellem Arenaskolen, Relationsnetværket og Strandcentret plejecenter. Formålet med samarbejdet er at inspirerer eleverne på Arenaskolen til deres fremtidige valg af uddannelse og beskæftigelse.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen om adoptionsklasser tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Arenaskolen er medlem af Relationsnetværket. Relationsnetværket blev oprettet i 2014, og medlemmerne arbejder i fællesskab med arbejdsglæde, human ressource, ledelse, social ansvarlighed og forretning. På nuværende tidspunkt er 152 private og offentlige virksomheder medlem af Relationsnetværket. </p>\n<p>Arenaskolen samarbejder med Relationsnetværket om et projekt, hvor eleverne i 2.A er blevet <em>adoptionsklasse</em> for Strandcentret plejecenter. Det betyder, at eleverne vil besøge Strandcentret plejecenter flere gange om året, indtil de går ud af 9. klasse. Formålet med besøgene er, at eleverne oplever, hvordan et plejecenter fungerer og hvordan det er at arbejde der. Dette skal føre til at give dem inspiration til uddannelse og beskæftigelse senere i livet. Senest har eleverne besøgt Strandcentret den 19. december 2023, hvor der var julehygge sammen med beboerne.</p>\n<p>Projektet er startet som en prøvehandling i et samarbejde mellem to fagcentre i administrationen. Prøvehandlinger er et forsøg, som foregår i driften, hvor en gruppe får opgaven at udføre noget nyt, i en mindre skala, men for alvor fra dag 1. Dermed er der ingen afstand mellem forsøg og drift</p>\n<p>Tiltaget med adoptionsklasser er også med til at indfri ambitionen i Greve Kommunes Børne- og Ungepolitik om, at kommunen præsenterer unge for forskellige uddannelses- og beskæftigelsesmuligheder, så de træffer deres uddannelsesvalg på et oplyst grundlag, samt at kommunen understøtter det statslige mål om, at flere unge gennemfører en erhvervsuddannelse. </p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udgifter der er forbundet med at indgå i relationsnetværket afholdes indenfor Strandcentret plejecenters økonomiske ramme. Det kan derfor være forbundet med øget omkostninger, hvis projektet skal skaleres til andre dele af Greve Kommunes organisation.</p>\n<h4>Kommunikation</h4>\n<p>Der har været opslag på Greve Kommunes Facebookside, hvor der er gjort opmærksom på projektet.</p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>05-02-2024 Sundheds- og Omsorgsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p><br>\r\n<br>Afbud: Liselott Blixt\r\n<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9f468194-db02-452f-99d9-1ed79a677e97",
+          "DocumentId": "9f468194-db02-452f-99d9-1ed79a677e97"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-014383",
+      "Navn": "Adoptionsklasse på Strandcentret plejecenter",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "91e23899-332a-4081-8401-a3627b27f91e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "23-014383",
+      "SourceId": null,
+      "Caption": "Adoptionsklasse på Strandcentret plejecenter",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringerne blev taget til efterretning. </p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning</i></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><strong><em>Orientering om borgerhenvendelser.</em></strong></p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5934b856-812d-4081-8e12-5e7013ce05f1",
+          "DocumentId": "5934b856-812d-4081-8e12-5e7013ce05f1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014467",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2af3ad63-1662-482c-bef6-9424c1e017ca",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014467",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringerne blev taget til efterretning. </p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p><strong><em>Orientering om stigning i antallet af underretninger</em></strong>.</p>\n<p><strong><em>Orientering om besøg af Arbejdstilsynet i Center for Børn & Familier</em></strong>.</p>\n<p><strong><em>Orientering om status på fælles elevråd og udmøntning af budgetforligsmidler.</em></strong></p>\n<p><strong><em>Status på skoleindskrivning.</em></strong></p>\n<strong><em>Status for Datatilsynets afgørelse vedr. chromebooks.</em></strong></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/05d7ccbd-6746-4ea4-8dea-c9ddb65ce333",
+          "DocumentId": "05d7ccbd-6746-4ea4-8dea-c9ddb65ce333"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013716",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "761bf753-9bd3-497f-9a40-53fc650ac40d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-013716",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Beskæftigelses- og Erhvervsudvalgets møder og møder i tilknytning til udvalget.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><i>Administrationen indstiller, at orienteringen tages til efterretning</i></em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d23a8eef-3577-4264-bc75-d5612d168228",
+          "DocumentId": "d23a8eef-3577-4264-bc75-d5612d168228"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014469",
+      "Navn": "Skole-, Børne- og Ungeudvalgets mødekalender 2024",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Skole-, Børne- og Ungeudvalget mødekalender 2024 - februar",
+          "Id": "ba9aa420-1388-40e2-a798-64bf9d52ae44"
+        }
+      ],
+      "Documents": null,
+      "Id": "37be711b-1a0b-4428-b529-c2fbba45dfa8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "21-014469",
+      "SourceId": null,
+      "Caption": "Skole-, Børne- og Ungeudvalgets mødekalender 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/559e6641-3739-42f3-9bb3-b38375c0cce9",
+          "DocumentId": "559e6641-3739-42f3-9bb3-b38375c0cce9"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014468",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "dc619438-5e37-4286-9769-9d26ad63ca8a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "38f5564d-3318-4187-86d8-d9da6e865b95",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "21-014468",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "473469a9-b1d4-4d5e-b869-b1ed1bbcb012",
+    "Navn": "Skole-, Børne- og Ungeudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-02-06T08:15:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-02-06T08:15:00+01:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "38f5564d-3318-4187-86d8-d9da6e865b95",
+  "Lydfiler": null
+}

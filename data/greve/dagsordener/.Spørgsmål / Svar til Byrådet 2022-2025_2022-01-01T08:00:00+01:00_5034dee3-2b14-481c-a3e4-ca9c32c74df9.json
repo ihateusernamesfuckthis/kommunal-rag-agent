@@ -1,0 +1,402 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a789c076-c197-4274-be9a-ef2e46a12742",
+          "DocumentId": "a789c076-c197-4274-be9a-ef2e46a12742"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015217",
+      "Navn": "Spørgsmål/Svar Byrådet 2022",
+      "Punktnummer": "1",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. Boligselskabet Sjælland /DVB",
+          "Id": "c517678b-b7c4-49ea-9c3f-ae76c4289ba1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. punkter på dagsorden for byrådets møde den 12.12.2022",
+          "Id": "b2d062a9-9a7c-4709-8526-a2bc044e2ca8"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. anlægsloven ved Strandparken",
+          "Id": "821be91a-74e0-4100-8e6f-3cae01c4b1e3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. kompensering af øgede energiomkostninger",
+          "Id": "070ee260-ff8d-4f94-bb6e-0c5123d3b235"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende fortov Karlslunde",
+          "Id": "ee33f98f-16aa-409c-881c-db64551caef0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. kommunens handlemuligheder vedr. gener ved borgeres brug lokale i håndværkerbyen",
+          "Id": "a4d0bb3d-e598-4bf3-b465-4f7357f3bccb"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende asbest-forurenet rum i Greve Kommune",
+          "Id": "a0b94fbf-a5ff-4b56-a41f-9b1846d23a4c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. brug af arkitekter og ingeniører til byudvikling",
+          "Id": "1cdf9bf6-b342-41f5-9429-bfda92a3c3a8"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedr. budget til Tryghed i Greve Nord og disponering af midler",
+          "Id": "096c7b74-a3c0-4123-ac26-e862d1bd9b1a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 til spml./svar ang. asbest - Afgørelse Arbejdstilsynet 110722",
+          "Id": "a8f12650-5bc7-49c2-a646-11860f157aa2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende antal medarbejdere i IT-afdeling",
+          "Id": "d38951cb-3a18-450b-a0b2-0bf25ef53a9a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 til spml./svar ang. asbest - Orientering om asbest på Strandskolen til entreprenør og underentreprenør 2308615_6_0",
+          "Id": "cdd132af-7fdf-4233-9767-8925b8fd140a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål/svar vedr. ekstra strandrensning",
+          "Id": "4b59bb76-d6c7-4b7a-a287-a6095c92e123"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende potentielt forurenet jord",
+          "Id": "ef435e62-a2c1-4272-a744-5321331fb029"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende graf over fordeling af udgifter baseret på regnskab 2021 - Opdateret",
+          "Id": "bda2d54f-77a4-44ee-afae-7a279572ab43"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Spørgsmål /svar vedr. godkendelse af dagplejere bosat i lejlighed",
+          "Id": "11acc833-74e6-40f7-9a61-7904772cefbd"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende omkostninger til transport",
+          "Id": "6342b56d-3995-4ad3-86e7-d0194b5b9ebb"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende brevstemme",
+          "Id": "6971f1ef-de4f-4dbb-a083-585e459e00d7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende varmeskabe i dagtilbud",
+          "Id": "2ba31a70-e294-4466-b14e-f73f51ade416"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende omkonstituering i Greve Fjernvarme",
+          "Id": "999d4b7a-a930-4288-9b90-c91e7df21e58"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende punkt 11 på Byrådets dagsorden",
+          "Id": "6d9c1450-f1a9-410c-8cb5-3ce2f590ca99"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende Lille Vejleå",
+          "Id": "fcfbfd44-6a1c-4506-b55a-10580682fd9f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 til spml./svar ang. asbest - Arbejdstilsynet Besøgsrapport 280622",
+          "Id": "8a233b26-c397-4934-8ee2-573e5e0c573d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende omkostninger til renovering af skoler pr. år fra 2021 til 2017",
+          "Id": "1f1b27a6-788f-40b9-801a-220b2bc0d2bd"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende undersøgelse omkring rekruttering og ansættelse - Lokalcentret Møllehøj",
+          "Id": "347808bf-565b-49b9-9c12-19f4da43e3ff"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Partshøringssvar Greve Kommune[5902]",
+          "Id": "37e666f9-8afb-409f-92d3-247db775f374"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende beskyttelsesrum i Greve",
+          "Id": "752c1535-bd31-4322-8d8c-f5ce530e741d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedr. besøg i kommunale institutioner",
+          "Id": "a9f5aabc-fe9f-46e3-8b56-f01a2f95ac7e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende pris på undersøgelser foretaget af MOE A/S",
+          "Id": "0978472b-f832-4dd3-a44a-d2707adea2ab"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende om plejepersonale gratis deltager i måltider",
+          "Id": "c6c0171b-3e14-463e-8ae9-cfd754d05639"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende honorar for rådgiver i forbindelse med byggeri",
+          "Id": "fae9c701-bc42-426f-954b-54abc30fa800"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende botilbud på Magnoliavej",
+          "Id": "91447c0c-56c1-4323-a2b6-fde86d57edfa"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedr. fortolkning af lokalplanen og præcedens for andre byggerier i område",
+          "Id": "c761d0b4-c92e-4f1d-bfc8-7ecca2eac289"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende parkeringspladser foran Greve Svømmehal",
+          "Id": "4513e3d5-779e-473c-91fb-c22f5c03ae3c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Notat vedrørende byrådets instruktionsbeføjelse for så vidt angår medlemmer udpeget til bestyrelser, kommissioner og lignende",
+          "Id": "5d091dd7-94a1-4d0e-a0e2-cfe7fc902592"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende manglende vand i kanalsystemet",
+          "Id": "d2f67bda-1e01-4763-be08-c21e50918817"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til svar vedrørende botilbud på Magnoliavej",
+          "Id": "2d242796-a0b2-4e2d-9ba9-c453aa338fb3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende udsendelse af ejendomsskatter uden forklaring",
+          "Id": "a79e0673-5c18-4149-8572-0614db127651"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende trafikstøj fra Lillevangsvej",
+          "Id": "5bf8978b-434b-43e9-bff6-059b8db47068"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende botilbud på Magnoliavej",
+          "Id": "2234232a-4e6e-4b29-a43f-b67916e20313"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende dagsordener i papirform",
+          "Id": "c4318857-c134-40ec-91af-b52ed6242c6d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende opkrævning af moms på husholdningsaffald 2022",
+          "Id": "984b1430-9b5e-4be1-8c11-61eb0e28227a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende inhabilitet",
+          "Id": "6250a0ef-4ce7-4320-a5ea-aaf14cef1453"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende BPA-ordninger i Greve Kommune",
+          "Id": "f231b4ed-a516-4fb0-940c-fb34e1d63383"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende graf over fordeling af udgifter baseret på regnskab 2021",
+          "Id": "6d436f31-83d3-435f-a183-57281cba9652"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende hvor meget Greve Kommune udbetaler til den enkelte flygtninge fra Ukraine med hjemmel i foreløbige aktstykket pr. dag",
+          "Id": "29674f39-70d1-4e59-9e0a-179e4fc69873"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende Falkevej",
+          "Id": "e1a16ae4-af56-4297-a775-23f7aef2bea7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende varmtvandsbassin i Greve Svømmehal",
+          "Id": "edece73f-f037-40c5-a6fe-b8decb4f3fbd"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende etablering af en paddel tennis bane",
+          "Id": "47a4d31c-afa1-4811-9990-932fd77d7bf9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende lukkede svar i spørgsmål/svar",
+          "Id": "27e84934-5ece-4f8a-96d7-812fac635d85"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende vederlag til hjemmeboende børn",
+          "Id": "0508390b-db79-48b9-b138-177e3943dd86"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag til svar vedrørende rådgivning efter chikane - Vejledning ved chikane af kommunalpolitikere",
+          "Id": "cd7a9323-a520-4723-add1-dc1009d80d4b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende rådgivning efter chikane",
+          "Id": "0483b67f-16e8-46e6-bb84-6f2386e9fd73"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende byggeprojekter på Hundige Strandvej og Dyssevej",
+          "Id": "d40cd411-bb86-4ca9-964a-b11e8e558732"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørede besked når kørekort og pas udløber",
+          "Id": "2bd0d10b-9cdb-42d1-9489-51cc73f5a0db"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende frokostordning",
+          "Id": "25ce8062-8387-4727-bdff-148bfd15902b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Svar vedrørende nyttehaverne i Hundige",
+          "Id": "e17f7f12-0c3a-4e55-8ec2-0fefd575c87e"
+        }
+      ],
+      "Documents": null,
+      "Id": "94236614-f8fb-4f6b-9aa0-58ba766fec9b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "5034dee3-2b14-481c-a3e4-ca9c32c74df9",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-015217",
+      "SourceId": null,
+      "Caption": "Spørgsmål/Svar Byrådet 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "208fd141-1cc9-4ff4-9040-2543c7659ebb",
+    "Navn": ".Spørgsmål / Svar til Byrådet 2022-2025",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-01-01T08:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-01-01T08:00:00+01:00",
+    "Sted": "Virtuelt møde",
+    "Afsluttet": true,
+    "Moededeltagere": [],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "5034dee3-2b14-481c-a3e4-ca9c32c74df9",
+  "Lydfiler": null
+}

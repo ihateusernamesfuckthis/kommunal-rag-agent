@@ -1,0 +1,599 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt. </div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <h3><span>Resume</span></h3> <div>Godkendelse af dagsorden for mødet den 11. oktober 2022. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes. </em></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/bb6ea221-f319-4617-8853-6231e567e747",
+          "DocumentId": "bb6ea221-f319-4617-8853-6231e567e747"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003654",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9fa19e9d-08cb-4ef6-a66c-d34355901165",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "22-003654",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "9fa19e9d-08cb-4ef6-a66c-d34355901165"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <h3><span>Resume</span></h3> <div>I denne sag orienteres der om resultaterne af undersøgelsen af Trygheden i Greve Nord og - gennem en stikprøve - i det øvrige Greve. Undersøgelsen af tryghed udgør den baseline hvortil indsatserne i handlingsplanen for Tryghed i Greve Nord vil blive målt op imod. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Børn & Familier indstiller</em><em> at orienteringen om resultaterne af tryghedsundersøgelsen tages til efterretning</em></div> <h3>Sagsbeskrivelse</h3> <div>Plan- og Tryghedsudvalget besluttede på et udvalgsmøde den 26. april 2022 rammerne for en undersøgelse af trygheden i Greve Nord, med henblik på at undersøgelsen kunne danne baseline for trygheden i Greve Nord. Rammerne for spørgeskemaet har været et velafprøvet spørgeskema i forhold til tryghed, udarbejdet af Center for Boligsocial Udvikling. Spørgeskemaet er tilført spørgsmål om snyd med offentlige ydelser og social kontrol efter ønske fra Beskæftigelses- og Erhvervsudvalget. </div> <div> </div> <div>Undersøgelsen af trygheden blev gennemført i perioden 23. maj til 6. august 2022. </div> <div> </div> <div>Spørgeskemaet er via e-boks sendt til alle 4.252 borgere over 15 år i Greve Nord, og til en tilfældig udtrukket stikprøve på i alt 3.030 borgere over 15 år i det øvrige Greve.</div> <div> </div> <div>I alt 2.633 borgere har besvaret spørgeskemaet, fordelt med 1.355 borgere i Greve Nord og 1.278 borgere i det øvrige Greve. Det svarer til henholdsvis 32 % af borgerne i Greve Nord, og 42 % af de borgere i det øvrige Greve Nord, der har fået tilsendt spørgeskemaet. </div> <div> </div> <div>Det er en særdeles tilfredsstillende svarprocent, sammenlignet med lignede undersøgelser.</div> <div> </div> <div>De borgere der har svaret spørgeskemaet, svarer ikke fuldstændig til konkrete fordeling af borgere på køn, alder, familie-status og etnicitet. Der er derfor foretaget en vejning af svarene, så repræsentativiteten er sikret. </div> <div><em> </em></div> <div><em>Undersøgelsens hovedkonklusioner</em></div> <div>Undersøgelsens hovedkonklusion er at:</div> <ul>     <li>De fleste borgere er generelt trygge i deres hverdag, men borgere i Greve Nord er mere utrygge end borgere i det øvrige Greve. 9 % af borgerne i Greve Nord er utrygge eller meget utrygge, det samme gælder for 3 % af borgerne i det øvrige Greve. 17 % af borgerne i Greve Nord er hverken tryg eller utryg, det samme gælder for 8 % af borgerne i det øvrige Greve. 72 % af borgerne i Greve Nord er trygge, mens 89 % af borgerne i det øvrige Greve generelt er trygge eller meget trygge. </li>     <li>De fleste borgere er generelt trygge, når de færdes udenfor om aftenen. Men utryghed er mere udbredt i Greve Nord end i det øvrige Greve. 45 % af borgerne i Greve Nord er af og til eller ofte utryg, når man færdes alene efter mørkets frembrud. Tilsvarende er 37 % af borgerne i det øvrige Greve af og til eller ofte utrygge ved at færdes ude efter mørkets frembrud. 50 % af borgene i Greve Nord er sjældent eller aldrig utrygge, når de færdes alene efter mørkets frembrud. Tilsvarende er 61 % af borgerne i det øvrige Greve sjældent eller aldrig utrygge, når de færdes alene efter mørkets frembrud.</li>     <li>Kvinder og mænd i Greve Nord føler sig lige trygge, men flere kvinder end mænd er utrygge, når de færdes ude efter mørkets frembrud.</li>     <li>De yngste borgere i Greve Nord oplever større utryghed i hverdagen end ældre over 30 år.</li>     <li>Borgere i Greve Nord oplever flere utryghedsskabende hændelser i form af chikane og tilråb, samt aggressiv trafikkørsel og unge der samles i grupper, end borgere i det øvrige Greve. </li> </ul> <div><em> </em></div> <div><em>Utryghedsskabende faktorer i Greve Nord</em></div> <div>De utryghedsskabende faktorer der bliver nævnt i undersøgelsen er:</div> <ul>     <li>Unge der forsamles i grupper</li>     <li>Knallert og scooter-kørsel</li>     <li>Tilråb og chikane</li>     <li>Vidne til kriminalitet</li>     <li>Indbrud</li> </ul> <div><em> </em></div> <div><em>Undersøgelsens konklusioner vedr. mistanke om social snyd og social kontrol</em></div> <div>Undersøgelsen har udover tryghed også fokuseret på Greve Nord-borgerens oplevelser af snyd med lejemål og offentlige ydelser, samt social kontrol. </div> <div> </div> <div>14 % af borgerne i Greve Nord har inden for det sidste år haft mistanke om snyd med lejemål i boligorganisationen, mens 12 % af borgerne i Greve Nord har haft mistanke om snyd med offentlige ydelser i boligområdet.</div> <div> </div> <div>3 % af borgerne i Greve Nord har følt sig udsat for social kontrol. Opdeles borgerne i Greve Nord efter etnicitet svarer 7 % af borgerne, der kommer fra et ikke vestligt land, at de har følt sig udsat for social kontrol, mens 3 % af de danske statsborgere har følt sig udsat for social kontrol.</div> <div><i> </i></div> <div><i>Den videre proces</i></div> <div>Denne tryghedsundersøgelse udgør en baseline for de besluttede 11 indsatser i handlingsplanen for Tryghed i Greve Nord. </div> <div> </div> <div>Undersøgelse af Tryghed i Greve Nord vil jf. udvalgets beslutning 26. april 2022 blive gennemført hvert andet år, og dermed næste gang i 2024. </div> <div> </div> <div>Når denne undersøgelse af tryghed foreligger, vil resultaterne afspejle, om indsatserne i den besluttede handlingsplan har den forventede effekt.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser udover den udgift på ca. 260.000 kr. til gennemførelse af undersøgelsen, som blev godkendt i sag til Plan- og Tryghedsudvalget 26. april 2022. </div> <h3>Kommunikation</h3> <h3></h3> </div> <div>Undersøgelsen vil blive offentliggjort på Greve.dk under Tryghed i Greve Nord (Greve.dk/kommunen/projekter/tryghed-i-Greve-Nord)</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c34557a2-cce0-4f3f-8770-6794f75ac58d",
+          "DocumentId": "c34557a2-cce0-4f3f-8770-6794f75ac58d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002662",
+      "Navn": "Tryghed i Greve Nord - Undersøgelse af Tryghed",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Analyserapport - Undersøgelse af Tryghed i Greve Nord - September 2022",
+          "Id": "f01fd957-e0ed-4a3f-9b60-d2f64d2736db"
+        }
+      ],
+      "Documents": null,
+      "Id": "65e00d0f-751c-48fa-ba62-8d6de0c3829c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-002662",
+      "SourceId": null,
+      "Caption": "Tryghed i Greve Nord - Undersøgelse af Tryghed",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "65e00d0f-751c-48fa-ba62-8d6de0c3829c"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>4. Sagen taget til efterretning med bemærkning om, at udvalget på baggrund af ny lovhjemmel ønsker en sag om kommunens muligheder for tryghedsskabende overvågning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <h3><span>Sagsprocedure</span></h3> <div><span>Plan- og Tryghedsudvalget og Klima-, </span>Teknik- og Miljøudvalget.</div> <h3><span>Resume</span></h3> <div>Den 29. august 2022 blev der gennemført en tryghedsvandring i Askerød og Gudekvartererne i Greve Nord med baggrund i Plan- og Tryghedsudvalgets vedtagelse af proces for vandringen i juni 2022. Administrationen fremlægger i denne sag en afrapportering på vandringen og forslag til at iværksætte tryghedsskabende initiativer i området inden for det budget, der er afsat til formålet.</div> <h3><strong>Indstilling</strong></h3> <div><em>Center for Teknik & Miljø indstiller overfor Klima-, Teknik- og Miljøudvalget,</em></div> <div> <ol style=\"list-style-type: decimal;\">     <li><em>at forslag til prioritering og igangsætning af     tryghedsskabende indsatser i Greve Nord i forlængelse af tryghedsvandringen     godkendes.</em></li>     <li><em>at tiltagene finansieres med 1<span>20.000 kr. af det reserverede beløb på Vej- og Landskabspuljen til Tryghed 2022.</span>     </em></li>     <li><em>at beløbet på driften til tryghedsskabende tiltag i 2022 på 225.000 kr. indgår som besparelse ved BO3.</em></li> </ol> </div> <div> </div> <div><em>Center for Teknik & Miljø indstiller overfor Plan- og Tryghedsudvalget,</em></div> <div><em> </em></div> <div>4. <em>at sagen tages til efterretning.</em></div> <h3><strong>Sagsbeskrivelse</strong></h3> <div>På udvalgsmødet den 31. maj 2022 (pkt. 12) godkendte Plan- og Tryghedsudvalget en proces for at gennemføre en tryghedsvandring i Greve Nord. Baggrunden var, at Byrådet i december 2021 godkendte, at der skal gennemføres tryghedsvandringer i Greve Nord i 2022. Der er afsat midler på budgettet i 2022 og 2023 til initiativer på baggrund af tryghedsvandringer.</div> <div> </div> <div>I Plan- og Tryghedsudvalgets beslutning indgik det, at der gennemføres én tryghedsvandring i Greve Nord i slutningen af august 2022, med fokus på de fysiske forhold i området ved og omkring Askerød og Gudekvartererne. Netop her havde stormødet om tryghed i september 2021 udpeget flest utrygge steder. Desuden besluttede udvalget, hvem der skulle inviteres til at deltage indenfor et deltagerloft på ca. 20.</div> <div> </div> <div>Tryghedsvandringen blev gennemført den 29. august 2022. Formål var at indsamle viden om borgernes oplevelse af tryghed/utryghed i de udpegede områder - med henblik på at iværksætte primært fysiske tiltag (beskære og åbne op, forskønne/male, renhold, vedligehold, belysning ol.), som kan reducere oplevelsen af utryghed.  </div> <div> </div> <div>Kommunen inviterede repræsentanter fra 3 grundejerforeninger, 6 afdelingsbestyrelser i Askerød og Gudekvartererne, Greve Nord Projektet, klub, folkeskoler og privatskoler i området, Natteravnene og Greve Seniorråd. Ud over 3 deltagere fra administrationen tilmeldte 9 sig hvoraf de 8 mødte op på dagen. Reminder blev sendt ud medio august til dem administrationen ikke havde hørt fra indenfor tidsfristen. Se mere i vedlagte bilag om opsamling og anbefalinger.</div> <div> </div> <div>Som det også fremgår af opsamlingen med vedlagte kortbilag, havde de fremmødte grundlæggende ikke en oplevelse af området som utrygt. Deltagerne på vandringen taler flere gange undervejs om, at området kæmper med et dårligt ry, men at det primært er ”gamle historier”, som man fastholder. Ønsket er, at der arbejdes med områdets image, så det svarer til, hvordan forholdene er i dag. Elevrepræsentanterne oplyste dog, at de unge ved mørkets frembrud prøver at undgå tunneller, mindre og dårligt oplyste stier, uoplyste og tæt bevoksede områder og steder, hvor der ikke færdes andre mennesker.</div> <div> </div> <div>Der var 12 steder på ruten, hvor der var kommentarer, som kan ses af opsamlingsbilaget. Gennemgående handler kommentarerne om:</div> <div> </div> <div> <ul>     <li>Manglende eller ikke fungerende vejbelysning, herunder ønske om afklaring af hvem der ejer belysning </li>     <li>Manglende beskæring af buske og træer bl.a. omkring     tunneller og belysningsarmaturer</li>     <li>Dårlige orienterings- og overbliksforhold ved tunneller</li>     <li>Behov for at forskønne tunneller med udsmykning/maling og bedre     lyssætning </li>     <li>Trafikal utryghed ved krydset Hundigevej, Thors Kvarter og <span>Hedelunden</span> – busstoppested med for lidt og for dårlig     plads, ringe passage gennem området til busstop og vejkryds, manglende     orientering gennem Gudekvartererne/Askerød til og fra boldbaner,     Valhallen, privatskoler m.v. ved <span>Hedelunden</span>.</li> </ul> </div> <div> </div> <div>På baggrund af deltagerinput og en faglig vurdering har administrationen i opsamlingsbilaget udarbejdet forslag til håndtering af hvert enkelt input og til, hvad der kan sættes i værk på de kommunalt ejede områder. Administrationen anbefaler, at følgende tiltag prioriteres iværksat i 2022 på kommunens arealer:</div> <div> </div> <div> </div> <div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"642\" style=\"\">     <thead>         <tr>             <td valign=\"top\">             <div><strong>Sted på ruten</strong></div>             <div><em>Se vedlagte bilag og kort</em></div>             </td>             <td valign=\"top\">             <div><strong>Anbefalet tiltag</strong></div>             </td>         </tr>     </thead>     <tbody>         <tr>             <td valign=\"top\">             <div><strong>1) Tunnel nr. 2             under Godsvej ved Digehuset – med tilhørende stistykker på begge sider af             tunnellen.</strong></div>             <div> </div>             </td>             <td valign=\"top\">             <div>             </div>             <ul>                 <li>at                 beskære beplantning langs stien på den kommunale del af tunnelforløbet                 under Godsvej for at forbedre lysindfald og oversigtsforhold</li>             </ul>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><strong>5) Sti fra Thors             Kvarter ud til busstop overfor Valhallen</strong></div>             <div> </div>             </td>             <td valign=\"top\">             <ul>                 <li>at etablere en ekstra fliserække ved busstoppestedet, hvor der i dag                 er et jordareal. Stien frem til er ejet af boligselskabet.</li>             </ul>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><strong>8) Tunnel under             banen ved Frejas Kvarter</strong></div>             <div> </div>             </td>             <td valign=\"top\">             <ul>                 <li>at                 beskære beplantning langs hele stien ned mod tunnellen, herunder                 fritlægge belysningsarmaturer</li>                 <li>at                 etablere ekstra belægning til fodgængere rundt i svinget og hen til                 indgang af tunnelen fra nord/øst for at forbedre sikkerheden for fodgængerne</li>             </ul>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><strong>9) To grønne             rondeller bag ved Bugtskolen</strong></div>             <div> </div>             </td>             <td valign=\"top\">             <ul>                 <li>at                 udtynde og beskære beplantningen så der er fuldt indblik til og omkring                 rondellerne</li>             </ul>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><strong>10)  Bevoksning             ved boldbane/Greve Videncenter i nordøstligt hjørne langs gennemgående sti</strong></div>             <div> </div>             </td>             <td valign=\"top\">             <ul>                 <li>at al                 underbeplantning i hjørnearealet fjernes men enkelte store træer                 bibeholdes</li>             </ul>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><strong>Prisoverslag i alt</strong></div>             </td>             <td valign=\"top\">             <div><strong>120.000 kr. ekskl.             moms.</strong></div>             </td>         </tr>     </tbody> </table> </div> <div> </div> <div>Administrationen anbefaler derudover:</div> <div> </div> <div> <ul>     <li>at de påpegede forhold, om behov for forbedring af lys mv. i tunneller indgår i forslag til en samlet     plan for forbedring/forskønnelse af tunneller i Greve Nord til     fremlæggelse i 2023. </li>     <li>at de utrygge forhold og forbedringsforslag, der blev     påpeget på boligselskabernes områder drøftes med boligselskaberne fx i     forbindelse med styringsdialogmøderne.</li> </ul> </div> <h3><strong>Økonomiske konsekvenser</strong></h3> <div>Følgende beløb er afsat til arbejdet efter tryghedsvandringer i 2022:</div> <div> </div> <div> <ul>     <li>Vej- og landskabspuljen - Tryghed 2022 (anlæg):                                  370.000 kr. </li>     <li>Pulje til tryghed (anlæg):                                                                        300.000 kr. </li>     <li>Tryghedsskabende tiltag (drift):                                                              225.000 kr.</li> </ul> <div> </div> <ul>     <li>I alt                                                                                                          895.000 kr.</li> </ul> <div> </div> <div>Administrationen anbefaler, at beløbet på 120.000 kr. udmøntes fra det reserverede beløb på Vej- og Landskabspuljen til Tryghed 2022.</div> <div> </div> <div>Arbejderne udføres inden for rammerne af kontrakten med PV Greve.</div> <div> </div> <div>Administrationen indstiller, at kommunen i forbindelse med udgiftsstop som følge den økonomiske situation ved budgetopfølgning 2, fremlægger driftsbeløbet på 225.000 kr. som en besparelse ved budgetopfølgning 3. </div> <div> </div> <div>De resterende anlægsbeløb på i alt 550.000 kr. forventes ikke anvendt i 2022 og vil derfor indgå i budgetopfølgning 3 som forskydninger til 2023 til arbejder med tryghed i tunneller og evt. andre tryghedsskabende tiltag i 2023.</div> <h3><span>Kommunikation</span></h3> <div>Deltagerne i tryghedsvandringen orienteres direkte om de tiltag, som udvalget beslutter at gennemføre. Der udarbejdes desuden en pressemeddelelse, når arbejderne sættes i gang </div> <h3><span>Tidsplan</span></h3> <div> <span></span></div> </div> <div>De anbefalede tiltag kan iværksættes umiddelbart efter, at udvalget har truffet beslutning og forventes afsluttet inden årets udgang.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4adb1ea6-0dfb-4d6d-9ac6-498176b1375c",
+          "DocumentId": "4adb1ea6-0dfb-4d6d-9ac6-498176b1375c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-006222",
+      "Navn": "Tryghedsvandring Greve Nord",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Tryghedsvandring 2022 - Opsamling",
+          "Id": "46a1ad5d-bccb-41d2-8fcf-5912a1a0c1c0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Kortbilag for tryghedsvandring",
+          "Id": "acf28a39-ac9a-4f15-9cf8-0ea5c9b6d580"
+        }
+      ],
+      "Documents": null,
+      "Id": "70dbec05-9b69-49ff-a0b5-a5f76397fa76",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-006222",
+      "SourceId": null,
+      "Caption": "Tryghedsvandring Greve Nord",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "70dbec05-9b69-49ff-a0b5-a5f76397fa76"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt med bemærkning om, at udvalget takker for de indkomne høringssvar.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3>Sagsprocedure</h3> </div> <div>Plan- og Tryghedsudvalget.</div> <div> </div> <div> <h3>Resume</h3> </div> <div>Forslag til Tillæg nr. 9 til kommuneplan 2017 og Lokalplan nr. 14.54 - Tværhøjgård etape 3 har været i \"ny\" offentlig høring fra den 30. juni 2021 til og med den 1. september 2022. Der er indkommet 4 høringssvar. Forslag til Tillæg nr. 9 til kommuneplan 2017 og Lokalplan nr. 14.54 (med tilhørende miljørapport) forelægges nu til endelig politisk vedtagelse.</div> <div> </div> <div> <h3><strong>Indstilling</strong></h3> </div> <div><em>Center for Teknik & Miljø indstiller, at forslag til Tillæg nr. 9 til kommuneplan 2017 og Lokalplan nr. 14.54 - Tværhøjgård etape 3 vedtages endeligt, med de foreslåede justeringer (jf. bilag 2).</em></div> <div> </div> <div> <h3>Sagsbeskrivelse</h3> </div> <div>Den 26. april 2022 besluttede Plan- og Tryghedsudvalget, at det endelige forslag til Kommuneplantillæg og Lokalplan for Tværhøjgård etape 3 ikke kunne godkendes.</div> <div> </div> <div>Den 31. maj 2022 præsenterede Casa Nord et nyt projekt med 44 parcelhusgrunde og 130 rækkehuse for Plan- og Tryghedsudvalget.</div> <div> </div> <div>Plan- og Tryghedsudvalget godkendte den 30. juni 2022 forslag til Tillæg nr. 9 til kommuneplan 2017 og Lokalplan nr. 14.54 og sendte forslagene i 8 ugers offentlig høring.</div> <div> </div> <div>Lokalplanforslaget giver mulighed for 41 parcelhuse og 97 rækkehuse. Til forskel fra projektet præsenteret den 31. maj indeholder forslaget et færre antal boliger, hvilket hovedsageligt skyldes, at rækkehusenes grundplan er blevet mere veldisponeret (dvs. med knap så \"aflange\" grunde).</div> <div> </div> <div><strong>Gældende plangrundlag</strong></div> <div>For lokalplanområdet gælder i dag kommuneplanramme 2B2 jf. Kommuneplan 2017-2029, hvor området er udlagt til blandet boligområde med boliger, offentlige formål som mindre institutioner og tekniske anlæg. Kommuneplanrammen muliggør byggeri med en maks. bebyggelsesprocent på 45 % af den enkelte ejendom, en max. bygningshøjde på 10,5 m. og et max. etageantal på 2½ etager.</div> <div> <br> Den gældende kommuneplanramme giver ikke mulighed for etablering af det støjafskærmende bakkelandskab samt grundstørrelser på 250 m² for rækkehuse (min. 400 m² i gældende kommuneplan).</div> <div> </div> <div>Derfor er der tilsvarende udarbejdet et forslag til Kommuneplantillæg nr. 9, som skal give mulighed for byggeriet i den nye lokalplan.</div> <div> </div> <div><strong>Nye planforslag</strong></div> <div>I sagen skal udvalget tage stilling til godkendelse af kommuneplantillæg og lokalplan, som muliggør opførelse af:</div> <div> </div> <div>• Et bakkelandskab/støjvold.<br> • Op til 41 parcelhusgrunde.<br> • Op til 97 rækkehuse.</div> <div> </div> <div>Samlet giver forslaget mulighed for i alt op til 138 nye boliger (41 parcelhuse og 97 rækkehuse) i forskellige delområder:</div> <div> </div> <div><strong>Område A til Parcelhuse</strong></div> <div> </div> <div> <ul>     <li>Mulighed for opførelse af op til 41 parcelhusgrunde     (foruden den eksisterende bolig på Skovbovej 6), med en grundstørrelse på     min. 700 m².</li>     <li>Det er kun muligt at opføre parcelhuse i 1½ etager i     hele område A, i en højde af max. 8,5 m. Dog er der mulighed for på de fem     grunde, der ligger med skel mod stien og det åbne land (mod nord), at     opføre parcelhuse i op til max. 2 etager, med en max. bygningshøjde på 8,5     m. Dette er for at give mulighed for at markere kanten sammen med     rækkehusene, samt give udsigt mod det åbne landskab.</li>     <li>Nyt byggeri, som støder op til matrikel 13k, Greve By     (den eksisterende ejendom Skovbovej 6) skal placeres min. 5 m fra skel.     Det bemærkes, at nyt byggeri i denne sammenhæng kun handler om     boligbebyggelsen, og ikke mindre småbygninger som f.eks. skure og lignende     bygninger til udhusformål.</li>     <li>I området stilles der krav til placering af fælles     friarealer, grønne forbindelser, vendepladser og vejudlæg.</li> </ul> </div> <div> </div> <div> <br> <strong>Område B til rækkehuse</strong></div> <div> </div> <div> <ul>     <li>Mulighed for opførelse af op til 97 rækkehuse på grunde     med en mindstegrundstørrelse på 400 m². inkl. andel i fælles friarealer.     Den enkelte grund skal før andel i friarealer udgøre min. 250 m².</li>     <li>De enkelte rækkehuse må kun opføres i max. 2 plan /     etager med en max. bygningshøjde på 8,5 m.</li>     <li>I området stilles der krav til placering af fælles     friarealer, grønne forbindelser, vendepladser og vejudlæg.</li> </ul> <div> </div> </div> <div> </div> <div><strong>Område C til bakkelandskab / støjvold</strong></div> <div> </div> <div> <ul>     <li>Mulighed for opførelse af et bakkelandskab/ støjvold op     til max. 20 m., herunder fastsættelse af krav til stisystemer, naturtyper,     opholds, leg- og friarealer.</li> </ul> </div> <div> </div> <div><strong>Indarbejdelse af tidligere høringssvar</strong></div> <div> Da det tidligere lokalplanforslag var i høring fra den 16. december 2021 til den 10. februar 2022, indkom diverse høringssvar som er gennemgået i sag for Plan- og Tryghedsudvalget den 26. april.</div> <div> </div> <div>En stor del af disse høringssvar er også indarbejdet i nærværende planforslag, som har været i ny høring. Det drejer sig bl.a. om:</div> <div> </div> <div> <ul>     <li><span>Fjernelse af     seniorboliger/ etageboliger.</span></li>     <li><span>Nedsættelse af     etageantal for nye parcelhuse (åben-lav boligbebyggelse).</span></li>     <li><span>Opjustering af afstand     til skel til eksisterende ejendom på Skovbovej 6.</span></li>     <li><span>Nedsættelse af højder på     bebyggelse/ kirkeindsigtslinje til Kildebrønde Kirke.</span></li>     <li><span>Redegørelse for Grønt     Danmarkskort.</span></li>     <li><span>Redegørelse for bilag 4     arter / flagermus.</span></li>     <li><span>Teknisk ændring -     tydeliggørelse af kortbilag 2 og 2A.</span></li>     <li><span>Teknisk tilføjelse     - om offentlig adgang til bakkelandskab.</span></li> </ul> <div> </div> </div> <div><strong><span>Indarbejdelse af  nye høringssvar</span></strong></div> <div>Der er i høringsperioden fra den 30. juni 2022 til den 01. september 2022 indkommet i alt 4 høringssvar <span>(jf. bilag 1) f</span>ra:</div> <div> </div> <div> <ul>     <li>Skovbo Alle 82.</li>     <li>Banedanmark.</li>     <li>Klar Forsyning A/S.</li>     <li>Vejdirektoratet.</li> </ul> </div> <div> </div> <div><span>Alle fire høringssvar er oplistet og behandlet i høringsskemaet (jf. bilag 2).</span></div> <div> </div> <div>Høringssvarene har efter behandlingen givet anledning til følgende ændringer:</div> <div> <ul>     <li>Ændring af Skovbo Alle 6 til korrekt adresse Skovbovej     6.</li>     <li>Banedanmark ønsker tilsendt yderligere oplysninger om     støjvold, når der foreligger tegninger på den.</li>     <li>Efter ønske fra Klar Forsyning indsættes der i     redegørelsen under afsnittet Tværgående kiler (øst-vest gående     landskabstræk) og LAR, en uddybning om afvandingsforhold og     beskrivelse af privat regnvandslaug.</li>     <li>Efter ønske fra Vejdirektoratet indsættes der i     Miljørapport for Byudvikling af Tværhøjgård under afsnit Vejstøj og     togstøj et nyt støjkort, som viser støjudbredelsen indenfor     lokalplanområdet beregnet efter anlæg af støjvold, samme kort indsættes i     lokalplanens redegørelsen i afsnittet under støj og trafik.</li> </ul> <h3>Lovgrundlag</h3> </div> <div>Planlovens kapitel 5 om lokalplanlægning.</div> <div> </div> <div> <h3>Økonomiske konsekvenser</h3> </div> <div>Kommuneplantillæg nr. 9 og Lokalplan nr. 14.54 har ingen økonomiske konsekvenser for kommunen.</div> <div> </div> <div> <h3>Kommunikation</h3> </div> <div>De endeligt vedtagne kommuneplantillæg og den endelige lokalplan annonceres og offentliggøres på kommunens hjemmeside og på Plandata.dk efter Plan- og Tryghedsudvalgets behandling.</div> <div> </div> <div> <h3>Tidsplan</h3> </div> <div>Efter annoncering og offentliggørelse af det endeligt vedtagne kommuneplantillæg og den endelige lokalplan er der fire ugers klagefrist til Planklagenævnet.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8a96b7ba-e22e-4ef2-be03-0f64f693b3e6",
+          "DocumentId": "8a96b7ba-e22e-4ef2-be03-0f64f693b3e6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-075304K",
+      "Navn": "Endelig vedtagelse af forslag til Tillæg nr. 9 til kommuneplan 2017 og Lokalplan nr. 14.54 - Tværhøjgård etape 3",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Alle fire høringssvar i en sammenhængende fil",
+          "Id": "7543d045-c359-4e59-9d0a-aab849e34ccc"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Høringsskema ny høring",
+          "Id": "1a39ef17-0f13-4592-9795-633bed7b52e2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Endelig lokalplan 14.54-Tværhøjgård etape 3 med miljørapport",
+          "Id": "af743c4f-44dc-41e9-830f-82b9b078ee5a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - Forslag til Kommuneplantillæg nr. 9",
+          "Id": "fbb96f3d-79f4-4775-bcd0-3d58504b4db0"
+        }
+      ],
+      "Documents": null,
+      "Id": "91144c11-35a4-4cdb-b1d1-c7b03844df6e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "20-075304K",
+      "SourceId": null,
+      "Caption": "Endelig vedtagelse af forslag til Tillæg nr. 9 til kommuneplan 2017 og Lokalplan nr. 14.54 - Tværhøjgård etape 3",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "91144c11-35a4-4cdb-b1d1-c7b03844df6e"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3>Sagsprocedure</h3> </div> <div>Plan- og Tryghedsudvalget, Økonomiudvalget og Byrådet.</div> <div> </div> <div> <h3>Resume</h3> </div> <div>Byrådet besluttede i foråret 2020, at der skal opføres et nyt alment plejecenter med 75 pladser i Lunden i Tune. Antallet af boliger blev af Byrådet den 20. september 2021 justeret til 72. Dette nye plejecenter kræver en ny lokalplan. Forslag til Lokalplan nr. 15.24 forelægges med henblik på, at forslaget godkendes og sendes i otte ugers offentlig høring.</div> <div> </div> <div> <h3>Indstilling</h3> </div> <div><em>Center for Teknik & Miljø indstiller, at forslag til Lokalplan nr. 15.24 for Plejecenter i Lunden i Tune (jf. bilag 1) godkendes og sendes i otte ugers offentlig høring.</em></div> <div> </div> <div> <h3>Sagsbeskrivelse</h3> </div> <div>Byrådet godkendte den 31. januar 2022 funktionsprogram og udbudsbetingelser til plejecentret, samt at administrationen gennemførte udbud af bygherreopgave blandt fire udvalgte almene boligselskaber.</div> <div> </div> <div>Byrådet accepterede på lukket møde den 20. juni 2022 købstilbud fra Boligselskabet Sjælland, på baggrund af et plejecenterprojekt tilpasset området og tegnet af tegnestuen Vandkunsten (jf. bilag 2).</div> <div> </div> <div>Da byggeriet indebærer en væsentlig ændring i forhold til det bestående miljø, er det samlede projekt lokalplanpligtigt i henhold til Planlovens § 13 stk. 2.</div> <div> </div> <div>Administrationen har udarbejdet forslag til Lokalplan nr. 15.24, der muliggør opførelse af plejecenterprojektet med dertilhørende faciliteter.</div> <div> </div> <div><strong>Kommuneplan 2021-2033 - </strong><strong><span>Gældende plangrundlag</span></strong></div> <div><span>Lokalplanområdet (del af matr.nr. 11hx, Tune By, Tune) er i dag omfattet af to kommuneplanrammer, med følgende rammebestemmelser:</span></div> <div><span> </span></div> <div>4O25- Tune Skole Lunden:</div> <div> </div> <div> <div> <ul>     <li>Området er udlagt til offentligt formål.</li>     <li>Max. bebyggelsesprocent 60.</li>     <li>Max. højde 10,50 m.</li>     <li>Max. 2 etager.</li> </ul> </div> <div> </div> </div> <div>4R29- Skoven ved Lunden:</div> <div> </div> <div> <div> <ul>     <li>Området er udlagt til rekreativt område.</li> </ul> </div> <ul>     <li>Specifikke anvendelser: Større rekreativt område,     beplantning og regnvands- og klimaanlæg.</li> </ul> <div> <ul>     <li>Området har betydning for klimasikring for et opland,     der er større end rammen. Ved lokalplanlægning af området, skal der sikres     tilstrækkeligt areal til at håndterer regnvand i det relevante opland.</li> </ul> </div> </div> <div> </div> <div>Lokalplan 15.24 er i overensstemmelse med kommuneplanen.</div> <div> </div> <div><strong>Afgrænsning af det nye lokalplanområde</strong></div> <div>Lokalplanområdet har et areal på ca. 18.600 m², og omfatter et fredskovsområde på ca. 4.600 m² og en del af Hegnsstien på ca. 1.000 m². Selve området, som sælges til Boligselskabet Sjælland, er på 13.000 m².</div> <div> </div> <div>Lokalplanområdet er afgrænset mod nord af Tune Parkvej, mod øst af rækkehusbebyggelsen Lundegårdsparken, mod syd af boldbanerne til Tune Skole og mod vest af institutionen Lundebo/ Tune Borgerhus.</div> <div> </div> <div><strong>Væsentlige forhold i lokalplansforslaget</strong></div> <div>Administrationen har nedenfor fremhævet nogle af de væsentligste forhold, som lokalplanforslaget regulerer.</div> <div> </div> <div>Lokalplansforslaget sikrer bl.a.:</div> <div> </div> <div> <ul>     <li>At området udlægges til offentlige formål (alment plejecenter med dertil hørende servicearealer).</li>     <li>At plejecentret opføres som en \"S formet\"     bebyggelse i 1 og 2 etager, med fælles tagterrasser.</li>     <li><span>At     byggeriet i sit udtryk opleves åbent og varieret med etapespring,     tagterrasser og i sin materiale-udformning.</span></li>     <li>At byggeriet delvist nedtrappes i højde mod øst/     bebyggelsen Lundegårdsparken.</li>     <li>At fredskoven opretholdes som urørt skov.</li>     <li>At udpeget bøgetræ og beplantningsbælter bevares.</li>     <li>At der gives mulighed for omlægning af den eksisterende     nord- syd gående sti.</li>     <li>At der stilles krav om i alt min. 55 parkeringspladser     (45 skal anlægges fra start, og op til 10 kan tillades udlagt).</li> </ul> </div> <div> </div> <div><strong>Byggeriets udformning</strong></div> <div>Som nævnt skal byggeriet opføres som en \"S formet\" bebyggelse i 1 og 2 etager, med fælles tagterrasser på 1. sal.  </div> <div> </div> <div>Plejecentret skal placeres indenfor det viste byggefelt 1 i lokalplanens Kortbilag 2 (jf. bilag 1). Byggefeltet har en varierende afstand til skel mod nord, øst, syd og vest. Dette er indarbejdet i lokalplanforslaget for at tage hensyn til fredskov, eksisterende beplantninger og Hegnsstien.</div> <div> </div> <div>Til <strong><em>facader</em></strong> og <strong><em>gavle</em></strong> gives der mulighed for, at de kan udføres i:</div> <div> </div> <div> <ul>     <li><span>Træ.</span></li>     <li><span>Murværk.</span></li>     <li><span>Skærmtegl.</span></li>     <li><span>Skifer.</span></li> </ul> </div> <div> </div> <div>Op til maks. 20 % af den samlede facade kan tillades udført med metal og/eller beton.</div> <div> </div> <div>Til <strong><em>tage</em></strong> gives der mulighed for, at de kan udføres i: </div> <div> </div> <div> <ul>     <li>Skifer og/ eller \"plane\" natur skiferplader (jf. bilag     2. s 9).</li>     <li>Vingetegl.</li>     <li>Sedum-/græsbevokset tag.</li>     <li>Tagpap.</li> </ul> <div> </div> </div> <div><strong>Fredskov og beplantning</strong></div> <div>Træer i fredskoven må ikke fjernes, og området op til fredskoven (en 10 meter bræmme) må kun anvendes til fælles friarealer, \"grøn\" parkering, vendeplads, samt brandvej indrettet som sti til decentral indgang til plejecenter. På store dele af dette område skal der være adgang til fredskoven.</div> <div><strong> </strong></div> <div><strong>Samlet vurdering</strong></div> <div><span>Den omkringliggende bebyggelse består hovedsageligt af rækkehuse og offentligt skolebyggeri i 1,5 etager med en højde på op til 8,5 m.</span></div> <div> </div> <div>Det fremtidige \"S formet\" plejecenter i 1 og 2 etager, og med en maks. højde på ca. 10.5 m, <span>vurderes at være fint indpasset </span>i det eksisterende miljø, både i forhold til fredskov og rækkehusbebyggelsen Lundegårdsparken.</div> <div> </div> <div>Administrationen vurderer, at der i henhold til Lov om Miljøvurdering af Planer og Programmer (BEK nr. 1376 af 21/06/2021) ikke skal foretages en miljøvurdering af planen, da det vurderes projektet ikke vil have væsentlig indvirkning på miljøet, herunder er det et væsentligt forhold, at fredskov forbliver uberørt.</div> <div> </div> <div> <h3>Lovgrundlag</h3> </div> <div>Planlovens kapitel 5 om lokalplanlægning.</div> <div> </div> <div> <h3>Økonomiske konsekvenser</h3> </div> <div>Planforslaget muliggør et plejecenter på grunden og dermed et salg af Greve Kommunes arealer, hvis lokalplanen bliver endeligt vedtaget.</div> <div> </div> <div> <h3>Kommunikation</h3> </div> <div>Høringen af forslag Lokalplan nr. 15.24 for Plejecenter i Lunden i Tune offentliggøres på Greve Kommunes hjemmeside samt i Sydkysten Weekendavis. Lokalplanforslaget skal, efter Byrådets godkendelse, i otte ugers offentlig høring.</div> <div> </div> <div>Lokalplanen gælder for et mindre geografisk område, hvor det muliggøres at opføre ny bebyggelse og parkeringspladser. Begge dele kan have offentlighedens interesse.</div> <div> </div> <div>På baggrund af ovenstående, er det administrationens vurdering, at en høringsperiode på otte uger vil være passende til, at borgere mv. kan nå at sætte sig ind i lokalplanforslaget og fremkomme med deres synspunkter.</div> <div> </div> <div> <h3>Tidsplan</h3> <ul>     <li>Godkendelse af forslag til Lokalplan nr. 15.24 på     Byrådets møde 3. oktober 2022.</li>     <li>Offentlig høring af forslag til Lokalplan nr. 15.24     gennemføres ultimo oktober 2022 til medio december 2022.</li>     <li>Politisk behandling af endeligt Lokalplan nr. 15.24     forventes at ske på Byrådets møde i februar/ marts 2023.</li>     <li>Offentliggørelse af endelig Lokalplan nr. 15.24     forventes i marts 2023.</li> </ul> <h3>Øvrige forhold</h3> </div> <div>Boligselskabet er i forbindelse med grundudbuddet blevet lovet et skema A tilsagn af Greve Kommune omkring marts/april 2023. Optagning af byggelån m.v. er betinget af skema A. Derfor er boligselskabet interesseret i tilsagn tidligst muligt.</div> <div> </div> <div>Greve Kommune kan tidligst give skema A tilsagn, når godkendt lokalplan foreligger. <span>Administrationen vil lægge op til, at begge udvalgssager behandles på samme byrådsmøde i foråret 2023</span><span>.</span></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/98ac80e2-d5f4-4310-986c-121bf2a15711",
+          "DocumentId": "98ac80e2-d5f4-4310-986c-121bf2a15711"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-055908K",
+      "Navn": "Forslag til Lokalplan nr. 15.24 - Plejecenter i Lunden i Tune",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Forslag til Lokalplan 15.24 Plejecenter i Lunden i Tune",
+          "Id": "310fdf3e-a1f4-46cd-9f7b-59a0623634fa"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Visionsforslag Skovhuset- Boligselskab Sjælland og Vandkunsten",
+          "Id": "a02b78f4-976d-4136-9dc1-9cf5db86090f"
+        }
+      ],
+      "Documents": null,
+      "Id": "5ee399c7-ca86-4a9a-9d1e-41bb8d150126",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "20-055908K",
+      "SourceId": null,
+      "Caption": "Forslag til Lokalplan nr. 15.24 - Plejecenter i Lunden i Tune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5ee399c7-ca86-4a9a-9d1e-41bb8d150126"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1.-2. Godkendt, med følgende ændringer. Udvalget ønsker, at administrationen arbejder med, at området i kommuneplanen flyttes mod nordøst ind mod matr. 2c og 2d, så det ligger ude af perspektivområdet. Arbejdet skal dog først sættes i gang, når der er en tilkendegivelse fra en fjernvarmeaktør om tilstrækkelig tilslutning. </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Plan- og Tryghedsudvalget.</div> <h3>Resume</h3> <div>Det er en national prioritet, at opvarmning med gasfyr skal udfases samt at fjernvarme skal udrulles, der hvor det giver mening. I Tune er de fleste husstande opvarmet med gas. Denne sag præsenterer en screening af mulige områder til et nyt fjernvarmeanlæg med blandt andet solceller i Tune - og hvilke af de screenede områder, der er bedst egnet i forhold til at udarbejde nyt plangrundlag.</div> <h3>Indstilling</h3> <div><em>Center for Teknik & Miljø indstiller, </em></div> <ol>     <li><em>at administrationen arbejder videre med, at dele af matriklerne 2a og 25a Tune By, Tune kan udlægges i kommuneplanen til et muligt fjernvarmeanlæg med tilhørende solceller.</em></li>     <li><em>at såfremt Eon kan opnå en fuldmagt fra ejer, så kan administrationen arbejde videre med en lokalplan, der kan muliggøre et fjernvarmeanlæg med tilhørende solceller på <em>dele af matriklerne 2a og 25a Tune By, Tune.</em></em></li> </ol> <h3>Sagsbeskrivelse</h3> <div>Greve Kommune er blevet kontaktet af Eon, som ønsker at undersøge muligheden for at etablere fjernvarme med vedvarende energi i Tune. Administrationen har derfor screenet områder ved Tune for hvor der med fordel kan placeres et fjernvarmeanlæg med plads til vedvarende energi. Det er med udgangspunkt i dialog med Eon, at nedenstående ønsker til plads og tekniske anlæg for et fjernvarmeanlæg er udarbejdet.</div> <div> </div> <h3>Krav og ønsker til et nyt fjernvarmeanlæg</h3> <ul>     <li>Luftgård 10x10 meter og 6 meter høj*. Der er støj fra luftgård, så placeringen skal ikke skabe konflikt med omkringliggende beboelse, hvorfor der er et afstandskrav på 100-200 meter.</li>     <li>Bygning 250-300 m² og 6 meter høj.</li>     <li>Solcelleareal på min. 5000 m²<sup> </sup>og på maks. 7000 m².</li>     <li><sup> </sup>Plads til spidslast reserve-elkedel.</li>     <li>Akkumuleringstank som ligger ned – volumen på 1000 m³.</li>     <li>Areal på op til maks. 1000 m² til lastbilvendeplads, afsætning af materialer mv.</li>     <li>Endeligt areal og nærmere specifikationer fastsættes ifm. lokalplanen.</li> </ul> <div><em>*Luftgården er nødt til at være i den angivne højde på 6 meter, da ventilatorerne skal have tilgang af ”ny” luft for at varmepumpen kan køre effektivt. Hvis dette ikke sikres, kan der skabes en ”kuldebrønd”, hvor varmepumpen genbruger sin egen kolde exit-luftstrøm, hvilket giver en lavere effektivitet.</em></div> <div><em> </em></div> <div>Planmæssigt vurderes et område på 15.000 m² at være tilstrækkeligt. Dette svarer til 2,1 fodboldbaner.</div> <div> </div> <div>Afstanden, til de husstande som skal tilkobles, er afgørende for, hvad prisen for fjernvarmen i sidste ende bliver for forbrugeren. Hvis der skal lægges rør over store afstande, bliver prisen i sidste ende højere.</div> <div> </div> <h3>Screening af ejendomme</h3> <div>Administrationen har  udpeget en række mulige områder i og omkring Tune på baggrund af ovenstående krav. I udpegningen indgik både privatejede matrikler samt en enkel kommunal grund. På baggrund af en mere tilbundsgående screening (se vedlagte bilag med screeningsnotat) samt dialogen med Eon. anbefales det, at administrationen arbejder videre med dele af matriklerne 2a og 25a Tune By, Tune, som i dag er åbnet land og består af mark og hegnsbevoksning samt vejarealer.</div> <div> </div> <div>Dele af området ligger i planlagt byzone indenfor ramme 4B68 (forslag til Kommuneplan 2021), som er udlagt til boligformål. Området er dog begrænset af støjrestriktionszonen fra Roskilde Lufthavn, og der kan dermed ikke for nuværende opføres boliger. Resten af det udpegede område ligger i landzone. Området er delt på midten af Karlslunde Centervej, hvilket kan ses som en fordel, da fjernvarmeanlæggets elementer kan lægges mere opdelt, og dermed potentielt syne mindre massivt.</div> <div> </div> <div>Placeringen er god, fordi det vil give en kort rørføring ind til forbrugerne, og fordi der er få andre arealbindinger i området. Dog er området den sydlige adgangsvej ind til Tune, i et område hvor der ikke er erhverv i dag. Det vil gøre, at de æstetiske krav til udformningen bliver ekstra vigtige. </div> <div> </div> <div>De resterende områder, som administrationen har screenet, vurderes som udgangspunkt ikke oplagte til opførelse af et fjernvarmeanlæg af denne karakter, grundet flere forskellige forhold som råstofinteresser og transportkorridor. Igennem den nordvestlige del af matrikel 6k Tune By, Tune ligger en gasledning, som det er meget dyrt at flytte. Et andet område ligger indenfor et boringsnært beskyttelsesområde. Desuden er der aftaleområdet for skovrejsning samt det at kunne indpasse et teknisk anlæg af en vis størrelse i et kulturlandskab (se nærmere begrundelser i konklusionsafsnittene for de enkelte områder i bilag 1).</div> <div> </div> <h3>Nyt plangrundlag</h3> <div>Uafhængigt af placeringen af et nyt fjernvarmeanlæg, vil dette kræve et nyt plangrundlag i form af et kommuneplantillæg og en lokalplan.</div> <div> </div> <div>Konkret skal plangrundlaget for det valgte område ændres til en teknisk ramme, og rammen skal indeholde bestemmelser om højde, størrelse samt eventuelt særlige rammebestemmelser for udseende og indpasning i landskab. Der kan ikke igangsættes en for-offentlighedsfase for ændring af kommuneplanen i området, før den nye kommuneplan  er vedtaget.</div> <div> </div> <div>Herudover skal der udarbejdes ny lokalplan for området, som giver de konkrete og detaljerede bestemmelser vedrørende det nye fjernvarmeanlæg, herunder konkret placering på grunden, udformning og beplantning.</div> <div> </div> <div>Det område, som administrationen anbefaler, der skal arbejdes videre med, er omfattet af matrikler, der er privatejede, hvorfor der skal foreligge en fuldmagt fra grundejere, førend det giver mening at arbejde for en ny lokalplan for projektet. Men kommunen kan vælge at udlægge området til teknisk anlæg, for generelt at sikre plads til fjernvarme i Tune.</div> <h3>Lovgrundlag </h3> <div>Planloven.</div> <div><span> </span></div> <div><span>Delaftale om mere grøn varme og udfasning af naturgas 2022</span></div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <h3>Øvrige konsekvenser</h3> <div>Arealudpegning til fjernvarmeanlæg understøtter Greve Kommunes arbejde med DK2020, om at flere skal have mulighed for at blive forsynet med kollektiv varme og at gas skal udfases. </div> <h3>Tidsplan </h3> <div>Tidsplanen for det videre forløb med udarbejdelse af kommuneplantillæg samt lokalplan er bl.a. afhængig af, at Eon kan få en aftale med de respektive grundejere om overtagelse af arealet. Hvis der kan opnås en aftale, kan forløbet være som følger:</div> <ul>     <li>Udarbejdelse af kommuneplantillæg lokalplan samt, efterår 2022.</li>     <li>Plan og Tryghedsudvalget - Planforslag til offentlig høring, primo marts 2023.</li>     <li>Offentlig høring af lokalplan samt kommuneplantillæg, forår/sommer 2023.</li>     <li>Behandling af høringssvar, udarbejdelse af hvidbog samt dagsorden, sommer 2023.</li>     <li>Plan og Tryghedsudvalget endelig vedtagelse, efterår 2023.</li> </ul></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cf990b22-1632-4468-8e6c-ad5753384e88",
+          "DocumentId": "cf990b22-1632-4468-8e6c-ad5753384e88"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-005772",
+      "Navn": "Valg af placering til nyt fjernvarmeanlæg i Tune",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Screening af områder til nyt fjernvarmeanlæg i Tune",
+          "Id": "ba0260b7-0651-478b-b762-9b4914d9312b"
+        }
+      ],
+      "Documents": null,
+      "Id": "c1b0fce4-b73b-40de-a7e0-ea1c69d22be6",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "22-005772",
+      "SourceId": null,
+      "Caption": "Valg af placering til nyt fjernvarmeanlæg i Tune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "c1b0fce4-b73b-40de-a7e0-ea1c69d22be6"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget</div> <h3><span>Resume</span></h3> <div>I denne sag orienteres fagudvalget om indholdet i budgetopfølgning 2 2022 inden for eget udvalgsområde. Budgetopfølgning 2 2022 blev behandlet i Byrådet den 3. oktober 2022.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Økonomi & HR indstiller at sagen tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Denne sag skal ses i sammenhæng med den samlede budgetopfølgning 2 2022, som er udarbejdet pr. 31. juli 2022 og blev behandlet af Byrådet den 3. oktober 2022.</div> <div> </div> <div>Det korrigerede budget for Plan- og Tryghedsudvalget var pr. 31. juli 2022 på 4,9 mio. kr. </div> <div> </div> <div>Afvigelser på udvalgets område gennemgås nedenfor.</div> <div><strong> </strong></div> <div><strong>Områder under Plan- og Tryghedsudvalget</strong></div> <div>På udvalgets område forventes et merforbrug på 0,5 mio. kr. inden for servicerammen.</div> <div> </div> <div>Det forventede forbrug består at to modsatrettede poster, hvor den ene post er forventet mindreforbrug på 1,1 mio. kr. til helhedsplanlægning på Langagergård, hvor arbejdet ikke forventes at kunne udføres i 2022. Den anden post er merudgifter til fordrevene fra Ukraine på 1,6 mio. kr. til beboelse og værtsfolk. Udgifterne til fordrevne fra Ukraine tillægsbevilges med modpost på puljen, der er afsat til samme formål.</div> <div> </div> <div>Afvigelserne for udvalgets område kan ses i bilag 1.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen selvstændige økonomiske konsekvenser, da disse ligger i bevillingssagen til budgetopfølgning 2, som blev behandlet af Byrådet den 3. oktober.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/19d32cbd-d0df-4075-8d94-1abd57c268a1",
+          "DocumentId": "19d32cbd-d0df-4075-8d94-1abd57c268a1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-000027",
+      "Navn": "Budgetopfølgning 2 2022, Plan- og Tryghedsudvalget",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - PTU, Afvigelser på ordinær drift",
+          "Id": "0582d1ce-ed72-4887-9883-664c81bfdfc7"
+        }
+      ],
+      "Documents": null,
+      "Id": "1c68ecd3-a6c0-4abc-b8d0-2cd9faed3c4e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "22-000027",
+      "SourceId": null,
+      "Caption": "Budgetopfølgning 2 2022, Plan- og Tryghedsudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "1c68ecd3-a6c0-4abc-b8d0-2cd9faed3c4e"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Der var intet at orientere om.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <h3><span>Resume</span></h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d480a89d-cab2-46d7-9dfd-75f036a41cf1",
+          "DocumentId": "d480a89d-cab2-46d7-9dfd-75f036a41cf1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003659",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2b198101-c75c-4832-87e5-5092d79fdc0c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "22-003659",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "2b198101-c75c-4832-87e5-5092d79fdc0c"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Administrationen orienterede yderligere om følgende: På udvalgsmødet den 13. september 2022 havde udvalget to uddybende spørgsmål til sag nr. 2. Administrationen har undersøgt disse og uddyber på mødet, hvilket aldersgrupper der tælles med i antallet af beboere og hvordan tallene er fremkommet.</div> <div> </div> <div>Byrådet indkaldes ikke til oplæg for Støjrådet fremover.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <h3><span>Resume</span></h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Administrationen orienterer om følgende:</div> <div> </div> <div><strong>- Proces for inddragelse og det videre arbejdet med anlægsloven for Strandparken</strong></div> <div>Byrådet har den 20. juni (pkt. 33) besluttet, at Greve Kommune skal arbejde videre med tre fokusområder i arbejdet med anlægsloven:</div> <div> </div> <div>- Fokusområde 06 Greve Marina, jf. Visionsplan for Strandparken,<br> - Fokusområde 07 Greve Strandeng, jf. Visionsplan for Strandparken  og<br> - \"Dykanden\", jf. Udviklingsplan for Greve Marina.</div> <div> </div> <div>Byrådet besluttede den 5. september (pkt. 22), at inddrage Greve Marina samt Natur- og Miljørådet i arbejdet med at fastlægge de endelige placeringer og afgrænsninger af arealer, maksimal bygningshøjde, antal etagemeter, samt stiforbindelser, der skal omfattes af anlægsloven.</div> <div> </div> <div>Administrationen indkalder derfor hhv. Greve Marina og Natur- og Miljørådet i slutningen af oktober/starten af november for en nærmere drøftelse af dette. </div> <div> </div> <div>Herefter er det en mulighed, at  Strandparken I/S i november afholder et opsamlende info-arrangement, hvor alle 5 kommuners oplæg til borger-/bruger- eller interessentinddragelsen udstilles, så man kan se dem i sammenhæng. Alle kommuner inviteres til at være en aktiv del af arrangementet, men det er frivilligt for kommunerne, om de vil deltage.</div> <div> </div> <div>Når inddragelsen er afsluttet udarbejder administrationen i starten af 2023 et oplæg til politisk behandling om de endelige placeringer og afgrænsninger af arealer, maksimal bygningshøjde, antal etagemeter, samt stiforbindelser, der skal omfattes af anlægsloven i Greve Kommune. Den samlede plan for hele strandparken behandles i alle 5 kommuner i marts/april.   </div> <div> </div> <div>Anlæg til kystbeskyttelse/klimatilpasning bliver ikke en del af anlægsloven, da dette skal behandles i henhold til kystbeskyttelsesloven. Anlæggene i anlægsloven skal dog forholde sig til placering og mulig udbygning af kystbeskyttelse/klimatilpasning.</div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6add0590-1f6a-4af5-9215-d0b088d8001a",
+          "DocumentId": "6add0590-1f6a-4af5-9215-d0b088d8001a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003655",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "438a023e-8577-4f3f-8855-cc07310af4a0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "22-003655",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "438a023e-8577-4f3f-8855-cc07310af4a0"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <h3><span>Resume</span></h3> <div>I sagen gives et overblik over Plan- og Tryghedsudvalgets møder og møder i tilknytning til udvalget.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Kalenderen er vedlagt som bilag.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ff846121-6b00-476d-b87f-fff956facdac",
+          "DocumentId": "ff846121-6b00-476d-b87f-fff956facdac"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003652",
+      "Navn": "Plan- og Tryghedsudvalgets mødekalender 2022",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Plan- og Tryghedsudvalgets kalender 2022",
+          "Id": "d5a2de76-f7c5-49d9-9e0c-bb23560101f3"
+        }
+      ],
+      "Documents": null,
+      "Id": "6b911329-15e4-4483-8b61-dc45653c2e8e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "22-003652",
+      "SourceId": null,
+      "Caption": "Plan- og Tryghedsudvalgets mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "6b911329-15e4-4483-8b61-dc45653c2e8e"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <h3><span>Resume</span></h3> <div>Elektronisk underskriftsark.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b52da3b5-67c1-4b7c-a6ed-4b835b54b35c",
+          "DocumentId": "b52da3b5-67c1-4b7c-a6ed-4b835b54b35c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003657",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d70089cd-48ac-4b5c-bda3-d20ed8218f4e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e971b430-0318-41a0-a244-7a9057972e46",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "22-003657",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "d70089cd-48ac-4b5c-bda3-d20ed8218f4e"
+        }
+      ]
+    }
+  ],
+  "Udvalg": {
+    "Id": "4177b34e-2db6-4652-a0e0-075bb7a88efa",
+    "Navn": "Plan- og Tryghedsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-10-11T16:45:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-10-11T16:45:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "e971b430-0318-41a0-a244-7a9057972e46",
+  "Lydfiler": null
+}

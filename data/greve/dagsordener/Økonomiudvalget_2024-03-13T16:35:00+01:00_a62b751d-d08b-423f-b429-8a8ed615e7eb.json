@@ -1,0 +1,181 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt. <br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget </p>\n<h4><span>Resume</span></h4>\n<p>Godkendelse af dagsorden for mødet den 13. marts 2024.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fa16834f-777e-4f79-8232-39832e5ff329",
+          "DocumentId": "fa16834f-777e-4f79-8232-39832e5ff329"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014439",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "bbb007ff-15c9-40b1-875a-111a7e72a865",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a62b751d-d08b-423f-b429-8a8ed615e7eb",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014439",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Økonomiudvalget anbefaler overfor Byrådet, at Klima-, Teknik- og Miljøudvalgets indstilling godkendes. <br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\"><strong>Sagsprocedure</strong></p>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<p><strong>Resume</strong></p>\n<p>Indkomne tilbud på etablering af midlertidig bygning til samling af Tune\nSkole på Højens matrikel er væsentlig højere end forventet. For at kunne indgå\nkontrakt om levering og opsætning af den midlertidige bygning, <span class=\"grame\">inklusiv</span> leje til brug fra skolestart 2024/25, er det\nnødvendigt, at der frigives yderligere anlægsmidler i 2024 og at\ndriftsudgifterne til den årlige leje i 2024 og fremadrettet øges.</p>\n<p><strong>Indstilling</strong></p>\n<p><em>Administrationen indstiller at:</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>Der gives en anlægsbevilling på 5,0 mio. kr. i 2024 til\n    etablering af midlertidige bygninger på Tune Skole, finansieret af det\n    afsatte rådighedsbeløb til samling af Tune Skole i 2026-27, hvormed\n    rådighedsbeløbet fremrykkes til 2024 og frigives. </em></li>\n    <li><em>At der udarbejdes et bruttoanlægsforslag til budget\n    2025-28 på restfinansiering af samling af Tune Skole, hvor i de 5 mio. kr.\n    indarbejdes.</em></li>\n    <li><em>At der indarbejdes et øget driftsbudget til\n    husleje for de midlertidige bygninger på 1,488 mio. kr. om året\n    som teknisk rettelse for 2025 og frem til 2030. Derved øges den årlige\n    bevilling til husleje fra 1,2 mio. kr. om året til 2,688 mio. kr. om året.</em></li>\n</ol>\n<p><strong>Sagsbeskrivelse</strong></p>\n<p>På Byrådsmødet den 29. januar 2024, (pkt. 15), blev det besluttet at\ngodkende en anlægsbevilling på 7,050 mio. kr. til opsætning af midlertidige\nbygninger ved Tune Skole Højen, i forbindelse med samling af Tune Skole. </p>\n<p>Etablering af den midlertidige bygning inklusiv årlige lejeudgifter har\nværet i udbud med afholdt licitation den 29. februar 2024. Udbudsmaterialet er\nudsendt til fem bydende leverandører, hvoraf to har valgt at trække sig fra at\nbyde i udbudsperioden.</p>\n<p><em>Indkomne bud</em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p>Leverandør</p>\n            </td>\n            <td valign=\"top\">\n            <p>Areal</p>\n            </td>\n            <td valign=\"top\">\n            <p>Samlet pris</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>ABC Pavilloner</p>\n            </td>\n            <td valign=\"top\">\n            <p>2.374 m<sup>2</sup></p>\n            </td>\n            <td valign=\"top\">\n            <p>47.259.172 kr.</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Jytas</p>\n            </td>\n            <td valign=\"top\">\n            <p>2.346 m<sup>2</sup></p>\n            </td>\n            <td valign=\"top\">\n            <p>41.817.230 kr.</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span class=\"spelle\">Algeco</span></p>\n            </td>\n            <td valign=\"top\">\n            <p>2.208 m<sup>2</sup></p>\n            </td>\n            <td valign=\"top\">\n            <p>31.795.000 kr.</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Tilbudssummerne indeholder de samlede udgifter til etablering, lejeudgifter\ni op til syv år, udgift til nedtagning og fjernelse af bygningen, når\nlejeperioden er afsluttet, samt rådighedsbeløb for eventuelle tilkøb.</p>\n<p>Etableringsomkostningerne for opsætning af den midlertidige bygning (for det\nbilligste tilbud) andrager ca. 9,6 mio. kr. Hertil skal der tillægges ca. 2,4\nmio. kr. til føring og tilslutning af vand, afløb/kloak, strøm,\nfiberforbindelse til krydsfelt og automatisk brandalarmeringsanlæg mv. </p>\n<p>Lejeudgifter for de første fem år andrager i 2024-priser ca. 13,45 mio. kr.\nog herefter i 2024-priser ca. 2,5 mio. kr. om året, hvis lejeperioden eventuelt\nforlænges. Dette svarer til en gennemsnitlig lejeudgift pr. år de første fem år\npå 2,688 mio. kr. </p>\n<p>De samlede udgifter til den midlertidige bygning er højere end de\noverslagsberegninger, der dannede grundlag for den fremlagte frigivelsessag den\n29. januar 2024 (pkt. 15). At tilbudspriserne er højere end forudsat er bl.a.\nfordi arealet på den midlertidige bygning er en del større end forudsat under\narbejdet med Mulighedsstudiet for samling af Tune Skole, og udgifter til både\netablering og leje af pavilloner er steget væsentligt.</p>\n<p><em>Forøget areal</em></p>\n<p>I processen med byggeudvalget er det vurderet, at det nødvendige arealbehov\ner større end først forudsat for at kunne indeholde 13 skoleklasser, grupperum,\nfællesrum, aprilbørn, personale-/<span class=\"spelle\">teams-rum</span>, toiletter\nog garderober mv., som samtidig skal kunne anvendes med fuldt <span class=\"spelle\">sambrug</span> med SFO´en.</p>\n<p>Den midlertidige bygning fra billigste tilbudsgiver er på 2.208 m<sup>2</sup>\n(jf. bilag 1). Den samlede tilbygning til skolen er planlagt til at andrage\n1.300 m<sup>2</sup>. Den midlertidige bygning er sammenbygget af standard\npavillonmoduler, hvor det ikke er muligt at optimere på arealindretningen på\nsamme måde, som når en tilbygning designes/tilpasses det faktiske behov.</p>\n<p><em>Højere priser</em></p>\n<p>Priserne er steget meget i hele byggebranchen, herunder også ved\nmodulbyggerier. De skærpede krav i bygningsreglementet til bærende\nkonstruktioner og generelle brandforhold, herunder krav om anvendelse af\ncertificerede statikere og brandrådgivere har medført ekstra udgifter og\nbetyder, at leverandørerne ikke kan anvende ældre moduler, men er nødt til at <span class=\"grame\">anvende</span> nye/nyere moduler. Dette er ligeledes gældende <span class=\"grame\">for tekniske</span> installationer, hvor kravene også er skærpet.\nHerudover er etablering af den midlertidige bygning underlagt en presset\ntidsplan for både projektering, produktion, levering og opsætning, der skal ske\nhen over sommerferien, hvilket vurderes at have indvirkning på priserne.</p>\n<p>Adgangsforholdene til matriklen har vist sig at være mere udfordret end\nførst antaget, hvorfor byggepladsen (køreplader, hegn, afspærringer, 300 tons\nmobilkran) og løsning for funderingsforholdene under hele bygningen er mere\nomfattende end forudsat. Hertil er udgifter til transport/levering af\nbygningsmoduler og byggematerialer steget.</p>\n<p>Lejepriserne er også steget og derfor blevet væsentlig højere end forudsat,\nhvoraf det større arealbehov også har indflydelse på prisen.</p>\n<p><em>Hvem skal benytte den midlertidige bygning</em></p>\n<p>I processen med byggeudvalget har en del af arbejdet omfattet hvilke\nklasser, der skal benytte den midlertidige bygning. Det er her vurderet, at den\nmest optimale løsning for samling af Tune Skole indebærer, at det er\nindskolingen og SFO´en, der flytter til de midlertidige bygninger. Den\nnuværende planløsning for Tune Skole Højen er rettet mod ældre elever,\nspecifikt dem i mellemtrinnet og udskolingen. Hvis den skal benyttes af\nindskolingen og SFO’en, vil det betyde, at der skal ske en ændring/tilpasning/ombygning\naf bygningerne, hvilket ikke kan indeholdes i tidsplanen, samtidig med, at der\nikke er afsat midler til dette.</p>\n<p><em>Ændringer for indskolingen og SFO´en</em></p>\n<p>Flytningen af indskolingen og SFO´en til Højen indebærer væsentlige\nforandringer for både indskoling og SFO. Dette er et aspekt, som der er stor\nfokus på fra skolens side. Der skal nu arbejdes med en fælles kultur, hvor der\nskal tages hensyn til alle alderstrin og behov. </p>\n<p>Indskolingen og SFO´en kommer fra Lunden, hvor de pt. har ca. 4.300 m<sup>2</sup> bygningsareal\ntil rådighed foruden et stort udeareal, og de skal nu finde sig til rette i en\nmidlertidig bygning på 2.208 m<sup>2</sup> indtil tilbygningen til skolen på\n1.300 m<sup>2</sup> er etableret. </p>\n<p>Administrationen vurderer, at hvis der træffes en beslutning om at undersøge\nalternative løsninger, vil det forhindre realiseringen af at have skolen samlet\ntil skoleårets begyndelse i 2024/25. Afsøgning af et nyt forslag vil indebære\ngenoptagelse af dialog med forældre, personale og ledelse, samt kræver, at\nkommunen tager stilling til de påbud, som Arbejdstilsynet har udstedt for Tune\nSkole Lunden, som er sat på pause med baggrund i at skolen skal flytte i 2024.</p>\n<p><strong>Lovgrundlag</strong></p>\n<p>Greve Kommunes Kommuneplan, gældende Bygningsreglement og udbudsloven.</p>\n<p><strong>Økonomiske konsekvenser</strong></p>\n<p>På Byrådsmødet den 29. januar 2024, (punkt 15), blev der godkendt\nanlægsbevilling på 7,050 mio. kr. til opsætning af midlertidige bygninger ved\nTune Skole Højen, i forbindelse med samling af Tune Skole. </p>\n<p>Der søges om yderligere<strong> </strong>anlægsbevilling på 5,0 mio. kr. i\n2024 til etablering af midlertidige bygninger på Tune Skole, finansieret af det\nafsatte rådighedsbeløb til samling af Tune Skole i 2026-27, hvormed\nrådighedsbeløbet fremrykkes til 2024 og frigives. Den samlede anlægsbevilling i\n2024 udgør dermed 12,05 mio. kr. </p>\n<p>Der er i 2026-27 afsat 30 mio. kr. til samling af Tune Skole, som derved\nreduceres til 25 mio. kr. Derudover vil der i separat indstilling til Byrådet i\napril 2024 blive søgt om frigivelse af anlægsmidler til trafikale løsninger i\n2024-25. </p>\n<p>Der mangler at blive finansieret yderligere ca. 90 mio. kr. for at kunne\ngennemføre projektet med samling af Tune Skole på Højen. Med fremrykning af\nrådighedsbeløb på 5 mio. kr. til 2024 foreslås det, at de 5 mio. kr.\nindarbejdes i et bruttoanlægsforslag på restfinansiering af samling af Tune\nSkole til Budget 2025-28.</p>\n<p>Der indarbejdes et øget driftsbudget på 1,488 mio. kr. om året i tekniske\nrettelser for 2025 og frem til at finansiere udgiften til husleje for de\nmidlertidige bygninger. Derved øges den årlige bevilling til husleje fra 1,2\nmio. kr. om året til 2,688 mio. kr. om året i fem år. </p>\n<p>Efter fem års leje vil den årlige husleje de næste to år andrage 2,5 mio.\nkr. om året, hvilket vil skulle indarbejdes i kommende budgetter, hvis det\nviser sig, at lejen skal fortsætte. Derudover kan der muligvis i løbet af\nbyggeprocessen arbejdes med at reducere i antallet af pavilloner, når\nforskellige dele af Tune Skole Højen står klar til indflytning. </p>\n<p>Det Statsautoriseret revisionsaktieselskab BDO har fortaget en kreditvurdering af selskabet Algeco Danmark A/S, der er vedlagt sagen (jf bilag 2).</p>\n<h4><strong>Øvrige\nkonsekvenser</strong></h4>\n<p>Arbejdstilsynet har besøgt Tune Skole Lunden den 25. maj 2023.\nArbejdstilsynet har givet et <span class=\"spelle\">strakspåbud</span> på en\nsvalegang imellem skole og SFO-bygning, som de <span class=\"grame\">vurderer,</span>\nhar risiko for sammenstyrtning, og de overvejer at give påbud på undersøgelse\naf indeklimaet i <span class=\"grame\">SFO bygningen</span> i forhold til akustik\nog mistanke om skimmelsvamp i et lokale. <span class=\"spelle\">Strakspåbuddet</span> er\nimødekommet ved at reparere svalegangen. Arbejdstilsynet har tidligere givet\npåbud på indeklima i skolens hovedbygning, som indtil videre er løst ved at\ntilrette varmesystemet. </p>\n<p><strong>Kommunikation</strong></p>\n<p>Byggeudvalget og skolen informeres løbende om processen for etablering af\nmidlertidig bygning.</p>\n<p><strong>Tidsplan</strong></p>\n<p>Tidsplan for etablering af midlertidig bygning.</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p>29. februar 2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>Licitation </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Ultimo uge 11, 2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>Indgåelse af kontrakt</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Primo marts – august 2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>Projektering, produktion,\n            levering, udførelse af midlertidig bygning</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>29. juli 2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>Før-aflevering</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>8. august 2024 </p>\n            </td>\n            <td valign=\"top\">\n            <p>Aflevering</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Fra 1. august 2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>Indflytning inventar mv.</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>Fra 5. august 2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>Opstilling inventar mv.</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p>12. august 2024</p>\n            </td>\n            <td valign=\"top\">\n            <p>Ibrugtagning\n            skoleundervisning</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p> </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>13-03-2024 Klima-, Teknik- og Miljøudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">1.-3. Anbefales</p>\n<p> Udvalget bemærker, at det er vigtigt, at firmaet lever op til de konditioner, der er stillet i udbuddet.</p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/44246c67-754f-44df-a91a-0b85e5e36951",
+          "DocumentId": "44246c67-754f-44df-a91a-0b85e5e36951"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-012933",
+      "Navn": "Tune Skole, midlertidige bygninger til samling - ekstra bevilling",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 Midlertidige bygninger på Højen",
+          "Id": "d11229d5-7030-4968-983a-308a7c69b62a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Gennemgang af Greve Kommunes kommende kontraktpart Algeco Danmark AS",
+          "Id": "0adc4955-f094-41dd-853f-54defe2d2328"
+        }
+      ],
+      "Documents": null,
+      "Id": "93e83e90-3de3-4ed2-8a7e-1bb089c84f4e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a62b751d-d08b-423f-b429-8a8ed615e7eb",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-012933",
+      "SourceId": null,
+      "Caption": "Tune Skole, midlertidige bygninger til samling - ekstra bevilling",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Økonomiudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsblad.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/bc630f4f-4a7a-4ba1-accb-bfa846810c50",
+          "DocumentId": "bc630f4f-4a7a-4ba1-accb-bfa846810c50"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014501",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2f0689c0-e94e-42c8-8850-a75ba3920fa9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "a62b751d-d08b-423f-b429-8a8ed615e7eb",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-014501",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "49a1c3b3-741b-4c22-86a1-f27bf55df8d1",
+    "Navn": "Økonomiudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2024-03-13T16:35:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2024-03-13T16:35:00+01:00",
+    "Sted": "Biblioteket",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Ekstraordinær dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "a62b751d-d08b-423f-b429-8a8ed615e7eb",
+  "Lydfiler": null
+}

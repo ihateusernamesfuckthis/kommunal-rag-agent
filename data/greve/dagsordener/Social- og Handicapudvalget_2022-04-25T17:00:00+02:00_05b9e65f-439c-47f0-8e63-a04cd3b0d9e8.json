@@ -1,0 +1,348 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Dagsordenen blev godkendt.</div> <div> </div> <div>Simon Østergaard (V) var ikke til stede.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div><span> <div> <h3>Sagsprocedure</h3> </div> </span></div> <div>Social- og Handicapudvalget</div> <div><span> <div> <h3>Resume</h3> </div> </span></div> <div>Godkendelse af dagsorden for mødet den 24. april 2022.</div> <h3>Indstilling</h3> <span></span> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes. </em></div> <div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c006454a-81d5-4721-913a-e418437ec3b3",
+          "DocumentId": "c006454a-81d5-4721-913a-e418437ec3b3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014477",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "91c0cb70-b865-499c-b7a2-ffda5793cbda",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014477",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev til taget til efterretning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><span>Sagsprocedure</span></h3> <div><span>Social- og Handicapudvalget</span></div> <h3><span>Resume</span></h3> <div><span>Administrationen introducerer Social- og Handicapudvalget til Kontant tilskud,</span><span> </span><span>Borgerstyret Personlig Assistance (BPA) og hjælpemidler.</span><span> </span></div> <h3><span>Indstilling</span></h3> <div><span>Center for </span><span>Sundhed & Pleje</span><span> indstiller</span><span>,</span><span> at orienteringen tages til efterretning.</span></div> <h3><span>Sagsbeskrivelse</span></h3> <div><span>På mødet bliver udvalget introduceret til det specialiserede voksenområde. Introduktionen er den </span><span>tredje</span><span> af i alt fire planlagte introduktioner på voksenområdet frem mod sommerferien. Introduktionen på dette møde handler i hovedtræk om:</span></div> <ul>     <li><span>Kontant tilskud §95 efter serviceloven</span></li>     <li><span>Borgerstyret Personlig Assistance §96 efter serviceloven</span></li>     <li>Hjælpemidler §112 efter serviceloven</li> </ul> <h3>Lovgrundlag</h3> <div><span>Lov </span><span>om social service §§ 95 og 96</span><span> (BPA)</span><span> og § 112</span><span> (Hjælpemidler).</span></div> <h3><span>Økonomiske konsekvenser</span></h3> <div><span>Sagen har ingen økonomiske konsekvenser</span><span>.</span></div> <h3><span>Øvrige forhold</span></h3> <div><span>Pernille Ellefsen deltager under punktet.</span></div> <h3> </h3> <br></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/60e0cc0a-86fb-419d-84bb-8d01d702b403",
+          "DocumentId": "60e0cc0a-86fb-419d-84bb-8d01d702b403"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004766",
+      "Navn": "Introduktionsdel 3: Hjælpemidler og Borgerstyret Personlig Assistance",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag - CSP Oplæg KT og BPA",
+          "Id": "f0f9fbe4-7907-49e1-9bc8-1062c7e4445f"
+        }
+      ],
+      "Documents": null,
+      "Id": "7fd78be6-a9ea-495f-affc-e3bbd5e91ad5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-004766",
+      "SourceId": null,
+      "Caption": "Introduktionsdel 3: Hjælpemidler og Borgerstyret Personlig Assistance",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1. Godkendt</div> <div>2. Godkendt</div> <div> </div> <div>Handicaprådets høringssvar blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget</div> <h3>Resume</h3> <div>Social- og Handicapudvalget har ønsket en orientering om sagsbehandlingstiderne inden for udvalgets område. I sagen beskrives hvordan opfølgning på sagsbehandlingstiderne vil ske fremover. Der vedhæftes, som bilag til sagen, en oversigt over politisk besluttede sagsbehandlingstider indenfor udvalgets område, som varetages i tre centre: Center for Børn & Familier, Center for Job & Socialservice og Center for Sundhed & Pleje.</div> <h3>Indstilling</h3> <div><em>Center for Børn & Familier, Center for Job & Socialservice og Center for Sundhed & Pleje indstiller, at udvalget beslutter;</em></div> <div><em>1) at registrering af sagsbehandlingstider påbegyndes</em></div> <div><em>2) at der afrapporteres én gang årligt på de registrerede sagsbehandlingstider  </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Byrådet skal på de enkelte sagsområder fastsætte frister for, hvor lang tid der må gå fra modtagelsen af en ansøgning, til afgørelsen skal være truffet. Fristerne offentliggøres og skal fremgå tydeligt på kommunens hjemmeside. Hvis fristen ikke kan overholdes i en konkret sag, skal ansøgeren skriftligt have besked om, hvornår ansøgeren kan forvente en afgørelse.</div> <div> </div> <div>Der kan ikke fastsættes én frist for samtlige sager på det sociale område, men der er intet til hinder for, at kommunalbestyrelsen kan fastsætte den samme tidsfrist på flere forskellige områder. Det er samtidig op til kommunen, hvordan den mest hensigtsmæssigt inddeler sagsbehandlingsområderne. Fristerne afhænger derfor af lokale prioriteringer af, hvordan kommunens samlede ressourcer bedst anvendes og kan afhænge af de enkelte sagstyper. Der er nogle områder, hvor lovgivningen er bestemmende for hvor lang sagsbehandlingstiden maksimalt må være. Det er for eksempel ved børnefaglig undersøgelse, hvor der i den gældende lovgivning står, at undersøgelsen skal afsluttes senest 4 måneder efter, at Kommunalbestyrelsen bliver opmærksom på, at et barn eller en ung kan have behov for særlig støtte. </div> <div> </div> <div><strong>Sagsbehandlingstider i Greve Kommune</strong></div> <div>Greve Kommune har fastsat en række sagsbehandlingstider ud fra den gældende lovgivning, sagsbehandlingstiderne er politisk godkendt og offentliggjort på Greve Kommunes hjemmeside. Her kan borgere orientere sig om sagsbehandlingstiden indenfor hvert enkelt område. Det er den sagsbehandlingstid som borgeren kan forvente der går fra ansøgning om hjælp er indgivet til at der træffes en afgørelse i sagen af kommunen. Indstilling til hjælp kan også indgives af en fagperson i kommunen, når kommunen bliver bekendt med at en borger har brug for hjælp.</div> <div> </div> <div>Der er tale om generelle sagsbehandlingstider. Hvis den konkrete sag tager længere tid, for eksempel fordi al relevant dokumentation endnu ikke kan/er tilvejebragt, så skal borgeren modtage skriftlig besked herom fra kommunen. Her vil borgeren blive oplyst om, hvornår kommunen forventer at sagen kan færdigbehandles.</div> <div> </div> <div><strong>Faktorer, der har betydning for sagsbehandlingstiden</strong></div> <div>Der er en række faktorer som har betydning for hvor lang sagsbehandlingstiden bliver i de kommunale ansøgningssager, herunder gennemgås eksempler på de væsentligste faktorer.</div> <div> </div> <div>En afgørende faktor er, at alle sager i den offentlige forvaltning skal behandles grundigt og overholde en lang række processuelle sagsbehandlingsregler og forvaltningsretlige principper for at sikre, at der træffes en korrekt og lovlig afgørelse.</div> <div> </div> <div>Når en sag behandles, så er administrationen forpligtet til, at en sag er tilstrækkeligt oplyst. Det betyder, at der skal indhentes relevante oplysninger fra for eksempel borgeren selv, læge, psykiatri, daginstitution, skole samt andre fagpersoner. Det betyder, at den enkelte sags sagsbehandlingstid blandt andet vil afhænge af, hvor hurtigt rådgiveren sender anmodning om relevante oplysninger og hvor hurtigt der efterfølgende modtages de relevante adspurgte oplysninger. Hvor mange oplysninger, der skal indhentes i en sag, vil afhænge af sagstypen og de konkrete omstændigheder i sagen.</div> <div> </div> <div>Det er administrationens oplevelse, at der i nogle tilfælde er lange svartider fra f.eks. speciallæger og psykiatrien, der er en væsentlig faktor for de sager, hvor sagkyndiges erklæringer skal indhentes.</div> <div> </div> <div>Når administrationen har modtaget de relevante oplysninger, så skal oplysningerne sendes til partshøring hos borgeren, hvis der er tale om oplysninger til ugunst, det vil sige til ulempe, for borgerens ansøgning. Der vil i den forbindelse typisk være en svarfrist på 7-14 dage.</div> <div> </div> <div>Der er i visse sagstyper på børneområdet tale om meget kompliceret sagsoplysning, herunder at der skal foretages undersøgelser, førend en sag kan afgøres. Dette gør sig f.eks. gældende i sager om hjemmetræning, hvor der først skal udarbejdes en behovsbeskrivelse i Pædagogisk Psykologisk Rådgivning (PPR) og derefter skal udarbejdes en børnefaglig undersøgelse i Familierådgivningen, som efter lovgivningen kan tage op til fire måneder at udarbejde. Sagsbehandlingstiden for denne typer sager er derfor fastsat til seks måneder.</div> <div> </div> <div>Der er i visse sagstyper på voksenområdet tale om borgere som har en række specifikke behov, og samtidig kan der være få tilbud der matcher den enkelte borgers behov og kun få ledige pladser på disse tilbud, det kan give ventetid for borgeren.</div> <div> </div> <div>Derudover kan det også have betydning for sagsbehandlingstiderne, når der er personaleomsætning, herunder ubesatte stillinger.</div> <div> </div> <div><strong>Sagsbehandlingstider i forbindelse med klager til Ankestyrelsen</strong></div> <div>Borgeren kan også opleve længere ventetid, hvis borgeren vælger at klage til Ankestyrelsen over kommunens afgørelse. Kommunen har fire uger til at genvurdere sagen inden klagen sendes til Ankestyrelsen. Klager til Ankestyrelsen suspenderer som udgangspunkt ikke kommunens afgørelse. I nogle sager ændrer Ankestyrelsen kommunens afgørelse og det giver ventetid for borgeren før en ydelse kan udbetales eller hjælp kan modtages. Ankestyrelsen kan også træffe beslutning om at hjemvise sagen til fornyet behandling i borgerens kommune, det er typisk hvis Ankestyrelsen vurderer at sagen er ikke tilstrækkelig oplyst, det giver borgeren en ekstra lang sagshandlingstid. Ankestyrelsens sagsbehandlingstid var i 2020 gennemsnitligt 17,5 uger.</div> <div> </div> <div><strong>Registrering af sagsbehandlingstider i Greve Kommune</strong><em> </em></div> <div>Vi har i dag ikke statistik over de nuværende sagsbehandlingstider indenfor Social- og Handicapudvalgets område, som varetages i tre centre. Registrering af sagsbehandlingstider kræver den nødvendige IT-understøttelse til at trække oplysningerne og der er på børneområdet, på voksenområdet og på sundhed- og ældreområdet i Greve Kommune forskellige sagsbehandlingssystemer i brug:</div> <div> </div> <div><strong>Center for Børn & Familier</strong></div> <div>I Center for Børn & Familier i Familierådgivningen sagsbehandles der i fagsystemet, DUBU. Det er her muligt at registrere indkomne ansøgninger og efterfølgende afgørelser. Det vil kræve en manuel korrekt registrering i hver sag og der vil derfor være en statistisk følsomhed i forhold til manuelle fejlregistreringer. Familierådgivningen har oplyst, at det fremadrettet vil være muligt at lave registreringer, så sagsbehandlingstider kan blive opgjort. Det forventes, at arbejdet med at registrere nye ansøgninger i DUBU opstartes i foråret 2022. Herefter vil der være behov for en periode på cirka 6 måneder, hvor der vil blive fulgt op på uhensigtsmæssigheder, tilretninger af registreringer og lignende. Center for Børn & Familier kan fra 1. november 2022 påbegynde registrering af sagsbehandlingstider på nye ansøgninger. </div> <div> </div> <div><strong>Center for Sundhed & Pleje</strong></div> <div>I Center for Sundhed & Pleje sagsbehandles der i fagsystemet Nexus, som blev implementeret i 2018. Der er i systemet et modul for opgavestyring, som kan bruges til at registrere sagsbehandlingstider. Modulet er planlagt til implementering pr. 1. juni 2022. Center for Sundhed & Pleje kan fra 1. juni 2022 påbegynde registrering af sagsbehandlingstider på nye ansøgninger.</div> <div> </div> <div><strong>Center for Job & Socialservice</strong></div> <div>I Center for Job & Socialservice sagsbehandles der også i fagsystemet Nexus, som blev implementeret i 2019 i Rådgiverteamet. Det ovennævnte modul for opgavestyring, som kan bruges til at registrere sagsbehandlingstider, er endnu ikke implementeret på det sociale voksenområde.</div> <div> </div> <div>Der er for Rådgiverteamet planlagt en opstart af implementering af en ny version af Nexus med udgangen af 2022. Systemet forventes at være fuldt implementeret i slutningen af 2023, hvorefter systemet forventes at kunne anvendes til at registrere sagsbehandlingstider. Overgangen til den nye version af Nexus vil kræve mange ekstra rådgivertimer, da alt relevant dokumentation manuelt skal overføres for hver enkelt borger. Det er forventet, at dette arbejde vil trække ressourcer ud af den drift, der sidder med sagsbehandling af borgersager. Det kan betyde længere sagsbehandlingstid på borgersager i perioden frem til implementeringen er færdig.</div> <div> </div> <div>Center for Job & Socialservice vurderer, at det er urealistisk manuelt at registrere sagsbehandlingstider på hele voksensocialområdet frem til implementeringen af den nye version af Nexus med udgangen af 2023. Det vil trække mange ressourcer ud af den drift, der har ansvaret for sagsbehandling af borgersager på det specialiserede voksenområdet.</div> <div> </div> <div>Center for Job & Socialservice vil i stedet udvælge to områder til manuel registrering: Socialpædagogisk støtte i eget hjem efter § 85 i lov om social service og midlertidigt botilbud efter § 107 i lov om social service. Der peges på disse to områder, fordi det er de to områder med flest sager, og registreringer her kan derfor give et indblik i sagsbehandlingstiden. Center for Job & Socialservice kan fra 1. juni 2022 påbegynde registrering af sagsbehandlingstider på nye ansøgninger. </div> <div> </div> <div><strong>Greve Kommune i sammenligning med andre kommuner</strong></div> <div>Greve Kommune er én blandt flere kommuner, der ikke fører statistik på sagsbehandlingstider og i mange kommuner skyldes det manglende IT understøttelse. Justitia, (en uafhængig juridisk tænketank) udførte i september 2020 en undersøgelse på området. Ud af de 88 kommuner som deltog i undersøgelsen, var det kun 24 kommuner som kunne fremsende statistiske opgørelser af sagsbehandlingstider, og det var kun på begrænsede sagsområder.</div> <div> </div> <div>Som et eksempel kan det nævnes, at Socialforvaltningen i Københavns Kommune har sagshandlet i fagsystemet CSC Social fra 2012 frem til 2021. I en årrække har Socialforvaltningen brugt CSC Social til at følge op på kommunens sagsbehandlingstider. I 2021 overgik Socialforvaltningen til fagsystemet DOMUS, som er København Kommunes eget fagsystem. Det fremgår endnu ikke om DOMUS kan og skal bruges til at registrere sagsbehandlingstider på samme vis som det tidligere fagsystem.</div> <h3>Lovgrundlag</h3> <div>Lov om social service.</div> <div>Lov om retssikkerhed og administration på det sociale område §§ 3 og 3 a.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <h3>Kommunikation</h3> <div>Sagen sendes til behandling i Handicaprådet ved rådets møde den 21. april. </div> <div>Der vedhæftes som bilag en oversigt over politisk besluttede sagsbehandlingstider, der hører under Social- og Handicapudvalgets område.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/19e16b67-21aa-4365-babd-624e5c332395",
+          "DocumentId": "19e16b67-21aa-4365-babd-624e5c332395"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004308",
+      "Navn": "Beslutning om registrering af sagsbehandlingstider",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Oversigt over de politisk besluttede sagsbehandlingstider indenfor udvalgets område",
+          "Id": "7bba98b8-66f3-4edc-9b71-34a26f310e19"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handicaprådet referat 21.04.22",
+          "Id": "2adf4738-aec8-45ce-b039-5392d291973b"
+        }
+      ],
+      "Documents": null,
+      "Id": "4ae46b37-cfc3-4602-8de3-d9bd2117b7ee",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-004308",
+      "SourceId": null,
+      "Caption": "Beslutning om registrering af sagsbehandlingstider",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Anbefales.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Social- og Handicapudvalget, Økonomiudvalget og Byrådet</div> <h3><span>Resume</span></h3> <div>Greve Kommune har i fællesskab med seks kommuner pr. 1. april 2022 etableret §60-selskabet Fælles Hjælpemiddeldepot I/S. I sagen skal foreslåede ændringer til vedtægter for selskabet godkendes. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Sundhed & Pleje indstiller, at de foreslåede ændringer af vedtægterne bliver godkendt.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Byrådet godkendte den 31. januar 2022 etablering af §60-selskabet Fælles Hjælpemiddeldepot I/S. Som del af etableringen er der udarbejdet vedtægter for selskabet, der ligeledes blev godkendt.</div> <div> </div> <div><strong>De væsentligste forhold i vedtægterne er:</strong></div> <ul>     <li>Den enkelte kommunes ejerandel opgøres på grundlag af indbyggertallet i henhold til Folkeregisteret og opgøres første gang pr. 1. april 2022.</li> </ul> <div> </div> <ul>     <li>Udgifter i fællesskabet finansieres af den enkelte kommune ved dels et grundbidrag, der skal dække faste omkostninger og driftsunderskuddet i fællesskabet, dels afregning jf. de indgåede kontrakter. Grundbidraget fordeles efter ejerandele.</li> </ul> <div> </div> <ul>     <li>Ledelsen består af en bestyrelse og af en direktør. Hver kommune udpeger et bestyrelsesmedlem, som udpeges af og blandt kommunalbestyrelserne. Herudover udpeger kommunerne to eksterne bestyrelsesmedlemmer med relevante kompetencer for fællesskabets opgavevaretagelse og ledelse. Der udpeges tilsvarende suppleanter.</li> </ul> <div> </div> <ul>     <li>De to eksterne bestyrelsesmedlemmer varetager posterne som formand og næstformand i bestyrelsen. </li> </ul> <div><em> </em></div> <div><strong>Forslag om at ændre antallet af bestyrelsesmedlemmer fra ni til syv</strong></div> <div>Bestyrelsen repræsenteret ved de syv ejerkommuner har været trådt sammen i forbindelse med etableringen. Vedtægternes formulering om eksterne medlemmer i bestyrelsen har været drøftet, herunder hvordan der findes kvalificerede kandidater til bestyrelsesposter, der ikke er lønnet. Bestyrelsesmedlemmerne har ret til diæter efter reglerne i den kommunale styrelseslovs § 16a.</div> <div> </div> <div>Afledt af drøftelserne ønsker bestyrelsen at ændre vedtægterne, så bestyrelsen udelukkende består af bestyrelsesmedlemmer fra ejerkommunerne.</div> <div> </div> <div><strong>Ændringer til godkendelse:</strong></div> <div> </div> <div>Nuværende afsnit 7.2:</div> <div>\"Bestyrelsen består af 9 medlemmer. Hver interessent udpeger et bestyrelsesmedlem, som udpeges af og blandt interessenternes kommunalbestyrelser. Herudover udpeger interessenterne to eksterne bestyrelsesmedlemmer med relevante kompetencer for interessentskabets opgavevaretagelse og ledelse. Udpegningen følger den kommunale funktionsperiode, og et bestyrelsesmedlem udpeges for perioden frem til næste funktionsperiodes begyndelse.\"</div> <div> </div> <div>Ændret afsnit 7.2, der indstilles godkendt:</div> <div><span>\"Bestyrelsen består af 7 medlemmer. Hver interessent udpeger et bestyrelsesmedlem, som udpeges af og blandt interessenternes kommunalbestyrelser. Udpegningen følger den kommunale funktionsperiode, og et bestyrelsesmedlem udpeges for perioden frem til næste funktionsperiodes begyndelse.\"</span></div> <div> </div> <div><span><strong>Valg af formand og næstformand</strong></span></div> <div>Ændringerne af bestyrelsens sammensætning betyder også, at der skal ændres i måden der vælges formand og næstformand for bestyrelsen. Bestyrelsen foreslår en ordning, hvor formands- og næstformandspost går på skift mellem kommunerne for en valgperiode ad gangen. I bestyrelsen er det aftalt, at Solrød Kommune starter med at varetage formandsposten og Dragør Kommune starter med at varetage næstformandsposten. </div> <div> </div> <div><strong>Ændringer til godkendelse:</strong></div> <div> </div> <div>Nuværende afsnit 7.5: </div> <div> </div> <div>\"De to eksterne bestyrelsesmedlemmer varetager posterne som formand og næstformand i bestyrelsen. Formandskabet kan træffe beslutninger om forhold, som ligger inden for det af bestyrelsen godkendte budget, som ikke har væsentlig betydning for interessentskabet eller interessenterne samt om forhold, hvor bestyrelsen har bemyndiget formandskabet til at træffe beslutninger.\" </div> <div> </div> <div>Ændret afsnit 7.5, der indstilles godkendt:</div> <div> </div> <div>\"Posterne som formand og næstformand i bestyrelsen går på skift mellem interessenterne, og formandskabet følger den kommunale funktionsperiode. Solrød Kommune har formandsposten og Dragør Kommune har næstformandsposten i den første periode (2022 – 2025) og skifter herefter i et rul efter alfabetet, jf. interessentoversigten i punkt 2.1. Formandskabet kan træffe beslutninger om forhold, som ligger inden for det af bestyrelsen godkendte budget, som ikke har væsentlig betydning for interessentskabet eller interessenterne samt om forhold, hvor bestyrelsen har bemyndiget formandskabet til at træffe beslutninger.\"</div> <h3><span>Lovgrundlag</span></h3> <div> Lov om kommunernes styrelse.</div> <h3>Øvrige forhold</h3> <div>Ændring af vedtægterne skal godkendes i de syv ejerkommuners kommunalbestyrelse. Såfremt ændringerne godkendes i alle kommuner, skal de sendes til Ankestyrelsen til godkendelse. Når godkendelse foreligger fra Ankestyrelsen kan bestyrelsen træde sammen og siges at være lovmedholdelig.</div> <div> </div> </div> <div>For at sikre, at selskabet kan indgå nødvendige aftaler, der kræver underskrifter ved bestyrelsen, er der underskrevet dokument af ejerkommunerne, der giver bestyrelsesmedlem fra henholdsvis Solrød og Dragør kommune bemyndigelse til at underskrive på vegne af ejerkommunerne.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e8365e77-1a1c-43f1-ad3a-ffc6df457d39",
+          "DocumentId": "e8365e77-1a1c-43f1-ad3a-ffc6df457d39"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-005266",
+      "Navn": "§ 60 Fælles hjælpemiddeldepot - ændring af vedtægter",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e6b1ceb6-094d-4fb1-a230-0843e38931c1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-005266",
+      "SourceId": null,
+      "Caption": "§ 60 Fælles hjælpemiddeldepot - ændring af vedtægter",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Der var ingen orienteringspunkter.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><i><br> </i></h3> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4fcf85a2-e454-4286-84f9-030553a3d036",
+          "DocumentId": "4fcf85a2-e454-4286-84f9-030553a3d036"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014473",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "33519d23-dc1a-441b-a9a1-7e29ccedd73c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-014473",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Der var ingen orienteringspunkter.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen har følgende til orientering:</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/20a2318f-2677-4bfb-9bab-9a93e09e05b4",
+          "DocumentId": "20a2318f-2677-4bfb-9bab-9a93e09e05b4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013715",
+      "Navn": "Huskeliste/ orientering fra administrationen",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a14f885f-cb81-4af0-90c7-2f0bb5ac46c0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-013715",
+      "SourceId": null,
+      "Caption": "Huskeliste/ orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Social- og Handicapudvalget</div> <h3> <div> <h3>Resume</h3> </div> </h3> <div>I sagen gives et overblik over Social- og Handicapudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Mødekalenderen er vedhæftet som bilag.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/849007be-fafc-48f0-98b0-44a2c236e7b3",
+          "DocumentId": "849007be-fafc-48f0-98b0-44a2c236e7b3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014474",
+      "Navn": "Social- og Handicapudvalget - mødekalender 2022",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Social- og Handicapudvalgets kalender 2022",
+          "Id": "4d3b47d1-6e42-43c5-b10c-309cb06a6d2e"
+        }
+      ],
+      "Documents": null,
+      "Id": "1c323ad9-61e3-41b3-8ee5-4ef689ac41a1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014474",
+      "SourceId": null,
+      "Caption": "Social- og Handicapudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3> <div> <h3>Sagsprocedure</h3> </div> </h3> </div> <div>Social- og Handicapudvalget</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/695e950d-a0a3-4a96-ae92-afa05fdadc08",
+          "DocumentId": "695e950d-a0a3-4a96-ae92-afa05fdadc08"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014478",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e680d440-f977-4b77-8e9a-bd76a6381f37",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014478",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "29a68a87-8011-4734-bcb5-75598c5bef77",
+    "Navn": "Social- og Handicapudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-04-25T17:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-04-25T17:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Heidi Serny Jacobsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "05b9e65f-439c-47f0-8e63-a04cd3b0d9e8",
+  "Lydfiler": null
+}

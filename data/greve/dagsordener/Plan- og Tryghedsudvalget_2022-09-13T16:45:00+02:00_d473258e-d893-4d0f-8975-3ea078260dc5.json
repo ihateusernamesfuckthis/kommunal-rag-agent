@@ -1,0 +1,433 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Dagsordenen blev godkendt. </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <h3><span>Resume</span></h3> <div>Godkendelse af dagsorden for mødet den 13. september 2022. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes. </em></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4a8e1104-fe3b-4fd0-a11a-4579fad88c85",
+          "DocumentId": "4a8e1104-fe3b-4fd0-a11a-4579fad88c85"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003654",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c9931117-93f8-4fa3-9627-571f255533b8",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "22-003654",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><strong></strong> <div><b> </b></div> <ol>     <li><i>Udvalget drøftede muligheden for at indgå aftale om fleksible udlejningskriterier med boligorganisationerne, som vil medvirke til at ændre beboersammensætningen således, at boligorganisationerne ikke fremgår på Boligministeriets lister over parallelsamfund, specifikt med henblik på at boligområdet Askerød ikke fremgår på Indenrigs- og Boligministeriets forebyggelsesliste senest 1. december 2025</i></li>     <li><i>Udvalget ønsker, at administrationen skal gå i dialog med almene boligorganisationerne i hele kommunen forud for styringsdialogen for herefter at forelægge en sag for udvalget om anvisningsbehov og anvisningskriterier, og forslag til måltal inkl. økonomiske konsekvenser. Afsættet skal være at kriterierne skal under måltal for parallelsamfundsaftalen.</i></li> </ol> <div>(Ø) stemmer imod</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><span>Sagsprocedure</span></h3> <div>Plan- og Tryghedsudvalget.</div> <div> </div> <div> <h3>Resume</h3> </div> <div>I sagen orienteres udvalget om beboersammensætningen i Greve Nord, med henblik på at fastsætte mål for udviklingen i beboersammensætningen.</div> <div> </div> <div> <h3>Indstilling</h3> </div> <div><em>Administrationen indstiller, at</em><em> udvalget drøfter hvilke mål der kan fastlægges for beboersammensætningen i Greve Nord.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Beboersammensætning i et alment boligområde kategoriseres jf. Indenrigs- og Boligministeriet på baggrund af beboernes etnicitet, grad af tilknytning til arbejdsmarkedet eller uddannelse, - kriminalitet, - uddannelse og indkomst. Beboersammensætningen afgør om et boligområde defineres som et almindeligt boligområde, forebyggelsesområde, udsat område, et parallelsamfund eller et omdannelsesområde. For alle boligområder der indgår på en af disse 4 lister, har kommunerne en pligt til at gøre en indsats for at sikre, at beboersammensætningen ændres, og at boligområdet kommer ud af listen.</div> <div> </div> <div>Den nuværende beboersammensætning i Greve Nord er jf. Indenrigs- og Boligministeriets data som anført i nedenstående tabel.</div> <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">     <tbody>         <tr>             <td valign=\"top\">             <div><b><i>Boligselskab</i></b></div>             </td>             <td valign=\"top\">             <div><b><i>Boligområde</i></b></div>             </td>             <td valign=\"top\">             <div><b><i>Antal beboere</i></b></div>             </td>             <td valign=\"top\">             <div><b><i>Etnicitet</i></b></div>             </td>             <td valign=\"top\">             <div><b><i>Arbejdsmarked/ uddannelse</i></b></div>             </td>             <td valign=\"top\">             <div><b><i>Krimina-litet</i></b></div>             </td>             <td valign=\"top\">             <div><b><i>Uddan-nelse</i></b></div>             </td>             <td valign=\"top\">             <div><b><i>Ind-komst</i></b></div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><i>Greve Boligselskab</i></div>             </td>             <td valign=\"top\">             <div>Gersagerparken</div>             </td>             <td valign=\"top\">             <div>1.996</div>             </td>             <td valign=\"top\">             <div>32,7</div>             </td>             <td valign=\"top\">             <div>29,8</div>             </td>             <td valign=\"top\">             <div>1,96</div>             </td>             <td valign=\"top\">             <div>53,7</div>             </td>             <td valign=\"top\">             <div>71,5</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>Søjlegården</div>             </td>             <td valign=\"top\">             <div>428</div>             </td>             <td valign=\"top\">             <div>15,7</div>             </td>             <td valign=\"top\">             <div>28,6</div>             </td>             <td valign=\"top\">             <div>0,77</div>             </td>             <td valign=\"top\">             <div>32</div>             </td>             <td valign=\"top\">             <div>74,3</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>Hegnsgården</div>             </td>             <td valign=\"top\">             <div>273</div>             </td>             <td valign=\"top\">             <div>20,5</div>             </td>             <td valign=\"top\">             <div>39</div>             </td>             <td valign=\"top\">             <div>1,34</div>             </td>             <td valign=\"top\">             <div>48,5</div>             </td>             <td valign=\"top\">             <div>67,3</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><i>SYD-BO</i></div>             </td>             <td valign=\"top\">             <div>Klyngen</div>             </td>             <td valign=\"top\">             <div>117</div>             </td>             <td valign=\"top\">             <div>52,1</div>             </td>             <td valign=\"top\">             <div>30</div>             </td>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>58,1</div>             </td>             <td valign=\"top\">             <div> </div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>Heimdals Kvarter</div>             </td>             <td valign=\"top\">             <div>185</div>             </td>             <td valign=\"top\">             <div>47,6</div>             </td>             <td valign=\"top\">             <div>32,7</div>             </td>             <td valign=\"top\">             <div>2,93</div>             </td>             <td valign=\"top\">             <div>71,8</div>             </td>             <td valign=\"top\">             <div>63,3</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>Ægirs Kvarter</div>             </td>             <td valign=\"top\">             <div>181</div>             </td>             <td valign=\"top\">             <div>41,4</div>             </td>             <td valign=\"top\">             <div>32,2</div>             </td>             <td valign=\"top\">             <div>3,86</div>             </td>             <td valign=\"top\">             <div>57,4</div>             </td>             <td valign=\"top\">             <div>63,8</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>Valhals Kvarter</div>             </td>             <td valign=\"top\">             <div>209</div>             </td>             <td valign=\"top\">             <div>48,8</div>             </td>             <td valign=\"top\">             <div>33,3</div>             </td>             <td valign=\"top\">             <div>1,95</div>             </td>             <td valign=\"top\">             <div>61,5</div>             </td>             <td valign=\"top\">             <div>66,4</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>Thors Kvarter</div>             </td>             <td valign=\"top\">             <div>177</div>             </td>             <td valign=\"top\">             <div>29,9</div>             </td>             <td valign=\"top\">             <div>27,2</div>             </td>             <td valign=\"top\">             <div>3,77</div>             </td>             <td valign=\"top\">             <div>66,2</div>             </td>             <td valign=\"top\">             <div>62,9</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>Freyas Kvarter</div>             </td>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>17,6</div>             </td>             <td valign=\"top\">             <div>49,4</div>             </td>             <td valign=\"top\">             <div> </div>             </td>             <td valign=\"top\">             <div>48,8</div>             </td>             <td valign=\"top\">             <div>59,8</div>             </td>         </tr>         <tr>             <td valign=\"top\">             <div><i>Vridsløselille Boligselskab</i></div>             </td>             <td valign=\"top\">             <div>Askerød</div>             </td>             <td valign=\"top\">             <div>1489</div>             </td>             <td valign=\"top\">             <div>52,9</div>             </td>             <td valign=\"top\">             <div>26,3</div>             </td>             <td valign=\"top\">             <div>2,11</div>             </td>             <td valign=\"top\">             <div>68,9</div>             </td>             <td valign=\"top\">             <div>68,8</div>             </td>         </tr>     </tbody> </table> <div><em>Note:</em></div> <ul>     <li><em>Antal – Boligområder med over 1.000 beboere, der opfylder grænseværdierne på to af de fem kriterier optages på en af de fire lister</em></li>     <li><em>Etnicitet – andel af beboere, som er indvandrere og efterkommere fra ikke-vestlige lande, overstiger 30 % (udsatte områder 50%)</em></li>     <li><em>Arbejdsmarkedstilknytning - andel af beboere i alderen 18 – 64 år, der er uden tilknytning til arbejdsmarkedet eller under uddannelse, er over 30 % over de seneste to år (udsatte områder 40%)</em></li>     <li><em>Kriminalitet - andel af beboere, som er dømt for overtrædelse af straffeloven, våbenloven eller lov om euforiserende stoffer, er større end to gange landsgennemsnittet over de seneste to år (udsatte områder 3 gange landsgennemsnit)</em></li>     <li><em>Uddannelse - andel af beboere i alderen 30-59 år, der alene har en grunduddannelse, er over 60 % (udsatte områder også 60 %)</em></li>     <li><em>Indkomst - andel af skattepligtige beboere (eksklusive uddannelsessøgende) i alderen 15-64 år, hvor den gennemsnitlige bruttoindkomst er mindre end 65 % af den gennemsnitlige bruttoindkomst for samme gruppe i regionen (udsatte områder 55 %)</em></li> </ul> <div> </div> <div>Som følge af beboersammensætningen i Askerød, er boligområdet på listen over forebyggelsesområder. De øvrige boligområder i Greve Nord kategoriseres som \"almindelige boligområder\".</div> <div> </div> <div>Gudekvarteret overskrider dog grænseværdierne på kriminalitets-kriteriet i forhold til at være et udsat område, men da Gudekvarteret samtidig består af afdelinger under 1.000 beboere, fremgår Gudekvarteret ikke på nogen af listerne. </div> <div> </div> <div>Gersagerparken er tæt på at overskride grænseværdierne for tilknytning til arbejdsmarkedet og uddannelse, og der er således en risiko for, at Gersagerparken på sigt indgår på listen over forebyggelsesområder, hvis ikke der sker en forbedring i beboernes arbejdsmarkedstilknytning.</div> <div> </div> <div>Da alle tre boligområder i nogen grad er hinandens forudsætninger i forhold til både løsninger og udvikling, og da alle tre boligområder har en beboersammensætning hvor beboerne ligger over grænseværdierne på et eller flere kriterier, anbefales det, at der løbende følges op på alle boligområdernes beboersammensætning.</div> <div> </div> <div>Status på beboersammensætning koblet til fastlagte mål, er fundamentet for aftaler om kommunal boliganvisning og fleksible udlejningskriterier. En beskrivelse af de nuværende og historiske anvisningsaftaler og aftaler om fleksibel udlejning vedlægges i bilag 1.</div> <div> </div> <div>En mere tæt opfølgning på beboersammensætningen i boligområder, der er medtaget på listen over forebyggelsesområder, er således et krav jf. parallelsamfunds-aftalen. Data for beboersammensætningen og hvilke boligområder der optages på listerne offentliggøres hvert år 1. december. </div> <div> </div> <div>Samtaler omkring boligområdernes udvikling foregår allerede i det forum der kaldes Styringsdialogen, der består af repræsentanter fra boligselskaberne og Greve Kommune, og hvor man mødes to gange om året. Det foreslås derfor, at man i dette forum foretager den løbende opfølgning på beboersammensætningen.</div> <h3><strong>Økonomiske konsekvenser</strong></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <h3><span>Lovgrundlag</span></h3> <div>Almenboliglovens §61a. </div> <h3><span>Tidsplan</span></h3> <div>Aftale om udlejning efter fleksible kriterier skal genforhandles inden udgangen af 2022.</div> <h3><strong>Øvrige forhold</strong></h3> <div>Organisationskonsulent Charlotte Lodal og Chefkonsulent Lisbeth Bybeck fremlægger sagen på mødet.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9a0ff3f2-e0fb-4f0d-bfad-5c09033cf8a4",
+          "DocumentId": "9a0ff3f2-e0fb-4f0d-bfad-5c09033cf8a4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004827",
+      "Navn": "Tryghed i Greve Nord - Beboersammensætning",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Historisk gennemgang af aftaler",
+          "Id": "9f1c25f4-bb40-4bef-9179-c41e1224626c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Slides til PTU 13-09-22",
+          "Id": "752bb55e-9a13-4afe-a9e3-e1c5dc581b71"
+        }
+      ],
+      "Documents": null,
+      "Id": "5c8ced7e-129c-4dbc-ab72-d7f7cf5f4b1b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-004827",
+      "SourceId": null,
+      "Caption": "Tryghed i Greve Nord - Beboersammensætning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Plan- og Tryghedsudvalget.</div> <h3>Resume</h3> <div>Administrationen fremlægger i denne sag, hvilke lokalplaner (herunder byudviklingsprojekter) administrationen arbejder på i øjeblikket samt påtænker at igangsætte i 2022 og senere. </div> <h3>Indstilling</h3> <div><em>Center for Teknik & Miljø indstiller at udvalget beslutter den fremlagte prioritering af lokalplaner. </em></div> <h3>Sagsbeskrivelse</h3> <div>På Plan- og Tryghedsudvalgets møde den 8. februar 2022 besluttede udvalget den seneste prioritering af lokalplaner. Der fremlægges her en opdateret prioriteret liste over, hvilke lokalplaner administrationen arbejder med og forventer at igangsætte i 2022, og hvilke der ikke prioriteres i øjeblikket. </div> <div> </div> <div>Der foregår en del afklaring- og analysearbejde forud for lokalplanarbejdet. På den prioriterede liste figurerer der derfor lokalplaner fra de to kategorier: \"Igangværende lokalplaner\" (som er dem udvalget allerede har sat i gang) og \"Kommende lokalplaner\" (som er dem administrationen forbereder til igangsættelse). </div> <div> </div> <div>Planteamet har pt. vakante stillinger og kan derfor ikke operere med de vanlige 5-6 lokalplaner i proces på samme tid. Der er samtidig langt flere end 5-6 lokalplaner og det betyder, at nogle af lokalplanerne forventeligt tager over et år. </div> <div> </div> <div>Lige nu arbejder administrationen med følgende lokalplaner. </div> <table>     <tbody>         <tr>             <td style=\"\"> </td>             <td style=\"\"><strong>Lokalplan</strong></td>             <td style=\"\"><strong>Lokalplantype</strong></td>             <td style=\"\"><strong>Kategori</strong></td>             <td style=\"\"><strong>Status</strong></td>         </tr>         <tr>             <td style=\"\">1. </td>             <td style=\"\">Tværhøjgård etape 3</td>             <td style=\"\">A</td>             <td style=\"\">Igangværende</td>             <td style=\"\">Administrationen behandler pt. høringssvarene</td>         </tr>         <tr>             <td style=\"\">2.</td>             <td style=\"\">Vesterbjerg 42 i Greve Landsby</td>             <td style=\"\">A</td>             <td style=\"\">Igangværende</td>             <td style=\"\">Administrationen behandler pt. høringssvarene og er i dialog med bygherre</td>         </tr>         <tr>             <td style=\"\">3.</td>             <td style=\"\"><span>Plejecenter i Tune</span><br>             </td>             <td style=\"\"><span>B (forbundet med grundsalg)</span><br>             </td>             <td style=\"\"><span>Igangværende</span><br>             </td>             <td style=\"\">Lokalplanforslag er under udarbejdelse</td>         </tr>         <tr>             <td style=\"\">4.</td>             <td style=\"\">Kildebrøndevej 60</td>             <td style=\"\">A</td>             <td style=\"\">Igangværende<br>             </td>             <td style=\"\">Lokalplanforslag er under udarbejdelse</td>         </tr>         <tr>             <td style=\"\">5.</td>             <td style=\"\">Tune Vandværk</td>             <td style=\"\">B (forbundet med grundsalg)</td>             <td style=\"\">Kommende</td>             <td style=\"\">Igangsættelsessag forelægges PTU på september-mødet</td>         </tr>         <tr>             <td style=\"\">6.</td>             <td style=\"\">Ny daginstitution v. Greve Borgerhus</td>             <td style=\"\">B</td>             <td style=\"\">Igangværende</td>             <td style=\"\">Afklarings- og analysearbejde pågår</td>         </tr>         <tr>             <td style=\"\">7.</td>             <td style=\"\">Tværkommunalt samarbejde med principaftale for anlægslov langs kysten, Strandparken mv.</td>             <td style=\"\">B</td>             <td style=\"\">Kommende</td>             <td style=\"\">Afklaringsarbejde pågår i Plan- og Miljøteamet.</td>         </tr>         <tr>             <td style=\"\">8.</td>             <td style=\"\">Ny daginstitution - for Lunas Ark</td>             <td style=\"\">B</td>             <td style=\"\">Kommende</td>             <td style=\"\">Placeringsanalyse pågår</td>         </tr>         <tr>             <td style=\"\">9.</td>             <td style=\"\">Greve Distributions Center II (\"det indeklemte areal\")</td>             <td style=\"\">B             </td>             <td style=\"\">Igangværende </td>             <td style=\"\">Afklarings- og analysearbejde pågår til brug for ny helhedsplan</td>         </tr>         <tr>             <td style=\"\">10.</td>             <td style=\"\">Klimabassin til Klar Forsyning (matr.nr. 8lo Karlslunde By, Karlslunde)</td>             <td style=\"\">B (forbundet med grundsalg)</td>             <td style=\"\">Kommende</td>             <td style=\"\">Afklarings- og analysearbejde pågår frem med igangsættelse</td>         </tr>         <tr>             <td style=\"\">11.</td>             <td style=\"\">Børnene Jord - legeplads (Grundejerforeningen Mølletoften)</td>             <td style=\"\">B</td>             <td style=\"\">Igangværende</td>             <td style=\"\">Midlertidig dispensation udløber december 2024.</td>         </tr>     </tbody> </table> <div> </div> <div>Lokalplantype \"A\" er Byrådet forpligtiget til at udarbejde, da privates ønsker er i overensstemmelse med kommuneplanens rammer. Lokalplantype \"B\" fremmer en ønsket udvikling og \"C\" vil lette sagsbehandlingen og skabe større klarhed i et område. Se nærmere beskrivelse i bilaget. </div> <div> </div> <div>Siden udvalget besluttede prioriteringen af lokalplaner i februar 2022 har administrationen afsluttet lokalplanerne for daginstitution ved Hundige Strandby og Greve Vandværk. Desuden har lokalplanforslaget for henholdsvis Tværhøjgård etape 3 og Vesterbjerg 42 været i høring hen over foråret/sommeren, og administrationen behandler pt. høringssvarene. Samtidig er forslaget til den nye kommuneplan blevet sendt i høring, og forelægges til endelig vedtagelse i november 2022.</div> <div> </div> <div>Som oplyst tilbage i februar 2022 er der igangsat et tværkommunalt samarbejde mellem kommunerne i Strandparken samt Bolig- og Planstyrelsen om en principaftale for en evt. kommende anlægslov for udviklingen af Strandparken med videre. Arbejdet kræver en tværgående organisering og en række afklaringer af, hvilke udviklingsprojekter en eventuel anlægslov skal indeholde, koordinering af sikringsniveauer mellem kommunerne og samarbejde om sikringsmetoder. For at kommunerne kan realisere projekterne i en ny anlægslov, skal der tilsvarende arbejdes med en planlægning for at fastsætte de rammer, der skal muliggøre udviklingen. Der må derfor imødeses et stort udviklingsarbejde, som tilsidesætter andre større udviklingsprojekter i kommunen. Det tidligere Plan- og Udviklingsudvalget har derfor besluttet (november 2021), at udviklingsarbejdet med Greve Distributions Center II (\"det indeklemte areal\") forsættes ved en ekstern udvikler.  </div> <div> </div> <div><strong><em>Nye lokalplaner på listen</em></strong></div> <div>Der er kommet en ny lokalplan for \"Tune Vandværk\" på listen over \"kommende lokalplaner\". Administrationen har fået en henvendelse fra vandværket, der er interesseret i at købe et areal af kommunen for at kunne udbygge deres vandværk. Sagen om salg af grund til Tune Vandværk (herunder igangsættelsessagen) forelægges parallelt med denne sag. \"Ny daginstitution - for Lunas Ark\" er også en ny lokalplan under \"kommende lokalplaner\". Denne er sat på listen på trods af, at den afventer en forestående placeringsanalyse.  </div> <div> </div> <div>Den fremlagte liste er ikke et udtryk for den rækkefølge lokalplanerne kommer i, men er et nogenlunde udtryk for den rækkefølge, som administrationen prioriterer arbejdet med planerne i. </div> <div><strong> </strong></div> <div><strong>Øvrige lokalplaner</strong></div> <div>De \"øvrige lokalplaner\" er udtryk for de aktuelle ønsker til nye lokalplaner, men som ikke er prioriteret i øjeblikket. De fremgår af vedlagte bilag 1 over den samlede portefølje af lokalplaner. Her kan blandt andet nævnes Langagergård samt Greve Midtby, og der skal på sigt udarbejdes en ny lokalplan for Waves shoppingscenter, som ønsker opdateret rammer for centrets udviklingsmuligheder. </div> <h3>Lovgrundlag</h3> <div>Planloven. </div> <h3>Økonomiske konsekvenser</h3> <div>En række af lokalplanerne er forbundet med et kommunalt grundsalg. Gennemførelsen er disse har betydning for kommunens budget. </div> <h3>Øvrige konsekvenser</h3> <div>Arbejdet med de mange lokalplaner giver et træk på ressourcer på andre myndighedsområder (miljø, byg, vej og jura). Det gælder både de lokalplaner, der er igangsat, men også forarbejderne på de projekter, som ligger i kategorien \"kommende lokalplaner\". Der er også en række afledte sager, når der efterfølgende skal udstedes byggetilladelser, behandles vejadgange og gives tilladelser vedrørende f.eks. afledning af regn- og spildevand med videre i de nye lokalplaner. </div> <div> </div> <div>Det skal ses i sammenhæng med den høje byggeaktivitet både for kommunen selv, men også i kommunen helt generelt. Der er også igangsat et arbejde med den kommende planstrategi der skal udarbejdes i 2023.</div> <h3>Tidsplan</h3> <div>Lokalplanporteføljen fordelt i de tre kategorier (igangværende, kommende og øvrige) giver et øjebliksbillede af den nuværende rækkefølge. Forhold som bemanding, kompleksitet, omfang af indsigelser samt lokalplantype betyder, at prioriteringen hele tiden er dynamisk. </div> <div> </div> <div>Der er nødvendigt at prioritere, hvilke lokalplaner der skal udarbejdes først, da der er rigtig mange bygherrer som ønsker, at netop deres lokalplan bliver udarbejdet hurtigt. Det er helt almindeligt, at bygherrer udarbejder redegørelser, skitser, kortbilag, ønsker til bestemmelser med videre som en hjælp i forbindelse med lokalplanarbejdet. </div> <div> </div> <div>Det taget typisk 12 måneder at udarbejde en lokalplan inklusivt materialet fra bygherre, de politiske behandlinger og offentlige høringsprocesser. </div> <h3>Øvrige forhold</h3> <div>Enhedschef for Plan, Vej og Landskab, Maja Bagge Lillelund deltager på mødet. </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3ba418a4-b1f2-4116-a713-1a722574748f",
+          "DocumentId": "3ba418a4-b1f2-4116-a713-1a722574748f"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "19-011922K",
+      "Navn": "Prioritering af lokalplaner - september 2022",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - den samlede portefølje af lokalplaner (september 2022)",
+          "Id": "30c3ee7d-913a-4105-aa74-f51cd65699e8"
+        }
+      ],
+      "Documents": null,
+      "Id": "096ca058-f588-46e9-8ffd-7c083165ccfd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "19-011922K",
+      "SourceId": null,
+      "Caption": "Prioritering af lokalplaner - september 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>1. Anbefales.</div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003611",
+      "Navn": "Lukket: Salg af grund til Tune Vandværk",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "224418d5-3c4f-4d9b-93e9-b99942512234",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-003611",
+      "SourceId": null,
+      "Caption": "Lukket: Salg af grund til Tune Vandværk",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1.-4. Anbefales. </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3><span>Sagsprocedure</span></h3> </div> <div>Alle fagudvalg, Økonomiudvalget og Byrådet.</div> <div> </div> <div> <h3><span>Resume</span></h3> </div> <div>Som følge af stigende energipriser forventes der i 2022 pt. et merforbrug på ca. 17 mio. kr. på bygninger og 2,5 mio. kr. på vejbelysning. Merforbruget i 2022 er en stigning på 8,1 mio. kr. i forhold til det som var meldt ind i den første budgetopfølgning. Det endelige resultat og påvirkningen ind i 2023 er usikker, da priserne ændres og der  fra statens side arbejdes med strukturelle tiltag. Men det anbefales, at der arbejdes med at indføre forskellige tiltag for at reducere energiudgifterne i kommunen.  </div> <div> </div> <div> <h3><span>Indstilling</span></h3> </div> <div><em>Center for Teknik og Miljø indstiller,</em></div> <ol>     <li><em>at det godkendes at administrationen arbejder med vedhæftede katalog for energispare tiltag</em></li>     <li><em>at det tages til efterretning at administrationen har igangsat at der reguleres ned for varme og varmt vand til håndvask på kommunale bygninger</em></li>     <li><em>at det godkendes at regulering af varme og varmt vand også gælder bygninger som kommunen lejer og betaler tilskud til</em></li>     <li><em>at tiltag med markant forringelse af service for foreninger og borgere i kommunen, besluttes politisk i en opfølgende sag </em> </li> </ol> <div> </div> <div> <h3><span>Sagsbeskrivelse</span></h3> </div> <div>For at undgå stigninger i udgifter til forbruget på kommunale bygninger og bygninger, som får tilskud fra kommunen til at dække driftsudgifter, foreslås det, at der igangsættes en række tiltag for at reducere energiforbrug. For at tiltagene får effekt allerede i 2022 kræves det, at der tages beslutning hurtigst muligt, da bygningernes opvarmning igangsættes pr. 1. oktober. </div> <div> </div> <div>Administrationen vil derfor sideløbende med indeværende indstilling sende forslagene i høring hos MED udvalg for alle centre i kommunen, hvor forslagene vedrører medarbejdernes fysiske arbejdsmiljø. Høringen i MED vil samtidig igangsætte en dialog om, hvordan brugerne selv kan ændre deres adfærd, så der tænkes i energibesparende løsninger. Derudover vil der igangsættes en dialog med kultur og fritidsområdet om de forslag der konkret berører brugerne af idrætshaller og svømmehaller. </div> <div> </div> <div>Godkendes alle forslagene er det estimeret, at forslagene vil udgøre en effekt på ca. 1 mio. kr. i 2022 og ca. 5 mio. kr. i 2023. Administrationen tager dog forbehold for effekten af forslagene ud fra brugernes adfærd, stigning i energipriser og øvrige forhold der påvirker energiforbruget. </div> <div> </div> <div>Overordnet er der tale om følgende tiltag gældende for alle bygninger:</div> <div> </div> <div>1. Varmen for alle bygninger skrues ned fra 21 grader til 19-20 grader, som anbefalet af Energistyrelsen. Undtaget for dette er plejecentrene og botilbuddene, hvor beboerne er sårbare. Derudover vil det ikke have den store økonomiske effekt, da beboerne selv betaler for deres varmeregning for bolig og fællesareal, så kommunen kun betaler for varmen i servicearealerne. Arbejdstilsynets retningslinier for varme ved stillestående arbejde vurderes fortsat at være overholdt, da der som minimum skal være 18 grader ved stillestående arbejde men helst være mellem 20-22 grader. Det bemærkes at der blandt andet i Tyskland er fastsat regler om, at offentlige bygninger kun opvarmes til maksimalt 19 grader.  </div> <div> </div> <div>2. Sæsonen for opvarmning af bygninger mindskes med 1 måned svarende til to uger om efteråret og to uger om foråret. Normalt igangsættes opvarmningen af bygningerne omkring 1. oktober og standses senest 1.  maj. </div> <div> </div> <div>3. Ekstra fokus på at være energibevidst i dagligdagen. Dette tiltag vedrører, at brugerne selv er opmærksomme på deres energiforbrug, herunder at slukke lys, hvor dette ikke sker automatisk, slukke for pc'er, kaffemaskiner mv. </div> <div> </div> <div>4. Skrue ned for varmt brugsvand til håndvask mv. i alle bygninger. Dette skal dog vurderes ift. at sikre tilstrækkelige hygiejniske forhold. </div> <div> </div> <div>Derudover er der følgende tiltag som vedrører Rådhuset:</div> <div> </div> <div>5. Det undersøges om det er muligt at skrue ned for varmen på Rådhuset allerede torsdag aften, så der ikke er opvarmning på bygningen om fredagen, hvor de fleste arbejder hjemme og Borgerservice er lukket. Det vil stadig være muligt at være i bygningen om fredagen. </div> <div> </div> <div>Derudover er der følgende konkrete tiltag som vedrører kultur- og fritidsområdet:</div> <div> </div> <div>6. Svømmehallen - sænkelse af vandtemperatur i bassiner, begrænsning af driftstid for sauna, begrænse badetid, samt at begrænse temperaturen i badevandet ved omklædning. Alle forslag skal ses i sammenhæng med hvilken effekt, det vil have på svømmehallens indtjening. </div> <div> </div> <div>7. Generelt for idrætscentre og haller - skrue ned for temperatur i haller til 19-20 grader fra nuværende 21 grader, begrænse vandtemperatur i omklædning, slukke lys ved stadion og kunstgræsbaner. </div> <div> </div> <div>Derudover i der i kataloget et forslag om at reducere i forbrugsudgifterne ved at nedlukke enkelte ejendomme i perioder. Dette vil som udgangspunkt medføre, at der reduceres i åbningstider for skoler og borgerhuse i perioder med få brugere, hvilket oftest vil have betydning for foreningslivet og andre fritidsbrugere. Derfor vil det kræve en nærmere dialog for at vurdere om der er et potentiale i forhold til de bookinger der er på lokalerne, herunder om der er nogen muligheder for at  samle aktiviteter på færre bygninger.</div> <h3><span><strong>Lovgrundlag</strong></span></h3> <div>Opvarmning af bygninger skal følge Arbejdstilsynets vejledning om indretning af arbejdspladser. </div> <div> </div> <div> <h3><span>Økonomiske konsekvenser</span></h3> </div> <div>Hvis der ikke gøres noget for at reducere forbruget på de kommunale bygninger, samt bygninger kommunen giver forbrugstilskud til, kan der risikere at være et merforbrug på ca. 18 mio. kr. i 2022 og måske i samme størrelsesorden i 2023. De foreslåede tiltag forventes at have en effekt på ca. 1 mio. kr. i 2022 og ca. 5 mio. kr. i 2023. Dette er dog afhængig af energipriserne udvikling samt brugernes adfærd. </div> <div> </div> <div> <h3><span>Øvrige konsekvenser</span></h3> </div> <div>Tiltagene vil medføre en ændring i indeklimaet for alle brugerne af kommunens bygninger, og derved det fysiske arbejdsmiljø for medarbejderne. Det vil opleves meget forskelligt for brugerne dels fordi mennesker oplever temperaturer forskelligt, men også fordi bygningerne er af forskellig stand. Hvor der er utætte facader og/eller tag kan der være skruet op for varmen for at mindske bygningsskader, som opstår ved fugtdannelser, eller for at kompensere for træk eller anden kuldepåvirkning på brugerne. </div> <div> </div> <div>Nedreguleres vandtemperatur i brusere og svømmebassiner vil det medføre en mindsket komfort for brugerne, og eventuelt en mindsket brug. </div> <div> </div> <div>Nedreguleres vandtemperatur i almindeligt brugsvand vil det også medføre en mindsket komfort. Det skal undersøges om det kan give udfordringer ift. hygiejne og rengøring. </div> <div> </div> <div> <h3><span>Kommunikation</span></h3> </div> <div>Der sker en høring af MED udvalgene i kommunen om de foreslåede tiltag. Hvis der er konkrete tilfælde, hvor tiltagene ikke kan gennemføres, vil dette blive behandlet politisk.</div> <div> </div> <div>Hvor tiltaget betyder en markant servicereduktion for foreninger eller brugere vil beslutningen blive fremlagt til politisk beslutning. Det kunne f.eks. være lavere temperaturer i svømmehallen og slukket vejbelysning.</div> <div> </div> <div>Alle medarbejdere og brugere orienteres så vidt muligt om tiltagene og baggrunden, ligesom der laves en kampagne for at tænke i de generelle råd for energibesparelser, som i øvrigt også vil være gældende for de fleste i deres eget hjem.  </div> <div> </div> <div>Hvor bygningerne ikke ejes af kommunen gås i dialog med de foreninger kommunen har aftale med (herunder KIF, TIF og spejderforeningerne) om hvad der skal ske på bygningerne. Derudover gås i dialog med Greve Boligselskab som ejer nogen af de bygninger, hvor kommunen har daginstitutioner, samt private udlejere blandt andet i Greve Main. </div> <div> </div> <div> <h3><span>Tidsplan</span></h3> </div> <div>Tiltagene gennemføres så hurtigt som muligt for at få den ønskede effekt. Varmen kan de fleste steder reguleres med det samme da kommunen har bygningsautomatiske systemer (såkaldt CTS), hvor indstillinger sker på en computer. Hvor der skal reguleres manuelt kan der dog gå længere tid. </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>12-09-2022 Beskæftigelses- og Erhvervsudvalget</u><br>\r <div>1.-4. Anbefales</div><br>\r \r <u>12-09-2022 Sundheds- og Omsorgsudvalget</u><br>\r <div>1. Godkendt med bemærkning at opmærksomhed på de svageste ældre fx Legionella. </div> <div>2. Punktet blev taget til efterretning</div> <div>3. Godkendt</div> <div>4. Punktet blev taget til efterretning</div> <div> </div> <div>Seniorrådets bemærkning blev taget til efterretning.</div><br>\r \r <u>12-09-2022 Social- og Handicapudvalget</u><br>\r <div>1.-4. Anbefales</div><br>\r \r <u>13-09-2022 Skole-, Børne- og Ungeudvalget</u><br>\r <div> </div> <div>1.-4. Anbefales.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/236327cd-8525-42d1-b03c-e01511fd51a4",
+          "DocumentId": "236327cd-8525-42d1-b03c-e01511fd51a4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011409",
+      "Navn": "Tiltag på energi som følge af stigende energipriser",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Indsatser som følge af øget energipriser",
+          "Id": "4f2e0738-9073-453c-8a5a-5c95a7ef6cb9"
+        }
+      ],
+      "Documents": null,
+      "Id": "096aa374-aa34-4b5f-bca2-5a76055e0453",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "22-011409",
+      "SourceId": null,
+      "Caption": "Tiltag på energi som følge af stigende energipriser",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Drøftet.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><b>Sagsprocedure</b></h3> <div>Alle fagudvalg.</div> <h3><b>Resume</b></h3> <div>Med denne sag ønskes en evaluering af introduktionsforløbet for Byrådet 2022-2025, så eventuelle justeringer til opstart af nyt Byråd ved næste valgperiode kan indarbejdes.</div> <h3><b>Indstilling</b></h3> <div><i>Administrationen indstiller, at introduktionsforløbet for Byrådet 2022-2025 drøftes.</i></div> <h3><b>Sagsbeskrivelse</b></h3> <div>For at klæde først de nye kandidater og siden det nyvalgte Byråd på til byrådsopgaven, har administrationen afholdt et onboarding-forløb, som er defineret ved de aktiviteter og informationer, der er gennemført og givet for at understøtte, at Byrådet kommer godt fra start. Udover introduktion til roller, rammerne og regler ift. byrådsarbejdet og samarbejdet med administrationen har der været lagt vægt på at danne et godt fundament for samarbejde, opbygning af relationer og en fælles retning i byrådet samt en grundig introduktion til fagområderne.</div> <div> </div> <div>Spørgsmål til drøftelse:</div> <ul>     <li style=\"\">Har vægtningen mellem det faglige og sociale indhold været passende?</li>     <li style=\"\">Har I fået de informationer, I havde brug for, på de rigtige tidspunkter?</li>     <li style=\"\">Har I fået tilstrækkelig information og hjælp til it-systemer og it-pakke?</li>     <li style=\"\">Var der elementer i forløbet, I kunne have ønsket jer anderledes?</li>     <li style=\"\">Hvordan er den samlede oplevelse af introduktionsforløbet?</li> </ul> <div> </div> <div>Nedenfor følger en oversigt over forløbets hovedelementer:</div> <ul>     <li style=\"\">Informationsmøde for kandidater den 21. september 2021</li>     <li style=\"\">Udlevering og intro til it-pakke og -programmer 29. november 2021</li>     <li style=\"\">Konstituerende møde i byrådet og fagudvalgene 1. december 2021</li>     <li style=\"\">1. intro-møde/julemøde + fotografering den 14. december 2021</li>     <li style=\"\">2. intro-møde den 24. januar 2022</li>     <li style=\"\">Kattegatkursus v. Komponent 20.-22. januar og 10.-13. marts 2022</li>     <li style=\"\">Kommunalpolitisk Topmøde i Aalborg 17.-19. marts 2022</li>     <li style=\"\">Budget- og visions-seminar 4.-5. marts 2022</li>     <li style=\"\">Samarbejdet mellem udvalgsformand og direktør v. Komponent 20.-21. maj 2022</li>     <li style=\"\">Temamøder og besøg i marken som led i introduktionsforløbet til fagområderne fra januar 2022</li>     <li style=\"\">Online-webinarer om regnskab 2021, befolkningsprognoser, centrale begreber ift. budgetlægning, budgetopfølgning, marts-maj 2022.</li> </ul> <div> </div> <div>Materiale til understøttelse af byrådsarbejdet:</div> <ul>     <li style=\"\">Det politiske arbejde i kommunalbestyrelse og udvalg, KL</li>     <li style=\"\">Kend din kommune, KL</li>     <li style=\"\">It-sikkerhed og databeskyttelse for byrådsmedlemmer, Greve Kommune</li>     <li style=\"\">Vejledning til Min Kørsel, Greve Kommune </li>     <li style=\"\">ABC for medlemmer af byrådet, Greve Kommune</li>     <li style=\"\">Administrationsgrundlag, Greve Kommune</li>     <li style=\"\">Delegationsplan, Greve Kommune</li> </ul> <h3><b>Økonomiske konsekvenser</b></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>12-09-2022 Beskæftigelses- og Erhvervsudvalget</u><br>\r <div>Udvalget evaluerede opstarten med følgende bemærkninger; </div> <ul>     <li>Grundigt introduktionsforløb</li>     <li>Udvalgsintroduktionen på fagudvalgsmøderne har været god</li>     <li>Opmærksomhed på, at der er kommet mange møder til og der skal findes en bedre balance </li>     <li>Særligt marts måned var for tæt pakket med lokale møder samt KL-møder </li>     <li>Der er udviklingspotentiale for Byrådets budget- og visionsseminar</li> </ul><br>\r \r <u>12-09-2022 Sundheds- og Omsorgsudvalget</u><br>\r <div>Sagen blev drøftet.</div><br>\r \r <u>12-09-2022 Social- og Handicapudvalget</u><br>\r <div>Udvalget evaluerede opstarten med følgende hovedpointer:</div> <ul>     <li>Det har været en rigtig god introduktion og det takker udvalget for </li>     <li>Ønske om at sociale arrangementer prioriteres for at lære hinanden at kende</li>     <li>God introduktion via Kattegat-kursus og KL- arrangementer </li>     <li>Ønske om mere introduktion til råd og udvalg, eksempelvis Handicapråd</li>     <li>Ønske om mere introduktion til organisationsstrukturen og hvad man som byrådsmedlemmer kan og må bruge administrationen til </li>     <li>Særligt godt med introduktion til kommunaløkonomi samt introduktion til begreber og arbejdsgange</li>     <li>Ros fra nye byrådsmedlemmer til de erfarne byrådsmedlemmer for hjælp og støtte</li>     <li>Ønske om at afholde et fiktivt byrådsmøde i forbindelse med det konstituerende møde således, at det er afprøvet inden første formelle byrådsmøde i det nye år.</li> </ul> <div> </div><br>\r \r <u>13-09-2022 Skole-, Børne- og Ungeudvalget</u><br>\r <div>Udvalget behandlede sagen med følgende bemærkninger</div> <ul>     <li>En god introduktion i såvel fagudvalg, som byråd</li>     <li>At der ønskes endnu mere fokus på sociale arrangementer i byrådet, eksempelvis i form af et socialt årshjul for byrådet </li>     <li>At nye byrådsmedlemmer ved opstart af byrådsperioden får tildelt en erfaren ”buddymakker” i byrådet, som man kan søge råd og vejledning hos.</li> </ul><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6757f2b1-c863-42e7-9459-0f08fb434c49",
+          "DocumentId": "6757f2b1-c863-42e7-9459-0f08fb434c49"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-007839",
+      "Navn": "Evaluering af opstart og onboarding af nyt Byråd 2022-2025",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "20006526-c4a3-45fe-b2bf-5fecdaf12219",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "22-007839",
+      "SourceId": null,
+      "Caption": "Evaluering af opstart og onboarding af nyt Byråd 2022-2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Der var intet at orientere om.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Plan- og Tryghedsudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/beb91ee8-316a-48f3-9919-cc4516821eac",
+          "DocumentId": "beb91ee8-316a-48f3-9919-cc4516821eac"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003659",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "7c6a5761-6acc-4ae3-84c5-61d76b8ab487",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "22-003659",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringerne blev taget til efterretning.  </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Plan- og Tryghedsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen orienterer om følgende:</div> <div><strong> </strong></div> <div><strong>Tryghedsvandring i Askerød og Gudekvartererne</strong><br> Der blev holdt tryghedsvandring den 29. august kl. 16-18 med deltagelse af:</div> <ul>     <li>Sekretariatsleder for Greve-Nord projektet</li>     <li>En repræsentant fra Natteravnene</li>     <li>En formand for Heimdals Kvarteret</li>     <li>En repræsentant for Seniorrådet</li>     <li>To elevrepræsentanter fra Arenaskolen<br>     To elevrepræsentanter for Greve Privatskole</li>     <li>Tre deltagere fra administrationen i Greve Kommune</li> </ul> <div> </div> <div>Deltagerne gik rundt i hele området ved Askerød og Gudekvartererne og besøgte alle de steder, der blev nævnt på stormødet sidste år, som enten utrygge (en stjernemarkering) eller trygge (et hjerte).</div> <div> </div> <div>Det fremmødte havde grundlæggende ikke en oplevelse af området som utrygt. Elevrepræsentanterne oplyste dog, at de unge ved mørkets frembrud prøver at undgå tunneller, mindre og dårligt oplyste stier, uoplyste og tæt bevoksede områder og steder, hvor der ikke færdes andre mennesker. De nævnte også stationsområdet – der dog ikke var en del af ruten – kan opleves som utrygt og påpegede at etablering af nærpoliti var rigtig godt. </div> <div> </div> <div> På baggrund af input fra deltagerne i vandringen handler de mest oplagte initiativer om: </div> <ul>     <li>vejbelysningen, herunder afklaring af hvem der ejer belysning</li>     <li>beskæring af buske og træer bl.a. omkring tunneller og belysningsarmaturer</li>     <li>bemaling og lyssætning i tunneller</li>     <li>trafiksikkerhed/utryghed ved krydset Hundigevej, Thors Kvarter og Hedelunden</li> </ul> <div> </div> <div>Der vil nu blive foretaget en opsamling af indtryk fra mødet som forelægges Klima-, Teknik og Miljøudvalget til prioritering inden for den afsatte ramme til konkrete tiltag, jf. sag om proces for tryghedsvandring i Greve Nord 31. maj 2022. </div> <div> </div> <div><strong>Ansøgning om del i den statslige udgiftsramme til fornyelse af bymidter</strong></div> <div>Administrationen påtænker at søge om del i den statslige udgiftsramme til fornyelse af bymidter.</div> <div> </div> <div>Som en del af finansloven 2022 er der bevilliget 24,2 mio. kroner til fornyelse af bymidter. Kommuner med byer med mellem 4.000 og 20.000 indbyggere samt fire ø-kommuner er berettiget til at søge, hvilket vil sige, at udgiftsrammen til fornyelse af bymidter kan anvendes på 124 byer i landet, herunder Tune. </div> <div> </div> <div>Bevillingen kan bruges til områdefornyelse, bygningsfornyelse af private udlejningsboliger, bygningsfornyelse af ejerboliger og andelsboliger, bygningsfornyelse af erhverv (herunder nedrivning af erhvervsbygninger), opkøb af nedslidte ejendomme med henblik på istandsættelse eller nedrivning, forbedring af friarealer, midlertidig og permanent genhusning samt kondemnering af sundheds- og brandfarlige boliger.</div> <div> </div> <div>Den enkelte kommune får andel i den samlede udgiftsramme via en objektiv fordelingsnøgle udarbejdet af Bolig- og Planstyrelsen. De primære kriterie forventes at være</div> <div> </div> <div>1) bygningsmassens stand i bymidten, dvs. alderen på bygningerne samt hvor lang tid bygningerne har stået tomme jf. CVR-registeret.</div> <div> </div> <div>Herefter kigges på de øvrige kriterier som </div> <div>2) om kommunen har negativ befolkningsudvikling, </div> <div> </div> <div>3) om indkomstniveauet ligger under landsgennemsnittet, </div> <div> </div> <div>4) andelen af tomme boliger i byen og </div> <div> </div> <div>5) negativ udvikling i antallet af årsværk inden for detailhandel i byen . </div> <div> </div> <div>Desuden ønskes der geografisk spredning, så byer i hele landet får gavn af rammen. </div> <div> </div> <div>Selv om Greve Kommune og Tune ikke passer ind i alle kriterier kan der alligevel være en chance som følge af ønsket om geografisk spredning.</div> <div> </div> <div>Den tildelte statslige udgiftsramme til fornyelse af bymidter skal anvendes af kommunen som udgangspunkt senest 24 måneder fra tildelingen. <br> <br> </div> <div>Ansøgningsfristen er 1. oktober 2022. <br> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a275f212-e4b8-4220-a912-a2346b53b0b5",
+          "DocumentId": "a275f212-e4b8-4220-a912-a2346b53b0b5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003655",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e84b0b29-d91a-47e5-911b-e6f134fcd88e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "22-003655",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Plan- og Tryghedsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Plan- og Tryghedsudvalgets møder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Kalenderen er vedlagt som bilag.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e71c8500-e85d-4238-af9c-de9e63779ba3",
+          "DocumentId": "e71c8500-e85d-4238-af9c-de9e63779ba3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003652",
+      "Navn": "Plan- og Tryghedsudvalgets kalender 2022",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Plan- og Tryghedsudvalgets kalender 2022",
+          "Id": "cb6c8065-52dd-431b-8d92-f8e7815a5629"
+        }
+      ],
+      "Documents": null,
+      "Id": "6d43ebb9-947c-4264-a50c-410774c9a9ac",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "22-003652",
+      "SourceId": null,
+      "Caption": "Plan- og Tryghedsudvalgets kalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Plan- og Tryghedsudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/91205137-2e92-498a-b9d2-f2f57a7396ca",
+          "DocumentId": "91205137-2e92-498a-b9d2-f2f57a7396ca"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003657",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9236f500-af58-4542-80a7-a9df0355e865",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "d473258e-d893-4d0f-8975-3ea078260dc5",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "22-003657",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "4177b34e-2db6-4652-a0e0-075bb7a88efa",
+    "Navn": "Plan- og Tryghedsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-09-13T16:45:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-09-13T16:45:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "d473258e-d893-4d0f-8975-3ea078260dc5",
+  "Lydfiler": null
+}

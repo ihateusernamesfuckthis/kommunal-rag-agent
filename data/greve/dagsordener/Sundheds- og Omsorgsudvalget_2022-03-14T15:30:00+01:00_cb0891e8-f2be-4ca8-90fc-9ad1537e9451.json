@@ -1,0 +1,532 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt med bemærkning om at sag nr. 3 tages af dagsordenen.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Godkendelse af dagsorden for mødet den 14. marts 2022.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes. </em></div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r Godkendt med bemærkning om at sag nr. 3 tages af dagsordenen.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/06839c61-ee81-448d-9e8a-e6f3916b6566",
+          "DocumentId": "06839c61-ee81-448d-9e8a-e6f3916b6566"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014445",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a8b41b65-5c37-49f0-9327-f851321e8d73",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014445",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "a8b41b65-5c37-49f0-9327-f851321e8d73"
+        },
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "a8b41b65-5c37-49f0-9327-f851321e8d73"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Sundheds- og Omsorgsudvalget besøger Greve Kommunes plejecentre, hjemmeplejegrupper og Greve Kommunes Træningsenhed. Efter rundvisning og oplæg afholder udvalget sit ordinære møde på Nældebjerg Plejecenter. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning.</em></div> <h3><em></em><span>Sagsbeskrivelse</span></h3> <div>Tidsplan for rundtur og efterfølgende møde i Sundheds- og Omsorgsudvalget: </div> <table>     <tbody>         <tr>             <td>Tid </td>             <td>Punkt</td>         </tr>         <tr>             <td>12.00 - 13.00</td>             <td>             <div>Rundvisning:</div>             <div> Strandcentret Plejecenter v. gruppeleder </div>             <div>Hjemmepleje Hundige Nord v. områdeleder Anette Pedersen. </div>             <div>Begge besøg på Frydenhøj Allé 100, 2670 Greve</div>             </td>         </tr>         <tr>             <td><em>5 min.</em></td>             <td><em>Transport til Greve Videnscenter og Træningsenheden </em></td>         </tr>         <tr>             <td>13.10 - 13.45</td>             <td>Rundvisning i Træningsenheden v. Benedicte Rostock</td>         </tr>         <tr>             <td><em>10 min.</em></td>             <td><em>Transport til Lokalcenter Møllehøj, Møllehaven 2, 2690 Karlslunde</em></td>         </tr>         <tr>             <td>14.00-14.45</td>             <td>             <div>Rundvisning:</div>             <div> Lokalcentret Møllehøj v. plejecenterleder Tatjana Frimurer</div>             <div>Hjemmepleje Karlslunde Landsby & Møllehøjs daghjem v. områdeleder Madelene Eriksen </div>             </td>         </tr>         <tr>             <td><em>10 min.</em></td>             <td><em>Transport til Nældebjerg Plejecenter, Rådhusholmen 8, 2670 Greve</em></td>         </tr>         <tr>             <td> 15.00 - 15.30</td>             <td>Rundvisning og oplæg: Kompetencecenter for demens, Nældebjerg Plejecenter v. Plejecenterleder Marianne Mouritsen Jensen </td>         </tr>         <tr>             <td>15.30 - 16.55</td>             <td>             <div>Ordinært møde i Sundheds- og Omsorgsudvalget </div>             <div>Mødelokale på Nældebjerg inkl. kaffe mv.</div>             </td>         </tr>     </tbody> </table> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <div> </div> <div> </div> <h3></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1b6d2a0e-5ed3-425c-a688-77a79d2b22f1",
+          "DocumentId": "1b6d2a0e-5ed3-425c-a688-77a79d2b22f1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002874",
+      "Navn": "Introduktion til ældreområdet 2022",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Oplæg - Introduktion til ældreområdet",
+          "Id": "bf3f3d52-2bc0-4d3c-96f9-35b30343a19f"
+        }
+      ],
+      "Documents": null,
+      "Id": "d16ebd28-02e0-4246-a23e-a0f01961d982",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-002874",
+      "SourceId": null,
+      "Caption": "Introduktion til ældreområdet 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "d16ebd28-02e0-4246-a23e-a0f01961d982"
+        },
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "d16ebd28-02e0-4246-a23e-a0f01961d982"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Sagen blev taget af dagsordenen.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>Der er i regnskab 2021 to institutioner samt Sygeplejen under Sundheds- og Omsorgsudvalget med et merforbrug inden for En Pose Penge (EPP) på mere end 2 % af det korrigerede budget, og der skal derfor forelægges handleplaner til politisk behandling.</div> <h3>Indstilling</h3> <div><em>Center for Økonomi & HR indstiller, at handleplanerne for plejecentrene Strandcentret og Møllehøj samt Sygeplejen godkendes.</em></div> <h3>Sagsbeskrivelse</h3> <div>Overførselsreglerne omhandler, hvorvidt og hvordan mer- og mindreforbrug i et regnskabsår overføres ved en tilsvarende ned- eller opskrivning af budgettet til det efterfølgende regnskabsår. Reglerne er primært udformet med henblik på at understøtte både den økonomiske ansvarlighed og det økonomiske råderum hos de budgetansvarlige ledere.</div> <div> </div> <div>På de to plejecentre Strandcentret og Møllehøj samt på Sygeplejen under Sundheds- og Omsorgsudvalget er der i regnskab 2021 et merforbrug inden for En Pose Penge (EPP) på mere end 2 % af det korrigerede budget. Overførselsreglerne tilsiger her, at der skal forelægges handleplaner i fagudvalget til politisk godkendelse. Handleplanerne skal kun behandles og godkendes i Sundheds- og Omsorgsudvalget.</div> <div> </div> <div>Det er ikke administrationens vurdering, at merforbruget på Sygeplejen kan nedbringes under de givne omstændigheder, hvor Greve Kommune, i lighed med andre kommuner, oplever en opgaveglidning fra sygehusene til kommunerne med den konsekvens, at hjemmesygeplejen varetager flere behandlingsopgaver end tidligere. Derfor arbejder Center for Sundhed og Pleje i regi af sundhedssamarbejdet målrettet med at sikre, at der generelt foreligger aftaler om opgaveoverdragelse og finansiering med sygehuset og regionen. Hertil har der i nogen tid været en sundhedsreform på vej, som skal skabe sammenhæng og nærhed i behandlingen af borgerne i det nære sundhedsvæsen i kommunerne.</div> <div> </div> <div>Administrationen vil i forbindelse med budgetprocessen for 2023-26 komme med forslag til tilpasning af hjemmesygeplejens budgetramme med henblik på at imødegå det pres på opgaverne, som opleves i dag.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser i sig selv, idet de bevillingsmæssige konsekvenser håndteres i den generelle overførselssag, der blev behandlet af Økonomiudvalget den 28. februar og Byrådet den 7. marts.</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r Sagen blev taget af dagsordenen.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d85c965a-64b5-4140-a555-1fdcfbf380f2",
+          "DocumentId": "d85c965a-64b5-4140-a555-1fdcfbf380f2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-000228",
+      "Navn": "Politiske handleplaner regnskab 2021 - godkendelse i fagudvalg",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handleplan Sygeplejen",
+          "Id": "2196906e-efe3-4578-be39-05b39a658f40"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handleplan Strandcentret",
+          "Id": "775abe5f-5abf-4eab-86d5-ed51ca350bdc"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handleplan Møllehøj",
+          "Id": "09cc568b-65db-4b09-824b-ac022a291edb"
+        }
+      ],
+      "Documents": null,
+      "Id": "4b056697-689f-4334-aa4d-7ae412e2a209",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-000228",
+      "SourceId": null,
+      "Caption": "Politiske handleplaner regnskab 2021 - godkendelse i fagudvalg",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "4b056697-689f-4334-aa4d-7ae412e2a209"
+        },
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "4b056697-689f-4334-aa4d-7ae412e2a209"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>I sagen orienteres Sundheds- og Omsorgsudvalget om årsrapporternes konklusioner for henholdsvis magtanvendelser, utilsigtede hændelser og klager i ældreplejen i 2021. Herunder orienteres om hvilke fokusområder Center for Sundhed & Pleje har valgt at have særligt fokus på i 2022 på baggrund af årsrapporternes konklusioner.</div> <h3>Indstilling</h3> <div><em>Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Sundheds- og Omsorgsudvalget skal ifølge lov om social service forelægges en årlig orientering om magtanvendelser. Derfor udarbejdes der en årsrapport, der præsenterer antallet og typen af magtanvendelser fra det forgangene år. For at sikre løbende kvalitetsudvikling og læring hos medarbejdere og ledere i ældreplejen, bliver der derudover udarbejdet årsrapporter om utilsigtede hændelser og klager. Disse tre årsrapporter skal ikke forveksles med de uanmeldte tilsyn, som fører kontrol med, at borgerne får den pleje og hjælp, de er berettiget til.</div> <div> </div> <div><i>Årsrapport om magtanvendelser i 2021</i><br> Årsrapporten viser, at der i 2021 er 18 registreringer af magtanvendelser fordelt på i alt seks forskellige borgere. Fem af borgerne bor i plejebolig, og en har opholdt sig på rehabiliteringscentret Hedebo. Antallet af magtanvendelser har siden 2018 ligget på samme niveau.</div> <div> </div> <div>Magtanvendelser sker, når personalet udøver omsorg med anvendelse af magt. Magtanvendelse er kun en mulighed, hvis det viser sig umuligt at løse situationen med en socialpædagogisk indsats og andre mindre ind­gribende indsatser. Understøttelse af den enkeltes muligheder og beskyttelse af den personlige frihed er dermed altid udgangspunktet og fun­damentet for indsatsen.</div> <div> </div> <div>Den 1. januar 2020 trådte der nye regler om magtanvendelse og andre indgreb i selvbestemmelsesretten i kraft. Det betyder blandt andet, at typerne af magtanvendelser nu er delt op i tre kategorier, så det er muligt at skelne imellem borgere med eller uden en demenssygdom. Opgørelsen over magtanvendelser viser, at med undtagelse af to borgere, udføres magtanvendelser på borgere med en demenssygdom. Magtanvendelserne sker hovedsageligt i situationer, hvor borgeren fastholdes i forbindelse med personlig hygiejne.</div> <div> </div> <div>Der gøres meget for at undgå at bruge magtanvendelse på borgerne. Principperne i <i>personcentreret omsorg </i>anvendes fortsat som metode til at nedbringe antallet af magtanvendelser, og der er tværfaglig sparring med demenskoordinatorerne. I 2021 har 75 medarbejdere og ledere i Center for Sundhed & Pleje, herunder demensambassadørerne, deltaget i et undervisningsforløb omhandlende de nye retningslinjer fra Sundhedsstyrelsen om magtanvendelse.</div> <div> </div> <div><i>Årsrapport om utilsigtede hændelser i 2021</i><br> Formålet med årsrapporten er at identificere risikoområder gennem de rapporterede utilsigtede hændelser. Årsrapporten viser, at der fra 2020 til 2021 er sket et fald fra 1477 til 1101 rapporteringer. Antallet af utilsigtede hændelser afspejler antallet som medarbejderne har rapporteret. Alvorlighedsgraden af de rapporterede utilsigtede hændelser, viser at cirka 86 % af de utilsigtede hændelser ikke medfører skade for borgeren. Cirka 7 % har medført milde skader, og 5 % har medført moderat skade. De utilsigtede hændelser omhandler i cirka 72 % af tilfældene fejl i medicinering og dernæst cirka 8 % fald. Den store andel af medicinfejl har medført, at der fortsat vil blive kigget på de kvalitetsprocedurer, der omhandler medicinområdet og de arbejdsgange, der er omkring det, at borgerne skal have den rigtige medicin på det rigtige tidspunkt.</div> <div> </div> <div><i>Årsrapport om klager i 2021</i><br> Formålet med årsrapporten er at identificere mønstre og tendenser i klagesagerne fra 2021 med henblik på læring. Årsrapporten viser, at der både i 2020 og 2021 er registreret 73 klager. Når der modtages en klage, er det Myndigheden, som registrerer hvor alvorlig klagen er, eller hvor stor bekymring der er for, at det, der skete, kunne ske. Af de fem alvorlige klager er de to klager sket hos Altiden, to på Nældebjerg Plejecenter og én på Langagergård.</div> <div> </div> <div>De to største kategorier for klager er ’Leverandør Personale’ og ’Leverandørydelser’. Klagerne i kategorien ’Leverandør Personale’ er borgere, der klager over en personalets ageren. Klagerne under ’Leverandørydelser’ omhandler utilfredshed over udførelsen af en tildelt ydelse. Nogle af disse kunne have været undgået ved en bedre dokumentation i omsorgssystemet.</div> <div> </div> <div>Viden om klagesager indgår altid som læring hos den, eller de leverandører, som klagen vedrører. Når der kommer en klage, bliver leverandøren bedt om at give en redegørelse og udarbejde en handleplan.</div> <div> </div> <div>Opfølgningen og den fremadrettede handleplan fremgår af risikostyringsrapporten for 2022, der samler viden fra klagesager, utilsigtede hændelser, magtanvendelser og andre mindre lokale undersøgelser.</div> <div> </div> <div><i>Fokusområder i 2022</i><br> Center for Sundhed & Pleje har på baggrund af de samlede konklusioner i årsrapporterne besluttet nedenstående fokusområder i 2022. Prioriteringen er foretaget med udgangspunkt i en vurdering af, hvor alvorligt og hyppigt hændelser forekommer.</div> <ul>     <li style=\"\"><i>Medicinering:</i> Årsrapporten for utilsigtede hændelser i 2021 viser, at fejl i medicinhåndtering er den hyppigste årsag til utilsigtede hændelser. Center for Sundhed & Pleje fortsætter programmet ”I sikre hænder”, hvor målet er at reducere medicinfejl.</li>     <li style=\"\"><i>Den sundhedsfaglige dokumentation:</i> I november 2018 overgik Center for Sundhed & Pleje til at dokumentere efter en ny metode kaldet \"Fælles Sprog 3\", der ændrer dokumentationspraksis radikalt. Samtidig blev omssorgssystemet udskiftet til KMD Nexus, da det tidligere KMD Care ikke understøtter \"Fælles Sprog 3\". I årsrapporterne er der fundet fejl, som kunne have været undgået, hvis retningslinjerne for dokumentationspraksis var fulgt. Dokumentationspraksis skal derfor fortsat være i fokus i forhold til at nedbringe antallet af fejl, for derved at sikre patientsikkerheden. I 2022 arbejdes der derfor fortsat med at forbedre den sundhedsfaglige dokumentation.</li> </ul> <h3><span>Lovgrundlag</span></h3> <div>Lov om retssikkerhed, lov om sundhed, lov om social service. </div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6aa666e6-97bc-49d7-ad95-a389e0a65cf2",
+          "DocumentId": "6aa666e6-97bc-49d7-ad95-a389e0a65cf2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002380",
+      "Navn": "Faglig risikostyring i Center for Sundhed & Pleje i 2022",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - risikostyring 2022",
+          "Id": "27068ad5-ce01-4cdd-931b-2852c5a523d2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - UTH - årsrapport 2021",
+          "Id": "204fe748-e90e-425a-a314-2a50ac51bcd8"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - klager - årsrapport 2021",
+          "Id": "ece9d9f1-0bab-4553-aec9-5beb39588c57"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - magtanvendelse - årsrapport 2021",
+          "Id": "8a899ef0-2168-4f26-852c-fa0c9cad856f"
+        }
+      ],
+      "Documents": null,
+      "Id": "629267b1-77f8-402d-b737-eca819927bd5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-002380",
+      "SourceId": null,
+      "Caption": "Faglig risikostyring i Center for Sundhed & Pleje i 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "629267b1-77f8-402d-b737-eca819927bd5"
+        },
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "629267b1-77f8-402d-b737-eca819927bd5"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016092",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "523b09b4-13a6-4588-b6b4-07231b6f5954",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-016092",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "523b09b4-13a6-4588-b6b4-07231b6f5954"
+        },
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "523b09b4-13a6-4588-b6b4-07231b6f5954"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><span> <div><i><br> </i></div> </span></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/44e7d2aa-3033-45e5-bd9a-de14507c1ff5",
+          "DocumentId": "44e7d2aa-3033-45e5-bd9a-de14507c1ff5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014447",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "59d847ff-c9c5-4337-b382-f32d35ccfc04",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-014447",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "59d847ff-c9c5-4337-b382-f32d35ccfc04"
+        },
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "59d847ff-c9c5-4337-b382-f32d35ccfc04"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen orienterer om: </div> <div>  </div> <h3><span> <div> </div> </span></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1bf7795b-edbc-4a6c-bc0c-4dba5447a273",
+          "DocumentId": "1bf7795b-edbc-4a6c-bc0c-4dba5447a273"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014441",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b3d36975-398b-417a-892e-47390ff209b6",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014441",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b3d36975-398b-417a-892e-47390ff209b6"
+        },
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b3d36975-398b-417a-892e-47390ff209b6"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Sundheds- og Omsorgsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> </div> Sundheds- og Omsorgsudvalgets kalender er vedlagt.</span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1818a730-d162-453e-80ce-322fcb484323",
+          "DocumentId": "1818a730-d162-453e-80ce-322fcb484323"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014442",
+      "Navn": "Sundheds- og Omsorgsudvalget - mødekalender 2022",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Sundheds- og Omsorgsudvalgets kalender 2022",
+          "Id": "d059721b-023e-4f22-94df-d4718aa962e5"
+        }
+      ],
+      "Documents": null,
+      "Id": "3a50e912-6596-462f-93e2-ee990bcdfcb4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014442",
+      "SourceId": null,
+      "Caption": "Sundheds- og Omsorgsudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Lone Mortensen",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "3a50e912-6596-462f-93e2-ee990bcdfcb4"
+        },
+        {
+          "Name": "Charlotte Levin",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "3a50e912-6596-462f-93e2-ee990bcdfcb4"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget.</div> <h3><span>Resume</span></h3> <div>Elektronisk underskriftsark.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>14-03-2022 Sundheds- og Omsorgsudvalget 2022</u><br>\r  <br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4414a0fe-47f2-482f-ae43-62696e8dc5fa",
+          "DocumentId": "4414a0fe-47f2-482f-ae43-62696e8dc5fa"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014446",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "ed5ec9ca-f105-4751-b72e-fd2f9dcff906",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-014446",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "f586054c-50bb-40ac-8b4f-6c32307eb77f",
+    "Navn": "Sundheds- og Omsorgsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-03-14T15:30:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-03-14T15:30:00+01:00",
+    "Sted": "Nældebjerg Plejecenter",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "cb0891e8-f2be-4ca8-90fc-9ad1537e9451",
+  "Lydfiler": null
+}

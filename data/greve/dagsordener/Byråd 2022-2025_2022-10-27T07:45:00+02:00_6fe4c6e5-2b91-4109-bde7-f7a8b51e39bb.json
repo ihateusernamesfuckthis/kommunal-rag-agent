@@ -1,0 +1,393 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Dagsordenen blev godkendt.</p><br><br>Fraværende: Mehmet Zeki Dogru, Claus Dyremose, Linda Heegaard, Bjarke Abel, Anne Marie Lyduch</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Byrådet.</p>\n<h2><span>Resume</span></h2>\n<p>Godkendelse af dagsorden for ekstraordinært møde den 27. oktober 2022.</p>\n<h2><span>Indstilling</span></h2>\n<p><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes.</em></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5a1510ec-5021-4596-af5e-2e04fe72e630",
+          "DocumentId": "5a1510ec-5021-4596-af5e-2e04fe72e630"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014420",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "89553fb4-f90b-4ef6-8cea-449d1da75749",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6fe4c6e5-2b91-4109-bde7-f7a8b51e39bb",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014420",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Anne Marie Lyduch",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "89553fb4-f90b-4ef6-8cea-449d1da75749"
+        },
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "89553fb4-f90b-4ef6-8cea-449d1da75749"
+        },
+        {
+          "Name": "Linda Heegaard",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "89553fb4-f90b-4ef6-8cea-449d1da75749"
+        },
+        {
+          "Name": "Claus Dyremose",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "89553fb4-f90b-4ef6-8cea-449d1da75749"
+        },
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "89553fb4-f90b-4ef6-8cea-449d1da75749"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Byrådet godkendte Økonomiudvalgets indstilling.</p><br><br>Fraværende: Anne Marie Lyduch, Mehmet Zeki Dogru, Linda Heegaard, Claus Dyremose, Bjarke Abel</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>Sagsprocedure</h2>\n<p>Økonomiudvalget og Byrådet.</p>\n<h2>Resume</h2>\n<p>Greve Kommune skal have ny direktør. Stillingen har været igennem to ansættelsesrunder. Ansættelsesudvalget har afholdt første samtaler den 16. september 2022. Der har været afholdt ny runde af første samtaler  den 11. oktober og anden samtaler den 26. oktober. </p>\n<p> </p>\n<p>Økonomiudvalget skal godkende ansættelsesudvalgets indstilling, som herefter sendes til Byrådet til godkendelse. Indstilling om valg af kandidat forelægges på selve mødet.</p>\n<h2>Indstilling</h2>\n<p><em>Borgmesteren indstiller, at Økonomiudvalget godkender og herefter overfor Byrådet indstiller, </em></p>\n<ol>\n    <li>\n    <p><em>at den af ansættelsesudvalgets foreslåede kandidat tilbydes ansættelse som direktør i Greve Kommune pr. 1. december 2022</em></p>\n    </li>\n    <li>\n    <p><em>at Borgmesteren bemyndiges til at forhandle de endelige løn- og ansættelsesvilkår, idet det bemærkes at dette sker inden for rammerne af rammeaftalen om kontraktansættelse og chefaftalen</em></p>\n    </li>\n    <li>\n    <p><em>at offentliggørelse om ansættelse sker efter aftale med den nye direktør</em></p>\n    </li>\n</ol>\n<h2>Økonomiske konsekvenser</h2>\n<p>Der vil være økonomiske konsekvenser i form af lønudgifter til ny direktør, som er præciseret i ansættelsespapiret. </p>\n<h2>Kommunikation</h2>\n<p>Der udarbejdes pressemeddelelse, og offentliggørelse sker efter aftale med den nye direktør.</p>\n</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>27-10-2022 Økonomiudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">Notat med ansættelsesudvalgets indstilling og beskrivelse af løn- og ansættelsesvilkår, herunder opsigelsesvarsel blev udleveret på mødet. </p>\n<p class=\"paragraph\"> </p>\n<p> Økonomiudvalget anbefaler overfor Byrådet at ansættelsesudvalgets indstilling godkendes med den præcisering, at forhandling af løn- og ansættelsesvilkår sker inden for rammerne af det udleverede notat om løn- og ansættelsesvilkår, herunder opsigelsesvarsel samt at tiltrædelse sker hurtigst muligt og med afsæt i den kommende direktørs nuværende opsigelsesvarsel.</p>\n<p> </p><br>\r\n<br>Fraværende: Mehmet Zeki Dogru\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/79f793ac-a63e-43eb-9a75-5484351bafa4",
+          "DocumentId": "79f793ac-a63e-43eb-9a75-5484351bafa4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-008924",
+      "Navn": "Indstilling om ansættelse af direktør",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b99f0fcd-2bb9-464b-b039-3799077722bd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6fe4c6e5-2b91-4109-bde7-f7a8b51e39bb",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-008924",
+      "SourceId": null,
+      "Caption": "Indstilling om ansættelse af direktør",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Anne Marie Lyduch",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b99f0fcd-2bb9-464b-b039-3799077722bd"
+        },
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b99f0fcd-2bb9-464b-b039-3799077722bd"
+        },
+        {
+          "Name": "Linda Heegaard",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b99f0fcd-2bb9-464b-b039-3799077722bd"
+        },
+        {
+          "Name": "Claus Dyremose",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b99f0fcd-2bb9-464b-b039-3799077722bd"
+        },
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b99f0fcd-2bb9-464b-b039-3799077722bd"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Byrådet godkendte administrationens indstilling.</p><br><br>Fraværende: Linda Heegaard, Bjarke Abel, Mehmet Zeki Dogru, Anne Marie Lyduch, Claus Dyremose</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p><span>Byrådet.</span></p>\n<h2><span>Resume</span></h2>\n<p>Den 5. september 2022 godkendte byrådet, at medlem af byrådet Heidi Serny Jacobsen (A) fik orlov i perioden fra den 2. september 2022 til den 5. november 2022, idet hun var forhindret i at varetage sine kommunale hverv. Heidi Serny Jacobsen (A) har den 10. oktober 2022 fremsendt meddelelse til borgmesteren om, at hun ønsker at forlænge sin orlov med yderligere fire måneder. Byrådet skal i medfør af Kommunestyrelsesloven § 15, stk. 4 godkende årsagen til orlov og at betingelserne for fortsat at indkalde stedfortræderen er til stede. </p>\n<h2><strong>Indstilling</strong></h2>\n<p><em></em></p>\n<p><em>Center for Politik, Organisation & Borgerbetjening indstiller, at Byrådet</em></p>\n<ol>\n    <li><em>godkender, at Heidi Serny Jacobsen (A) fritages for at varetage sine kommunale hverv i yderligere fire måneder i perioden fra den 5. november 2022 til den 5. marts 2023.</em></li>\n    <li><em>tager til efterretning, at Kenneth Jerkel (A) derfor fortsætter som stedfortræder for Heidi Serny Jacobsen (A).</em></li>\n    <li><em>tager til efterretning, at Kenneth Jerkel (A) derfor fortsætter som medlem af Plan- og Tryghedsudvalget, som medlem af Beskæftigelses- og Erhvervsudvalget, som medlem af Handicapudvalget og endelig som suppleant for Bjarke Abel (A) i valgbestyrelsen for Folketingsvalg.</em></li>\n</ol>\n<h2><span>Sagsbeskrivelse</span></h2>\n<p>Center for Politik, Organisation & Borgerbetjening har den 10. oktober 2022 via borgmesteren fået meddelelse om, at Heidi Serny Jacobsen (A) ønsker at forlænge sin orlov med yderligere fire måneder. Den 5. september 2022 godkendte byrådet, at Heidi Serny Jacobsen (A) havde lovligt forfald, og at hun fik orlov i perioden fra den 2. september 2022 til den 5. november 2022. Der henvises til vedlagte bilag vedrørende årsagen til det lovlige forfald. </p>\n<p> </p>\n<p>Ifølge Kommunestyrelseslovens § 15, stk. 2 skal der indkaldes en stedfortræder for et byrådsmedlem, som i en forventet periode af mindst 1 måned er forhindret i at varetage sine kommunale hverv. </p>\n<p><span> </span></p>\n<p><span>Byrådet skal ifølge styrelseslovens § 15, stk. 4, træffe beslutning om, hvorvidt betingelserne for stedfortræderens indtræden er til stede. Byrådet skal herved tage stilling til, om der foreligger lovligt forfald, om dette berettiger til indkaldelse af stedfortræder, samt om stedfortræderen er rette stedfortræder og valgbar. </span></p>\n<p><span> </span></p>\n<p><span>Administrationen kan i den forbindelse oplyse, at årsagen til Heidi Serny Jacobsens forfald er lovligt forfald. Administrationen kan endvidere oplyse, at det følger af styrelseslovens § 15, stk. 2, at borgmesteren har pligt til at sikre, at der bliver indkaldt en stedfortræder. Når Heidi Serny Jacobsen (A) igen kan varetage sit hvert, udtræder stedfortræderen af byrådet igen. Endelig skal administrationen oplyse, at Kenneth Jerkel (A) fortsat er rette stedfortræder og er valgbar.</span></p>\n<h2><span>Lovgrundlag</span></h2>\n<p>Styrelsesloven.</p>\n<h2><span>Økonomiske konsekvenser</span></h2>\n<p>Heidi Serny Jacobsen (A) oppebærer sædvanligt vederlag under sit fravær i op til ni måneder. Stedfortræderen vil oppebære et forholdsmæssigt vederlag for at være medlem af Byrådet og fagudvalg.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7a42925b-8b6b-4aab-949a-e2112bc83d67",
+          "DocumentId": "7a42925b-8b6b-4aab-949a-e2112bc83d67"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-011388",
+      "Navn": "Godkendelse af ansøgning om forlængelse af orlov",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "35c85d3d-3272-4455-8681-fda9c31c91ca",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6fe4c6e5-2b91-4109-bde7-f7a8b51e39bb",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-011388",
+      "SourceId": null,
+      "Caption": "Godkendelse af ansøgning om forlængelse af orlov",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Linda Heegaard",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "35c85d3d-3272-4455-8681-fda9c31c91ca"
+        },
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "35c85d3d-3272-4455-8681-fda9c31c91ca"
+        },
+        {
+          "Name": "Mehmet Zeki Dogru",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "35c85d3d-3272-4455-8681-fda9c31c91ca"
+        },
+        {
+          "Name": "Anne Marie Lyduch",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "35c85d3d-3272-4455-8681-fda9c31c91ca"
+        },
+        {
+          "Name": "Claus Dyremose",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "35c85d3d-3272-4455-8681-fda9c31c91ca"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Byrådet.</p>\n<h2><span>Resume</span></h2>\n<p>Elektronisk underskriftsark. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e6eee1f6-2fa5-42b2-95fa-a3bcbedc08f8",
+          "DocumentId": "e6eee1f6-2fa5-42b2-95fa-a3bcbedc08f8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013699",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "94a13db7-18f5-4698-ae33-eb1948e52338",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6fe4c6e5-2b91-4109-bde7-f7a8b51e39bb",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-013699",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "bb801e8b-777b-401c-8224-2be3a973fb1b",
+    "Navn": "Byråd 2022-2025",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-10-27T07:45:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-10-27T07:45:00+02:00",
+    "Sted": "Byrådssalen",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Morten Dahlin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "6fe4c6e5-2b91-4109-bde7-f7a8b51e39bb",
+  "Lydfiler": null
+}

@@ -1,0 +1,400 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt.</div> <div> </div> <br> <br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 26. april 2022. </div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/dc44bea0-b568-4361-b8ef-dde48f3087be",
+          "DocumentId": "dc44bea0-b568-4361-b8ef-dde48f3087be"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014470",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "dcfa3765-5186-4765-8289-7632e7bebb15",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014470",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Taget til efterretning.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3><span>Sagsprocedure</span></h3> <div><span>Skole-, Børne- og Ungeudvalget</span></div> <h3>Resume</h3> <div><span>Administrationen introducerer </span><span>Skole-, Børne- og Ungevalget</span><span> til </span><span>U</span><span>ngecentret og den kommunale ungeindsats i Greve Kommune. </span></div> <h3>Indstilling</h3> <div><span>Center for </span><span>Job & Socialservice</span><span> indstiller</span><span>,</span><span> at orienteringen tages til efterretning.</span></div> <h3>Sagsbeskrivelse</h3> <div><span>På mødet bliver udvalget introduceret </span><span>til Ungecentret og organisering af den kommunale ungeindsats (KUI) i Greve Kommune</span><span>. Introduktionen handler i hovedtræk om:</span></div> <div> </div> <ul>     <li><span>Indsatser for unge</span></li>     <li><span>Overgange</span><span> efter folkeskolen</span></li>     <li><span>Tendenser og udvikling på området</span></li> </ul> <h3>Lovgrundlag</h3> <div><span>Lov om kommunale </span><span>indsat for unge under 25 år.</span></div> <div><span> </span></div> <div><span>Lov om social service</span><span>.</span></div> <div><span> </span></div> <div><span>Lov om aktiv beskæftigelsesindsats</span><span>.</span></div> <div><span> </span></div> <div><span>Lov </span><span>om aktiv socialpolitik</span><span>.</span></div> <h3>Økonomiske konsekvenser</h3> <div><span>Sagen har ingen økonomiske konsekvenser</span><span>.</span></div> <h3>Øvrige forhold</h3> <div><span>Helle Thorning, Leder i Ungecent</span><span>ret</span><span>, Center for Job & Socialservice deltager under punktet.</span></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1259eb1b-a086-4e57-9d29-05bf2670022c",
+          "DocumentId": "1259eb1b-a086-4e57-9d29-05bf2670022c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004796",
+      "Navn": "Introduktion af Ungecentret og den kommunale ungeindsats i Greve Kommune",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Introduktion af Ungecentret - Skole- Børne og Ungdomsudvalget den 26.04.22",
+          "Id": "df4764e9-e4a6-4bd8-a9de-193e7f45a669"
+        }
+      ],
+      "Documents": null,
+      "Id": "c9ed3fa5-8ddd-40bf-bcdc-598e3aab2829",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-004796",
+      "SourceId": null,
+      "Caption": "Introduktion af Ungecentret og den kommunale ungeindsats i Greve Kommune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Forslagene 1-4 indstilles godkendt.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole- Børne- og Ungeudvalget, Økonomiudvalget og Byrådet </div> <h3><span>Resume</span></h3> <div>Takster for Bugtskolen SFO og Havana SFO er gennem en årrække beregnet ud fra forkert juridisk vurdering. Denne sag belyser problemstillingen og udvalget skal tage stilling til fremgangsmåde for korrektion af tidligere års takster samt håndtering af økonomiske konsekvenser. </div> <h3><span>Indstilling</span></h3> </div> <div> <div><em>Center for Børn & Familier og Center for Dagtilbud & Skoler indstiller;</em></div> <ol>     <li><em>at der sker tilbagebetaling til de berørte forældre i overensstemmelse med den indhentede juridiske rådgivning</em></li>     <li><em>at forældelsesfristen suspenderes med virkning fra 31. maj 2022, således forældelsesfristen i alle tilfælde vil være 3 år tilbage derfra</em></li>     <li><i>at de samlede økonomiske konsekvenser af tilbagebetalingen og de afledte omkostninger bliver endeligt opgjort og indarbejdet i forventet regnskab for 2022</i></li>     <li><i>at der fremlægges en sag på førstkommende møde i Økonomiudvalget med fastsættelse af de fremadrettede takster </i></li> </ol> </div> <div> <h3><span>Sagsbeskrivelse</span></h3> <div>I forbindelse med budgetforhandlingerne for 2011-2014, fremlagde administrationen et effektiviseringsforslag, hvor taksterne for forældrebetaling blev forslået hævet for de såkaldte §20, stk. 2 SFO-pladser. Administrationen lagde på det tidspunkt til grund for anbefalingen, at det var muligt at hæve taksten for §20, stk. 2 SFO-pladser og samtidig fortsat yde 50 % tilskud til pladsen hvorved den faktiske forældrebetaling for forældre til børn med vidtgående fysiske eller psykiske handicap blev svarende til forældrebetalingen for ordinære SFO-pladser. Taksterne for Bugtskolen SFO og Havana SFO blev fastsat. Forslaget trådte i kraft i januar 2012. Taksterne er herefter årligt genberegnet ud fra den samme forudsætning om at der var lovhjemmel til at fastsætte taksten som anført. Af bilag 1 fremgår beregningsforslaget i det oprindelige effektiviseringsforslag lige som byrådets beslutning ligeledes fremgår af bilag 1.</div> <div> </div> <div>Takster skal generelt beregnes og opkræves med rette lovhjemmel og kommunen skal føre tilsyn med dette. Alle takster gennemgås som minimum én gang om året i forbindelse med budgetprocessen og vedtagelsen af takstbladet. Der gælder forskellige regler for forskellige typer af takster, herunder hvad der indgår i takstgrundlaget og eventuelle maksimumgrænser.</div> <div> </div> <div>Den lovpligtige revision omfatter løbende forvaltningsrevision, og det er i de faglige standarder for forvaltningsrevision fastlagt, at revisionen som en del af den samlede revisionsproces over en 5-års periode skal gennemgå en række fast definerede emner, herunder revision af kommunens takstberegninger. På den baggrund er følgende sket i revisionsmæssig sammenhæng;</div> <div> </div> <ul>     <li>Ifm. Regnskab 2017 gennemførte revisionen kontrol af takstberegning og opkrævning vedr. daginstitutioner (vuggestue og børnehave) og dagplejer. Derudover blev forretningsgangene fra indmeldelse af barnet til fakturering for den faktiske ydelse gennemgået. I forbindelse med gennemgangen blev der set på de faktorer, der har indflydelse på takstopkrævningen som fx søskenderabat, friplads, institutioner med og uden madordning. <br>     Revisionen gav ikke anledning til væsentlige bemærkninger.</li>     <li>Ifm. Regnskab 2021 er der foretaget gennemgang af kommunens udarbejdede omkostningstakster for institutioner, som er omfattet af lov om socialtilsyn. Herunder overholdelse af bekendtgørelse nr. 1017 om finansiering af visse ydelser og tilbud efter lov om social service, samt regler omkring efterregulering af over-/underskud i §§ 3-7.</li> </ul> <div> </div> <div>De pågældende takster i denne sag, altså takster vedr. SFO tilbud på Bugtskolen og i Havana, har således ikke været underlagt revisionens gennemgang. Alle kommunens takster vil blive gennemgået af såvel forvaltning som revisionen frem mod den kommende budgetproces.</div> <div> </div> <div>Som følge af et øget ledelsesmæssigt fokus på området blev administrationen i 2021 opmærksom på, at der potentielt er foretaget en forkert vurdering af hjemmelsgrundlaget for beregning af taksterne. Derfor afsøgte administrationen praksis i andre kommuner. Eksempelvis blev der indhentet erfaring og viden fra Gentofte Kommune, som tidligere har haft en lignende sag med fejlagtig opkrævning af takster i relation til samme tilbud. På den baggrund valgte administrationen at indhente rådgivning fra Kommunernes Landsforening (KL) og eksterne advokater som har juridisk ekspertise på området. Se bilag 2.</div> <div> </div> <div>Af omtalte juridiske vurdering fremgår, at metoden til takstfastsættelse skal ændres. Det eksterne advokathus vurderer, at der ikke er hjemmel til at indføre differentieret takst mellem de særlige §20 stk. 2 SFO pladser og ordinære SFO pladser. Det vurderes at der ikke er tilstrækkelig saglig begrundelse for differentieringen af taksterne (se bilag 2 side 10).</div> <div> </div> <div>På den baggrund anmodede administrationen om en juridisk vurdering af tilbagebetalingsforpligtigelse og modtog i februar 2022 en tilbagemelding herpå (bilag 3). Det eksterne advokatbureau konkluderer, at Greve Kommune er forpligtet til at tilbagebetale differencen mellem den i 2012 fastsatte takst og den korrekte takstfastsættelse, samt at dette bør ske med en forældelsesfrist på 3 år jf. forældelseslovens §3, stk. 1. Administrationen indstiller derfor at der sker tilbagebetaling.  </div> <div> </div> <div>Af den juridiske vurdering fremgår det endvidere, at forældelsesfristen pågår løbende, hvorfor forældelsesfristen som udgangspunkt gør, at der skal ske tilbagebetaling 3 år tilbage fra tidspunktet for tilbagebetaling. Forældelsesfristen løber derfor fortsat. Af den eksterne juridiske rådgivning fremgår det endvidere at det vil være i strid med princippet om forbud mod at yde kommunal støtte til enkeltpersoner, at beslutte at tilbagebetale i sager, hvor tilbagebetalingskravet er forældet. Det er altså ikke muligt at tilbagebetale for hele perioden tilbage til 2012 (bilag 3, side 5). Det er ligeledes beskrevet i det juridiske notat, at der efter endelig beslutning af tilbagebetaling kan ske suspension af forældelsesfristen. Det betyder, at det kan besluttes, at forældelsesfristen suspenderes. Det vil sige at denne sættes i bero pr. en specifik dato, hvorfra der skal tilbagebetales 3 år tilbage fra den dato og i perioden frem til der reelt sker tilbagebetaling. Administrationen indstiller, at forældelsesfristen suspenderes med virkning fra den 31. maj 2022, således at forældelsesfristen i alle tilfælde vil være 3 år fra denne dato. </div> <div> <em></em></div> <div>I lyset af den aktuelle sag vil alle takster blive underlagt en skærpet kontrol i forbindelse med budget 2023. Der er taget kontakt til revisionen med henblik på en fuld gennemgang af alle takster. Jf ovenstående har tidligere revision af området ikke opdaget fejlen hvorfor administrationen vil drøfte med revisionen hvordan det sikres at den nye gennemgang ligeledes vurderer det juridiske hjemmelsgrundlag for alle takster i tilstrækkeligt omfang.</div> <div> </div> <div>Endelig skal det bemærkes, at der fremlægges en særskilt sag på førstkommende møde i Økonomiudvalget med fastsættelse af de fremadrettede takster. </div> <h3>Lovgrundlag</h3> Folkeskoleloven og Dagtilbudsloven.<br> <h3>Økonomiske konsekvenser</h3> <div>Det er foreløbigt estimeret, at de økonomiske konsekvenser for en tilbagebetaling vil kunne beløbe sig til et spændingsfelt mellem 1,3 mio. og 2,5 mio. Det relativt store økonomiske spænd i den foreløbige vurdering skyldes forholdene omkring friplads. Skønnet på 1,3 mio. kr. sker ud fra, at alle børn har friplads. Det maksimale skøn på 2,5 mio. kr. sker ud fra, at ingen børn har friplads. Beløbets størrelse afhænger således af, hvor mange børn der har/har haft fripladser. Det er væsentligt at gøre opmærksom på, at der er tale om foreløbige estimater og skøn.</div> <div> </div> <div>Efter endt politisk behandling og stillingtagen vil administrationen iværksætte beregning af tilbagebetaling. Der vil sandsynligvis være behov for ekstern bistand til at foretage beregningerne af tilbagebetalingerne og der vil være ekstra udgifter forbundet med dette. Der er cirka 1750 individuelle beregninger der skal foretages og processen skal ske manuelt. Denne udgift estimeres til maksimalt at udgøre 100.000 kr. plus moms.</div> <div> </div> <div>Ligeledes er der udgifter forbundet med de juridiske vurderinger der er fortaget af Horten. Dette beløber sig til ca. 110.000 kr. plus moms.</div> <div> </div> <div>De samlede økonomiske konsekvenser af tilbagebetalingen og de afledte omkostninger vil blive endeligt opgjort og indarbejdet i de forventede regnskaber for 2022.</div> <h3><span>Kommunikation</span></h3> <div>Sagen vil blive sendt til Handicaprådets møde den 21. april 2022 og rådets bemærkninger vil blive vedlagt sagen.</div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7e27f4ae-11f0-4cd4-8cc3-d5b9b6976af4",
+          "DocumentId": "7e27f4ae-11f0-4cd4-8cc3-d5b9b6976af4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-011591",
+      "Navn": "Forældrebetaling på Bugtskolen SFO og Havana SFO",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Effektiviseringsforslag og beslutning fra Byrådet",
+          "Id": "b47b6202-3349-4556-8a9b-25cddf458da2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Endeligt notat fra Horten Advokatselskab, Fase 1",
+          "Id": "15dd3fe2-32e4-4def-b3df-19fd3a1dba2f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Endeligt notat fra Horten Advokatselskab, Fase 2",
+          "Id": "18e7b9b1-16b6-4b7e-8c8c-e402173b1770"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Handicaprådet referat 21.04.22",
+          "Id": "f8623f8b-b6cc-485c-9799-0156bff7e413"
+        }
+      ],
+      "Documents": null,
+      "Id": "7e5c11c7-5c02-4f1d-ba6c-885b1fe104df",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-011591",
+      "SourceId": null,
+      "Caption": "Forældrebetaling på Bugtskolen SFO og Havana SFO",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget, Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3>Resume</h3> <div>I denne sag orienteres udvalgene om udbud af totalentreprise-opgaven vedr. udbygning af idrætsfaciliteter ved Karlslunde Idrætsforeninger. </div> <h3>Indstilling</h3> <div><em>Center for Teknik & Miljø indstiller, at orienteringen tages til efterretning.  </em></div> <h3>Sagsbeskrivelse</h3> <div>Byrådet godkendte den 7. marts 2022 byggeprogram for udbygning af idrætsfaciliteter samt revideret tidsplan for projektet. Administrationen blev bemyndiget til at godkende valg af totalentreprenør i henhold til udbudskriterierne og at anlægsbevillingen blev frigivet.</div> <div> </div> <div>Forinden byrådsmødet (dvs. medio februar 2022) var de fire højest prioriterede totalentreprenører blevet spurgt, om de ville være interesseret i at afgive tilbud.</div> <div> </div> <div>Umiddelbart efter byrådsmødet gik udbudsprocessen i gang, og de 4 interesserede totalentreprenører fik tilsendt byggeprogrammet.</div> <div> </div> <div>Alle fire totalentreprenører og to efterfølgende prioriterede totalentreprenører har siden meddelt, at de ikke ser sig i stand til at afgive tilbud på projektet. Totalentreprenørerne begrunder deres afslag med, at de med den seneste udvikling i materialepriser samt leverancevanskeligheder, ikke ser sig i stand til at kunne udarbejde et projektforslag inden for den udbudte pris.</div> <div> </div> <div>Styregruppen for udbygning af idrætsfaciliteter - der består af Karlslunde Idrætsforening, Strandskolen og Greve Kommune - har sammen med bygherrerådgiver drøftet situationen, og besluttet at udsætte udbudsprocessen i seks måneder hvorefter der tages stilling til, om markedet er stabiliseret i en grad, så udbudsprocessen kan genoptages.</div> <div> </div> <div>Strandskolen og Karlslunde Idrætsforening drøfter nu hvordan kapacitetsudnyttelsen på tværs af både Karlslunde Idrætsforening og Strandskolen kan optimeres yderligere, så undervisning i idræt og afvikling af foreningsidræt fortsat kan varetages med så få gener som muligt. Endvidere undersøger Administrationen mulige kortsigtede løsninger på Strandskolens bygninger, samt hvilke dele af byggeprogrammet der evt. kan nedskaleres med færrest mulige konsekvenser. Dette med henblik på at kunne forberede et genudbud, i en situation hvor det nuværende prisniveau er uændret.</div> <div> </div> <div>Administrationen vender tilbage til udvalgene i efteråret 2022 med orientering om plan for genudbud.</div> <h3>Økonomiske konsekvenser</h3> <div>Udsættelse af udbud af udbygning af idrætsfaciliteter ved Karlslunde Idrætsforening vil have konsekvens for anvendelse af anlægsrammen.</div> <h3>Kommunikation</h3> <div>Forældre på Strandskolen og brugere af Karlslunde Idrætsforening orienteres om udsættelse af udbuddet.</div> <h3>Tidsplan</h3> <div>Administrationen vender i efteråret 2022 tilbage til udvalgene med ny tidsplan.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6aa36175-d25e-4fa6-a5f4-f3ea30d653aa",
+          "DocumentId": "6aa36175-d25e-4fa6-a5f4-f3ea30d653aa"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-072985K",
+      "Navn": "Orientering om udsættelse af udbud af udbygning af idrætsfaciliteter ved Karlslunde Idrætscenter",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9b70dea4-fcf3-4ee4-adc0-80b7789aebef",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "20-072985K",
+      "SourceId": null,
+      "Caption": "Orientering om udsættelse af udbud af udbygning af idrætsfaciliteter ved Karlslunde Idrætscenter",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Orienteringen blev taget til efterretning.</div> <div> </div> <div>Udvalget foreslog et temamøde i de relevante fagudvalg.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Sundheds- og Omsorgsudvalget og Skole-, Børne- og Ungevalget.</div> <h3>Resume</h3> <div>I sagen orienteres om offentliggørelse af resultatet af Sundhedsprofil 2021, der er en landsdækkende undersøgelse af danskernes trivsel, sundhed og sygdom. Sundhedsprofil 2021 viser en positiv udvikling inden for rygning, hvor andelen af rygere er faldet, samt et lavere alkoholforbrug. På andre områder går udviklingen den forkerte vej, andelen af borgere med overvægt er stigende, og den mentale trivsel er faldende, særligt blandt de unge.</div> <h3>Indstilling</h3> <div><i>Center for Sundhed & Pleje indstiller, at orienteringen tages til efterretning. </i></div> <h3>Sagsbeskrivelse</h3> <div>Sundhedsprofilen er en undersøgelse der gennemføres hver 4 år, er tidligere blevet gennemført i 2010, 2013 og i 2017.</div> <div> </div> <div>Sundhedsprofilen gennemføres som en spørgeskemaundersøgelse, i 2021 blev 180.000 tilfældigt udvalgte borgere i alderen 16 år og derover i hele Danmark udvalgt til at deltage, de fik link til spørgeskema tilsendt i deres eBoks. I Greve Kommune deltog 1.175 borgere i undersøgelsen, i Region Sjælland deltog ca. 19.000 borgere.</div> <div> </div> <div>Det er regionerne, Sundhedsstyrelsen og Statens Institut for Folkesundhed, der har gennemført undersøgelsen på baggrund af en aftale mellem Danske Regioner, KL, Sundhedsministeriet samt Finansministeriet.</div> <div> </div> <div>I Sundhedsprofilen afdækkes danskernes sundhed inden for ti kategorier: Helbred og trivsel, langvarig sygdom og multisygdom, sociale relationer og ensomhed, kost, vægt, rygning, alkohol og euforiserende stoffer, fysisk aktivitet og stilsiddende arbejder, søvn, sundhedskompetence og digital parathed.</div> <div> </div> <div>Der har siden den sidste undersøgelse været en række positive udviklinger:</div> <ul>     <li>Andelen af daglige rygere er faldet. I Region Sjælland er andelen faldet fra 18,6 % i 2017 til 16,1 % i 2021. I Greve Kommune har udviklingen været mere markant i det der har været et fald fra 15,1 % i 2017 til 10,1 %. Greve Kommune er således den kommune i regionen, der har det laveste antal daglige rygere. Andelen af borgere der bruger e-cigaretter er 2,6 %, og 1,6 % bruger snus eller lignende dagligt.</li> </ul> <div> </div> <ul>     <li>Andelen af unge rygere i aldersgruppen 16-24 år er faldet fra 18,7 % i 2017 til 11,4 % i 2021 (Region Sjælland).</li> </ul> <div> </div> <ul>     <li>Alkoholforbruget er generelt faldet. Andel der drikker mere end Sundhedsstyrelsens nye genstandsgrænse på ti genstande er faldet fra 17,8 % i 2017 til 15,6 % i 2021. Her ligger Greve Kommune højere en de øvrige kommuner i regionen med en andel på 18,7 %. For de unge fra 16-24 år er andelen 16,6 % i hele regionen.</li> </ul> <div> </div> <ul>     <li>     <div>Der er andre områder, hvor udviklingen ikke har været positiv:</div>     </li> </ul> <div> </div> <ul>     <li>Den mentale trivsel er faldet, særligt udtalt blandt de unge og kvinder. F.eks. er andelen af de 16-24-årige der føler sig tilfredse med livet er faldet fra 72,3 % i 2017 til 59,8 % i 2021. Det markante fald kan dog skyldes Covid-19, undersøgelsen blev gennemført i starten af 2021, hvor store dele af samfundet var lukket ned, det har påvirket mange unge ift. deres udfoldelsesmuligheder.</li> </ul> <div> </div> <ul>     <li>Forekomsten af borgere der føler sig stresset, er steget markant i aldersgruppen 16-24 år til 43 % mod 35 % i 2017.</li> </ul> <div> </div> <ul>     <li>Andelen af borgere der føler sig ensomme er steget fra 8,6 % i 2017 til 12,7 % i 2021 i Greve Kommune er udviklingen gået fra 6,7 % i 2017 til 10,3 % i 2021.</li> </ul> <div> </div> <ul>     <li>Andelen af overvægtige er steget. I 2021 er andelen af overvægtige steget til 58 %, heraf er 22 % svært overvægtige i Greve Kommune er det 18 %.</li> </ul> <div> </div> <ul>     <li>Andelen af borgere med et usundt kostmønster er steget fra 16,6 % i 2017 til 18,9 % i 2021.</li> </ul> <div> </div> <ul>     <li>Andelen af borgere med langvarig sygdom, multisygdom og på de opgjorte enkelte sygdomsområder er steget. Blandt andet er forekomsten af diabetes steget fra 6,5 % i 2017 til 7 % i 2021. Forekomst af KOL er steget fra 5,3 % i 2017 til 6,2 % i 2021.</li> </ul> <div> </div> <div>Sundhedsprofilen viser at der har været en positiv udvikling inden for rygning og alkohol, men at der er stigende problemer med den mentale trivsel, særligt blandt de unge, samt en stigning i andelen af borgere der er overvægtige og svært overvægtige. Det forventes at den stigende overvægt, vil medføre en øget sygdomsbyrde med blandt højere forekomst at diabetes og hjertekarsygdomme.</div> <h3>Økonomiske konsekvenser</h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>25-04-2022 Sundheds- og Omsorgsudvalget</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4c618a02-9bdc-4e65-aa7d-4a01f9fc8c25",
+          "DocumentId": "4c618a02-9bdc-4e65-aa7d-4a01f9fc8c25"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004515",
+      "Navn": "Orientering om Sundhedsprofilen 2021",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Sundhedsprofilen 2021",
+          "Id": "296f9cd6-0704-41aa-9445-32267e0e5ed4"
+        }
+      ],
+      "Documents": null,
+      "Id": "bddf51e4-d2d1-4baa-bb2f-7b5b94cb4cf2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "22-004515",
+      "SourceId": null,
+      "Caption": "Orientering om Sundhedsprofilen 2021",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget ønsker, at der skal fremlægges en sag om muligheder for og konsekvenser af udvidet brug af søskendegaranti i forbindelse med skoleindskrivning</div> <div><i> </i></div> <div>Formanden oplyste, at der planlægges besøg i udvalgte daginstitutioner med henblik på en dialog om dagligdagen i dagtilbud. Alle udvalgsmedlemmer får mulighed for at deltage i besøgene. </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget</div> <h3><span>Resume</span></h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle punkter.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle ændringer tages til efterretning.</em></div> <div><em> </em></div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cc828f31-2dd6-4f8f-9231-0d01c85a7e34",
+          "DocumentId": "cc828f31-2dd6-4f8f-9231-0d01c85a7e34"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014467",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "14330120-7899-4ebe-a4d1-8e91d49e752d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-014467",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Administrationen orienterede om udfaldet af årets skoleindskrivning, og erfaringerne heraf.  </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></div> <h3>Sagsfremstilling</h3> <div><span>Administrationen orienterer om følgende:</span></div> <div><span> </span></div> <div><strong>- Status<em> </em><span>for skoleindskrivning</span></strong></div> </div> <div>Administrationen orienterer kort om skoleindskrivningsprocessen og de foreløbige erfaringer hermed.</div>  </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/537fe2eb-4105-41b7-b100-0641b1e3e102",
+          "DocumentId": "537fe2eb-4105-41b7-b100-0641b1e3e102"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013716",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "fefe7cf0-468e-4a84-a051-00a943f118de",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-013716",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <h3> <div> </div> </h3> <div>Skole-, Børne og Ungeudvalget</div> <h3><span>Resume</span></h3> <h3> <div> </div> </h3> <div>I sagen gives et overblik over Skole-, Børne- og Ungeudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <h3> <div> </div> </h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Skole- og Børne- og Ungeudvalgets kalender er vedlagt.</div> <div><em></em></div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/881db27c-3a84-4eb8-9cc5-e5d5b5387c82",
+          "DocumentId": "881db27c-3a84-4eb8-9cc5-e5d5b5387c82"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014469",
+      "Navn": "Skole-, Børne- og Ungeudvalgets kalender 2022",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Skole-, Børne- Ungeudvalgets kalender 2022",
+          "Id": "fe2ea158-b3e8-43e0-bb6b-872b260922b2"
+        }
+      ],
+      "Documents": null,
+      "Id": "916fdc5a-3e13-407f-925c-c06fa7c7bbe1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014469",
+      "SourceId": null,
+      "Caption": "Skole-, Børne- og Ungeudvalgets kalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Skole-, Børne- og Ungeudvalget.</div> <h3><span>Resume</span></h3> <div>Elektronisk underskriftsark. </div> <div> </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/818ad99c-d7f9-4fd7-a81f-11a384f3d0e2",
+          "DocumentId": "818ad99c-d7f9-4fd7-a81f-11a384f3d0e2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014468",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4ac77f81-88c3-4831-bebe-270f72f96d6d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-014468",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "473469a9-b1d4-4d5e-b869-b1ed1bbcb012",
+    "Navn": "Skole-, Børne- og Ungeudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-04-26T08:15:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-04-26T08:15:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "082dbc9a-944b-46d5-9510-dabbc4c48b65",
+  "Lydfiler": null
+}

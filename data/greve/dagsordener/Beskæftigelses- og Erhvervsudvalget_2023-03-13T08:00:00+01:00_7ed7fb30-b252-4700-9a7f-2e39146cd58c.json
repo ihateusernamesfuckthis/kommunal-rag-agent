@@ -1,0 +1,447 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for mødet den 13. marts 2023.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes. </i></p>\n<p> </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fbb12e34-6334-4300-bb6b-7b9aa4afea94",
+          "DocumentId": "fbb12e34-6334-4300-bb6b-7b9aa4afea94"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014448",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5c499ac6-8033-413e-b54a-08c710734caf",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014448",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Brigitte Klintskov Jerkel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5c499ac6-8033-413e-b54a-08c710734caf"
+        },
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5c499ac6-8033-413e-b54a-08c710734caf"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Beskæftigelses- og Erhvervsudvalget afholder temamøde om aktivitetsparate kontanthjælpsmodtagere over 30 år i Greve Kommune for Beskæftigelses- og Erhvervsudvalget, efter udvalgets ønske. Temamødet bidrager med viden og indsigt i målgruppen. Udvalget får lejlighed til en dialog og til at stille spørgsmål.  </p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning. </i></p>\n<p><em>Der skal ikke træffes beslutning på temamødet, som skal bruges til orientering og dialog.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen afholder temamøde for Beskæftigelses- og Erhvervsudvalget om aktivitetsparate kontanthjælpsmodtagere over 30 år i Greve Kommune.  </p>\n<p>Formålet er at give udvalget en indføring i sagsområdet generelt og vil samtidig vise de udfordringer og potentialer, som området rummer. </p>\n<p>Teamleder for Ressource- og Afklaringsteamet Nanna Nørlem Dam deltager under punktet med oplæg om området, hvor udvalget får lejlighed til en dialog og til at stille spørgsmål.  </p>\n<h4>Lovgrundlag</h4>\n<p>Lov om Aktiv Beskæftigelsespolitik.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser.</p>\n<h4>Øvrige forhold</h4>\n<p>Teamleder for Ressource- og Afklaringsteamet Nanna Nørlem Dam deltager under punktet.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/285c97ec-1da0-47cb-9523-5e71ce598ad8",
+          "DocumentId": "285c97ec-1da0-47cb-9523-5e71ce598ad8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-002285",
+      "Navn": "Temamøde om aktivitetsparate kontanthjælpsmodtagere over 30 år i Greve Kommune",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Temamøde om aktivitetsparate kontanthjælpsmodtagere over 30 år",
+          "Id": "93bdb636-b8c1-452b-a3dc-ebe317ea8815"
+        }
+      ],
+      "Documents": null,
+      "Id": "86ad8702-b8f2-44a9-9ba4-445577205121",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-002285",
+      "SourceId": null,
+      "Caption": "Temamøde om aktivitetsparate kontanthjælpsmodtagere over 30 år i Greve Kommune",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Brigitte Klintskov Jerkel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "86ad8702-b8f2-44a9-9ba4-445577205121"
+        },
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "86ad8702-b8f2-44a9-9ba4-445577205121"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen omhandler  elementerne i anden delaftale om nytænkning af beskæftigelsesindsatsen. Aftalen får betydning for den måde, hvorpå Greve Kommune fremover tilrettelægger og driver beskæftigelsesindsatsen for ledige borgere. Med aftalen har et flertal i Folketinget en forventning om, at der samlet set skal bruges færre penge på indsatsen til bekæmpelse af ledighed.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen </em><em>indstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Lovforslaget om anden delaftale af nytænkningen af beskæftigelsesindsatsen skulle være trådt i kraft den 1. januar 2023. Lovforslaget er på grund af valgudskrivelsen og regeringsdannelsen udskudt og forventes at træde i kraft den 22. marts 2023. </p>\n<p>I det følgende beskrives kort de ændringer og forenklinger i anden delaftale om en nytænkning af beskæftigelsesindsatsen samt Jobcentrets udmøntning;</p>\n<p><span>Mere målrettede tilbud</span></p>\n<p>Aftalepartierne ønsker at dreje fokus i beskæftigelsesindsatsen, således at der i højere grad anvendes virksomhedsrettede tilbud, ordinære løntimer og ordinær uddannelse. Det indgår derfor i aftalen, at tilbud om <em>vejledning og opkvalificering</em> ikke skal tælle med som et lovpligtigt tilbud for de ledige borgere.</p>\n<p><em>Konsekvens for borgerne og Jobcentret; </em></p>\n<p>De <em>vejledende og opkvalificerende tilbud</em> består af en lang række tilbud, som anvendes til såvel borgere tættere på arbejdsmarkedet og borgere længere væk fra arbejdsmarkedet. Tilbud om vejledning og opkvalificering gives med henblik på at forberede borgerne på ordinære virksomheds- eller uddannelsesrettede tilbud. For eksempel gives tilbud om vejledning og opkvalificering for at udvikle borgernes faglige, sociale eller sproglige kompetencer med henblik på opkvalificering til arbejdsmarkedet eller opkvalificering til at kunne påbegynde og gennemføre en erhvervskompetencegivende uddannelse.</p>\n<p>Ændringen vil især få betydning for borgere længere væk fra arbejdsmarkedet, da de vejledende og opkvalificerende tilbud anvendes som forløber og også som grundlag for, at der efterfølgende kan iværksættes virksomheds- eller uddannelsesrettede tilbud. Det betyder, at Jobcentret i højere grad skal fokusere på virksomhedsrettede tilbud, ordinære løntimer og ordinær uddannelse til borgerne.   </p>\n<p>Jobcentret vil fortsat kunne anvende tilbud om øvrig vejledning og opkvalificering, hvis det vurderes at være hensigtsmæssigt for den lediges forløb og tilbagevenden til beskæftigelse, men vil altså ikke tælle med som et lovpligtigt tilbud.</p>\n<p><span>Udvidet mulighed for digitale samtaler</span></p>\n<p>I forbindelse med den første delaftale om nytænkning af beskæftigelsesindsatsen fik ledige mulighed for efter seks måneders ledighed at vælge, hvilken form deres samtale med jobcentret skal have. Digitalt, telefonisk eller ved personligt fremmøde. Med anden delaftale udvides denne mulighed til også at gælde fra starten af ledighedsforløbet, dog skal den første samtale fortsat afholdes fysisk. </p>\n<p>Gruppen tæller modtagere af dagpenge, kontanthjælp, uddannelseshjælp, ledighedsydelse, overgangsydelse (uden for integrationsprogrammet), sygedagpenge, samt personer i revalideringsforløb, ressourceforløb eller jobafklaringsforløb. Jobcentret har dog mulighed for, i de tilfælde administrationen vurderer, der er behov for det, at ændre på samtaleformen i konkrete og individuelle situationer. </p>\n<p><em>Konsekvens for borgerne og Jobcentret;</em></p>\n<p>Ændringen vil medføre langt større fleksibilitet for såvel den ledige som medarbejderne, når samtaleformen ikke lovgivningsmæssigt er besluttet på forhånd. Med de nye muligheder vil borgeren skulle tage stilling til om samtalerne efter den første fysiske samtale fortsat skal ske fysisk eller ved personligt digitalt fremmøde eller telefonisk. Jobcentret har rigtig gode erfaringer med digitale samtaler fra suspenderingen af beskæftigelsesindsatsen under Covid-19 krisen og borgerne har udvist stor tilfredshed med den digitale kontaktform, som også har givet mere fleksibilitet i samtaleforløbene for medarbejderne. </p>\n<p>Lovforslaget udmønter ikke elementerne i aftalen om et <em>forenklet kontaktforløb for a-dagpengemodtagere</em>, <em>lempelse af uddannelsespålægget</em> og <em>forenkling af administrative krav for øvrige ydelsesområder</em>. Disse elementer forventes at blive udmøntet i et særskilt lovforslag, som forventes fremsat omkring maj / juni 2023 og forventes at træde i kraft 1. januar 2024. Når lovforslaget er vedtaget, vil udvalget få en orienteringssag om dette.</p>\n<h4>Lovgrundlag</h4>\n<p>Lov om  aktiv beskæftigelsesindsats</p>\n<p>Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. </p>\n<p>Lov om sygedagpenge</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Lovforslaget skulle have realiseret 344 mio. kr. i 2023, men på grund den senere ikrafttrædelse vil besparelsen i 2023 være på 269 mio. kr., det vil sige 75 mio. kr. mindre end forventet. Udsættelsen vil ikke påvirke det varige provenu efter 2023.</p>\n<p>For Greve Kommune betyder det, at Jobcentret i 2023 skal realisere en reduktion på den aktive beskæftigelsesindsats med 2,3 mio. kr. i 2023 og 3 mio. kr. i 2024 og efterfølgende år. Reduktionen indarbejdes i budgettet i Budgetopfølgning 2, hvor de økonomiske konsekvenser af lov- og cirkulæreprogrammet (DUT-kataloget) kendes.</p>\n<p>For at realisere budgetreduktionen på de 2,3 mio. kr. i år, er Jobcentret i gang med at tilpasse indsatsen for borgerne. Jobcentret skal i højere grad fokusere på virksomhedsrettede tilbud, ordinære løntimer og ordinær uddannelse. Samtidig skal Jobcentret reducere anvendelsen af opkvalificering og vejledning.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0daf8908-5d0d-4138-baca-56f4a27cb14d",
+          "DocumentId": "0daf8908-5d0d-4138-baca-56f4a27cb14d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-002287",
+      "Navn": "Udmøntning af elementer i anden delaftale om nytænkning af beskæftigelsesindsatsen",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2341e393-245b-4729-95f7-068284d44fdb",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-002287",
+      "SourceId": null,
+      "Caption": "Udmøntning af elementer i anden delaftale om nytænkning af beskæftigelsesindsatsen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "2341e393-245b-4729-95f7-068284d44fdb"
+        },
+        {
+          "Name": "Brigitte Klintskov Jerkel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "2341e393-245b-4729-95f7-068284d44fdb"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4>Resume</h4>\n<p>Sagen omhandler en fejlopsætning i Kommunernes Ydelsessystem, som administrerer 225-timersreglen for alle landets kommuner. </p>\n<p>Fejlen betyder, at nogle borgere automatisk har fået reduceret deres ydelse, uden at kommunen har truffet en retmæssig afgørelse om nedsættelse af ydelsen.</p>\n<p>Konsekvensen er, at kommunerne herunder Greve Kommune skal efterbetale det nedsatte beløb til de borgere, der er berørt af fejlen. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen </em><em>indstiller, at orienteringen tages til efterretning.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Styrelsen for Arbejdsmarked og Rekruttering er blevet opmærksom på, at Kommunernes Ydelsessystem (KY) i nogle kommuner automatisk har nedsat borgernes ydelser i sager om 225-timersreglen uden, at kommunen har truffet afgørelse herom.</p>\n<p><em>225-timersreglen </em></p>\n<p>På beskæftigelsesområdet er der en 225-timersregel hvor borgere, som har modtaget forsørgelsesydelse i mindst et år, skal opfylde et arbejdskrav på 225 timers ordinært og ustøttet arbejde, hvis de fortsat skal kunne modtage fuld uddannelseshjælp eller fuld kontanthjælp. Kan borgeren ikke leve op til det krav, bliver den offentlige ydelse sænket efter en formel afgørelse. Kravet gælder, uanset om borgeren er enlig eller samlevende. Borgere kan dog fritages for at skulle følge 225-timersreglen på grund af en begrænset arbejdsevne.</p>\n<p><em>Årsag til uretmæssige nedsættelser i ydelse</em></p>\n<p>Kommunernes Ydelsessystem er siden 2021 blevet brugt som it-understøttelse til udbetaling af forskellige ydelser, herunder udbetaling af uddannelseshjælp og kontanthjælp. Kommunernes Ydelsessystem er kendetegnet ved en høj grad af automatisering for at sikre effektive og ensartede sagsgange.</p>\n<p>Årsagen til de automatiske nedsættelser i borgernes kontanthjælp og uddannelseshjælp, med henvisning til 225-timersreglen, skyldes en fejlopsætning i Kommunernes Ydelsessystem. De automatiske nedsættelser sker uden, at en sagsbehandler har truffet en forudgående og retmæssig afgørelse i borgernes sager. Selvom en borger ikke har levet op til kravet om 225 timers arbejde, er det i strid med loven at sætte borgeren ned i ydelse uden, at der er truffet en individuel vurdering.  </p>\n<p><em>Uvist omfang på nuværende tidspunkt</em></p>\n<p>Der er er på nuværende tidspunkt ikke et overblik over, hvor mange borgere der er blevet berørt af den automatiske ydelsesnedsættelse, hverken på landsplan eller specifikt i Greve Kommune. Kommunernes IT-fællesskab (KOMBIT) er i gang med at udarbejde kvalificerede sagslister til kommunerne, som skal klarlægge omfanget af sager. Administrationen vil herefter informere de berørte borgere og efterbetale de berettigede beløb.</p>\n<p><em>Særlig opmærksomhed og manuel tilgang indtil fejlen er rettet  </em></p>\n<p>Kommunernes IT-fællesskab arbejder på at forbedre IT-understøttelsen, så de automatiske nedsættelser af ydelsen ikke sker fremadrettet. Deres seneste udmelding er, at det vil tage op til et år, før fejlen er rettet i systemet. Indtil da skal kommunerne være særlig opmærksomme på, at borgernes ydelser ikke nedsættes automatisk. For at hjælpe kommunerne med dette, har Kommunernes IT-fællesskab udarbejdet en vejledning. Vejledningen skal hjælpe sagsbehandlerne med at sikre, at der træffes en afgørelse i sager om 225-timersreglen, inden ydelsen nedsættes. </p>\n<p>Kommunernes IT-fællesskab og Styrelsen for Arbejdsmarked og Rekruttering har også iværksat en informationsindsats for kommunerne, med henblik på at anvende vejledningen korrekt. </p>\n<p>Greve Kommune følger løbende de retningslinjer og vejledninger, der udmeldes fra Styrelsen for Arbejdsmarked og Rekruttering og Kommunernes IT-fællesskab.</p>\n<h4>Lovgrundlag</h4>\n<p>Lov om aktiv socialpolitik.</p>\n<p>Lov om aktiv beskæftigelsesindsats.</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Der er er på nuværende tidspunkt ikke et overblik over, hvor mange borgere der er blevet berørt af den automatiske ydelsesnedsættelse, hverken på landsplan eller specifikt i Greve Kommune. Administrationen fremlægger de økonomiske konsekvenser for Greve Kommune, når KOMBIT har udarbejdet sagslister, og de økonomiske konsekvenser er beregnet.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/80d1f329-ea93-4855-905b-b65bb8368b9d",
+          "DocumentId": "80d1f329-ea93-4855-905b-b65bb8368b9d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-002286",
+      "Navn": "Særlig opmærksomhed på administrationen af 225-timersreglen i Kommunernes Ydelsessystem",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "47886fd7-e133-4ebd-b3d3-ed6907530250",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-002286",
+      "SourceId": null,
+      "Caption": "Særlig opmærksomhed på administrationen af 225-timersreglen i Kommunernes Ydelsessystem",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "47886fd7-e133-4ebd-b3d3-ed6907530250"
+        },
+        {
+          "Name": "Brigitte Klintskov Jerkel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "47886fd7-e133-4ebd-b3d3-ed6907530250"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning med bemærkning om at til næste virksomhedsbesøg ønskes:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Virksomheder med fokus på socialt ansvar </li>\n    <li>At besøgene planlægges til mandag den 25.september 2023</li>\n</ul></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n<p><i></i></p>\n<p>Formanden orienterer om:</p>\n<ul>\n    <li>Evaluering af virksomhedsbesøg den 27. februar, drøftelse af dato for næste virksomhedsbesøg samt drøftelse af, hvilke virksomheder udvalget gerne vil besøge.</li>\n    <li>Orientering om dialogmøde i politisk netværk for de 8 østlige kommuner på Sjælland afholdt i Roskilde den 2. marts.</li>\n    <li>Orientering om dialog med en virksomhed.</li>\n</ul>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d6dbf47e-0401-41ed-a9e6-5e1459a6ac3e",
+          "DocumentId": "d6dbf47e-0401-41ed-a9e6-5e1459a6ac3e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013722",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "47214121-a2ab-4c5f-b3ba-c14313925bc7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-013722",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Brigitte Klintskov Jerkel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "47214121-a2ab-4c5f-b3ba-c14313925bc7"
+        },
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "47214121-a2ab-4c5f-b3ba-c14313925bc7"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<strong></strong>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<strong></strong>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<strong></strong>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</em></p>\n<strong></strong>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p>- Lokale 2023 erhvervspræsentationer, erhvervsudviklingen i kommuner, rapport vedlægges.</p>\n<p> </p>\n<p> </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/c1d7507f-75c4-4abd-a8e9-4e55b140027e",
+          "DocumentId": "c1d7507f-75c4-4abd-a8e9-4e55b140027e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013719",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Lokale erhvervspræstationer 2023",
+          "Id": "1858b9b4-1f0f-4b39-9024-1527852acd79"
+        }
+      ],
+      "Documents": null,
+      "Id": "54db6cc8-8fd5-48ff-ae61-a2a2802fca98",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-013719",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "54db6cc8-8fd5-48ff-ae61-a2a2802fca98"
+        },
+        {
+          "Name": "Brigitte Klintskov Jerkel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "54db6cc8-8fd5-48ff-ae61-a2a2802fca98"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Mødekalenderen blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4><span>Sagsprocedure</span></h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h4><span>Resume</span></h4>\n<p>I sagen gives et overblik over Beskæftigelses- og Erhvervsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<h4><span>Sagsbeskrivelse</span></h4>\n<p>Mødekalenderen er vedhæftet som bilag.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7fcf1e5e-fb7d-4c29-a3d1-b471046dc9bc",
+          "DocumentId": "7fcf1e5e-fb7d-4c29-a3d1-b471046dc9bc"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013723",
+      "Navn": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2023",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beskæftigelses- og Erhvervsudvalgets kalender 2023 - marts",
+          "Id": "6a92e34e-858c-46ef-8556-7678c9d3d05d"
+        }
+      ],
+      "Documents": null,
+      "Id": "920bd37d-dbdf-4fe7-99a2-d100b03787bf",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-013723",
+      "SourceId": null,
+      "Caption": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Brigitte Klintskov Jerkel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "920bd37d-dbdf-4fe7-99a2-d100b03787bf"
+        },
+        {
+          "Name": "Torben Hoffmann",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "920bd37d-dbdf-4fe7-99a2-d100b03787bf"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/71b27d4b-5370-497c-9985-b88143921704",
+          "DocumentId": "71b27d4b-5370-497c-9985-b88143921704"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-012521",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "2aac2f25-ac80-4a84-a39b-8b73b1df360b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-012521",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "d2b6711a-6c60-4f72-be63-ef69dac7e795",
+    "Navn": "Beskæftigelses- og Erhvervsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-03-13T08:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-03-13T08:00:00+01:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Kenneth Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "7ed7fb30-b252-4700-9a7f-2e39146cd58c",
+  "Lydfiler": null
+}

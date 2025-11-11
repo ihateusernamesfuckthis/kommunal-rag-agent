@@ -1,0 +1,333 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h4><span>Sagsprocedure</span></h4>\n<p>Skole,- Børne- og Ungeudvalget.</p>\n<h4><span>Resume</span></h4>\n<p>Godkendelse af dagsorden for mødet den 12. september 2023.</p>\n<h4><span>Indstilling</span></h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/94f5dfd3-5e62-420d-9701-01c17256a66a",
+          "DocumentId": "94f5dfd3-5e62-420d-9701-01c17256a66a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014470",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "32e61b52-f490-4a6d-874f-5c0c451e98c3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e89355fc-d084-4404-9250-4f11a252eeca",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014470",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt.</p>\n<p>2. Godkendt.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Skole-, Børne- og Ungeudvalget skal tage stilling til udvalgets mødekalender for 2024 på baggrund af den godkendte mødekalender for Byrådet og Økonomiudvalget i 2024.</p>\n<p>Udkast til udvalgets mødekalender er udarbejdet, så der tages hensyn til sagernes videre forløb i Økonomiudvalget og Byrådet.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<p><em>1.at den foreslåede mødekalender for Skole-, Børne- og Ungeudvalget godkendes</em></p>\n<p><em>2. at den faste mødedag bliver tirsdag med mødestart kl. 8.15.</em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 4. september 2023 godkendte Byrådet mødedatoerne for Økonomiudvalget og Byrådet i 024. Det blev besluttet at afholde ni årlige møder i henholdsvis Økonomiudvalget og Byrådet i lighed med 2023. </p>\n<p>Møderne foreslås afholdt på følgene datoer:</p>\n<p>9. januar</p>\n<p>6. februar</p>\n<p>19. marts</p>\n<p>23. april</p>\n<p>4. juni</p>\n<p>13. august</p>\n<p>10. september</p>\n<p>8. oktober</p>\n<p>19. november</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udgifterne til mødeforplejning mv. afholdes inden for udvalgets budgetramme.</p>\n<h4>Kommunikation</h4>\n<p>Den godkendte mødekalender vil blive offentliggjort på kommunens hjemmeside og mødedagene vil blive skrevet ind i kalender for Byrådets medlemmer.</p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/cfc0b61b-66d5-4373-bc11-52b010d24717",
+          "DocumentId": "cfc0b61b-66d5-4373-bc11-52b010d24717"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005195",
+      "Navn": "Mødekalender 2024 for Skole-, Børne- og Ungeudvalget",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Politisk mødekalender 2024",
+          "Id": "9bdac481-247a-43d8-a5fd-979df6b633ab"
+        }
+      ],
+      "Documents": null,
+      "Id": "b2f2f46d-5036-4249-a6fa-4eb7ced7f880",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e89355fc-d084-4404-9250-4f11a252eeca",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-005195",
+      "SourceId": null,
+      "Caption": "Mødekalender 2024 for Skole-, Børne- og Ungeudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">5. Orienteringen blev taget til efterretning.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div class=\"WordSection1\">\n<h4>Sagsprocedure</h4>\n<p>Klima- Teknik og Miljøudvalget og Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Resultatet af  skolevejsanalysen for Hedelyskolen fremlægges. Analysen\nindeholder en række konkrete forslag til forbedring af trafiksikkerheden og\npåvirkning af trafikantadfærden. Der kan tages beslutning om, ikke at\ngennemføre en  analyse for Krogårdsskolen og i stedet benytte pengene på\nkonkrete initiativer. De større projekter i skolevejsanalysen kan desuden indgå\ni en kommende trafiksikkerhedsplan.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller over for Klima-, Teknik- og Miljøudvalget:</em></p>\n<ol start=\"1\" style=\"list-style-type: decimal;\">\n    <li><em>at \"Skolevejsanalyse for Hedelyskolen -\n    Projektkatalog\" (jf. bilag 1) godkendes</em></li>\n    <li><em>at der ikke gennemføres en skolevejsanalyse for\n    Krogårdsskolen, men at ideerne fra Hedelyskolen også anvendes på\n    Krogårdsskolen</em></li>\n    <li><em>at de resterende midler på ca. 200.000 kr. til analyse\n    på Krogårdsskolen i stedet afsættes til at udføre konkrete tiltag på de to\n    skoler</em></li>\n    <li><em>at de større tiltag fra projektkataloget medtages i en\n    kommende trafiksikkerhedsplan</em></li>\n</ol>\n<p><em>Administrationen\nindstiller over for Skole-, Børne- og Ungeudvalget</em></p>\n<ol start=\"5\" style=\"list-style-type: decimal;\">\n    <li><em>at orienteringen tages til efterretning.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Klima-, Teknik- og Miljøudvalget besluttede den 27. februar 2020 (pkt. 5), at\nigangsætte to skolevejsanalyser med særligt fokus på trafikantadfærd. </p>\n<p><em><strong>Skolevejsanalysens indhold</strong></em></p>\n<p>Administrationen har i tæt samarbejde med en trafikrådgiver udarbejdet\n\"Skolevejsanalyse for Hedelyskolen - Projektkatalog\" (jf. bilag\n1). </p>\n<p>Analysen og kataloget indeholder en række konkrete oplæg til forbedring af\ntrafiksikkerhed og tryghed og er udarbejdet med input fra:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Elever, som på to workshops har udpeget og beskrevet\n    udfordringer samt udarbejdet tiltag til at forbedre den trafikale adfærd\n    ved skolen</li>\n    <li>Forældre og skoleledelse, som på to workshops har\n    udpeget og beskrevet udfordringer samt drøftet løsningsprincipper og\n    vejledning ved ankomst til skolen</li>\n    <li>Greve Kommunes administration, som på en workshop har\n    drøftet løsningsprincipper og specifikke forhold</li>\n</ul>\n<p>Som en del af analysen har administrationen og trafikrådgiveren i hovedtræk\nudført følgende:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Fysisk gennemgang af vej- og stiområder efter\n    principperne for best practice for trafiksikkerhed</li>\n    <li>Observationer og registreringer af trafikanternes\n    adfærd om morgenen før mødetid</li>\n    <li>Drone- og videoregistreringer om morgenen før\n    mødetid </li>\n    <li>Tællinger af trafikanter på udvalgte lokaliteter</li>\n    <li>Gennemgang af foreliggende trafik- og uheldsdata</li>\n</ul>\n<p>Skolevejsanalysen viser, at der omkring Hedelyskolen er en række\nudfordringer med uhensigtsmæssig adfærd i trafikken. Et eksempel er bilernes\nhøje fart - det skaber utryghed for elever på cykel og til fods. Det samme\ngælder ulovlig parkering - der er konstateret udfordringer med parkerede biler\npå bussens vendeplads, i fodgængerfeltet foran skolen og uden for\nparkeringsbåse i øvrigt. Brug af mobiltelefoner og cykler mv. på fortovet er\nandre problematikker.</p>\n<p>Herudover er der konstateret uhensigtsmæssig trafikal adfærd som følge af,\nat trafikanterne er i tvivl om, hvordan de skal benytte veje og stier mest hensigtsmæssigt.\nDet gælder ikke mindst på vejen foran skolen, hvor både elever og skoleledelse\ner i tvivl om, i hvilken retning cykelbanen skal benyttes. </p>\n<p>Projektkataloget indeholder projektark for hvert af de steder, hvor der er\nkonstateret udfordringer. I projektarkene er der opstillet forskellige\nløsningsmuligheder samt et oplæg til tiltag. Administrationen anbefaler, at de\nstørre projekter, der er i projektkataloget, tages med i prioriteringen i en evt.\nkommende trafiksikkerhedsplan. </p>\n<p>Der er også beskrevet nogle konkrete \"midlertidige\" tiltag,\nsom anbefales implementeret for ca. 100.000 kr. fra midlerne til en analyse på\nKrogårdsskolen. Det anbefales videre, at der arbejdes med erfaringerne om\ntrafikantadfærden, og de gode idéer bredes ud til Krogårdsskolen ved brug af de\nresterende midler til Krogårdsskolens skoleanalyse.</p>\n<p>På baggrund af observationer af adfærd samt dialog med elever, forældre og\nskolens ledelse er der lagt op til en række tiltag på Hedelyskolen. Tiltagene\ner samlet i et skema, som udgør første version af et årshjul for trafiktiltag\npå Hedelyskolen (jf. bilag 5). Årshjulet omfatter ikke anlægsprojekter.\nHedelyskolen kan løbende justere årshjulet. Hvert år ved planlægning af\nskolestart kan være et godt tidspunkt at se på, om årshjulet skal justeres.\nIdeen med årshjulet er et af de tiltag, der tænkes udbredt til Krogårdsskolen.</p>\n<p>Administrationen foreslår således, at der ikke gennemføres en tilsvarende\nanalyse på Krogårdsskolen, men at pengene i stedet anvendes til at gennemføre\nkonkrete tiltag jf. analysens adfærdspåvirkende tiltag på Krogårdsskolen og\nkonkrete tiltag på Hedelyskolen, finansieret af den resterende pulje på 200.000\nkr., der allerede er afsat til en skolevejsanalyse ved Krogårdsskolen.</p>\n<p><em>Trafiksikkerhedsrådet</em></p>\n<p>Skolevejsanalysen er blevet præsenteret for Trafiksikkerhedsrådet på mødet\nden 17. august 2023. Trafiksikkerhedsrådet tog skolevejsanalysen til\nefterretning.</p>\n<h4>Lovgrundlag</h4>\n<p>De i projektkataloget nævnte tiltag skal drøftes med politiet eller andre\nmyndigheder, før de kan gennemføres. Hvis der skal etableres nye skilte eller\nandet, der regulerer færdslen, skal politiet også godkende det.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>\"Skolevejanalyse for Hedelyskolen - Projektkatalog\" indeholder en\nrække adfærdsændrende tiltag, der kan igangsættes uden større omkostninger - det\ngælder plakater, skiltning og drift på stier. </p>\n<p>Der er også mere omkostningstunge projekter, som i stedet bør prioriteres i\nen sammenhæng med andre trafiksikkerhedsprojekter i kommunen. Det kan fx ske i\nforbindelse med udarbejdelsen af en trafiksikkerhedsplan. </p>\n<h4>Kommunikation</h4>\n<p>Udover projektkataloget har trafikrådgiveren sammen med elever på skolen\nudviklet et demonstrationsprojekt bestående af plakater med trafiksikre\nbudskaber (jf. bilag 2). Plakaterne er blevet sat op på veje og stier ved skolen\ni august 2023. Der er desuden udarbejdet en vejledning til trafikanterne ved\nankomst til skolen om morgenen (jf. bilag 3) samt et kort med anbefalede ruter\ntil skole (jf. bilag 4). </p>\n<p>Hvis indstillingen tiltrædes, vil initiativer på Krogårdsskolen blive udført\ni dialog og samarbejde med skolen og skolebestyrelsen.</p>\n<h4>Tidsplan</h4>\n<p>Hvis indstillingen tiltrædes, forventes de konkrete tiltag at blive udført\npå Hedelyskolen i 2023, mens de adfærdsændrende tiltag på Krogårdsskolen\nskal passes ind i skolens program i øvrigt, og derfor evt. går ind i 2024.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/446e1331-8d95-459d-9168-5f81f4e3b7c9",
+          "DocumentId": "446e1331-8d95-459d-9168-5f81f4e3b7c9"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-001832",
+      "Navn": "Hedelyskolen - skolevejsanalyse",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Skolevejsanalyse for Hedelyskolen - Projektkatalog",
+          "Id": "c21c9baf-6257-4c6d-99e6-813c2a92aa3a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Elevernes plakater",
+          "Id": "9e8a9961-e580-4cfb-82a7-2fc01c57c847"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Vejledning ved ankomst om morgenen",
+          "Id": "045d18f8-3335-4b59-9a92-60d8699521d9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Anbefalede ruter til skole",
+          "Id": "2e0e2f5f-7717-4611-8e0c-f0ece870ff3d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5. Årshjul",
+          "Id": "164f5e95-45f8-4880-a0fb-356deb35dff7"
+        }
+      ],
+      "Documents": null,
+      "Id": "9b94374b-44c9-4895-a16f-61feb417d4bc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e89355fc-d084-4404-9250-4f11a252eeca",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "23-001832",
+      "SourceId": null,
+      "Caption": "Hedelyskolen - skolevejsanalyse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Der blev orienteret om henvendelse fra faglig klub på Hedelyskolen vedr. modtageklasser.</p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<b></b>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1be5f6f5-5870-4f09-ba8d-ac4ab835e07e",
+          "DocumentId": "1be5f6f5-5870-4f09-ba8d-ac4ab835e07e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014467",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "01960cc1-5b04-4791-a62e-f0a01fb3fe24",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e89355fc-d084-4404-9250-4f11a252eeca",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-014467",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Trine Madsen, leder af STU, orienterede om ny lovgivning på området.</p>\n<p>Administrationen orienterede om arbejdet med Børnesagsbarometeret.</p>\n<p>Administrationen orienterede om refleksioner over implementering af anbefalingerne i den specialpædagogiske analyse og udvalget drøftede dette.</p>\n<p>Orienteringerne blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n\n<p>Skole-, Børne- og Ungeudvalget.</p>\n<p>\n<div>\n<h4>Resume</h4>\n</div>\n\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter,\nog hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</p>\n<p>\n<div>\n<h4>Indstilling</h4>\n</div>\n\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til\nefterretning.</em></p>\n<p>\n<div>\n<h4>Sagsbeskrivelse</h4>\n</div>\n\n<p>Administrationen har følgende til orientering:</p>\n<p>- Orientering om ny STU-lovgivning </p>\n<p>- Status om fremdrift til handleplan af børnefaglige undersøgelser og\nbørnesamtaler:</p>\n<p><strong>Orientering om Børnesagsbarometeret</strong></p>\n<p>Byrådet vedtog på mødet den 4. september 2023 en handleplan for udarbejdelse\naf børnefaglige undersøgelser samt afholdelse af børnesamtaler på baggrund af\nAnkestyrelsens anmodning om redegørelse herfor.</p>\n<p><em><strong>Status på fremdrift, børnefaglige undersøgelser</strong></em></p>\n<p> </p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>Overskredne børnefaglige\n            undersøgelser</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Børnesagsbarometeret 2022</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>75 %</span></p>\n            <p> </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Ultimo august 2023</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>42 %<br>\n            (30 ud af 71 igangværende undersøgelser)</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Ovenstående viser, at der er positiv kontinuerlig fremdrift i den\nprocentvise opgørelse over overskredne børnefaglige undersøgelser. Der arbejdes\nfortsat målrettet med handleplanen.</p>\n<p><strong><em>Status på børnesamtaler og tiltag i forhold til dette</em></strong></p>\n<p>Det er ikke muligt at fremsøge databaserede statistiske oplysninger om\nafholdelse af børnesamtale <em>inden</em> truffet afgørelse om\nstøtteforanstaltning i fagsystemet.</p>\n<p>For et sikre at der bliver afholdt de lovpligtige børnesamtaler, gennemføres\nder årligt ledelsestilsyn med sagsbehandlingen i form af tre årlige\nkvalitetskontroller.</p>\n<p>Der gennemføres to gange årligt sagsgennemgang med faglige ledere. </p>\n<p>Én gang årligt gennemgås alle anbringelsessager ved leder af\nFamilierådgivningen.</p>\n<p><strong><em>Fremadrettet</em></strong></p>\n<p>Administrationen vurderer, at de iværksatte tiltag har den ønskede effekt.</p>\n<p>Der arbejdes fortsat efter handleplanen. Skole-, Børne- og Ungeudvalget vil\nmånedligt blive orienteret om fremdriften.</p>\n<p>Der afsendes svar til Ankestyrelsen på henvendelse af 15.6.2023.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3ffcb2a1-f732-4d74-b9b9-b7498ebf31a3",
+          "DocumentId": "3ffcb2a1-f732-4d74-b9b9-b7498ebf31a3"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013716",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "e3f040e3-ad28-4a4d-8fe2-020b0ca0aa53",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e89355fc-d084-4404-9250-4f11a252eeca",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-013716",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning. </p>\n<p> </p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<b></b>\n<h4>Sagsprocedure</h4>\n<p>Skole-, Børne- og Ungeudvalget</p>\n<b></b>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Skole-, Børne- og Ungeudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<b></b>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at orienteringen tages til efterretning.</i></p>\n<b></b>\n<h4>Sagsbeskrivelse</h4>\n<p>Mødekalenderen er vedhæftet som bilag. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8ff3b5b5-b7f1-4287-9d98-1eef87f654a4",
+          "DocumentId": "8ff3b5b5-b7f1-4287-9d98-1eef87f654a4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014469",
+      "Navn": "Skole-, Børne- og Ungeudvalget - mødekalender 2023",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Skole-, Børne- og Ungeudvalgets mødekalender 2023 - september",
+          "Id": "0260798c-a3e8-4907-a3a7-d7e7198dcbff"
+        }
+      ],
+      "Documents": null,
+      "Id": "bafd3936-cd45-45b6-960c-19d90f84229d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e89355fc-d084-4404-9250-4f11a252eeca",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-014469",
+      "SourceId": null,
+      "Caption": "Skole-, Børne- og Ungeudvalget - mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><p class=\"xsltFirstParagraph\">\n<div>\n<h4>Sagsprocedure</h4>\n</div>\n\n<p>Skole-, Børne- og Ungeudvalget. </p>\n<p>\n<div>\n<h4>Resume</h4>\n</div>\n\n<p>Elektronisk underskriftsark. </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/eed47900-7069-4097-9b6f-519b1306224d",
+          "DocumentId": "eed47900-7069-4097-9b6f-519b1306224d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014468",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d65f3aae-f8c9-4e83-beb2-d2c9f4cfe931",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "e89355fc-d084-4404-9250-4f11a252eeca",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-014468",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "473469a9-b1d4-4d5e-b869-b1ed1bbcb012",
+    "Navn": "Skole-, Børne- og Ungeudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-09-12T08:15:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-09-12T08:15:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "e89355fc-d084-4404-9250-4f11a252eeca",
+  "Lydfiler": null
+}

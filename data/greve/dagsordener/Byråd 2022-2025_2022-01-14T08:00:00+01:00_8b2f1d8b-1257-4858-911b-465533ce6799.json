@@ -1,0 +1,337 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Dagsordenen blev godkendt. <br><br>Fraværende: Bjarke Abel, Linda Heegaard</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>Sagsprocedure</h2>\n<p>Byrådet.</p>\n<h2>Resume</h2>\n<p>Godkendelse af dagsorden for mødet den 14. januar 2022.</p>\n<h2>Indstilling</h2>\n<p><em>Center for Politik, Organisation & Borgerbetjening indstiller at dagsordenen godkendes.</em></p>\n<h2><em><br>\n</em></h2>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3f67e8c0-bd5e-4d54-b79c-bf8bc3082f9c",
+          "DocumentId": "3f67e8c0-bd5e-4d54-b79c-bf8bc3082f9c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014420",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "1041f8b0-bc25-47f8-a71d-14d5469a19df",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "8b2f1d8b-1257-4858-911b-465533ce6799",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014420",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "1041f8b0-bc25-47f8-a71d-14d5469a19df"
+        },
+        {
+          "Name": "Linda Heegaard",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "1041f8b0-bc25-47f8-a71d-14d5469a19df"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Byrådet tog orienteringen til efterretning. </p><br><br>Fraværende: Bjarke Abel, Linda Heegaard</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>Sagsprocedure</h2>\n<p>Byrådet.</p>\n<h2>Resume</h2>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på byrådets huskeliste, vil de blive vedlagt som bilag.</p>\n<h2>Indstilling</h2>\n<p><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n<h2><i></i></h2>\n<p> </p>\n<h2>\n<div>Administrationen orienterer om afgørelse af 15. december 2021 (vedlagt som bilag) fra Det Kommunale Tilsyn, hvorved tilsynet afviser at rejse en tilsynssag vedrørende en klage over borgmesterens håndtering af en sag om den tidligere kommunaldirektørs brug af kommunens kreditkort, herunder hvorvidt der er tilbageholdt informationer for byrådet og om borgmesterens er inhabil ved behandlingen af sagen.</div>\n<div>Afgørelse vedlagt som bilag. </div>\n</h2>\n<p> </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/1297ff48-89b2-411f-a3b1-b4c9ebfced5c",
+          "DocumentId": "1297ff48-89b2-411f-a3b1-b4c9ebfced5c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013712",
+      "Navn": "Orientering fra administrationen",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Tilsynets afgørelse af 15. december 2021",
+          "Id": "1becd29f-1333-4459-8226-d725c41c6904"
+        }
+      ],
+      "Documents": null,
+      "Id": "c315919c-ab41-4353-89e8-e00d087044a9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "8b2f1d8b-1257-4858-911b-465533ce6799",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "21-013712",
+      "SourceId": null,
+      "Caption": "Orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "c315919c-ab41-4353-89e8-e00d087044a9"
+        },
+        {
+          "Name": "Linda Heegaard",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "c315919c-ab41-4353-89e8-e00d087044a9"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Byr&aring;det godkendte &Oslash;konomiudvalgets indstilling.</p><p>Fraværende: Bjarke Abel, Linda Heegaard<br></p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-000056",
+      "Navn": "Lukket: Orientering om politiets afgørelse om anmeldelse af tidligere kommunaldirektør",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "befe5c27-00d5-4de4-97b7-46291cce4750",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "8b2f1d8b-1257-4858-911b-465533ce6799",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-000056",
+      "SourceId": null,
+      "Caption": "Lukket: Orientering om politiets afgørelse om anmeldelse af tidligere kommunaldirektør",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "befe5c27-00d5-4de4-97b7-46291cce4750"
+        },
+        {
+          "Name": "Linda Heegaard",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "befe5c27-00d5-4de4-97b7-46291cce4750"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>Sagsprocedure</h2>\n<p>Byrådet.</p>\n<h2>Resume</h2>\n<p>Elektronisk underskriftsark.</p>\n<h2></h2>\n<h2>\n<div> </div>\n</h2>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/12145c89-f48a-4cec-813e-702c9febdb3a",
+          "DocumentId": "12145c89-f48a-4cec-813e-702c9febdb3a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013699",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "922a9fc1-f627-4875-86b4-f4864ee3c86b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "8b2f1d8b-1257-4858-911b-465533ce6799",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-013699",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "bb801e8b-777b-401c-8224-2be3a973fb1b",
+    "Navn": "Byråd 2022-2025",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-01-14T08:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-01-14T08:00:00+01:00",
+    "Sted": "Byrådssalen",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Linda Heegaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Morten Dahlin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Tina Rottbøll",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Heidi Serny Jacobsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Pernille Beckmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Marc Genning",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Mehmet Zeki Dogru",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "8b2f1d8b-1257-4858-911b-465533ce6799",
+  "Lydfiler": null
+}

@@ -1,0 +1,424 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 9. marts<span> 2022.</span></div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r Godkendt.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/deef169f-d4be-49ae-b877-dfb64a2fba2e",
+          "DocumentId": "deef169f-d4be-49ae-b877-dfb64a2fba2e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014482",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "73cc9894-86ac-4969-a788-693f3e4298c0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014482",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Sagen orienterer om temamøde om udviklingen af Mosede Fort. Temamødet afholdes for hele Byrådet i forbindelse med Kultur- og Fritidsudvalgsmøde den 9. marts 2022. Forud for temamødet vil der være en rundvisning på Mosede Fort.</div> <h3>Indstilling</h3> </div> <div><em>Der skal ikke træffes beslutning på temamødet. Temamødet skal bruges til orientering, drøftelse og dialog.</em> <h3>Sagsbeskrivelse</h3> <div>Hele Byrådet er inviteret til temamøde om udviklingen af Mosede Fort onsdag den 9. marts i tidsrummet kl. 16.00-17.30 på Mosede Fort. Temamødet afholdes forud for Kultur- og Fritidsudvalgsmøde samme dag.</div> <div> </div> <div>Formålet er at præsentere byrådsmedlemmerne for idéerne bag ønsket om at udvikle Mosede Fort og ikke mindst fremlægge den nye forundersøgelse, som er gennemført i samarbejde med Realdania. Desuden vil der blive orienteret om den videre proces med fonde om mulig finansiering.<br> <br> </div> <div>Forundersøgelsen fremlægges som politisk sag på Kultur- og Fritidsudvalgets møde den 9. marts samt Klima-, Teknik- og Miljøudvalget den 21. marts og videresendes derefter til behandling i Økonomiudvalget og Byrådet.</div> <div> </div> <div>Forud for selve temamødet vil der være en rundvisning på Mosede Fort. Rundvisningen varetages af museet, og vil foregå i tidsrummet kl. 16.00-16.30. Deltagelse i rundvisningen er frivillig.</div> <h3></h3> <h3></h3> <h3>Tidsplan</h3> <div>Kl. 16.00-16.30: Rundvisning på Mosede Fort – mest udendørs og lidt inde i kasematterne.</div> <div> </div> <div>Kl. 16.30-17.30: Præsentation af forundersøgelsen.</div> <h3><span> <div> </div> </span></h3> <h3></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r Taget til efterretning.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a6048a06-ddd5-4152-a971-3f71fb153983",
+          "DocumentId": "a6048a06-ddd5-4152-a971-3f71fb153983"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002707",
+      "Navn": "Temamøde om udvikling af Mosede Fort inkl. rundvisning",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Mosede Fort - Præsentation",
+          "Id": "c190dd83-4da0-4842-994d-eae3bec93d2f"
+        }
+      ],
+      "Documents": null,
+      "Id": "c7254f6b-28d9-4dc4-a9f2-8d4d4cbc0f63",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-002707",
+      "SourceId": null,
+      "Caption": "Temamøde om udvikling af Mosede Fort inkl. rundvisning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1.-3. Anbefales.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3>Resume</h3> <div>Greve Museum har i 2021 gennemført en forundersøgelse af mulighederne for at udvide publikumsoplevelsen på Mosede Fort. Forundersøgelsen var støttet økonomisk af Realdania. På baggrund af undersøgelsens resultater belyser sagen ønsket om en dialog med fonde om finansiering af projektet, konsekvenser for den kommunale medfinansiering og den efterfølgende øgede afledte drift for Mosede Fort.</div> <div> </div> <div>Videreudviklingen af Mosede Fort har været drøftet og behandlet på byrådsmøder i 2020 (27. april, 22. juni og 16. november) og 2021 (17. maj).</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller,</em></div> <div><em> </em></div> <div><em>1. at forundersøgelsen godkendes med henblik på, at Greve Museum kan indlede dialog med fonde om finansiering af det samlede projekt i forundersøgelsen</em></div> <div><em> </em></div> <div><em>2. at byrådet udtrykker vilje til at afsætte yderligere anlægsmidler til Mosede Fort, såfremt der rejses fondsfinansering til projektet</em></div> <div><em> </em></div> <div><em>3. at byrådet udtrykker vilje til at afsætte yderligere driftsmidler til Mosede Fort, såfremt der rejses fondsfinansering til projektet</em></div> <h3>Sagsbeskrivelse</h3> <div><strong>Forundersøgelse og videreudvikling af Mosede Fort</strong></div> <div>Greve Museum har som mål at videreudvikle Mosede Fort til en attraktiv, oplevelsesrig og helhedsorienteret besøgsattraktion, som engagerer og begejstrer lokalsamfundet og sikrer, at endnu flere gæster møder den væsentlige historie om Danmark og verden under 1. Verdenskrig. Målet er at byde 30.000 gæster indenfor på det nye Mosede Fort i 2026. En ny restaurant, som kan benyttes af museets gæster og af lokalsamfundet, er en vigtig del af denne vision.</div> <div> </div> <div>Forundersøgelsen er udarbejdet i løbet af 2021. Den har vist, at målet alene kan opnås, hvis der samtidigt fokuseres på og investeres i flere forskellige elementer:</div> <div> </div> <div>1) En ny museums- og restaurantbygning på 800 m²<sup> </sup>med udstillingsfaciliteter, læringscenter og restaurant samt publikumsfaciliteter som billetsalg, butik, toiletter og garderobe.</div> <div> </div> <div>2) Et nyt læringscenter beliggende i museums- og restaurantbygningen med arbejdstitlen <em>Luftskibet.</em></div> <div><em> </em></div> <div>3) Fortets infirmeribygning ombygges til <em>Madværkstedet</em>.</div> <div> </div> <div>Udstillingerne i fortets kasematter med titlen <em>På kanten af krig </em>skal moderniseres. Den nye bygning skal rumme introudstilling og særudstillingen <em>Danskere i Den Store Krig</em>.</div> <div> </div> <div>4) Det fredede fortidsminde løftes gennem et samlet projekt: fysisk tilgængelighed, wayfinding og udendørs formidlingsløsninger.</div> <div> </div> <div>5) Fortgården sættes i stand. Ti små skure i de to tilbageværende kasernebygninger renoveres således, at de kan danne ramme omkring aktiviteter, formidlings- og opbevaringsformål.</div> <div> </div> <div>6) Det fulde resultat af forundersøgelsen kan ses i bilagene. Der henvises særligt til bilag 1, som præsenterer visionen (Nyt Mosede Fort). Bilag 3 går i dybden med museets forretningsplan, og bilag 4 handler om hensynet til de kulturhistoriske og naturmæssige værdier og placering af ny bygning.</div> <div><span> </span></div> <div><strong>Forandringer i projektet fra prospekt til forundersøgelse</strong></div> <div>Budgettet vedlagt sagen i juni 2020 lød på 27,4 mio. kr. (eksklusiv fondsmoms på 17,5 %). Forundersøgelsen har dog vist, at budgettet i stedet lyder på 63 mio. kr. (eksklusiv fondsmoms på 17,5 % - svarende til et samlet budget på 72 mio. kr. inkl. fondsmoms).</div> <div> </div> <div>Forskellen i budget skyldes, at den ønskede styrkelse af Mosede Fort forudsætter en større investering i en række elementer, herunder:</div> <div> </div> <ul>     <li style=\"\">En større museums- og restaurantbygning (fra 520 m² (2020) til 800 m²) med mere plads til undervisning og skiftende udstillinger.</li> </ul> <div> </div> <ul>     <li style=\"\">Nødvendige vedligeholdsarbejder og ombygninger af den eksisterende bygningsmasse, der understøtter ønsket om flere brugere.</li> </ul> <div> </div> <ul>     <li style=\"\">Tilgængelighed og formidling af det fredede fortidsminde til besøgende på det rekreative område.</li> </ul> <div> </div> <div>Desuden indeholder det nye budget en prissætning, som er mere nutidig i forhold til de nylige ændringer i rådgivnings- og byggeudgifter pr. kvm.</div> <div><span> </span></div> <div><strong>Finansiering og fondsstrategi</strong></div> <div>Projektet tænkes finansieret gennem bevilling fra Greve Kommune og private fonde. Det er museets strategi, at en række fonde skal kontaktes i april-maj 2022 med henblik på at afsøge mulig finansiering.</div> <div> </div> <div>Greve Kommune har allerede afsat 12,2 mio. kr. ud af de knapt 72 mio. kr., som er forundersøgelsens vurdering af investeringens omfang. Styregruppen vurderer efter en uformel indledende fondsdialog, at fondene har en forventning om en egenfinansiering fra Greve Kommune, der indebærer en højere relativ andel af den samlede udgift. Der skal også tages stilling til udgiften til fondsmoms.</div> <div> </div> <div>Detaljeret budget og finansieringsplan kan ses i bilag 2 (Økonomi, tidsplan og organisation).</div> <div><strong> </strong></div> <div><strong>Fredningsbestemmelser og myndighedsdialog</strong></div> <div>Mosede Fort er beskyttet af en række fredningsbestemmelser, som har gjort og vil gøre arbejdet komplekst. Projektet kan kun gennemføres i samarbejde med og efter godkendelse fra de relevante myndigheder. Styregruppen bag forundersøgelsen vurderer, at det fremlagte projekt er realistiske.</div> <h3>Lovgrundlag</h3> <div>Kommunestyrelseslovens § 40, stk. 2: Byrådet skal godkende alle indtægter fra eksterne parter, så der sikres politisk bevilling til både at modtage indtægten og til at afholde de relaterede udgifter.</div> <div> </div> <div>Museumsloven § 29e: Mosede Fort er et fredet fortidsminde omfattet af museumsloven. Fredningen omfatter også hele området omkring fortets kerne. Loven er pt. under revision.</div> <div> </div> <div>Naturbeskyttelsesloven § 15 (strandbeskyttelse): Strandbeskyttelseslinjen omfatter strandbredden og arealet op til 300 m bag strandbredden. Det betyder, at hele området mellem stranden og Mosede Strandvej er omfattet af strandbeskyttelsen.</div> <div> </div> <div>Naturbeskyttelsesloven § 18 (fortidsminder) og konkret den fredning, der hedder: ”Overfredningsnævnets afgørelse af 23. oktober 1961 og senere af fredningsnævnets afgørelse af 23. juni 1972 vedrørende Mosede Fort.”</div> <h3>Økonomiske konsekvenser</h3> <div><strong>Anlægsøkonomi</strong></div> <div>Det samlede anlægsbudget er på 63 mio. kr. ex. moms og 71,6 mio. kr. inkl. fondsmoms.</div> <div> </div> <div>Greve Kommune har allerede afsat 12,2 mio. kr. Heri er der indregnet to mio.kr fra vedligeholdspuljen, som skal anvendes i løbet af de kommende år på kasematterne. Dette skal der træffes endelig beslutning om i frigivelsessagen for det berørte anlægsår. Med et bidrag fra fonde på ca. 50 mio. kr. forventes Greve Kommune at tage hånd om de resterende udgifter (der i budgettet er angivet med XX, se bilag 2), herunder både projektomkostninger og udgifter til fondsmoms. Enkelte fonde er villige til at finansiere fondsmoms.</div> <div><br> <br> Det forventes som følge heraf, at de resterende udgifter, der ikke finansieres af fonde, beløber sig til et sted mellem fem og ti mio. kr. Derfor skal byrådet tilkendegive, om der er politisk vilje til at afsætte yderligere anlægsmidler og momsudgifter til Mosede Fort, såfremt der rejses fondsfinansering til projektet.<span></span></div> <div> </div> <div>Såfremt dette projekt gennemføres vil det presse anlægsrammen i de berørte anlægsår.</div> <div> </div> <div>Anlægsøkonomien er specificeret i bilag 2 (Økonomi, tidsplan og organisation).</div> <div> </div> <div><strong>Driftsøkonomi</strong></div> <div>Der er i de kommunale budgetter afsat 1,3 mio. kr. til et afledt driftsbudget for et udvidet Mosede Fort. Dette beløb var knyttet til et tidligere projekt (2017-18) om at etablere udstillinger i to renoverede og udvidede kasernebygninger i fortgården (”fredskaserner”). Ved en foreløbig genberegning af et driftsbudget knyttet til forundersøgelsens projekt fremkommer et højere samlet driftsbudget.</div> <div> </div> <div>Det samlede driftsbudget for Greve Museum i 2026 vil bestå af større udgifter til bl.a. løn (herunder museumspersonale og rengøring), el, vand, varme, bygningsvedligehold og markedsføring. Samtidigt forventes en øget indtægt fra bl.a. billetsalg. Dette vil dog ikke være nok til at dække de forøgede udgifter. Øgede driftsudgifter modregnet forventet merindtægt medfører et estimat på, at der er behov for yderligere afledt drift på 1,17 mio. kr. fra 2026. Derfor skal Byrådet tilkendegive, om der er politisk vilje til at afsætte yderligere driftsmidler til Mosede Fort, såfremt der rejses fondsfinansering til projektet.</div> <div> </div> <div>Driftsøkonomien er specificeret i bilag 2 (Økonomi, tidsplan og organisation).</div> <h3>Kommunikation</h3> <div>Greve Museum er ansvarlig for kommunikation om videreudviklingen af Mosede Fort. Kommunikationen koordineres med Greve Kommunes kommunikationschef og med eventuelle bevilgende fonde. En kommunikationsplan vedtages i fællesskab.</div> <h3>Tidsplan</h3> </div> <div>Styregruppen bag forundersøgelsen har kvalificeret tidsplanen for projektet. I nedenstående tidsplan, som er en overordnet forventet skitse, er der afsat tid til politisk behandling, dialog med fonde om finansiering, forberedelse af byggeri og selve byggeriet. Tidsplanen er søgt optimeret. </div> <div> </div> <div>2022            Fonde søges</div> <div>2023            Udbud og arkitektkonkurrence, projektering af byggeri</div> <div>2024            Myndighedsgodkendelser, igangsættelse af byggeri</div> <div>2025            Byggeri</div> <div>2026            Indretning, opbygning af udstillinger, indvielse af ny museums- og restaurantbygning</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r <div>1.-3. Anbefales.</div> <div> </div><br>\r \r <u>21-03-2022 Klima-, Teknik- og Miljøudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>28-03-2022 Økonomiudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>04-04-2022 Byråd 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/22cf7464-8b8d-4715-aa84-9fac7db38e0c",
+          "DocumentId": "22cf7464-8b8d-4715-aa84-9fac7db38e0c"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002011",
+      "Navn": "Mosede Fort, forundersøgelse og fundraising",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Nyt Mosede Fort",
+          "Id": "3d5a5551-c404-4604-ad71-3973ce75eb7c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Nyt Mosede Fort - Økonomi, tidsplan og organisation",
+          "Id": "c2abd7e4-6d4f-40a4-98e0-ee6e95b82214"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Nyt Mosede Fort - Forretningsplan 2022-2026",
+          "Id": "270c73d9-e660-40d9-910e-973f4d6f8d1f"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - Nyt Mosede Fort - Kulturhistoriske og naturmæssige værdier",
+          "Id": "b48785b2-4264-41c1-96bb-ce20dd72e4f4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5 - Nyt Mosede Fort - Fra kystbatteri til fredet fortidsminde 1908-1970",
+          "Id": "f927a6d4-a3c4-4778-8be5-e1f12b5bd744"
+        }
+      ],
+      "Documents": null,
+      "Id": "970f37f4-4a15-4180-a025-84e67a666adc",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-002011",
+      "SourceId": null,
+      "Caption": "Mosede Fort, forundersøgelse og fundraising",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1. Ikke godkendt. Udvalget godkendte at medlemstilskuddet udbetales efter scenarie b. </div> <div>2. Godkendt.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Der skal udbetales medlemstilskud og lokaletilskud for 2022 til de folkeoplysende foreninger. Kulturministeren udsendte den 22. december 2021 en bekendtgørelse, som gør det muligt at fravige Folkeoplysningsloven. Derfor anbefaler administrationen forskellige scenarier for udbetaling af medlemstilskud og lokaletilskud i 2022. </div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller at Kultur- og Fritidsudvalget godkender,</em></div> <div><em>1. at medlemstilskud udbetales efter scenarie a og de aktuelle tal for 2021 som beskrevet i Greveordningen</em></div> <div><em>2. at lokaletilskud udbetales som normalt og som beskrevet i Greveordningen.</em></div> <h3>Sagsbeskrivelse</h3> <div><strong>Baggrund</strong></div> <div>De folkeoplysende foreninger har indberettet deres medlemstal for 2021, som danner grundlag for medlemstilskud i 2022. Foreningerne har ligeledes ansøgt om lokaletilskud i 2022 på baggrund af deres driftsudgifter og aktivitetstimer for 2021.</div> <div> </div> <div>Derudover har Kulturministeriet den 22. december 2021 udsendt en ny bekendtgørelse (BEK nr. 2559, bilag 2) om visse midlertidige foranstaltninger for den frie folkeoplysende virksomhed som led i forebyggelse og afhjælpning i forbindelse med Covid-19. Bekendtgørelsen har været sat i kraft af flere omgange under hele perioden med Covid-19 siden 2020. Der er endnu ingen slutdato for bekendtgørelsen.</div> <div> </div> <div>Bekendtgørelsen giver kommunerne hjemmel til at fortsætte de kommunale tilskud til aktiviteter, lokaler  med videre for såvel den folkeoplysende voksenundervisning som de frivillige folkeoplysende foreninger. Denne sag omhandler kun tilskud til de folkeoplysende foreninger. Aftenskolerne har endnu ikke indsendt deres afrapportering for 2021, derfor kommer der en særskilt sag for aftenskolerne på Kultur- og Fritidsudvalgets møde den 27. april 2022.</div> <div> </div> <div><strong>Folkeoplysende foreninger</strong></div> <div>Bekendtgørelsen har i 2022 endnu ikke haft nogen særlig betydning for de folkeoplysende foreninger, da de kun blev opfordret til at indstille indendørs aktiviteter frem til den 5. januar 2022, svarende til den periode, hvor mange foreninger holder juleferie. Men medlemstilskud og lokaletilskud i 2022 kan udbetales med afsæt i bekendtgørelsen.</div> <div><em> </em></div> <div><em>Medlemstilskud</em></div> <div>Medlemstilskud udbetales på baggrund af medlemstal fra året før. De folkeoplysende foreninger har indberettet deres medlemstal for 2021, som danner grundlag for deres medlemstilskud i 2022. Administrationen har analyseret medlemstallene fra 2021 og har sammenholdt udviklingen  med tal fra 2018 til 2021.</div> <div> </div> <div>I 2021 blev medlemstilskud udbetalt med afsæt i bekendtgørelsen og på baggrund af medlemstal fra 2019, da medlemstallene for 2020 viste en stor tilbagegang. Men i forhold til 2020, har der i 2021 været en medlemsfremgang på i alt 423 medlemmer fordelt på 85 foreninger, som har indberettet medlemstal. Heraf har 70 foreninger medlemmer under 25 år og har en fremgang på i alt 351 medlemmer (oversigt i bilag 1). Udviklingen fra 2018 og frem til 2021 er således:</div> <div> <img alt=\"\" src=\"data:image/png;base64,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\"></div> <div>Der er en samlet fremgang og tegn på en normalisering i forhold til medlemstallene før Covid-19, men der er stadig foreninger, som har oplevet en tilbagegang i medlemstal i både 2020 og 2021.  På den baggrund foreslås der to scenarier (a og b) for udbetaling af medlemstilskud i 2022:</div> <div><em> </em></div> <div><em>a) Tilskud udbetales efter de aktuelle medlemstal for 2021 og i henhold til Greveordningen/Folkeoplysningsloven. </em></div> <div>Udviklingen i medlemstal fra 2020 til 2021 har ikke større frem- eller tilbagegang end året 2018 til 2019 før Covid-19. Derud over er der både frem- og tilbagegang indenfor samme type af foreninger, således at der er spejdergrupper, der har haft fremgang og andre spejdergrupper, der har haft en tilbagegang. Det samme gør sig gældende for fodboldklubber, hvor der også både er frem- og tilbagegang. På den baggrund kan det konkluderes, at medlemstallene er ved at normaliseres i forhold til 2020, hvor der var et stort dyk som følge af Covid-19.</div> <div> </div> <div>Medlemstilskud udbetales på baggrund af en takst pr. medlem. Taksten fastsættes for henholdsvis idrætsforeninger og fritidsforeninger efter den samlede budgetramme for medlemstilskud. Der skal for 2022 udbetales tilskud til i alt 12.125 medlemmer under 25 år. </div> <div> </div> <div><em>b) Tilskud korrigeres for foreninger med tilbagegang i forhold til 2019 i henhold til bekendtgørelsen</em></div> <div>Der er foreninger, hvor der kan spores en tilbagegang i både 2020 og i 2021, og hvor tegnene på en normalisering er svagere. I alt har 21 foreninger haft en tilbagegang i både 2020 og 2021 ud af 70 foreninger. Derfor kan bekendtgørelsen sættes i spil og tilskuddet kan udbetales på baggrund af de højere medlemstal for 2019, for at kompensere de 21 foreningerne for deres tilbagegang.</div> <div> </div> <div>Hvis medlemstilskuddet for 21 foreninger udbetales efter de højere medlemstal i 2019, skal der udbetales tilskud til i alt 12.784 medlemmer. Det er 659 medlemmer mere, end hvis vi kun bruger medlemstal for 2021 (scenarie a). Da der udbetales på baggrund af en fast budgetramme, vil dette betyde, at taksten pr. medlem bliver lavere for alle 70 foreninger. Cirka 150.000 kr. af den samlede budgetrammen på i alt 3.107.738 kr. vil gå til at understøtte foreninger i tilbagegang.</div> <div> </div> <div><em>Høringssvar fra Idrætsrådet og Fritidsrådet  og administrationens anbefaling<span> </span></em></div> <div>Fritidsrådet anbefaler i deres høringssvar (bilag 3), at medlemstilskud udbetales efter scenarie a, hvilket er de aktuelle medlemstal og som beskrevet i Greveordningen. Begrundelsen herfor er, at de foreninger som har haft en stor medlemstilbagegang i 2020, blev kompenseret i forbindelse med udbetaling af medlemstilskud 2021.</div> <div> </div> <div>Idrætsrådet anbefaler i deres høringssvar (bilag 4), at medlemstilskud udbetales efter scenarie b, hvor de 21 foreninger, der har tilbagegang, får udbetalt på baggrund af tal for 2019, som er muligt i henhold til bekendtgørelsen. Et flertal i Idrætsrådet begrundet dette med, at denne tilskudsmodel kommer flest medlemmer under 25 år til gode. Idrætsrådet anbefaler desuden, at det er sidste gang, der foretages en korrektion for foreninger med tilbagegang i forhold til 2019.</div> <div> </div> <div><em>Administrationens anbefaling</em></div> <div>Da der er tegn på en normalisering, så er det administrationens anbefaling, at medlemstilskuddet udbetales efter scenarie a og på baggrund af de aktuelle tal fra 2021 og gældende regler i Greveordningen. Begrundelsen herfor er, at alle foreninger behandles ens, uanset om de har en frem- eller tilbagegang. Der vil således ikke være brug for at fravige Folkeoplysningsloven, som bekendtgørelsen åbner op for. </div> <div> </div> <div><em>Lokaletilskud</em></div> <div>Foreningerne har søgt om lokaletilskud på baggrund af deres driftsudgifter og aktivitetstimer for medlemmer under 25 år i 2021, som det også er beskrevet i Greveordningen. Administrationen anbefaler at fastholde modellen fra Greveordningen, da det er de reelle udgifter til drift, forbrug og vedligehold i 2021, der er afgørende for, hvor stort et lokaletilskud foreningen kan modtage. Modellen for lokaletilskud tager ikke afsæt i antallet af aktivitetstimer men i forholdet mellem aktivitetstimer for medlemmer over og under 25 år. Derfor spiller aflyste aktivitetstimer som følge af coronanedlukningen ingen væsentlig rolle. </div> <h3><span>Lovgrundlag</span></h3> <div>Bekendtgørelsen gør det muligt at fravige de fastsatte betingelser og regler for foreninger i folkeoplysningslovens §§ 15, 16, 25 og 26 og regler fastsat i medfør heraf. §15 som omhandler medlemstilskud til folkeoplysende foreninger. §§ 25 og 26 som omhandler lokaletilskud.</div> <div> </div> <div><span>For de folkeoplysende foreninger giver bekendtgørelsen således mulighed for</span></div> <ul>     <li>at udbetale medlemstilskud selvom aktiviteter for medlemmer under 25 år har været aflyst.</li>     <li>at udbetale lokaletilskud selvom aktiviteter for medlemmer har vært aflyst.</li>     <li>at udbetale tilskud tidligere, hvis foreningerne har brug for det fremrykke udbetalingen af tilskud.</li>     <li>at Kultur og Fritidsudvalget kan fastsætte særlige regler om afregning for det udbetalte tilskud og kan kræve tilskud tilbagebetalt, hvis der ikke er dokumentation for faktisk afholdte udgifter.</li> </ul> <h3>Økonomiske konsekvenser</h3> <div><span>Medlems- og lokaletilskud udbetales indenfor den afsatte ramme til formålet i budgettet.</span></div> <h3><span>Tidsplan</span></h3> <div><span>Medlemstilskud udbetales inden den 1. maj 2022 og lokaletilskud udbetales i løbet af maj 2022 jævnfør Greveordningen.</span></div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r <div>1. Ikke godkendt. Udvalget godkendte at medlemstilskuddet udbetales efter scenarie b. </div> <div>2. Godkendt.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/ab5ee4c5-01c4-4bb7-9b2e-63d58891a7e2",
+          "DocumentId": "ab5ee4c5-01c4-4bb7-9b2e-63d58891a7e2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002301",
+      "Navn": "Udbetaling af lokaletilskud og medlemstilskud til foreninger i 2022",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Medlemmer under 25 år, 2018-2021",
+          "Id": "27ad205d-a776-43fd-beac-faffcb8bd9b6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Bekendtgørelse om visse midlertidige foranstaltninger for den frie folkeoplysende virksomhed",
+          "Id": "0183a8f6-b1a3-4377-aee4-3f6745480783"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Høringssvar vedr. medlemstilskud - Fritidsråd den 02.03.2022",
+          "Id": "42a0df4e-938a-4d0e-b79e-a23630442d1e"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - Høringssvar vedr. medlemstilskud -  Idrætsrådet",
+          "Id": "686b87bd-b122-4fd6-85d1-2abe1d2613ec"
+        }
+      ],
+      "Documents": null,
+      "Id": "7ca2ab05-f5ab-4639-9174-21cfbfeb496d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-002301",
+      "SourceId": null,
+      "Caption": "Udbetaling af lokaletilskud og medlemstilskud til foreninger i 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1. Kan ikke anbefales. Udvalget anbefaler, at pengene forankres i Kultur- og Fritidsudvalget med et tæt samarbejde med dagtilbuds- og skoleområdet. Udvalget ønsker, at der nedsættes en ekspertgruppe med lokale resursepersoner blandt borgerne, som skal medvirke til at kvalificere, hvordan midlerne kan opnå bedst anvendelse for at styrke motorikken.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Kultur- og Fritidsudvalget, Skole-, Børne- og Ungeudvalget, Økonomiudvalget og Byrådet</div> <h3><span>Resume</span></h3> <div>Børne- og Skoleudvalget og Kultur- og Fritidsudvalget besluttede på deres møder henholdsvis den 27. maj 2021 og den 26. maj 2021, at der skulle udarbejdes et driftsudvidelsesforslag om motorik til børn i Greve kommune. I budgettet blev forslaget vedtaget med 0,5 mio. kr. i 2022. I sagerne til Børne- og Skoleudvalget og Kultur- og Fritidsudvalget i maj 2021 var der opstillet tre mulige modeller for arbejdet med motorik. </div> <div> </div> <div>Begge udvalg ønskede model 3. Prisen for denne model blev estimeret til mellem 1,5 mio. kr. og 1,8 mio. kr. Med budgettet på 0.5 mio.kr. i 2022 er det således ikke muligt at få den ønskede model. I det følgende beskrives mulighederne for at arbejde med motorik i 2022 for 0,5 mio. kr.</div> <h3>Indstilling</h3> <div><span> </span><em>Center for Politik, Organisation & Borgerbetjening indstiller til Kultur- og Fritidsudvalget,</em></div> <div><em>1.  at bevillingen på 0,5 mio. kr. til motorik for børn i Greve under budgetområde 4.02 Fritid flyttes til Skole-, Børne- og Ungeudvalget, budgetområde afhængig af valgte model</em></div> <div><em><br> </em><em>Center <em>for Politik, Organisation & Borgerbetjening indstiller til <em>Skole-, Børne- og Ungeudvalget,</em></em></em></div> <div><em>2. at udvalget beslutter om målgruppen for projektet skal være være storbørnegrupper eller spireforløb</em></div> <div><em>3. </em><em>at udvalget vælger hvilken af de fire muligheder, der skal arbejdes med i 2022</em></div> <div><em> </em></div> <h3>Sagsbeskrivelse</h3> <div>I det følgende beskrives fire muligheder for at arbejde med motorik i Greve Kommune i 2022. Der tages udgangspunkt i en afgrænset målgruppe, enten storbørnegrupper der er de ældste børn i daginstitutionen eller de kommunale folkeskolers spireforløb, der er de børn der lige er stoppet i daginstitutionen og starter i førskole samt 0. klasse. I budgettet står der, at der skal arbejdes med motorik for børn mellem fem og syv år. Begge grupper falder indenfor denne aldersgruppe og det er grundet økonomien ikke muligt at arbejde med begge målgrupper i projektet.</div> <div> </div> <div>2022 bruges som en periode, hvor der afprøves et tiltag omkring motorik, der indsamles viden og erfaringer og måles om der er en effekt for børnene. Tiltaget evalueres og der kan derefter tages stilling til, om der fremover skal afsættes økonomi til at fortsætte arbejdet med motorik i Greve Kommune. Arbejdet med motorik skal perspektiveres i et samarbejde med fysioterapeuterne fra PPR og sundhedsplejen i Greve Kommune.</div> <div> </div> <div>I det følgende beskrives de fire muligheder for at arbejde med motorik i Greve i 2022.</div> <div> </div> <div><strong>1 - DGI certificering</strong></div> <div>Den første mulighed fokuserer på kompetenceudvikling af pædagoger i 2022, så de i årene frem er klædt på til at lave motorik med børnene.</div> <div> </div> <div>Første mulighed er at få DGI certificeret flere daginstitutioner i Greve Kommune. På nuværende tidspunkt er der fire idræts certificerede daginstitutioner ud af i alt 19 kommunale, syv selvejende og tre private daginstitutioner. En DGI certificering af en daginstitution koster ca. 40.000 kr. ex moms for 15 timers uddannelse af op til 25 deltagere fra daginstitutionen. Det tager et år at blive certificeret som idræts-, leg og bevægelses børnehave i DGI. Det vil derfor være muligt, at få yderligere 12 daginstitutioner DGI certificeret for den halve mio. kr. Hvis denne mulighed vælges, vil det være relevant at kigge på den geografiske placering af de daginstitutioner, der skal igennem DGI forløbet, så der sikres en geografisk spredning fordelt over hele kommunen.</div> <div> </div> <div>En DGI certificering har fokus på kompetenceudvikling af personalet i børnehave/vuggestue med fokus på at kunne skabe forskellige rum og rammer for at få børn i bevægelse. Forløbet introducerer målrettede aktiviteter, men der er også fokus på konkrete værktøjer til at planlægge og afvikle bevægelsesaktiviteter som en naturlig del af hverdagen.</div> <div> </div> <div>En DGI certificering skal holdes ved lige og kræver årligt en re-certificering hvis institutionen fortsat vil være DGI certificeret. Re-certificeringen koster 6.500 kr.</div> <div> </div> <div><strong>2 - Kompetenceudvikling</strong></div> <div>Den anden mulighed har også fokus på kompetenceudvikling af pædagogerne i daginstitutionerne til mere og bedre motorik med børnene. Her kunne man ansætte en motorik uddannet specialist i en projektstilling i 2022. Denne specialist vil kunne lave forløb med fokus på kompetenceudvikling af pædagogerne, så de i årene frem er klædt på til at en øget motorikindsats med børnene. Specialisten kan tage rundt til daginstitutionerne for at hjælpe dem med at inkorporere motorik i dagligdagen i den enkelte daginstitution. </div> <div> </div> <div>Pædagogerne vil blive inkluderet i den indledende proces, så de får ejerskab over ændringerne. Det kan eksempelvis være at indrette arealer, så de opfordrer mere til udfordrende bevægelse og aktiv leg i daginstitutionerne.</div> <div> </div> <div><strong>3 - Aktivitetsforløb</strong></div> <div>Den tredje mulighed har fokus på aktiviteter for børn. Det vil dreje sig om storbørnegrupper i daginstitutionerne i 2022. Denne mulighed kommer umiddelbart kun denne gruppe børn til gode.</div> <div> </div> <div>Den tredje mulighed baserer sig på at give børnene et forløb, hvor de helt konkret udvikler bedre motoriske færdigheder. Motorikforløbene for børnene kan enten forestås af en motorikuddannet specialist der ansættes i en projektstilling eller der kan hyres en privat udbyder. Det kan også søges at indgå en aftale med en eller flere foreninger, der vil kunne forestå forløbene. Det har Ringsted og Køge Kommuner erfaring med. Projekterne i disse kommuner er dog fortløbende og derfor ikke aftaler for et år.</div> <div> </div> <div>En bekymring kan være, om foreningernes fokus vil være på denne type samarbejde og aktivitet i denne coronasituation, hvor foreningerne har mange andre forhold at forholde sig til.</div> <div> </div> <div>Det er også et opmærksomhedspunkt, om det er muligt at finde ledige hal-tider til disse aktiviteter, da hallerne i Greve Kommune er meget optagede.</div> <div> </div> <div><strong>4 - Kombination af kompetenceudvikling og aktivitetsforløb</strong></div> <div>Den fjerde mulighed er at kombinere kompetenceudvikling af pædagogerne med aktivitetsforløb for børnene. Denne mulighed vil på grund af arbejdet med både kompetenceudvikling og aktiviteter kun være mulig for omkring 10-12 daginstitutioner i 2022. Her kunne der ansættes en specialist i motorik i en projektansættelse i 2022 og denne specialist skulle lave aktivitetsforløb for børnene med praksisnær kompetenceudvikling af pædagogerne. Det kunne både foregå i haller og i daginstitutionerne, hvor specialisten også kunne hjælpe pædagogerne med at inkorporere motorik i hverdagen. Med denne mulighed vil man både få aktiviteter for børnene og kompetenceudvikling af pædagoger.</div> <div> </div> <div><strong>Evaluering efter projektet</strong></div> <div>Når arbejdet med en af valgmulighederne er er afsluttet, bliver det evalueret med fokus på, om børnene har opnået bedre motorik og der således er en effekt af arbejdet. Alle fire forløb præsenteret ovenfor, har fokus på motorik for børn i Greve Kommune på forskellige måder. De 0,5 mio. kr. i 2022 giver mulighed for at afprøve et af forløbene på projektbasis for at afprøve effekterne og tage stilling til om der skal afsættes økonomi til arbejdet fremadrettet.</div> <div> </div> <div><strong>Administrationens anbefaling</strong></div> <div>Den faglige anbefaling er, at der bør arbejdes med storbørnegrupper i daginstitutioner i dette projekt, da det er lettere at indgå aftaler med disse frem for spireforløb i skolerne, da skolernes årsplanlægning foregår en gang årligt.</div> <div> </div> <div>Den faglige anbefaling er at vælge model 4, hvor der både er fokus på praksisnær kompetenceudvikling af personalet og motorikaktiviteter for børn. Dette vil have effekt i en længere årrække, da børnene har haft konkrete aktiviteter og pædagogerne samtidig har fået kompetenceudvikling med fokus på, hvordan motorik kan bruges i deres konkrete institution og deres nærområde i dagligdagen.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Der er afsat 0,5 mio. kr. i 2022 under Kultur- og Fritidsudvalgets budgetområde 4.02 Fritid. Dette søges med denne indstilling flyttes til Skole-, Børne- og Ungeudvalgets budgetområde afhængig af valgte model.<em> </em> Ovenstående aktiviteter afholdes indenfor det afsatte budget på 0,5 mio. kr.</div> <h3><span>Tidsplan</span></h3> <div>Arbejdet igangsættes i 2022.</div> <div> </div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r 1. Kan ikke anbefales. Udvalget anbefaler, at pengene forankres i Kultur- og Fritidsudvalget med et tæt samarbejde med dagtilbuds- og skoleområdet. Udvalget ønsker, at der nedsættes en ekspertgruppe med lokale resursepersoner blandt borgerne, som skal medvirke til at kvalificere, hvordan midlerne kan opnå bedst anvendelse for at styrke motorikken.<br>\r \r <u>15-03-2022 Skole-, Børne- og Ungeudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>28-03-2022 Økonomiudvalget 2022</u><br>\r Beslutning ikke frigivet<br>\r \r <u>04-04-2022 Byråd 2022</u><br>\r Beslutning ikke frigivet<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4a8ab8b7-2993-4876-a0f6-ab4c89574114",
+          "DocumentId": "4a8ab8b7-2993-4876-a0f6-ab4c89574114"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-005074",
+      "Navn": "Motorik for børn i Greve",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "9b218444-cd51-439e-8295-e5978140a1e0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-005074",
+      "SourceId": null,
+      "Caption": "Motorik for børn i Greve",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Formanden orienterede om, </div> <div>- at Greve Awards er i proces og der er inviteret til at give indstillinger til de forskellige priser,</div> <div>- at børnenytårskoncerten netop er afviklet,</div> <div>- at der er kommende borgermøde om Villa Sitka, hvor vi politikere også kan deltage,</div> <div>- at der har været afholdt 50 års jubilæum i roklubben,</div> <div>- at der er modtaget en ansøgning fra lokalhistorisk forening, der ansøger midler fra kommunen. Ønsker sagen forelagt for Kultur- og Fritidsudvalget.</div> <div> </div> <div>Maria Witthøft (A) bragte spørgsmål om kontrakt med Kogræsserforeningen ved Greve Marina op. Administrationen orienterede om, at det ikke er et anliggende for Kultur og Fritidsudvalget, og henviser i stedet til Center for Teknik & Miljø eller Klima-, Teknik- og Miljøudvalget.</div> <div> </div> <div>Charlotte Levin (A) bragte et spørgsmål om brug af varmtvandsbassinet i Greve Svømmehal op på vegne af en borger. Administrationen anbefalede at tage kontakt til brugerrådet i Greve Svømmehal.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></div> <h3><i><br> </i></h3> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r <div>Formanden orienterede om, </div> <div>- at Greve Awards er i proces og der er inviteret til at give indstillinger til de forskellige priser,</div> <div>- at børnenytårskoncerten netop er afviklet,</div> <div>- at der er kommende borgermøde om Villa Sitka, hvor vi politikere også kan deltage,</div> <div>- at der har været afholdt 50 års jubilæum i roklubben,</div> <div>- at der er modtaget en ansøgning fra lokalhistorisk forening, der ansøger midler fra kommunen. Ønsker sagen forelagt for Kultur- og Fritidsudvalget.</div> <div> </div> <div>Maria Witthøft (A) bragte spørgsmål om kontrakt med Kogræsserforeningen ved Greve Marina op. Administrationen orienterede om, at det ikke er et anliggende for Kultur og Fritidsudvalget, og henviser i stedet til Center for Teknik & Miljø eller Klima-, Teknik- og Miljøudvalget.</div> <div> </div> <div>Charlotte Levin (A) bragte et spørgsmål om brug af varmtvandsbassinet i Greve Svømmehal op på vegne af en borger. Administrationen anbefalede at tage kontakt til brugerrådet i Greve Svømmehal.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/131f5281-9b9a-4ef0-855a-7eb0f92c636e",
+          "DocumentId": "131f5281-9b9a-4ef0-855a-7eb0f92c636e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014479",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c31789d6-b488-43df-9733-7237c471c898",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-014479",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Borgermødet om Villa Sikta kan læses her: <a href=\"https://greve.dk/villasitka\" target=\"_blank\">https://greve.dk/villasitka</a></div> <div> </div> <div>Orienteringerne blev taget til efterretning. </div> <div> </div> <div>Yderligere gav administrationen en kort status om forpagtning på Café Langsiden. Det aftales, at der afholdes et online møde med skriftlig godkendelse forud for det kommende Økonomiudvalgsmøde.</div> <div><b> </b></div> <div>Orienteringen blev taget til efterretning.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen har følgende til orientering:</div> <div> </div> <ul>     <li style=\"\">Foreningen BROEN Greve har taget kontakt til Spejderforeningerne i Greve Kommune om at få et samarbejde med de lokale spejderforeninger ifm. Spejdernes Lejr 2022 og ligeledes FDFs sommerlejr 2022. Broen vil meget gerne opfordre til, at spejderforeningerne søger Broen, hvis de har kendskab til børn, der ikke kan deltage på Spejdernes Lejr på grund af dårlig økonomi. Det er blevet besluttet, at Broen dækker hele beløbet.</li> </ul> <div> </div> <ul>     <li style=\"\">Klage over afgørelse i Idrætspuljen fra Bushikan Karate. Administrationen vurderer, at afgørelsen  fastholdes.</li> </ul> <div> </div> <ul>     <li style=\"\">Der afholdes borgermøde om Villa Sitka den 22. marts 2022. Det starter med åbent hus i Villa Sitka kl. 14.45. Derefter fortsætter selve borgermødet kl. 16.00-18.00 i Greve Borgerhus. </li> </ul> <div> </div> <div> </div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r <div>Borgermødet om Villa Sikta kan læses her: <a href=\"https://greve.dk/villasitka\" target=\"_blank\">https://greve.dk/villasitka</a></div> <div> </div> <div>Orienteringerne blev taget til efterretning. </div> <div> </div> <div>Yderligere gav administrationen en kort status om forpagtning på Café Langsiden. Det aftales, at der afholdes et online møde med skriftlig godkendelse forud for det kommende Økonomiudvalgsmøde.</div> <div><b> </b></div> <div>Orienteringen blev taget til efterretning.</div><br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/037c2076-0aa6-4275-9200-d885b2154034",
+          "DocumentId": "037c2076-0aa6-4275-9200-d885b2154034"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013714",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "51676d3d-ae61-4a8d-bd6a-7c9f495dad22",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-013714",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Kultur- og Fritidsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><i>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</i></div> <h3>Sagsbeskrivelse</h3> <div>Kalenderen er vedhæftet som bilag.</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r Taget til efterretning.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/83acdb1e-6f53-4761-89a6-9d66d09edfb4",
+          "DocumentId": "83acdb1e-6f53-4761-89a6-9d66d09edfb4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014480",
+      "Navn": "Kultur- og Fritidsudvalgets kalender 2022",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kultur- og Fritidsudvalgets kalender 2022",
+          "Id": "52935913-5677-4b5c-95de-0d7884525466"
+        }
+      ],
+      "Documents": null,
+      "Id": "b3d56eb5-8937-467e-b9fa-71e051ca7f90",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-014480",
+      "SourceId": null,
+      "Caption": "Kultur- og Fritidsudvalgets kalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div> <div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>09-03-2022 Kultur- og Fritidsudvalget 2022</u><br>\r  <br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a9266162-134e-4048-9dba-920780298224",
+          "DocumentId": "a9266162-134e-4048-9dba-920780298224"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014481",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "dcfa2ff4-72a6-4d47-8bb3-decd0335edb4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-014481",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "425869ca-7441-4d9d-b497-27bc7d5bbbc2",
+    "Navn": "Kultur- og Fritidsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-03-09T17:30:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-03-09T17:30:00+01:00",
+    "Sted": "Mosede Fort",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "4722ea2b-7cd4-4ba3-9d00-471a0f79c61c",
+  "Lydfiler": null
+}

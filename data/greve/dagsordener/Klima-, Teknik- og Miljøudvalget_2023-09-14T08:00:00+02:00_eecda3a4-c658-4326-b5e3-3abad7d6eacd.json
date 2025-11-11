@@ -1,0 +1,732 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Godkendt.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden for møde den 14. september 2023.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at dagsordenen godkendes.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7b41af3a-6fe7-429e-9d70-5c1d89d467dc",
+          "DocumentId": "7b41af3a-6fe7-429e-9d70-5c1d89d467dc"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014454",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5dbb9a01-7a65-4fa2-a5f8-c17fa5ac2c65",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014454",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1. Godkendt, idet mødet i september afvikles den 5. september 2024</p>\n<p>2. Godkendt.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>Klima-, Teknik- og Miljøudvalget skal tage stilling til udvalgets mødekalender for 2024 på baggrund af den godkendte mødekalender for Byrådet og Økonomiudvalget i 2024.</p>\n<p>Udkast til udvalgets mødekalender er udarbejdet, så der tages hensyn til sagernes videre forløb i Økonomiudvalget og Byrådet.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller,</i></p>\n<p><i>1. at de foreslåede mødekalender for Klima-, Teknik- og Miljøudvalget godkendes</i></p>\n<p><i>2. at den faste mødedag bliver torsdag, og det faste mødetidspunkt bliver kl. 08.00.</i></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den 4. september 2023 godkendte Byrådet datoerne for Økonomiudvalget og Byrådet i 2024. Det blev besluttet, at afholde ni årlige møder i henholdsvis Byrådet og Økonomiudvalget i lighed med 2023.</p>\n<p>Klima-, Teknik- og Miljøudvalgets møder i 2024 foreslås placeres på torsdage med mødetidspunkt kl. 8.00 i lighed med 2023.</p>\n<p>Møderne foreslås holdt:</p>\n<p>15. januar</p>\n<p>8. februar</p>\n<p>14. marts</p>\n<p>25. april</p>\n<p>30. maj</p>\n<p>15. august</p>\n<p>19. september alternativt den 5. september</p>\n<p>10. oktober</p>\n<p>21. november</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Udgifterne til mødeforplejning mv. holdes inden for udvalgets budgetramme.</p>\n<h4>Kommunikation</h4>\n<p>Den godkendte mødekalender vil blive offentliggjort på kommunens hjemmeside og mødedagene vil blive skrevet ind i kalender for Byrådets medlemmer.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/aa3b9cfe-d429-42fc-b0c3-32045f31199b",
+          "DocumentId": "aa3b9cfe-d429-42fc-b0c3-32045f31199b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005195",
+      "Navn": "Mødekalender 2024 for Klima-, Teknik- og Miljøudvalget",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Politisk mødekalender 2024",
+          "Id": "8c863a98-8aa4-4f08-945b-94cb37870325"
+        }
+      ],
+      "Documents": null,
+      "Id": "793575fe-1b63-4c91-a411-6ab4d6c422aa",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "23-005195",
+      "SourceId": null,
+      "Caption": "Mødekalender 2024 for Klima-, Teknik- og Miljøudvalget",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1. Anbefales, idet udvalget bemærker, at det er nødvendigt at udvælge dele, som kan analyseres mere fokuseret, så økonomien bliver mere sikker. <br>\n2. Udvalget anbefaler,<br>\na. at en videre proces afventer analysen for Strandvejen som barriere mod stormflod.  <br>\nb. at der i den videre proces lægges vægt på delstrækningen Greve Centervej til den nordlige kommunegrænse. Her især fokus på hastighedsdæmpende foranstaltninger nord for Godsvej og cykelsti og fortov omkring Jerismosevej <br>\n<br>\n<strong>Ikke til stede: </strong>Simon Østergaard (V)</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>På Byrådsmødet den 15. maj 2023 blev det besluttet at få udarbejdet en foranalyse samt anlægsoverslag for en Klimastrandvej.  </p>\n<p>Der redegøres for den foranalyse, som rådgiverfirmaet Cowi i samarbejde med administrationen har udarbejdet. Hele strækningen gennemgås med forslag til principper for nye vejprofiler med henblik på øget trafiksikkerhed og bedre funktionalitet. Herudover fremlægges et estimeret anlægsoverslag på en ombygning af Strandvejen fordelt på syv delstrækninger. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol>\n    <li><em> at foranalysen  samt anlægsoverslag for en Klimastrandvej tages til efterretning.</em></li>\n    <li><em> at der tages stilling til den videre proces</em></li>\n</ol>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet besluttede den 15. maj 2023 (pkt. 33), pris, indhold og opgavebeskrivelse på en foranalyse af, hvordan Strandvejen i Greve Kommune kan omdannes til en Klimastrandvej.</p>\n<p>Rådgiverfirmaet Cowi har i samarbejde med administrationen udarbejdet ideer til en Klimastrandvej med fokus på følgende fire emner:</p>\n<ol>\n    <li>Omdannelse fra to til et spor på de nordlige fire km af strækningen</li>\n    <li>Trafiksikre løsninger til at \"vende\" og indbygning af p-pladser på hele strækningen</li>\n    <li>Etablering af bredere cykelsti og fortov på hele strækningen</li>\n    <li>Forskønnelser ved grønne beplantninger og små \"torvepladser\" på hele strækningen.</li>\n</ol>\n<p>Med udgangspunkt i Helhedsplanen for Strandvejsområdet samt observationer langs strækningen, fremgår der af foranalysen bud på, via idéskitser og beskrivelser, hvordan Strandvejen opnår et mere trafiksikkert og funktionelt forløb. Strækningen er i analysen delt op i syv delstrækninger, som hver især tager højde for de enkelte delstrækningers lokale forhold og forskellige behov og byder ind med principper for, hvordan man bedst muligt får indarbejdet de fire ovenstående emner i de enkelte delstrækninger.  </p>\n<p>De grundlæggende principper for hele strækningen er, at der er ét spor i hver retning, og at midterhellen generelt bibeholdes, for at sikre adskillelsen mellem de to kørebaner. Midterhellen foreslås anlagt med lave, affasede kantsten, så den er nem at krydse for gående, og så udrykningskøretøjer kan krydse ved særlige hændelser. </p>\n<p>Parkeringslommerne afbrydes jævnligt af plantebede og vejtræer, så strækningen fremstår mest mulig grøn. Ved buslommer og sideveje er beplantningen lav, så oversigtsforholdene tilgodeses.</p>\n<p>Kørebanen skydes fra den ene side til den anden, dels som trafikdæmpende foranstaltning, men også for at give plads til brede fortove og mindre pladser, så der opnås brede fodgængerarealer ved caféer og forretninger. Dette ses f.eks. ved Cafe Jenners (jf. bilag 5, Idéskitse 3). Ved sideveje, hvor det er muligt, skydes kørebanen ligeledes, så man som udkørende fra en sidevej først passerer fortov/cykelsti og derefter kan vente ved en sidehelle, inden der køres videre ud på vejen. Dette tiltag sikrer bedre oversigtsmuligheder ved udkørsel, og princippet fremgår flere steder (jf. bilag 2 side 7 og bilag 8, Snit B).</p>\n<p>Det foreslås, at hastigheden flere steder på strækningen sættes ned fra 50 km/t til 40 km/t med et indsnævret kørespor på ca. 3,35 m, hvilket også anbefales i Vejreglerne. </p>\n<p>Parkering anbefales fortsat at være længdeparkering, da det optager mindst mulig plads i forhold til skråparkering eller vinkelparkering. Antallet af p-pladser er uændret, men pladserne fordeles efter behov, så der er flere parkeringsmuligheder ved caféer, forretninger samt Hundigeparken og strandadgange (jf. bilag 4, Idéskitse 2, ud for Strandlyst Allé) hvor der er mulighed for at etablere flere p-pladser. Vejprofilet med parkering er ligeledes  i bilag 7, Snit A.</p>\n<p>Cykelsti og fortov er i dag adskilt med opstribning og foreslås adskilt med kantsten i stedet for. De nuværende vendepladser bibeholdes, og der tilføjes ekstra vendepladser på flere delstrækninger, for at undgå for lange mellemrum. Placeringerne af vendepladserne er markeret på idéskitserne (jf. bilag 3-6, Idéskitser).</p>\n<p>På hele strækningen tilpasses vejkryds de nye vejprofiler. I den nordlige ende, hvor vejbanerne indsnævres fra to til en bane, vil højre kørebane blive ændret til en højresvingsbane, således at der kun er en ligeudbane i det signalregulerede kryds. Hvor der er en venstresvingsbane, kan det ændres til vending. Er venstresvingsbanen nødvendig at bevare, skal det ved detailprojektering vurderes, om venstresvingsbanen skal være et bundet venstresving, da det er en vigtig trafiksikkerhedsmæssig foranstaltning. Et bundet venstresving kræver en helle mellem venstresvingsbanen og ligeudbanen (jf. eksempel i bilag 3, Idéskitse 1), ved krydset Hundige Strandvej og Godsvej. </p>\n<p><em><strong>Den videre proces</strong></em></p>\n<p>Det kan fx besluttes, at den videre proces skal afvente en cost-benefitanalyse af muligheden for at anvende Strandvejen som stormflodsbarriere. Denne analyse skal udføres som en del af stormflodsplanen, og kan få betydning for indretningen af Strandvejen i det hele taget. Det vil derfor give god mening at den videre beslutning om forbedringer på Strandvejen afventer dette.</p>\n<p>I den videre proces kan det også besluttes, at der udarbejdes bruttoanlægsforslag til et kommende budget til en mere detaljeret projektskitse af en eller flere delstrækninger efter politisk valg. Hvis der er en pulje til Vej- og Landskabsområdet, kan det i stedet besluttes at anvende en del af denne til det næste niveau af konkretisering. </p>\n<p>Ved en skitsering og undersøgelse af de eksisterende forhold kan man mindske usikkerhederne og få et mere klart billede af, hvad en ombygning kræver samt de økonomiske konsekvenser. Det vil samtidig være i denne fase at der sker en borgerinddragelse i de forskellige løsninger. Først herefter kan der foretages en endelige detailprojektering og et udbud af opgaverne. </p>\n<p>Det er også en mulighed at lade principper og ideskitser i den nuværende analyse indgå i en evt. kommende trafiksikkerhedsplan. Projekterne vil da afvente en samlet prioritering af trafiksikkerhedsarbejdet i kommunen.</p>\n<h4>Lovgrundlag</h4>\n<p>Vejloven</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Cowi har udarbejdet et anlægsoverslag for omlægning af hele Strandvejen, som beskrevet i foranalysen. </p>\n<p>Anlægsoverslaget indeholder udover materialer, udgifter til projektering, tilsyn og administration, som er estimeret til 25%, samt udgifter til deponi af overskudsjord. Idet anlægsoverslaget er baseret på idéskitser og et usikkert grundlag, er der tillagt et relativt stort risikotillæg på 50 %. Dette risikotillæg vil forventeligt kunne reduceres i de kommende faser af projektet, når grundlaget og forudsætningerne, detaljeringsgraden af projekteringen og anlægsoverslaget er mere nøjagtigt.</p>\n<p>Det forventede budget for den samlede skitserede ombygning er i alt ca. 640 mio. kr. Dvs. ca. 415 mio. kr. plus et risikotillæg på 225 mio. kr. (jf. bilag 1, Anlægsoverslag). I bilaget er prisen på de syv delstrækninger opgjort hver for sig.</p>\n<p>I prisen er det forudsat, at bundopbygningen kan genbruges, og at jorden kun er lettere forurenet. Derudover skal det bemærkes, at overslaget ikke medregner forholdsvis store poster som ledningsarbejder, afvanding, ombygning af kryds og rundkørsler samt udskiftning af belysning, som i dag er med luftledninger. Disse ubekendte kan give relativt store ekstraudgifter til det beregnede anlægsoverslag.</p>\n<p>Anlægspriserne er meget høje i øjeblikket, da der er stor efterspørgsel i branchen. Cowi's vurdering er dog, at der ikke er noget, der tyder på, at priserne vil falde i nærmeste fremtid.  </p>\n<p>Der er pt. ikke afsat midler på Investeringsoversigten til Strandvejen.</p>\n<p> </p>\n<h4>Øvrige konsekvenser</h4>\n<p>Jf. Greve Kommunes Risikostyringsplan mod stormflod skal der foretages en analyse af muligheden for at anvende Strandvejen som barriere mod stormflod. Behovet for at anvende Strandvejen som sikring mod stormflod er jf. Byrådets beslutning den 15. maj 2023 (pkt. 33) ikke indtænkt i nærværende foranalyse. Der er dog forslag om at frigive midler til analysen som en del af Klimapuljen på Byrådets møde den 4. september 2023.</p>\n<h4>Kommunikation</h4>\n<p>Der er ikke planlagt kommunikation i forbindelse med foranalysen. Hvis det besluttes at konkretisere og arbejde mere detaljeret med dele af analysen, vil der ske en inddragelse af interessenter i området.</p>\n<h4>Tidsplan</h4>\n<p>For at hele eller dele af analysen kan implementeres, skal der afsættes midler i budgettet til skitseprojekter og udførelse.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/70cc531d-0021-4be0-973d-728b53e1ac88",
+          "DocumentId": "70cc531d-0021-4be0-973d-728b53e1ac88"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-006272",
+      "Navn": "Klimastrandvej - foranalyse og anlægsoverslag",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Anlægsoverslag",
+          "Id": "1aba4c2c-bcab-4e34-94a0-e1a1cc6268a1"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Klimastrandvej Foranalyse",
+          "Id": "f25a046a-1272-4459-a438-32438c3aa5b7"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Idéskitse 1",
+          "Id": "60a08385-350d-4c0b-a6b3-a9e9678a0f66"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - Idéskitse 2",
+          "Id": "628a57f4-c5a5-4bb5-b442-721d46e7a183"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5 - Idéskitse 3",
+          "Id": "8a5dc863-33fe-472c-bae0-6b3dd116677c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 6 - Idéskitse 4",
+          "Id": "f389f617-5285-408e-81f5-864f664e1859"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 7 - Snit A",
+          "Id": "3321fbba-5b29-4177-989b-cd65276ae70a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 8 - Snit B",
+          "Id": "056f3ac3-5ea4-4e71-9fa9-99cf055c2cc6"
+        }
+      ],
+      "Documents": null,
+      "Id": "d7c7769e-f38f-4a1e-8e73-372c20496699",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-006272",
+      "SourceId": null,
+      "Caption": "Klimastrandvej - foranalyse og anlægsoverslag",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1.-4. Godkendt.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div class=\"WordSection1\">\n<h4>Sagsprocedure</h4>\n<p>Klima- Teknik og Miljøudvalget og Skole-, Børne- og Ungeudvalget.</p>\n<h4>Resume</h4>\n<p>Resultatet af  skolevejsanalysen for Hedelyskolen fremlægges. Analysen\nindeholder en række konkrete forslag til forbedring af trafiksikkerheden og\npåvirkning af trafikantadfærden. Der kan tages beslutning om, ikke at\ngennemføre en  analyse for Krogårdsskolen og i stedet benytte pengene på\nkonkrete initiativer. De større projekter i skolevejsanalysen kan desuden indgå\ni en kommende trafiksikkerhedsplan.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller over for Klima-, Teknik- og Miljøudvalget:</em></p>\n<ol start=\"1\" style=\"list-style-type: decimal;\">\n    <li><em>at \"Skolevejsanalyse for Hedelyskolen -\n    Projektkatalog\" (jf. bilag 1) godkendes</em></li>\n    <li><em>at der ikke gennemføres en skolevejsanalyse for\n    Krogårdsskolen, men at ideerne fra Hedelyskolen også anvendes på\n    Krogårdsskolen</em></li>\n    <li><em>at de resterende midler på ca. 200.000 kr. til analyse\n    på Krogårdsskolen i stedet afsættes til at udføre konkrete tiltag på de to\n    skoler</em></li>\n    <li><em>at de større tiltag fra projektkataloget medtages i en\n    kommende trafiksikkerhedsplan</em></li>\n</ol>\n<p><em>Administrationen\nindstiller over for Skole-, Børne- og Ungeudvalget</em></p>\n<ol start=\"5\" style=\"list-style-type: decimal;\">\n    <li><em>at orienteringen tages til efterretning.</em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>Klima-, Teknik- og Miljøudvalget besluttede den 27. februar 2020 (pkt. 5), at\nigangsætte to skolevejsanalyser med særligt fokus på trafikantadfærd. </p>\n<p><em><strong>Skolevejsanalysens indhold</strong></em></p>\n<p>Administrationen har i tæt samarbejde med en trafikrådgiver udarbejdet\n\"Skolevejsanalyse for Hedelyskolen - Projektkatalog\" (jf. bilag\n1). </p>\n<p>Analysen og kataloget indeholder en række konkrete oplæg til forbedring af\ntrafiksikkerhed og tryghed og er udarbejdet med input fra:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Elever, som på to workshops har udpeget og beskrevet\n    udfordringer samt udarbejdet tiltag til at forbedre den trafikale adfærd\n    ved skolen</li>\n    <li>Forældre og skoleledelse, som på to workshops har\n    udpeget og beskrevet udfordringer samt drøftet løsningsprincipper og\n    vejledning ved ankomst til skolen</li>\n    <li>Greve Kommunes administration, som på en workshop har\n    drøftet løsningsprincipper og specifikke forhold</li>\n</ul>\n<p>Som en del af analysen har administrationen og trafikrådgiveren i hovedtræk\nudført følgende:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Fysisk gennemgang af vej- og stiområder efter\n    principperne for best practice for trafiksikkerhed</li>\n    <li>Observationer og registreringer af trafikanternes\n    adfærd om morgenen før mødetid</li>\n    <li>Drone- og videoregistreringer om morgenen før\n    mødetid </li>\n    <li>Tællinger af trafikanter på udvalgte lokaliteter</li>\n    <li>Gennemgang af foreliggende trafik- og uheldsdata</li>\n</ul>\n<p>Skolevejsanalysen viser, at der omkring Hedelyskolen er en række\nudfordringer med uhensigtsmæssig adfærd i trafikken. Et eksempel er bilernes\nhøje fart - det skaber utryghed for elever på cykel og til fods. Det samme\ngælder ulovlig parkering - der er konstateret udfordringer med parkerede biler\npå bussens vendeplads, i fodgængerfeltet foran skolen og uden for\nparkeringsbåse i øvrigt. Brug af mobiltelefoner og cykler mv. på fortovet er\nandre problematikker.</p>\n<p>Herudover er der konstateret uhensigtsmæssig trafikal adfærd som følge af,\nat trafikanterne er i tvivl om, hvordan de skal benytte veje og stier mest hensigtsmæssigt.\nDet gælder ikke mindst på vejen foran skolen, hvor både elever og skoleledelse\ner i tvivl om, i hvilken retning cykelbanen skal benyttes. </p>\n<p>Projektkataloget indeholder projektark for hvert af de steder, hvor der er\nkonstateret udfordringer. I projektarkene er der opstillet forskellige\nløsningsmuligheder samt et oplæg til tiltag. Administrationen anbefaler, at de\nstørre projekter, der er i projektkataloget, tages med i prioriteringen i en evt.\nkommende trafiksikkerhedsplan. </p>\n<p>Der er også beskrevet nogle konkrete \"midlertidige\" tiltag,\nsom anbefales implementeret for ca. 100.000 kr. fra midlerne til en analyse på\nKrogårdsskolen. Det anbefales videre, at der arbejdes med erfaringerne om\ntrafikantadfærden, og de gode idéer bredes ud til Krogårdsskolen ved brug af de\nresterende midler til Krogårdsskolens skoleanalyse.</p>\n<p>På baggrund af observationer af adfærd samt dialog med elever, forældre og\nskolens ledelse er der lagt op til en række tiltag på Hedelyskolen. Tiltagene\ner samlet i et skema, som udgør første version af et årshjul for trafiktiltag\npå Hedelyskolen (jf. bilag 5). Årshjulet omfatter ikke anlægsprojekter.\nHedelyskolen kan løbende justere årshjulet. Hvert år ved planlægning af\nskolestart kan være et godt tidspunkt at se på, om årshjulet skal justeres.\nIdeen med årshjulet er et af de tiltag, der tænkes udbredt til Krogårdsskolen.</p>\n<p>Administrationen foreslår således, at der ikke gennemføres en tilsvarende\nanalyse på Krogårdsskolen, men at pengene i stedet anvendes til at gennemføre\nkonkrete tiltag jf. analysens adfærdspåvirkende tiltag på Krogårdsskolen og\nkonkrete tiltag på Hedelyskolen, finansieret af den resterende pulje på 200.000\nkr., der allerede er afsat til en skolevejsanalyse ved Krogårdsskolen.</p>\n<p><em>Trafiksikkerhedsrådet</em></p>\n<p>Skolevejsanalysen er blevet præsenteret for Trafiksikkerhedsrådet på mødet\nden 17. august 2023. Trafiksikkerhedsrådet tog skolevejsanalysen til\nefterretning.</p>\n<h4>Lovgrundlag</h4>\n<p>De i projektkataloget nævnte tiltag skal drøftes med politiet eller andre\nmyndigheder, før de kan gennemføres. Hvis der skal etableres nye skilte eller\nandet, der regulerer færdslen, skal politiet også godkende det.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>\"Skolevejanalyse for Hedelyskolen - Projektkatalog\" indeholder en\nrække adfærdsændrende tiltag, der kan igangsættes uden større omkostninger - det\ngælder plakater, skiltning og drift på stier. </p>\n<p>Der er også mere omkostningstunge projekter, som i stedet bør prioriteres i\nen sammenhæng med andre trafiksikkerhedsprojekter i kommunen. Det kan fx ske i\nforbindelse med udarbejdelsen af en trafiksikkerhedsplan. </p>\n<h4>Kommunikation</h4>\n<p>Udover projektkataloget har trafikrådgiveren sammen med elever på skolen\nudviklet et demonstrationsprojekt bestående af plakater med trafiksikre\nbudskaber (jf. bilag 2). Plakaterne er blevet sat op på veje og stier ved skolen\ni august 2023. Der er desuden udarbejdet en vejledning til trafikanterne ved\nankomst til skolen om morgenen (jf. bilag 3) samt et kort med anbefalede ruter\ntil skole (jf. bilag 4). </p>\n<p>Hvis indstillingen tiltrædes, vil initiativer på Krogårdsskolen blive udført\ni dialog og samarbejde med skolen og skolebestyrelsen.</p>\n<h4>Tidsplan</h4>\n<p>Hvis indstillingen tiltrædes, forventes de konkrete tiltag at blive udført\npå Hedelyskolen i 2023, mens de adfærdsændrende tiltag på Krogårdsskolen\nskal passes ind i skolens program i øvrigt, og derfor evt. går ind i 2024.</p>\n</div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>12-09-2023 Skole-, Børne- og Ungeudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">5. Orienteringen blev taget til efterretning.</p>\n<p> </p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/40575070-0136-4a32-bc99-fc9779ff0f95",
+          "DocumentId": "40575070-0136-4a32-bc99-fc9779ff0f95"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-001832",
+      "Navn": "Hedelyskolen - skolevejsanalyse",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Skolevejsanalyse for Hedelyskolen - Projektkatalog",
+          "Id": "43206b83-8239-4691-b592-a083a36464a3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Elevernes plakater",
+          "Id": "8bf8a3cb-091b-443e-ab33-f1d1f332b5d4"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Vejledning ved ankomst om morgenen",
+          "Id": "f3ac08a4-d50c-4c07-bebd-454b691f1536"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Anbefalede ruter til skole",
+          "Id": "60fdaa41-8657-4b35-84f3-ac9a8ff5f37a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5. Årshjul",
+          "Id": "bd42304e-712a-4366-bae7-c46d512467cf"
+        }
+      ],
+      "Documents": null,
+      "Id": "a5e7359b-994a-4dbb-9358-5ade9805269c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "23-001832",
+      "SourceId": null,
+      "Caption": "Hedelyskolen - skolevejsanalyse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Anbefales.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget, Byrådet.</p>\n<h4>Resume</h4>\n<p>I sagen redegøres der for beregning af nye gebyrer for jordflytninger og anmeldelser\naf erhvervsaffald i 2024. Kommunen er forpligtiget til at redegøre for\nstørrelsen af gebyrerne. Administrationen offentliggør de nye takster på\nhjemmesiden, sammen med alle nye takster for 2024 under gebyrbladet. Gebyret\nhar jf. beslutning i Byrådet den 20. december 2021 hidtil været 771\nkr. pr. time.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at timeprisen for jordflytning og konkret anmeldelse af erhvervsaffald<em> på 887 kr. </em>godkendes <em>for 2024 og frem</em> </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kommunalbestyrelsen skal fastsætte og opkræve et gebyr hos virksomheder, der\nanmelder flytning af jord, som er erhvervsaffald. Kommunalbestyrelsen skal ligeledes fastsætte og opkræve et gebyr hos virksomheder, som har konkrete anvisninger af erhvervsaffald. Til sagsbehandling og\nhåndtering af jordflytninger bruges et eksternt IT-system, der også håndterer opkrævning af gebyrer. </p>\n<p>Jordflytningsgebyret skal dække\nkommunens omkostninger i forbindelse med anmeldelse og dokumentation ved\nflytning af jord, efter \"hvile i sig selv-princippet\". Gebyret for konkret anvisning af erhvervsaffald skal ligeledes \"hvile i sig selv\".</p>\n<p>Pr. 1. januar 2019 blev det generelle administrationsgebyr, som landets\nkommuner opkrævede fra 2010 til og med 2018, afskaffet. Alle virksomheder skulle\nindtil da betale dette administrationsgebyr for at dække en række af kommunens\nadministrative opgaver på affaldsområdet, herunder udarbejdelse af\naffaldsplaner og regulativer, anvisning af affald og anmeldeordning for\njordflytning.</p>\n<p>I 2019 blev kommunens udgifter i stedet finansieret af midler fra staten (DUT). </p>\n<p>Dette blev ændret således, at kommunerne fra 2022 skal opkræve gebyr\nfor håndtering af jordflytninger og for konkrete anvisninger af erhvervsaffald. </p>\n<p>De seneste gebyrer blev godkendt af Byrådet den 20. december 2021 (pkt. 32). Dette gebyr har været fastholdt siden.</p>\n<p>For 2024 er gebyrerne nu igen beregnet ud fra de hidtidige erfaringer med den tid der bliver brugt på opgaverne, og de udgifter der er forbundet med opgaverne. Gebyret er beregnet til 887 kr. pr. time (jf. bilag 1).</p>\n<h4>Lovgrundlag</h4>\n<p>BEK nr. 1536 af 16/12/2022 - Affaldsaktørbekendtgørelsen §18, stk. 3 og 4</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Med gebyrerne skal kommunens opgaver i forbindelse med sagsbehandlingen på\ndisse opgaver være udgiftsneutrale.</p>\n<p>Jordflytningsgebyret skal opkræves hos alle virksomheder, som anmelder\nflytning af jord, som er erhvervsaffald.</p>\n<p><span>Anvisningsgebyret skal opkræves hos alle virksomheder i Greve Kommune, som kommunen giver en konkret anvisning til håndtering af deres affald. Det er meget sjældent, at denne ydelse bliver brugt.</span></p>\n<p>Gebyrerne skal dække samtlige udgifter, inklusiv lønudgifter og IT, som\nkommunen har i forbindelse med at udføre opgaverne med håndtering af anmeldelse af jordflytning og konkrete anvisninger af\naffald.</p>\n<h4>Kommunikation</h4>\n<p>De vedtagne gebyrer vil blive offentliggjort på kommunens hjemmeside.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/74610c7f-9387-41b6-8100-1dea7ff4886a",
+          "DocumentId": "74610c7f-9387-41b6-8100-1dea7ff4886a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-007629",
+      "Navn": "Jordflytning- og erhvervsaffaldsgebyr 2024",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Beregning af gebyrer",
+          "Id": "16c72223-9f0d-46da-91f5-191b3dc654f6"
+        }
+      ],
+      "Documents": null,
+      "Id": "870b8f30-efbb-4f79-b611-3b7c8f6267c6",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "23-007629",
+      "SourceId": null,
+      "Caption": "Jordflytning- og erhvervsaffaldsgebyr 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1.-2. Anbefales.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.<br>\n</p>\n<h4>Resume</h4>\n<p>Kommunerne kan, i henhold til Byggeloven, vælge at opkræve gebyrer for byggetilladelser efter Bygningsreglementet. Gebyrer kan enten opkræves efter forbrugt tid til sagsbehandlingen eller som fast gebyr på 1.124 kr. pr. byggesag. Det kan endvidere besluttes ikke at opkræve et gebyr.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,<br>\n1. at byggesagsgebyret for 2024 fastsættes til 786 kr. pr. time for alle typer af byggesager<br>\n2. at instruks jf. bilag 1 for opkrævning af byggesagsgebyrer 2024 godkendes</em><br>\n</p>\n<h4>Sagsbeskrivelse</h4>\n<p>I 2023 opkræves der 817 kr. pr. time for alle typer af byggesager. </p>\n<p>For 2024 er der foretaget en fornyet beregning, og der foreslås et gebyr på 786 kr. pr. time svarende til den maksimale udgift til byggesagsomkostninger pr. time (jf. bilag 2). Gebyr er beregnet ud fra kommunens regnskabstal, hvor det sidst godkendte regnskab er fra 2022. Udgiften vedrørende 2024 er herefter beregnet på baggrund af de kendte udgifter i 2022, antallet af byggesagsbehandlere og deres effektive timer. Dette regnes sammen til en timepris, der er pristalsreguleret til 2024 niveau.</p>\n<p>Ifølge Bygningsreglement 2018´s Vejledning om gebyr for kommunens sagsbehandling på byggesagsområdet, må gebyrindtægterne ikke overstige de omkostninger kommunen har i forbindelse med byggesagsbehandlingen. Der må kun opkræves gebyrer i relation til byggeloven. Der må således ikke opkræves gebyr for f.eks. behandling af dispensationsansøgninger vedrørende lokalplaner samt landzonetilladelser. Gebyret er fastsat ud fra en beregning af både direkte og indirekte udgifter ud fra et forsigtighedsprincip der sikrer, at der ikke opkræves et højere gebyr, end der er er udgifter til.</p>\n<p>\nFrem for at opkræve byggesagsgebyrer i form af en timepris, kan det alternativt vælges at opkræve et fast beløb på maksimalt 1.124 kr. pr. byggesag. Beløbet pristalsreguleres hvert år i januar måned. Administrationen vurderer, at denne mulighed ikke er relevant, idet indtægten i så fald ikke vil dække de reelle udgifter til sagsbehandlingen, som da i højere grad skal skattefinansieres.</p>\n<p>Administrationen anbefaler, at der som hidtil opkræves et gebyr, som svarer til den udgift kommunen har pr. time til sagsbehandlingen. Beregning af timepris for byggesagsbehandling fremgår af bilag 2.<br>\n<br>\nI henhold til Bygningsreglement 2018´s Vejledning om gebyr for kommunens sagsbehandling på byggesagsområdet, skal der udarbejdes en intern instruktion i kommunen, som beskriver hvordan gebyrordningen håndteres. Instruks for opkrævning af byggesagsgebyrer 2024 fremgår af bilag 1. Instruksen følger den vejledning, som fremgår af bygningsreglement 2018, og instruksen er ikke ændret i forhold til tidligere.<br>\n</p>\n<h4>Lovgrundlag</h4>\n<p>Byggelovens § 28, Bygningsreglement 2018 § 39.<br>\n</p>\n<h4>Økonomiske konsekvenser</h4>\n<p>Der er i 2023 budgetteret med en indtægt på ca. 1,3 mio. kr. i byggesagsgebyrer. Indtægten er afhængig af, hvor mange af byggesager, der kan opkræves gebyr for, der behandles. Da den forventede indtægt har været for høj i en årrække er budgettet foreslået tilpasset ved anden budgetopfølgning og som en teknisk rettelse i budgetlægningen for 2024 og frem.</p>\n<h4>Kommunikation</h4>\n<p>De vedtagne takster vil blive offentliggjort på kommunens hjemmeside.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0988308e-e12c-41d2-8424-f3661b7211ca",
+          "DocumentId": "0988308e-e12c-41d2-8424-f3661b7211ca"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-008108",
+      "Navn": "Byggesagsgebyrer 2024",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Instruks for opkrævning af byggesagsgebyrer 2024",
+          "Id": "96b7a3e8-4eac-4697-9699-2752489db9bf"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Beregning af maksimal timepris for byggesagsbehandling 2024.",
+          "Id": "1f82bb5e-44be-4441-8ee3-4e8f7cf7e612"
+        }
+      ],
+      "Documents": null,
+      "Id": "df8b96b7-17fd-4cd3-9094-ee3c832d5038",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "23-008108",
+      "SourceId": null,
+      "Caption": "Byggesagsgebyrer 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1.-2. Anbefales.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Byrådet har afsat en pulje i 2022-2026 til \"Besparelser på udgifter til\nel, ventilation, varmegenvinding\". Byrådet skal godkende, at der kan\nudføres yderligere projekter på Greve Idræts- og Fritidscenter indenfor samme\nbevilling, idet der oprindeligt kun var planlagt at gennemføre et projekt\ni hal to. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at anlægsbevillingen på 2,5 mio. kr. også kan anvendes\n    til varmegenindvinding på Greve Idræts- og Fritidscenter, hal et, tre\n    og fire samt tennishallen  </em></li>\n    <li><em>at prioriteringen dermed bliver</em></li>\n</ol>\n<p><em>a. Greve Idræts- og Fritidscenter,\nhal et-fire og tennishallen - optimerer varmeanlæg (hal to er udført) </em></p>\n<p><em>b. Klub Godset – omlægning af gammelt et-strenget\nradiator og varmesystem</em></p>\n<p><em>c. Daginstitutionsområdet – optimering af\nvarme/ventilationsanlæg</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Byrådet godkendte den 19. juni 2023 (pkt. 20), hvilke projekter der skulle\nudføres i 2023, så der kan opnås besparelser på udgifter til el, ventilation og\nvarmegenvinding.</p>\n<p>Der er afsat et rådighedsbeløb på 2,5 mio. kr. til ny energioptimering af\nvarme/ventilationsanlæg i 2023, med en samlet forudsat driftsbesparelse på\n312.500 kr. om året - svarende til en gennemsnitlig tilbagebetalingstid på 6-10\når.  </p>\n<p>Projekterne er valgt ud fra princippet om, hvilke projekter der hurtigst kan\nigangsættes, og som lever op til kravene om tilbagebetalingstid og\nenergieffektivisering.  </p>\n<p>På Greve Idræts- og Fritidscenter er der i år udført et energiprojekt i hal\nto omkring optimering af varmen, så den varme luft under loftet kan\ngenvindes ved hjælp af store langsomt roterende ventilatorer. Idet\nprojektet har vist energibesparelser med en forventelig tilbagebetalingstid på\n2-3 år, foreslås det at omprioritere årets energiprojekter i\nvarmegenvindingspuljen og således udføre tilsvarende projekter på alle hallerne\ni Greve Idræts- og Fritidscenter, det vil sige i hal et, tre, fire og\ntennishallen. Det har samtidig vist sig at disse energiprojekter på Greve\nIdræts- og Fritidscenter er meget hurtige at udføre (ca. én dag pr. hal),\nog derfor kun i mindre grad er til gene for brugerne. Energiprojekter af denne\ntype vil i de kommende år kunne skaleres op til andre haller i kommunen.</p>\n<p>Den anbefalede omprioriterede projektliste:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Greve Idræts- og Fritidscenter - hal et-fire og\n    tennishallen - optimerer varmeanlæg (hal to er udført)</li>\n    <li>Klub Godset – omlægning af gammelt et-strenget radiator\n    og varmesystem</li>\n    <li>Daginstitutionsområdet – optimering af\n    varme/ventilationsanlæg</li>\n</ul>\n<p>På Klub Godset er der i dag et gammelt og ineffektivt et-strenget radiator-\nog varmesystem. Varmekilden er gas, men adressen står overfor at skulle\nkonverteres til fjernvarme i 2023 (dog afhængig af endelige plan fra Greve Fjernvarme).\nDerfor bør bygningen energioptimeres så den er klargjort til den fremtidig\nfjernvarmekonvertering.  </p>\n<p>På baggrund af opskaleringen af energiprojekterne på Greve Idræts- og\nFritidscenter forventes det nu, at der i år er midler til at energioptimere\nen-to daginstitutioner, altså en mindre nedskalering her, idet der tidligere\nforventeligt var midler til at energioptimere tre daginstitutioner. På\ndaginstitutionsområdet handler projekterne om at energirenovere udtjente og\nineffektive ventilationsanlæg.</p>\n<h4>Lovgrundlag</h4>\n<p>Bygningsreglementet</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har ingen økonomiske konsekvenser, da der alene omprioriteres, hvad\nmidlerne anvendes til. </p>\n<p>Samlet set er der til projekterne givet en anlægsbevilling på 2,5 mio. kr.\nfinansieret af det til formålet afsatte rådighedsbeløb i 2023.</p>\n<p>Driftsbesparelsen er med ovenstående tiltag fortsat på 312.500 kr. om året\nfra 2024 og frem.</p>\n<h4>Kommunikation</h4>\n<p>Brugerne af bygningerne vil blive informeret om arbejdet, og tidsplaner vil\nblev planlagt, så det giver mindst mulig gene for aktiviteterne i\nbygningerne. </p>\n<h4>Tidsplan</h4>\n<p>Projekterne forventes færdiggjort i løbet af 2023. Administrationen vil\nvende tilbage omkring årsskiftet om projekter til udførelse i 2024 og frem.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4967739e-5167-4b68-8663-b4ef33df98c5",
+          "DocumentId": "4967739e-5167-4b68-8663-b4ef33df98c5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-004869",
+      "Navn": "Varmegenvindingspulje 2023 - projektjustering",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "6301f16d-f41f-4dc0-9782-8589032198c9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "23-004869",
+      "SourceId": null,
+      "Caption": "Varmegenvindingspulje 2023 - projektjustering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>1. a. og b. Godkendt<br>\n2. a.-d.&nbsp; Godkendt<br>\n3. a.-c. Godkendt, idet der skal arbejdes med kommunikation til borgerne om de &aelig;ndrede forhold p&aring; is&aelig;r gr&aelig;ssl&aring;ning og saltv&aelig;rn.<br>\n<br>\n<strong>Ikke til stede:</strong> Simon &Oslash;stergaard (V)</div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-005807",
+      "Navn": "Lukket: Kontrakt for drift af veje og grønne områder - tilpasning",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "84a6f268-e99d-4106-9464-57702d5c48a4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "23-005807",
+      "SourceId": null,
+      "Caption": "Lukket: Kontrakt for drift af veje og grønne områder - tilpasning",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">2. orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4><span>Sagsprocedure</span></h4>\n<p><span>Plan- og Tryghedsudvalget,\nKlima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</span></p>\n<h4><span>Resume</span></h4>\n<p><span>I sagen beskrives den samlede\ntværkommunale plan som input til anlægslov for Køge Bugt Strandpark. Anlægsloven\nskal muliggøre en modernisering af Strandparken på den lange bane. Planen skal\nses som en form for udspil fra ejerkommunerne til den politiske behandling på\nChristiansborg, herunder de berørte ministerier og styrelser. I forbindelse med\nforhandlingerne kan der derfor ske tilpasninger af det endelige indhold.</span></p>\n<h4><span>Indstilling</span></h4>\n<p><em><span>Administrationen\nindstiller, </span></em></p>\n<p><em><span>1. at Plan- og\nTryghedsudvalget godkender den samlede tværkommunale plan som input til\nanlægslov for Køge Bugt Strandpark.</span></em></p>\n<p><em><span>Administrationen\nindstiller </span></em></p>\n<p><em><span>2. at Klima-, Teknik- og\nMiljøudvalget tager det samlede input til anlægsloven til efterretning.</span></em></p>\n<h4><span>Sagsbeskrivelse</span></h4>\n<p><span>For at muliggøre ønskerne om\nmodernisering af Køge Bugt Strandpark er strandparkskommunerne i dialog med\nBolig- og Planstyrelsen om en anlægslov. Rammerne for loven fremgår af en\nprincipaftale, som kommunerne og Indenrigs- og Boligministeren tiltrådte i\nseptember 2022. Anlægsloven skal sikre gode og attraktive faciliteter til brug\nfor det almene friluftsliv og andre rekreative formål, der knytter sig til\nkysten og havet. Dette betyder helt konkret, at anlægsloven ophæver udvalgte\nbindinger i naturbeskyttelsesloven inden for nærmere definerede arealer for at\nkunne muliggøre disse faciliteter. Det skal ske under hensyntagen til\nkystlandskabet og strandparkens natur.</span></p>\n<p><span>Byrådet godkendte den 6.\nmarts 2023 (pkt. 19) Greve Kommunes input til en anlægslov for modernisering af\nKøge Bugt Strandpark. Det drejer sig om følgende områder:</span></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Hundige Strand</li>\n    <li>Dykanden </li>\n    <li>Greve Strandeng</li>\n</ul>\n<p><span>Aktivitetszone, byggefelt,\nanvendelse, maks. antal etagemeter og højder for de ovenstående områder fremgår\naf bilag 1.</span></p>\n<p><strong><em><span>Indhold i den\nsamlede tværkommunale plan</span></em></strong></p>\n<p><span>I forbindelse med samling af\nde fem strandparkskommuners input til en anlægslov i én tværkommunal plan, er\nder sket nogle tilpasninger og justeringer, så der er en klar, fælles ramme for\nhele Strandparken (jf. bilag 2).</span></p>\n<p><span>I planen indgår syv temaer\nmed i alt 21 udviklingsområder i hele Strandparken. Temaerne er opdelt efter\nanvendelse og funktion.</span></p>\n<p><span>De syv temaer er:</span></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Indgange til\n    Strandparken og vandet (A-områder) - i Greve er det området ved Hundige\n    Strand (s. 14 i planen).</li>\n    <li>Støttepunkter\n    (B-områder) - i Greve er det Greve Strandeng (s. 26 i planen).</li>\n    <li>Undervisning og\n    formidling (C-områder). Ligger ikke i Greve Kommune.</li>\n    <li>Arken (D-område). Ligger ikke i Greve Kommune.</li>\n    <li>Rekreativt byggeri i\n    havnebassiner (E-områder) - i Greve er det Dykanden (s. 38 i planen).</li>\n    <li>Ekstensive aktiviteter\n    (F-områder). Ligger ikke i Greve Kommune.</li>\n    <li>Udvikling af natur\n    (G-områder). Ligger ikke i Greve Kommune.</li>\n</ul>\n<p><span>I forhold til Byrådets\nbehandling i marts 2023 er der for Greve Kommunes vedkommende foretaget\nfå justeringer. Det handler om, at den maksimale højde er ændret\nfra 8 meter til 8,5 meter i A- og E-områderne, som er bygningsreglementets\nstandard for byggeri i to etager. Det betyder, at alle fem ejerkommuner\nfremover kan bygge ensartede faciliteter i samme højde i Strandparken.\nÆndringerne omhandler kun afgrænsning i højder og ændrer ikke på de\nønskede faciliteters størrelser og funktion.</span></p>\n<p><span>Samtidig er\nområdeafgrænsningen for en række A-områder justeret, så områderne rækker ud i\nvandet, herunder området ved Hundige Strand i Greve Kommune (s. 14 i planen).\nHerved bliver det tydeligt, at områderne på land hænger sammen med aktiviteter\nog eventuelle mindre anlæg i vandet, såsom badebroer o.l. Afgrænsningerne åbner\nogså mulighed for, at kommunerne kan integrere bygninger helt eller delvist i\nkystbeskyttelsen, og at der generelt kan arbejdes med adgang over digerne og\nned til vandet. </span></p>\n<p><span>Det samlede forslag tager\nfortsat hensyn til natur- og landskabsinteresser samtidig med, at en\nopgradering og placering af nye rekreative faciliteter og muligheder vil styrke\nbrugen af Køge Bugt Strandpark hele året rundt.</span></p>\n<p><span>Kommunerne skal i den\nefterfølgende lokalplanlægning bestemme den præcise placering og højde af nyt\nbyggeri. Her vil det fx være muligt at fastlægge en lavere højde, men ikke\nhøjere end anlægsloven muliggør.</span></p>\n<p><em><strong><span>Parallel\nsagsbehandling</span></strong></em></p>\n<p><span>De fem ejerkommuner behandler\nalle den fælles tværkommunale plan parallelt i august/september 2023.\nHvis godkendelse af planen i en kommune forudsætter større eller tværgående\nændringer til planen, kræver det, at de øvrige kommuner skal genbehandle planen\nog tage stilling til, om kommunerne skal revidere planen med disse ændringer.\nEn genbehandling vil derfor forsinke projektet.</span></p>\n<h4><span>Lovgrundlag</span></h4>\n<p><span>Lovforslag om en Anlægslov,\nPlanloven. </span></p>\n<h4><span>Økonomiske konsekvenser</span></h4>\n<p><span>Anlægslov for Køge Bugt\nStrandpark har ikke direkte økonomiske konsekvenser for Greve Kommune. Når\nfaciliteterne skal tilvejebringes, vil det være de enkelte kommuner, fonde mv.\nder skal finansiere projekterne.</span></p>\n<h4><span>Øvrige konsekvenser</span></h4>\n<p><span>Greve Kommune skal i den\nefterfølgende kommune- og lokalplanlægning regulere faciliteterne i de\nafgrænsede områder inden for de rammer, der fastlægges i anlægsloven.</span></p>\n<h4><span>Tidsplan</span></h4>\n<ul style=\"list-style-type: disc;\">\n    <li>Strandparkskommunernes\n    samlede input til anlægslov forelægges parallelt i byrådene med henblik på\n    godkendelse august/september 2023. </li>\n    <li>Der udarbejdes en\n    miljøvurdering (forventes af tage ca. syv måneder). </li>\n    <li>Udkast til anlægslov for\n    modernisering af Køge Bugt Strandpark udarbejdes. Det forventes, at\n    anlægsloven behandles af Folketinget i 2024. </li>\n    <li>Kommunerne skal i deres\n    kommune- og lokalplanlægning regulere faciliteterne i de afgrænsede\n    arealer inden for de rammer, der fastlægges i anlægsloven.</li>\n</ul></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>12-09-2023 Plan- og Tryghedsudvalget</u><br>\r\n<p class=\"xsltFirstParagraph\">1. Anbefales.</p>\n<p><strong>Ikke til stede</strong>: Ronni Mark Nielsen (V) </p><br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2133b34c-ab9a-418a-97f0-5f118e99956e",
+          "DocumentId": "2133b34c-ab9a-418a-97f0-5f118e99956e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-012932",
+      "Navn": "Modernisering af Køge Bugt Strandpark - input til anlægslov",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Greve Kommunens input til anlægslov for Køge Bugt Strandpark version 2",
+          "Id": "05fc90b0-e1f9-48fc-9c0e-9a9b2fe60d1b"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Udkast til den tværkommunale plan",
+          "Id": "0578526f-dd04-43fb-a5bc-68d8bd0ed69a"
+        }
+      ],
+      "Documents": null,
+      "Id": "af8ef58e-7426-4777-93db-5d5591589a47",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "22-012932",
+      "SourceId": null,
+      "Caption": "Modernisering af Køge Bugt Strandpark - input til anlægslov",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4><span>Sagsprocedure </span></h4>\n<p><span>Klima-, Teknik- og Miljøudvalget</span></p>\n<h4><span>Resume</span></h4>\n<p><span>Der gives et overordnet overblik over kommunens\nbygninger, fordelt på kategori, eje- og lejeforhold m.v. Overblikket er til\norientering for Klima-, Teknik- og Miljøudvalget i forbindelse med revision af\nEjendomsstrategien. </span></p>\n<h4><span>Indstilling</span></h4>\n<p><em><span>Administrationen indstiller, at orienteringen\ntages til efterretning </span></em></p>\n<h4><span>Sagsbeskrivelse</span></h4>\n<p class=\"green\"><span>Klima-,\nTeknik- og Miljøudvalget drøftede den 20. marts 2023 (pkt. 4) revision af\nEjendomsstrategi 2015. Udvalget ønskede i den forbindelse, at der forelægges en\nsag om overblik over kommunens bygningsmasse. </span></p>\n<p class=\"green\"><span>I forbindelse\nmed Budgetanalyse 2021 om bygningsoptimering, udarbejdede administrationen et\noverblik over, hvor mange kvadratmeter bygningsareal kommunen har, og hvordan\nde fordeler sig på bygningskategorier. Overblikket fremgår af tabel 1, som\ngiver et overblik over, hvor stort det anslåede vedligeholdelsesefterslæb er på\nde forskellige bygningskategorier.</span></p>\n<p class=\"green\"><span>I overblikket\ni tabel 1 indgår ikke:</span></p>\n<p class=\"green\"><span>- Almene\nboliger på plejecentre, botilbud og ældreboliger, som ejes af kommunen, men\nhvor vedligehold betales af beboerne selv.  </span></p>\n<p class=\"green\"><span>- Bygninger som kommunen <span class=\"grame\">lejer</span></span></p>\n<p class=\"green\"><span>- Ejendomme\nsom på daværende tidspunkt (2021) var ved at blive solgt, eller som var\nforventet at blive solgt. </span></p>\n<p class=\"green\"><span>- Ejendomme\nsom kommunen betaler driftstilskud til at vedligeholde, men som kommunen ikke\nselv ejer. Dette er blandt andet bygningerne på Karlslunde Hallerne, Tune\nHallerne (undtagen hal tre) og spejderhusene (undtagen <span class=\"spelle\">Agergårdshaven</span>).</span></p>\n<p><em><span>Tabel 1. Kvadratmeterfordeling på\nbygningskategorier og vedligeholdelsesefterslæb for kommunens bygninger i\n2021-2030, december 2020 - udgift er anlægsmidler over en 10-årig periode</span></em></p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"603\">\n    <tbody>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>Bygningstype</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>m<sup>2</sup> </span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>Udgift (netto) i mio. kr.*</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>Udgift (brutto)</span></strong><span class=\"overskrift1tegn0\"> </span><strong><span>i mio. kr.*</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Administration</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>25.689</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>18,1</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>22,6</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Dagtilbud</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>17.436</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>51,1</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>65,3</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Døgninstitution</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>3.192</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>3,7</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>4,7</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Fritids- og\n            ungdomsklub</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>4.154</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>24,8</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>31,0</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Kultur og\n            fritid</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>33.028</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>63,4</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>79,2</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Plejecenter – serviceareal</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>10.335</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>9,1</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>11,4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Skole/SFO</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>110.356</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>418,9</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>531,5</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Specialundervisning</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.157</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>2,9</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>3,6</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Øvrige\n            bygninger</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>2.491</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1,8</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>2,2</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>Total</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>207.838</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>593,8</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>751,5</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span>* Udgift i netto er <span class=\"grame\">eksklusiv</span> udgifter til uforudsete udgifter og rådgiver.\nBrutto er inklusiv disse udgifter.</span></p>\n<p><span>Tabel 2 viser et overblik over forskellen på\nbehovet for driftsmidler til vedligehold baseret på nøgletal på de forskellige\nbygningskategorier, i forhold til det budget, der er afsat til vedligehold.\nForskellen imellem m<sup>2</sup> i tabel 1 og 2 skyldes, at kommunen også har\nbehov for driftsbudget til de bygninger der lejes, hvorfor nogle m<sup>2</sup>\ner højere i tabel 2 end i tabel 1.</span></p>\n<p><em><span>Tabel 2. Beregnet behov for driftsbudget til\nvedligehold af de kommunale ejendomme, 2021 priser</span></em></p>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"623\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Bygningstype\n            *)</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p> </p>\n            <p><strong><span>m<sup>2</sup></span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p><strong><span>Nøgletal (kr./m<sup>2</sup>)</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Behov for driftsbudget (1.000 kr.)</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Nuværende driftsbudget</span></strong></p>\n            <p><strong><span>(1.000 kr.)</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p><strong><span>Manko</span></strong></p>\n            <p><strong><span>(1.000 kr.)</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Administration</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>20.766</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>157</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>3.254</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.907</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.347</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Daginstitutioner\n            og fritids- og ungdomsklubber</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>27.994</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>157</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>4.395</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>2.571</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.824</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Døgninstitutioner</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>18.263</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>180</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>3.287</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.677</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.610</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Kultur og\n            fritid</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>34.895</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>135</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>4.711</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>3.204</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.506</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Plejecentre\n            (serviceareal)</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>10.335</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>180</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>1.860</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>949</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>911</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Skole / SFO\n            inkl. Specialundervisning</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>110.356</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>174</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>19.202</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>10.134</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>9.068</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><span>Øvrige\n            bygninger</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>6.070</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>135</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>819</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>557</span></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><span>262</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"bottom\">\n            <p><strong><span>Total</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>228.679</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p> </p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>37.529</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>21.000</span></strong></p>\n            </td>\n            <td valign=\"bottom\">\n            <p><strong><span>16.529</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span>Tabel 3 viser, hvor mange bygninger kommunen råder\nover fordelt på de overordnede bygningskategorier, og hvordan de fordeler sig\npå eje/leje- forhold og øvrige aftaleforhold dog undtaget kultur- og\nfritidsområdet. Som det <span class=\"grame\">fremgår,</span> er de fleste\nbygninger kommunalt ejede og bruges til kommunale formål, dog er der seks kommunalt\nejede bygninger som udlejes til anden aktør (herunder Materielgården).\nDerudover lejer kommunen 13 bygninger af anden part, primært Greve\nBoligselskab. Det er til brug for daginstitutioner, hjemmepleje, plejecentre og\ndøgninstitutioner samt en enkelt administrationsbygning. </span></p>\n<p><em><span>Tabel 3. Fordeling af antal bygninger på\nejer-lejer forhold og typer (</span></em><span class=\"grame\"><em><span>eksklusiv</span></em></span><em><span> kultur og fritid)</span></em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Bygningstyper</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p> </p>\n            <p> </p>\n            <p><strong><span>Ejet af kommunen</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p> </p>\n            <p> </p>\n            <p><strong><span>Ejer Total</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p> </p>\n            <p> </p>\n            <p><strong><span>Lejes af kommunen</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Privat ejede bygninger med\n            driftstilskuds-aftale</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p> </p>\n            <p> </p>\n            <p> </p>\n            <p><strong><span>Hovedtal</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            <p><strong><span>Bruges af kommunen</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Udlejes til </span></strong></p>\n            <p><strong><span>3. part</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Administration</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Dagtilbud</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>25</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>25</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>5</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>31</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Døgninstitution</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>6</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Fritidsklub</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Plejecenter</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>3</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Plejecenter,\n            bolig</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Plejecenter,\n            service</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Skole og SFO</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>11</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>11</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>11</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Specialundervisning</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>4</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Øvrige\n            bygninger</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>8</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>6</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>14</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2</span></p>\n            </td>\n            <td valign=\"top\">\n            <p> </p>\n            </td>\n            <td valign=\"top\">\n            <p><span>16</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Hovedtotal</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>64</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>6</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>70</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>13</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>2</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>85</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span>I tabel 3 er der ikke inkluderet\nbygninger, der anvendes til kultur- og fritidsformål, da området har en del\nflere ejer- og aftaleformer end de øvrige bygningstyper. Derfor fremgår disse\naf tabel 4. Tabellen viser, at der er en del af kultur- og fritidsområdet, som\nligger i privatejede bygninger, der er ejet af foreninger, som har\ndriftstilskudsaftale med kommunen (11 i alt). Dette er Tune Hallerne (undtagen\nHal tre), Karlslunde Hallerne, samt spejderforeningernes huse. Derudover er der\nen række foreninger, som ligger i kommunale ejendomme, men hvor der er indgået\nbrugsretsaftaler eller lejeaftaler, som giver foreningerne et ansvar i forhold\ntil at vedligeholde bygningerne. Dette er blandt andet Portalen, Tune Borgerhus\nog Karlslundehuset.</span></p>\n<p><em><span>Tabel 4. Fordeling af eje-lejeforhold og\naftaleforhold for kultur- og fritidsbygninger</span></em></p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Ejerforhold/aftaleforhold</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>Kultur- og fritidsbygninger</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Ejet af kommunen</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>25</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Brugsaftale</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Driftstilskudsaftale</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>2</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Ingen\n            aftale</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>14</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Lejeaftale</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>8</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Lejes af kommunen</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>1</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Lejekontrakt</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>1</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Privat ejet</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>11</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><span>Driftstilskudsaftale</span></p>\n            </td>\n            <td valign=\"top\">\n            <p><span>11</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <p><strong><span>Hovedtotal</span></strong></p>\n            </td>\n            <td valign=\"top\">\n            <p><strong><span>37</span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p><span>I oversigten fremgår ikke private institutioner,\nder opfylder et kommunalt formål. De tilbud, der indgår i dette, er:</span></p>\n<p><span>- De private skoler. </span></p>\n<p><span>- Friplejehjemmet Fribo. Åbner i Hundige i 2023.</span></p>\n<p><span>- Den private daginstitution i Hundige (<span class=\"spelle\">Klaxx</span>). Åbner i Hundige i\nefteråret 2023. </span></p>\n<p><span>Derudover kan det bemærkes, at kommunen selv ejer\nfire af kommunens fem plejecentre (<span class=\"spelle\">Hedebo</span>,\nNældebjerg, Langagergård og Strandcentret) samt botilbuddet Vangeleddet alle\netableret efter almenboligloven. Dette betyder, at der i kommunens\nudgiftsbudgetter indgår udgifter til rengøring, teknisk service, vedligehold og\nforbrug, som dog for boligerne kompenseres for ved indtægter fra lejerne.</span></p>\n<h4><span>Lovgrundlag</span></h4>\n<p><span>Bygningsreglement</span></p>\n<h4><span>Økonomiske\nkonsekvenser</span></h4>\n<p><span>Sagen har ingen økonomiske konsekvenser for Greve\nKommune. Det skal bemærkes, at beløbene på vedligehold er udregnet i 2021\npriser. På grund af prisstigninger i byggesektoren må der regnes med, at\nanlægsbeløbene skal ganges med 15-20%. Driftsmidler til vedligehold vil skulle\nopskrive med 2-3% prisstigning om året. </span></p>\n<h4><span>Tidsplan</span></h4>\n<p><span>Forslag til \"Ejendomsstrategi 2023\"\nforventes forelagt til politiske behandling i Klima-, Teknik- og Miljøudvalget\ni oktober 2023 med godkendelse i Byrådet i november 2023. Herefter udarbejder\nadministrationen en handleplan for implementering af strategien, der forelægges\ntil politisk godkendelse i første del af 2024.</span></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/370cca17-4ba4-4e7e-a1e9-d55da70d083b",
+          "DocumentId": "370cca17-4ba4-4e7e-a1e9-d55da70d083b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-006870",
+      "Navn": "Greve kommunes bygninger - porteføljeoverblik",
+      "Punktnummer": "10",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "66a5115a-0e8e-4cf0-8b8c-ad3c888ce096",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "23-006870",
+      "SourceId": null,
+      "Caption": "Greve kommunes bygninger - porteføljeoverblik",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget </p>\n<h4>Resume</h4>\n<p>En offentlig sti ved Muldås er omlagt i forbindelse med, at KLAR Forsyning\nhar etableret et nyt regnvandsbassin. Hele projektet har været gennemført med\ninddragelse af borgere i området, men omlægning af stien skulle have været\nbehandlet efter vejreglerne. Administrationen vil nu igangsætte processen,\nhvorefter sagen igen vil blive fremlagt til politisk behandling. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at Klima-, Teknik og Miljøudvalget tager\ntil efterretning, at partshøring mv. nu igangsættes i forbindelse med omlægning\naf den offentlige sti ved Muldås.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>I 2020 og 2021 etablerede KLAR Forsyning et nyt regnvandsbassin ved Muldås i\ntilknytning til Birkedalens opland. I forbindelse med etableringen af\nregnvandsbassinet var det nødvendigt at omlægge den offentlige sti, som gik på\ntværs i området (jf. bilag 1).</p>\n<p>Stien er blev omlagt nord om regnvandsbassinet for at opnå en tilpas\nstørrelse på bassinet (jf. bilag 2).</p>\n<p>Omlægningen af stien ved Muldås skulle have været behandlet efter vejloven\nmed partshøring og herefter politisk behandling i Klima-, Teknik- og\nMiljøudvalget og Byrådet jf. delegationsplanen. Det er den ikke blevet, og\nderfor igangsætter administrationen nu processen, <span class=\"GramE\">således at</span>\nmatrikelsagen også kan blive afsluttet officielt.</p>\n<p>Etableringen af regnvandsbassinet har været foretaget af KLAR Forsyning\nunder inddragelse af borgere i området. Det er dog administrationens vurdering\nat borgerinddragelsen ikke kan erstatte de processkridt og den lovmæssige\nhøring, der skal foretages i forbindelse med omlægning af stien.</p>\n<p>Sagsbehandlingsfejlen kan forventes at give anledning til berettiget kritik\naf administrationen.</p>\n<p>Det er dog fortsat administrationens vurdering, at det er vigtigt at\nberigtige processen både for at sikre retssikkerheden for berørte borgere og\nfor at sikre at evt. forbedringsforslag er hørt og taget stilling til, inden de\nmatrikulære ændringer foretages. </p>\n<h4>Lovgrundlag</h4>\n<p>Bekendtgørelse af lov om offentlige veje m.v.</p>\n<h4>Økonomiske\nkonsekvenser</h4>\n<p>Sagen har hidtil ikke haft økonomiske konsekvenser for Greve Kommune, da det\ner KLAR Forsyning, der har bekostet omlægningen af stiforløbet.</p>\n<p>Hvis høringen betyder, at der er et andet bedre forløb af stien, må kommunen\nforvente udgifter til stiens omlægning. Det kan også være, at der er forslag\ntil mindre tilretninger, hvor økonomien da må afklares nærmere med KLAR\nForsyning.</p>\n<h4>Tidsplan</h4>\n<p>2020 og 2021: Gennemførelse af regnvandsbassin og omlægning af sti </p>\n<p>Efteråret 2023: Høringen omkring stiforløbet</p>\n<p>Ultimo 2023: Forventes fremlæggelse af sag</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fb8860bb-158a-4757-8988-4bd86fcea330",
+          "DocumentId": "fb8860bb-158a-4757-8988-4bd86fcea330"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "23-006618",
+      "Navn": "Muldås, regnvandsbassin - omlægning af sti",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - gammel sti, Muldås",
+          "Id": "f8ae6187-a3c9-4750-9e45-f826cfc84682"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - ny sti, Muldås",
+          "Id": "94c2a816-d642-41fb-8046-88a8251bcc54"
+        }
+      ],
+      "Documents": null,
+      "Id": "e0031b5b-5e5e-452a-b1ac-6c36cddfc507",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "23-006618",
+      "SourceId": null,
+      "Caption": "Muldås, regnvandsbassin - omlægning af sti",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede:</strong>&nbsp;Simon &Oslash;stergaard (V)</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015023",
+      "Navn": "Lukket: Henvendelser til formanden",
+      "Punktnummer": "12",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8f80271f-9245-40b1-a7db-44ab1a9f488b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "21-015023",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et kort overblik over administrationens orienteringspunkter. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at eventuelle orienteringer tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen orienterer om: </p>\n<p><em><strong>Evt. fælles kystsikringsprojekt i Strandparken</strong></em></p>\n<p>Administrationen har i samarbejde med de øvrige kommuner i Strandparken sat en rådgiver med at skitser processkridt og anslå økonomi i et evt. fælles kystsikringsprojekt i Strandparken. Administrationen forventer i den anledning, at der vil blive fremlagt en sag inden årsskiftet, hvor kommunerne i Strandparken parallelt kan behandle et forslag om at igangsætte et fælles kystsikringsprojekt, herunder organisering af evt. fælles projektledelse.</p>\n<p><strong><em>Stævning i sag om støj fra en varmepumpe</em></strong></p>\n<p>Greve Kommune er blevet stævnet i en sag hvor sagsøger har klaget over støj fra en nabos varmepumpe. Administrationen  foretog orienterende støjmålinger og afviste på det grundlag klagen. Sagsøger mener ikke, at kommunens afgørelse er foretaget på et sikkert og fyldestgørende grundlag, og mener derfor, at kommunens afgørelse er ugyldig. Sagsøger mener at vurderingen burde være foretaget ud fra akkrediterede støjmålinger tilvejebragt af kommunen, herunder en \"Miljømåling - ekstern støj\", samt en undersøgelse og måling af indendørs lavfrekvent støj fra varmepumpen i sagsøgers bolig.</p>\n<p> Administrationen har kvitteret for modtagelse af stævningen og vil orientere udvalget om sagens udfald.</p>\n<p><strong><em>Byggesagsstatistik</em></strong></p>\n<p>Statistik for august 2023 er vedlagt som bilag 1.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/152d809e-d69d-498b-8b47-619f7ef375c8",
+          "DocumentId": "152d809e-d69d-498b-8b47-619f7ef375c8"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013718",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "13",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Byggesagsbehandlingstider for august 2023",
+          "Id": "57eb03b7-076b-4c8c-8feb-73f1b198e0d6"
+        }
+      ],
+      "Documents": null,
+      "Id": "eba35391-6c9e-4dc0-9adf-036985728556",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "21-013718",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at eventuelle orienteringer tages til efterretning.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b391eb2e-c9d8-48bb-8291-9f26d8a188d0",
+          "DocumentId": "b391eb2e-c9d8-48bb-8291-9f26d8a188d0"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014457",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "61c80b0b-5aed-46aa-91fa-65f7a16905c4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "21-014457",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<p><strong>Ikke til stede:</strong> Simon Østergaard (V)</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Klima-, Teknik- og Miljøudvalgets udvalgsmøder og møder i tilknytning til udvalget. </p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller at orienteringen tages til efterretning. </em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Kalenderen er vedlagt som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/77905ec1-fc1e-427f-b8c1-ef77c13fcba1",
+          "DocumentId": "77905ec1-fc1e-427f-b8c1-ef77c13fcba1"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014455",
+      "Navn": "Klima-, Teknik- og Miljøudvalgets mødekalender 2023",
+      "Punktnummer": "15",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Klima-, Teknik- og Miljøudvalgets kalender 2023",
+          "Id": "1d84a46d-4f31-43d0-820d-4ff6bf456409"
+        }
+      ],
+      "Documents": null,
+      "Id": "b5c4576a-6e62-4898-a661-c0e95aa9919b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "21-014455",
+      "SourceId": null,
+      "Caption": "Klima-, Teknik- og Miljøudvalgets mødekalender 2023",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e599b739-6c8d-40ff-b823-bf90a8f26dd6",
+          "DocumentId": "e599b739-6c8d-40ff-b823-bf90a8f26dd6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014460",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "16",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c5d0eb7e-8385-4ef5-b5fe-3dc348f3bc2d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+      "Number": "16",
+      "Sorting": 16,
+      "IsOpen": false,
+      "CaseNumber": "21-014460",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "6648ace3-ba36-40bf-95ea-bd516b6bf247",
+    "Navn": "Klima-, Teknik- og Miljøudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2023-09-14T08:00:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2023-09-14T08:00:00+02:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "John T. Olsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Simon Østergaard",
+        "Absent": true,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "eecda3a4-c658-4326-b5e3-3abad7d6eacd",
+  "Lydfiler": null
+}

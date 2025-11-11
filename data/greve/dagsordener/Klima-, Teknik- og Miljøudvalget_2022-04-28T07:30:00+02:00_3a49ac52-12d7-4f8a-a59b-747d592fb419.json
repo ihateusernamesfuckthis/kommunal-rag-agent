@@ -1,0 +1,844 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Dagsordenen blev godkendt med bemærkning om at sag nr. 3, 14, 6, 7 og 8 blev behandlet først på dagsordenen.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div>Godkendelse af dagsorden for mødet den 28. april 2022.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</em></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/447799ef-91f2-4156-b9a0-033f4fb5d7ac",
+          "DocumentId": "447799ef-91f2-4156-b9a0-033f4fb5d7ac"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014454",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "7f2d9f5e-bb1c-4617-9bc1-9c681688cef7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014454",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Temamødet blev holdt.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3><span>Resume</span></h3> <div>Klima-, Teknik- og Miljøudvalget holder et temamøde om biodiversitet, hvor byrådet er inviteret. På mødet giver Morten D. D. Hansen fra Naturhistorisk Museum et grundigt og lokalt relevant oplæg om begrebet biodiversitet. </div> <h3><span>Indstilling</span></h3> <div><em>Der skal ikke træffes beslutning på temamødet. Temamødet skal bruges til orientering, drøftelse og dialog.</em> </div> <h3><span>Sagsbeskrivelse</span></h3> <h3></h3> <div>Naturhistorisk Museum tilbyder på baggrund af en bevilling fra 15. juni Fonden et gratis foredrag om biodiversitet for folkevalgte. Målgruppen er kommunalbestyrelser, fagudvalg som Klima-, Teknik- og Miljøudvalget samt råd som Natur- og Miljørådet.</div> <div> </div> <div>Foredraget kommer blandt andet ind på:</div> <div> </div> <div>- hvad biodiversitet er, <br> - hvordan den har udviklet sig globalt og nationalt,<br> - hvordan det går med biodiversiteten, <br> - hvilke opgaver kommunerne har, og<br> - hvorfor vi skal beskæftige os med biodiversitet.</div> <div> </div> <div>Foredraget vil have en klar lokal vinkel med udgangspunkt i kommunens lokale forhold.</div> <div> </div> <div>Foredraget finder sted i byrådssalen fra kl. 11:00-12:00. </div> <div> </div> <div>Programmet er:</div> <div> </div> <div> <span>\t1. Velkomst v<span>ed formand for Klima-, Teknik- og Miljøudvalget Hans-Jørgen Hammer Kirstein</span></span></div> <div><span> </span></div> <div><span> <span>\t2. Foredrag og drøftelse v</span>ed Morten D. D. Hansen, Naturhistorisk Museum</span></div> <div><span> </span></div> <div>Udover Byrådet samt Natur- og Miljørådet deltager fra administrationen miljømedarbejder Pernille Fabricius Rosfort, sekretær for Natur- og Miljørådet.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9f6442d8-3623-4e93-b5a4-2950a13b6de2",
+          "DocumentId": "9f6442d8-3623-4e93-b5a4-2950a13b6de2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004418",
+      "Navn": "Temamøde om biodiversitet",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "be15eadd-e16d-4f93-919f-a8bc92bb99b2",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-004418",
+      "SourceId": null,
+      "Caption": "Temamøde om biodiversitet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Klima-, Teknik- og Miljøudvalget ønsker et fortsat højt ambitionsniveau for den nye affaldsplan under hensyn til en balanceret økonomi, og at der inddrages ideer fra klimaborgersamlingen.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3></h3> <h3><span>Sagsprocedure</span></h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3><span>Resume</span></h3> <div>Greve Kommune skal udarbejde og vedtage en ny 12-årig affaldsplan, som skal revideres mindst hvert 6. år. Affaldsplanen skal have særligt fokus på de næste seks års målsætninger og indsatser på affaldsområdet. I forbindelse med udarbejdelse af den nye affaldsplan har administrationen i samarbejde med KLAR Forsyning udarbejdet et ideoplæg, der rummer mulige temaer og indsatsområder for den kommende affaldsplan for perioden 2023 – 2034. </div> <h3><span>Indstilling</span></h3> <div><em>Center for Teknik & Miljø indstiller, </em><em>at Klima-, Teknik- og Miljøudvalget drøfter de fremlagte temaer og indsatsområder med henblik på en politisk afklaring af kommunens ambitionsniveau og interesseområder i den nye affaldsplan.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Greve Kommune skal udarbejde og vedtage en ny 12-årig affaldsplan, som skal revideres mindst hvert 6. år. Affaldsplanen skal have særligt fokus på de næste seks års temaer og indsatser på affaldsområdet. Planen skal udarbejdes med udgangspunkt i den nationale affaldshåndteringsplan <i>Handlingsplan for cirkulær økonomi – National plan for forebyggelse og håndtering af affald 2020 – 2032. </i>Den nye affaldsplan udarbejdes med bistand fra KLAR Forsyning og en rådgiver, Rambøll.</div> <div> </div> <div>På mødet bliver ideoplæg til temaer og indsatser præsenteret af Jesper Koziara, Teknisk Direktør i KLAR Forsyning.  Klima, Teknik- og Miljøudvalget kan drøfte temaer og indsatsområder med henblik på en afklaring af det politiske ambitionsniveau og interesseområder til affaldsplanen.</div> <div> </div> <div>Overordnet er sigtet, at affaldssektoren skal være klimaneutral i 2030, og at cirkulær økonomi kommer til at spille en stor rolle i de kommende år som en del af en global bæredygtig omstilling. Derfor bliver den overordnede vision for Greve Kommunes affaldsplan, at der er øget fokus på bæredygtighed, herunder at der i planen lægges vægt på affaldsminimering, øget genbrug og genanvendelse af affald samt reduktion af CO<sub>2</sub>-udledningen  </div> <div> </div> <div>Greve Kommune har allerede pr.  den 1. januar 2022 indført sortering af de 10 lovbundne affaldsfraktioner ved alle private husstande. Fra den 31. december 2023 er det desuden et krav, at alle virksomheder skal sortere efter de samme retningslinjer som private borgere.</div> <div> </div> <div>Ud over temaer og indsatser på affaldsområdet består en affaldsplan også af en kortlægning af de nuværende affaldsmængder.</div> <div> </div> <div>Med udgangspunkt i drøftelsen af idéoplægget vil administrationen i samarbejde med KLAR Forsyning og rådgiver udarbejde et forslag til Affaldsplan 2023-2034, som vil blive forelagt udvalget til godkendelse. Herefter følger en offentlig høringsperiode inden udvalget får forelagt Affaldsplanen til endelig godkendelse.</div> <h3><span>Lovgrundlag</span></h3> <ul>     <li>BEK nr. 2159 af den 09.12.2020 Bekendtgørelse om affald (Affaldsbekendtgørelsen).</li>     <li>VEJ nr. 9920 af den 09.12.2020 Vejledning om sorteringskriterier for husholdningsaffald.</li>     <li>VEJ nr. 9926 af den14.12.2020 Vejledning om indsamling af husholdningsaffald.</li>     <li>Handlingsplan for cirkulær økonomi – National plan for forebyggelse og håndtering af affald 2020 – 2032.</li> </ul> <h3><span>Økonomiske konsekvenser</span></h3> <div>Der er ingen økonomiske konsekvenser i forbindelse med denne drøftelsessag. </div> <div> </div> <div>Generelt gælder, at udarbejdelse af affaldsplanen og udgifter til affaldsplanens indsatsområder i udgangspunktet er brugerfinansieret (takstfinansieret).</div> <h3>Tidsplan</h3> <div>I henhold til Affaldsbekendtgørelsens § 14, stk. 5 skal affaldsplanen indsendes til Miljøstyrelsen senest den 1. januar 2023. Idet lovgivningen først trådte i kraft den 1. januar 2022, bliver det svært for KLAR og Greve Kommune at blive færdig med planen rettidigt, hvilket også gælder for mange andre kommuner.</div> <div> </div> <div>Forslag til affaldsplanen forventes, at kunne forelægges udvalget til august eller september 2022.</div> <div> </div> <div>Affaldsplanen forventes endelig vedtaget i første kvartal 2023.</div> <h3>Øvrige forhold</h3> <div>Greve Kommune er ved at udarbejde en DK2020-Klimahandlingsplan. Der kan komme input herfra, som skal indarbejdes i affaldsplanen. Planerne koordineres løbende.</div> <div> </div> <div>Teknisk direktør i KLAR Forsyning, Jesper Koziara, vil præsentere et idéoplæg. Derudover deltager fra Center for Teknik & Miljø, enhedschef for Byg og Miljø, Michael Darmer.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/dcd20523-d90a-40a4-a065-c3b03afddfda",
+          "DocumentId": "dcd20523-d90a-40a4-a065-c3b03afddfda"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016317",
+      "Navn": "Drøftelse af ideoplæg i forbindelse med udarbejdelse af ny affaldsplan",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "da704aff-ed1c-40f5-8801-aa5b400799d5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "21-016317",
+      "SourceId": null,
+      "Caption": "Drøftelse af ideoplæg i forbindelse med udarbejdelse af ny affaldsplan",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1.-3. Anbefales.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3><span>Resume</span></h3> <div>Byrådet har afsat puljer i 2021, 2022 og 2023 til \"Besparelser på udgifter til el - ved udskift til LED\". <br> Der søges om frigivelse af midlerne til udskiftning til LED-belysning i 2022, så projekterne kan udføres i 2022.</div> <h3><span>Indstilling</span></h3> <div><i>Center for Teknik & Miljø indstiller,</i></div> <div><i> </i></div> <div><i>1. at der meddeles anlægsbevilling på 1,40 mio. kr. finansieret af  det til formålet afsatte rådighedsbeløb i 2022 vedr. udskiftning af belysning til LED.</i></div> <div><i> </i></div> <div><i>2. </i><i>at der igangsættes LED projekter på følgende adresser:</i></div> <div><i> </i></div> <div><i>a) </i><i>Olsbækken aktivhuset – lys i kælder, opbevaringsrum.</i></div> <div><i>b) </i><i>Holmeagerskolen – hal 1 og hal 2.</i></div> <div><i>c) Rådhuset –afslutning af eksisterende projekt.</i></div> <div><i>d) </i><i><i>Et eller flere mindre projekter, på skole-/daginstitutionsområdet.</i></i></div> <div><i><i> </i></i></div> <div><i><i>3. at den resterende besparelse på 1,021 mio. kr. i 2023 reperiodiseres som en teknisk rettelse i forbindelse med budget 2023-2026.<br> </i></i></div> <div> <h3>Sagsbeskrivelse</h3> </div> <div>Der er afsat 1,4 mio. kr. til ny energirigtig LED belysning i 2022, med en samlet driftsbesparelse på ca. 175.000 kr./år svarende til en gennemsnitlig tilbagebetalingstid på ca. 6-10 år.  </div> <div> </div> <div><em>Midlerne søges frigivet til finansiering af LED projekter på følgende bygninger:</em></div> <div> </div> <ul>     <li style=\"\">Olsbækken aktivhuset <i>–</i> lys i kælder, opbevaringsrum.</li>     <li style=\"\">Holmeagerskolen - hal 1 og hal 2.</li>     <li style=\"\">Rådhuset, afslutning af LED projekt, opstartet i 2021.</li> </ul> <div> </div> <div><em>Derudover forventes midlerne anvendt på et eller flere mindre LED lysprojekter:</em></div> <div> </div> <ul>     <li>På skoleområdet – opdatering af lyset i eksempelvis udvalgte klasselokaler eller et gangområde.</li>     <li>På daginstitutionsområdet – opdatering af lyset på en daginstitution.</li> </ul> <div> </div> <div>Projekterne er valgt ud fra princippet om hvilke projekter, der hurtigst kan igangsættes, og som lever op til kravene om tilbagebetalingstid og energieffektivisering. </div> <div> </div> <div>På Olsbækken drejer det sig om en tiltrængt opdatering af lyset i kælder/opbevaringsrum, og desuden opsætning af bevægefølere så lyset tænder/slukker automatisk. Brugerne vil opleve en bedre og mere moderne lys og lysstyring.</div> <div> </div> <div>For de to haller på Holmeagerskolen er lyset ikke længere tidssvarende og udover en energibesparelse ved skift til ny LED-belysning vil vedligeholdes-arbejdet også blive lettere, da det efterhånden er svært at få reservedele til det udtjente lysanlæg. For brugerne af de to haller vil det betyde mere og bedre lys.  </div> <div> </div> <div><em>En del af årets LED-pulje søges anvendt til nødvendige ekstra udgifter i forbindelse med afslutningen af LED projektet på Rådhuset, altså til betaling af ekstra opgaver, som er opstået i løbet af projektets udførelse:</em></div> <div><strong> </strong></div> <ul>     <li>Ekstra eltavle arbejde – alle etager (myndighedskrav og ekstra funktionalitet).</li>     <li>Ekstra udstyr til automatisk styring og indbygning i Rådhusets eksisterende bygningsautomatik.</li>     <li>Opgradering af alle væg-lyskontakter med letforståelige gravering/ikoner.</li>     <li>Ekstra udtag til pendler, og relæer diverse steder – plus ekstra væg-lyskontakter hertil.</li>     <li>Ekstra gangareal i stueetagen (yderligere arealer i projektet).</li> </ul> <h3><span>Lovgrundlag</span></h3> <div>Lyssætningen skal overholde arbejdsmiljøloven for nødvendig og sikkerhedsmæssig belysning på arbejdspladser.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Med denne sag søges der meddelt anlægsbevilling på 1,4 mio. kr. finansieret af det til formålet afsatte rådighedsbeløb i 2022.</div> <div> </div> <div>Driftsbesparelsen er med ovenstående tiltag på ca. 175.000 kr. /år fra 2023 og frem. </div> <div> </div> <div>I den oprindelige business case for anlægsinvesteringerne i LED, blev der vedtaget en besparelse på udgifterne til el på 1,55 mio. kr. ved fuld udmøntning. Da der i forbindelse med budget 2022 blev ændret i periodiseringen af anlægsinvesteringerne, er det ikke muligt at hente den fulde oprindelige besparelse i 2023. Der resterer derfor 1,021 mio. kr. i besparelse i 2023, som ikke kan udmøntes med ovenstående investering. Det indstilles derfor, at den resterende besparelse periodiseres på ny som en teknisk rettelse til budget 2023-2026. Det er fortsat forventningen, at den fulde besparelse kan hentes, når alle anlægsinvesteringerne er foretaget i 2025.</div> <h3><span>Kommunikation</span></h3> <div>Brugerne af bygningerne bliver underrettet, inden arbejdet går i gang de konkrete steder for lysudskiftningen.</div> <h3><span>Tidsplan</span></h3> <div>Det er forventningen at LED projekterne igangsættes og færdiggøres i løbet af 2022.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/3cfbb8dc-fcda-493c-bbad-ccc6e4924eb6",
+          "DocumentId": "3cfbb8dc-fcda-493c-bbad-ccc6e4924eb6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-002860",
+      "Navn": "Frigivelse af LED-pulje, 2022",
+      "Punktnummer": "4",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "7fdfccc5-962e-4cd4-bd96-2abff58a3df7",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "21-002860",
+      "SourceId": null,
+      "Caption": "Frigivelse af LED-pulje, 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "7fdfccc5-962e-4cd4-bd96-2abff58a3df7"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>1.-4. Udvalget undlod at tage stilling.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3>Resume</h3> <div>Som også tidligere orienteret om, redegøres der nu for fordyrelser i anlægsprojektet  og det indstilles, at der <span>meddelles</span> en  tillægsbevilling. Desuden gives der en status for byggeriet, og der fremlægges  fire forskellige indstillingsmuligheder for belysning under broen.</div> <h3>Indstilling</h3> <div><em>Center for Teknik & Miljø indstiller,</em></div> <div><em> </em></div> <div><em>1. at der afsættes tillæg til rådighedsbeløb i 2024</em></div> <div><em> </em></div> <div><em>2. at der meddeles <span>tillæg til anlægsbevilling på 2,3 mio. kr.,</span> finansieret af Vej og Landskabspuljen i 2024, som  reduceres tilsvarende</em></div> <div><em> </em></div> <div><em>3. at status på anlægsprojektet tages til  efterretning</em></div> <div><em> </em></div> <div><em>4. at de fire indstillingsmuligheder for belysning  under broen godkendes.</em></div> <h3>Sagsbeskrivelse</h3> <div>Som resultat af salget af arealer ved Hundige Station er den tidligere  busterminal nedlagt, og en ny er nu ved at blive bygget. Den nye  busterminal er placeret delvist under broen og centralt mellem de to kommende  boligblokke, og er omfattet af Lokalplan nr. 11.55 for Strandby Høje og ny  busterminal. </div> <div> </div> <div>Byrådet vedtog den 22. marts 2021 (pkt. 22) et konkret løsningsforslag for  den nye busterminal som inddrager en del af Hundige Stationsvej. Løsningen blev  valgt for at skabe bedre plads både til krydsning af stien langs banen mellem  banen og busholdepladsen og foran stationsbygningen, velvidende at det ville  blive dyrere i materialer og belægning. Byrådet tilføjede, at løsningsforslag  for den tryghedsskabende belysning skal prioriteres højt i det videre  arbejde. På byrådets møde den 21. juni 2021 (pkt. 48) blev det endelige  løsningsforslag besluttet og bevillingen frigivet. Samtidig blev  placeringen af den midlertidige busterminal besluttet og en række økonomiske <span>usikkerheder  med</span> den nye og midlertidige  busterminal blev beskrevet. På Byrådets møde den 20. september 2021 (pkt.  48) blev der givet en tillægsbevilling på 3,65 mio. kr. til projektet.</div> <div> </div> <div><span>Administrationen har tidligere orienteret  udvalget om, at der siden <span>projektets start</span> har været en række  ekstraomkostninger til byggeplads, ledningskoordinering, tillægspriser samt  øgede materialepriser, som vi desværre ser helt generelt på byggeprojekter i  øjeblikket. I alt anbefaler administrationen, at der skal gives en  tillægsbevilling på 2,3 mio.kr. for at gennemføre projektet til det nuværende  niveau. Projektet mangler aktuelt ikke midler, men vil komme til det i de  kommende år.</span></div> <div><span> </span></div> <div><strong><span>Ekstraudgifter til  ledningskoordinering, belysning og midlertidig busholdeplads</span></strong></div> <div>Der har været et stort arbejde med <span>omlægning af </span>ledninger i forbindelse med  anlæggelse af busterminalen, hvor der bl.a. <span>har været mange kendte ledninger,  som skulle placeres på mindre plads (herunder kommunens egen sprinklerledning  og belysningsledninger, Greve Fjernvarme, VEKS, Greve Vand, Klar Forsyning, <span>Nexel</span>, Radius, TDC og DSB). Desuden er en </span>del  ukendte ledninger dukket op. Dette har medført et større koordineringsarbejde  med flere aktører og ledningsejere, da ledningerne ligger tæt og  gravearbejderne har indflydelse på hinanden. Dette har haft en betydning for  økonomien, da der har været ekstraudgifter til rådgiver<span>, der har været ansvarlig for at  projektere busterminalen samt bygge- og projektledelse.</span></div> <div><span> </span></div> <div><span>Der har  også været ekstraudgifter forbundet med den midlertidige busterminal (chauffør</span>pavillon, installation af vand og el mv.), der ikke  har været medtaget i det oprindelige budget. Dette gør sig også gældende for  belysningen under broen.</div> <div> </div> <div><strong><span>Andre fordyrende og forsinkende  elementer </span></strong></div> <div><span>Grundet <span>corona</span> har  der været en generel prisstigning på materialer, og situationen medførte, at  flere igangsatte anlægsarbejder over samme periode. Derudover har flere aktører  i anlægsprojektet været fraværende med <span>corona</span> i  kortere perioder.</span></div> <div> </div> <div><span>I forhold til den aktuelle verdenssituation  er der også prisstigninger på materialer og brændstof, og det er generelt  sværere at skaffe materialer og modtage bestillinger til tiden.</span></div> <div> </div> <div><strong><span>Den midlertidige busterminal</span></strong></div> <div><span>Indtil den nye busterminal står færdig,  fungerer en del af den store parkeringsplads ved <span>Waves</span>  som midlertidig busterminal. Greve Kommune har en aftale med <span>Waves</span> omkring <span>råden</span> over arealet,  og her fremgår det, at i tilfælde af forsinkelser kan kommunen råde over  arealet indtil ultimo juli 2022. Anlægsarbejdets forsinkelser for den nye  busterminal har medført, at den midlertidige busterminal skal anvendes længere  end forventet og estimeret til medio 2022. <span>Waves</span> og  Movia er orienteret.</span></div> <div> </div> <div><strong><span>Snitflader med boligbyggeriets  bygherre (Balder) </span></strong></div> <div><span>Busterminalen og Balders boligbyggeri bliver  placeret meget tæt på hinanden, og derfor vil der være områder inden for  busterminalens område, som skal bruges under opførelsen af boligblokkene. Der  er derfor udearealer omkring busterminalen, som det ikke giver mening at  etablere, før bygherre er færdige med boligbyggeriet, da de ellers vil skulle  grave den nye belægning op og lægge den igen. </span></div> <div> </div> <div><span>Dele af belysningen på busterminalen vil  heller ikke stå færdig ved ibrugtagen af busterminalen, da nogle af masterne  står i snitfladearealerne og derved først opsættes senere. Dog vil de master,  der kan, blive opsat, og belysning under broen vil blive sat op. Derudover  bliver midlertidig belysning indtænkt, indtil de endelige master kan opsættes i  snitfladearealerne.</span></div> <div> </div> <div><span>På de arealer, hvor der skal være  beplantning, vil der midlertidigt blive sået græs, for at det kommende byggeri  og nogle udestående ledningsarbejder ikke skal ødelægge den  nye beplantning. Når Balders byggeri samt de forventede ledningsarbejder  er færdige, bliver den nye beplantning etableret.  </span></div> <div> </div> <div><strong><span>Buslæskærme</span></strong></div> <div><span>Clear Channel opsætter 4 reklamefinansierede  læskærme i samme farvekode som øvrigt inventar på busterminalen. Læskærmene er  i glas, og hver læskærm er udstyret med en bænk i træ og er oplyst. Læskærmene  forventes opsat når busterminalen tages i brug. </span></div> <div> </div> <div><strong>Midlertidigt slidlag </strong></div> <div>I  2023 vil asfalten på den midlertidige busterminal blive tilrettet, og derefter  vil der blive lagt slidlag samt permanent stribning. Slidlaget bliver ikke lagt  med det samme, da det forventes, at asfalten vil sætte sig, og dette skal  rettes op inden. Inden slidlaget påføres i 2023, vil der være midlertidig  afstribning på asfalten, dette vil skulle fræses af inden slidlag  påføres. </div> <div> </div> <div><strong>Belysning under broen</strong></div> <div>Under selve broen er der valgt nogle belysningsarmaturer, der oplyser  undersiden af broens dæk. Belysningen spiller en vigtig rolle for både  trygheden og forebyggelse af kriminalitet. Valget af netop disse armaturer  giver mulighed for at ændre på belysningen i både retning og farver  tilpasset eksempelvis særlige begivenheder, årstider, tilstødende arealer mv.  Belysningen kan programmeres til forskellige lysindstillinger udover en  standardbelysning. Administrationen anbefaler 4 belysningsmuligheder udover  standardbelysningen, som er varm hvid belysning. Firmaet <span>iGuzzini</span> har udvalgt og fremlagt 4  indstillingsmuligheder for belysningen, som de foreslår kan benyttes udover <span>standard belysningen</span>. De 4 indstillingsmuligheder er:</div> <div> </div> <div>1. Bølger (Køge Bugt) - blå, grøn og blå/grøn - dynamisk</div> <div>2. Dannebrog - rød og hvid - dynamisk</div> <div>3. Vegetation - grøn - dynamisk</div> <div>4. Regnbue - rød, orange, gul, grøn, blå og lilla - dynamisk</div> <div> </div> <div>Ved at vælge alle 4 ovenstående indstillingsmuligheder for belysning, kan  der veksles mellem dem og særlige begivenheder kan markeres. Når der er behov  for at skifte til et af indstillingsmulighederne f.eks. ved en  sportsbegivenhed, kan dette nemt gøres i en app, som administrationen kan  styre. </div> <div> </div> <div>Ønskes der færre eller flere indstillingsmuligheder kan dette tilkøbes. Der  kan altid tilkøbes en ny indstillingsmulighed på et senere tidspunkt, men er  der allerede nu ønske om flere valgmuligheder end 4, er der en økonomisk besparelse  ved at få det med i første omgang af programmeringen af belysningen. </div> <h3>Lovgrundlag</h3> <div>Loven om offentlig vej. </div> <h3>Økonomiske  konsekvenser</h3> <div>Ombygning af busterminalen inkl. oprettelse af en midlertidig busterminal  var oprindeligt budgetteret til 16 mio. kr. Byrådet gav den 20. sept. 2021  (pkt. 42) en tillægsbevilling på 3,65 mio. kr. som følge af  licitationsresultatet.</div> <div> </div> <div>Der har siden været en række ekstraomkostninger til byggepladsomkostninger,  ledningsejerkoordinering, tillægspriser samt levering som beskrevet ovenfor.</div> <div> </div> <div>I alt anbefaler administrationen, at der skal gives en tillægsbevilling på  2,3 mio.kr. for at gennemføre projektet til det nuværende niveau. Aktuelt  mangler der ikke midler i år, men der vil mangle midler til de arbejder, der  skal udføres i de sidste år. Midlerne der mangler til senere, skal betales til  Balder efter aftale om, at de udfører den sidste del af projektet, når de er  færdige. Byggeriets anlæg strækker sig derfor til ca. 2024/2025.</div> <div> </div> <div>Administrationen forventer nedenstående periodisering af anlægsmidlerne.  Eventuelle forskydninger mellem årene vil blive foretaget i forbindelse med  budgetopfølgningerne: </div> <div> </div> <ul>     <li><strong>2021</strong> 7.155.669 kr. (året er       afsluttet) </li> </ul> <div> </div> <ul>     <li><strong>2022</strong> 11,5 mio. kr. </li> </ul> <div> </div> <ul>     <li><strong>2023</strong> 0,5 mio.kr.       (Udlægning slidlag inkl. evt. opretninger + etablering af permanente       striber inkl. bortfræsning af midlertidige striber)</li> </ul> <div> </div> <ul>     <li><strong>2024/2025</strong> 2,8 mio. kr. (De       arbejder som Balder skal udføre efter afslutning af deres byggeri) </li> </ul> <h3>Kommunikation</h3> <div>Der vil løbende være orientering til borgerne, når dette er relevant, på <a href=\"http://www.hundigestrandby.dk\" target=\"_blank\">www.hundigestrandby.dk</a>. </div> <div> </div> <div>Movia og <span>Waves</span> er orienteret om den nye tidsplan,  herunder forsinkelserne. </div> <h3>Tidsplan</h3> <div>Det forventes, at den nye busterminal kan tages i brug medio 2022. <span>I den fremlagte  tidsplan fra den 20. september 2021 skulle busterminalen være færdig i foråret  2022. </span></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/855c9ba3-280a-4bc6-adbf-5cd69fb52eb5",
+          "DocumentId": "855c9ba3-280a-4bc6-adbf-5cd69fb52eb5"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-006310",
+      "Navn": "Tillægsbevilling til ombygning af busterminal ved Hundige St.",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "74c86d94-3e24-4437-922c-70907e6ffd99",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "21-006310",
+      "SourceId": null,
+      "Caption": "Tillægsbevilling til ombygning af busterminal ved Hundige St.",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "74c86d94-3e24-4437-922c-70907e6ffd99"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Udvalget undlod at tage stilling.</div> <div> </div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span> <div> <h3>Sagsprocedure</h3> </div> </span></h3> <div>Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3>Resume</h3> <div>I investeringsoversigten er der i budget 2022 afsat 13 mio. kr. i den såkaldte genopretningspulje, som anvendes til løbende at finansiere akutte renoveringer af de kommunale bygninger i løbet af året. Dette er tredje sag for udmøntning af Genopretningspuljen til projekter i 2022. Der resterer 2,85 mio. kr. i puljen.<span></span></div> <h3><span> <div> <h3>Indstilling</h3> </div> </span></h3> <div><em>Center for Teknik & Miljø indstiller,</em><em> at der afsættes rådighedsbeløb i 2022 og meddeles tillægsbevilling på 1,4 mio. kr. til udvidelse af Holmeagerskolens SFO2 finansieret af ”Pulje til genopretning o.l.” i 2022, som reduceres tilsvarende. Bevillingen tilføres til eksisterende anlægsbevilling for projektet Holmeagerskolen - Etablering af SFO2 (404).</em></div> <div><em></em></div> <h3>Sagsbeskrivelse</h3> <div>Byrådet godkendte i april 2021 at frigive anlægsbevilling til udvidelse af SFO 2 på Holmeagerskolen. Projektet blev finansieret i budget 2020 med et budget på 2,25 mio. kr. Som varslet i indstilling om Genopretningspuljen til byrådet i februar 2022 havde administrationen en bekymring for at projektet ikke kunne udføres indenfor budgettet på grund af de høje priser, der i øjeblikket er i markedet. Projektet er nu udbudt og det laveste bud er 1,4 mio. kr. i højere end budgettet efter at projektet er blevet optimeret.</div> <div> </div> <div>Administrationen beder derfor om tillægsbevilling på 1,4 mio. kr. for at projektet kan udføres til skolestart i 2022. Administrationen har sat budget til uforudsete udgifter på 5 % som er det lavest mulige.</div> <div> </div> <div><span>SFO 2 på Holmeagerskolen er placeret i det bygningsområde/-fløj på skolen, hvor mellemklasseafsnittet er placeret. Der er i dag en del udfordringer med at adskille undervisning og fritidsaktiviteter mellem SFO 2 tilbuddet og skolen, da SFO 2- tilbuddet dagligt starter ca. 1 time før alle undervisningstimer for mellemklasseafsnittet er afsluttet. Der foreslås etableret en tilbygning på knap 80 m</span>²<span> i tilknytning til mellemklasseafsnittet ved sammenbygning med et eksisterende lokale således, at der samlet bliver etableret et ca. 140 m</span>²<span> stort lokale til brug for SFO 2-tilbuddet. Lokalet vil dagligt blive anvendt af skolen til brug for undervisning og diverse, inden SFO 2-tilbuddet starter.</span></div> <div><span> </span></div> <div><span>Det oprindelige grundlag for anlægsforslaget om udvidelse af SFO 2 faciliteterne, var et oplæg beregnet i starten af 2019 til en samlet anlægssum på ca. 2,25 mio. kr. inkl. udgift til teknisk rådgivning og uforudsete udgifter. Til projektet har kun været afsat ca. 8 % til uforudsete udgifter hvilket er lavt med det aktuelle vidensniveau. </span><span>Der blev derfor i indstillingen til Byrådet i april 2021 også beskrevet, at der vil være usikkerhed omkring om det samlede budget.</span></div> <h3>Lovgrundlag</h3> <div>Bygningsreglement og udbudslov. </div> <h3>Økonomiske konsekvenser</h3> <div>Der er afsat 13 mio. kr. i Genopretningspuljen i 2022. Heraf er 10,1 mio. kr. allerede bevilget til nedenstående projekter. Der resterer derved 2,9 mio. kr. i puljen. Heraf er der flyttet projekter for 5,1 mio. kr. til 2023, som godkendt af Byrådet den 4. april 2022 (Karlslunde Skole og Bettys Hus, samt GIC - tagrenovering IFK). </div> <div><span>Indstillingen vil medføre, at der samlet tilføres 1,4 mio. kr. til udvidelse af SFO2 på Holmeagerskolen. Det resterende rådighedsbeløb på puljen er derfor på 1,5 mio. kr. </span></div> <div> </div> <h3><span> <div> <div> <table border=\"0\" cellpadding=\"0\" width=\"383\" style=\"\">     <tbody>         <tr style=\"\">             <td>             <div><strong>Projekt</strong></div>             </td>             <td>             <div><strong>Budget i t. kr.</strong></div>             </td>         </tr>         <tr style=\"\">             <td>             <div>Mosedeskolen, branddøre<strong></strong></div>             </td>             <td>             <div>1.000</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>Karlslunde Skole og Bettys Hus, tagrenovering mv.</div>             </td>             <td>             <div> 3.400</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>GIC - tagrenovering IFK</div>             </td>             <td>             <div>1.700</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>GIC - Cafe Langsiden</div>             </td>             <td>             <div>1.100</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>Rådhus - rådgivning, tag</div>             </td>             <td>             <div>300</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>Strandcentret</div>             </td>             <td>             <div>600</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>Toftegården - tag</div>             </td>             <td>             <div>500</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>Diverse dagtilbud - facade og vinduer</div>             </td>             <td>             <div>1.000</div>             </td>         </tr>         <tr style=\"\">             <td>             <div> Solstrålen - tag og ventilation</div>             </td>             <td>             <div>500</div>             </td>         </tr>         <tr style=\"\">             <td>             <div>I alt</div>             </td>             <td>             <div>                                  10.100</div>             </td>         </tr>     </tbody> </table> </div> </div> </span></h3> <h3>Tidsplan</h3> <div>Udvidelse af SFO 2 på Holmeagerskolen er planlagt til at blive udført til skolestart i august/september 2022. Projektet er allerede forsinket ca. et år, da det oprindeligt var tiltænkt at blive udført i 2021. </div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/0fbe37ca-89e8-4408-a9c7-bf0ea2ff2af2",
+          "DocumentId": "0fbe37ca-89e8-4408-a9c7-bf0ea2ff2af2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015609",
+      "Navn": "Tillægsbevilling til Holmeagerskolen - SFO2 fra Genopretninspuljen",
+      "Punktnummer": "6",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "695156c3-9d21-4a0a-95bf-9f05024c9ff5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-015609",
+      "SourceId": null,
+      "Caption": "Tillægsbevilling til Holmeagerskolen - SFO2 fra Genopretninspuljen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3><span>Resume</span></h3> <div>Greve Kommune har i budgettet for 2022 afsat 400.000 kr. til en Naturpulje, der skal gøre den bynære natur i Greve tilgængelig og attraktiv for både børn og voksne. Natur- og Miljørådet har udarbejdet et forslag til udmøntning af Naturpuljen til Klima-, Teknik- og Miljøudvalgets godkendelse.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Teknik & Miljø indstiller, at nedenstående forslag fra Natur- og Miljørådet, til udmøntning af Naturpuljen godkendes:</em></div> <div><em> </em></div> <div><em>1. 100.000 kr. til arbejdet med vilde haver i kommunen. </em></div> <div><em> </em></div> <div><em>2. 100.000 kr. til stengærde på land. </em></div> <div><em> </em></div> <div><em>3. 50.000 kr. til en forundersøgelse ved Langagergård/Rørmosen om områdets naturværdi og muligheder. </em></div> <div><em> </em></div> <div><em>4. 50.000 kr. til opfølgning på fjernelse af rynket rose og havtorn ved stranden. </em></div> <div><em> </em></div> <div><em>5. 100.000 kr. til oprensning af 6-7 vandhuller i og omkring Strandparken i Greve kommune. </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>I forligsteksten fremgår det at: <em>\"Naturen er vores åndehuller, og det ligger forligspartnerne på sinde, at den bynære natur i Greve er tilgængelig og attraktiv for både voksne og børn. I budgettet prioriterer aftaleparterne at afsætte midler til Natur- og Miljørådet, så de kan prioritere, hvor pengene gør mest gavn for naturen og borgerne\".</em></div> <div><em> </em></div> <div>Udmøntning af Naturpuljen for 2022 blev drøftet i Natur- og Miljøråd på mødet den 15. marts 2022. Rådet indstiller, at puljen udmøntes på følgende måde, jf. bilag 1: \"<em>Referat af møde i Natur- og Miljørådet den 15-03-2022</em><em>\"</em>:</div> <div> </div> <ol>     <li>Der afsættes op til 100.000 kr. til arbejdet med vilde haver i kommunen. </li>     <li>Der afsættes op til 100.000 kr. til stengærde på land. </li>     <li>Der afsættes op til 50.000 kr. til en forundersøgelse ved Langagergård/Rørmosen om områdets naturværdi og muligheder. </li>     <li>Der afsættes op til 50.000 kr. til opfølgning på fjernelse af rynket rose og havtorn ved stranden. </li>     <li>Der afsættes op til 100.000 kr. til oprensning af 6-7 vandhuller i og omkring Strandparken i Greve kommune. </li> </ol> <h3><span>Lovgrundlag</span></h3> <div>Byrådets beslutning om budget 2022, den 11. oktober 2021, punkt 3: \"<em>2. behandling af budget 2022-2025</em>\" </div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Ved budgetlægningen for 2022-25 har forligsgruppen besluttet at oprette naturpuljer med 400.000 kr. i 2022 og 500.000 kr. i 2023. De anbefalede initiativer finansieres i 2022 af den afsatte pulje for 2022.</div> <h3>Kommunikation</h3> <div>Kommunikationen vil foregå via Greve Kommunes hjemmeside via de eventuelt deltagende foreningers kommunikationskanaler.</div> <h3><span>Tidsplan</span></h3> </div> <div>Administrationen forventer, at kunne udføre projekterne i 2022. Iværksættelse af de forskellige projekter forventes at begynde i forsommeren og fortsætte hen over efteråret 2022.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/92641186-6387-4e7e-9860-cd321ee3f877",
+          "DocumentId": "92641186-6387-4e7e-9860-cd321ee3f877"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-001888K",
+      "Navn": "Udmøntning af Naturpuljen - prioriteret liste fra Natur- og Miljørådet",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Referat af møde i Natur- & Miljørådet den 15-03-2022 kl. 17-19",
+          "Id": "83c5247f-e631-4d4d-9b80-393531fc2df5"
+        }
+      ],
+      "Documents": null,
+      "Id": "ceb3d04c-bd94-4ece-a02f-823e1248b44b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "20-001888K",
+      "SourceId": null,
+      "Caption": "Udmøntning af Naturpuljen - prioriteret liste fra Natur- og Miljørådet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>1.a-h. Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget og Kultur- og Fritidsudvalget.</div> <h3>Resume</h3> <div>Administrationen har evalueret ’Retningslinjer for leje af kommunale  udendørs arealer’, der trådte i kraft i 2020. På baggrund af konklusioner fra  evalueringen foreslås retningslinjerne revideret. Revideringen indeholder en  afgrænsning af, hvilke udendørs arealer der er omfattet og dermed som  udgangspunkt er mulige at leje. Hvis forslaget <span>godkendes</span> sendes det i høring.</div> <h3>Indstilling</h3> <div><em>Center for Teknik & Miljø indstiller til Klima-, Teknik- og  Miljøudvalget,</em></div> <div><em> </em></div> <div><em>1. at revideret udkast til ”Retningslinjer for leje af kommunale  udendørs arealer” godkendes, herunder</em></div> <div><em> </em></div> <div><em>a. at der foretages en præcis angivelse af, hvilke  udendørs arealer der er omfattet af retningslinjerne, og det dermed som  udgangspunkt er mulige at leje</em></div> <div><em> </em></div> <div><em>b. at det for arrangementer, der opfylder  særlige formål, skal være muligt at undtage depositum</em></div> <div><em> </em></div> <div><em>c. at retningslinjerne fortsat indeholder  mulighed for leje af arealer, som ikke er udpeget, <span>såfremt</span>  ansøger kan redegøre for, hvorfor et andet af de udpegede arealer ikke kan  benyttes til arrangementet</em></div> <div><em> </em></div> <div><em>d. at ansøger skal fremsende ansøgning om leje  af udendørs areal senest en måned før påtænkt dato for arrangement</em></div> <div><em> </em></div> <div><em>e. at fotodokumentation for arealets stand med  angivelse af dato og klokkeslæt skal fremsendes til Greve Kommune senest syv  dage efter endt arrangement</em></div> <div><em> </em></div> <div><em>f. at der informeres </em><span><em>om ,at</em></span><em> ansøgning om at ophænge plakater og  lignende med information om arrangementet skal søges i ”<span>råden</span>  over vej” via virk.dk</em></div> <div><em> </em></div> <div><em>g. at lejeperiode kan maksimalt være på fire  sammenhængende dage, og det skal være et enkeltstående arrangement</em></div> <div><em> </em></div> <div><em>h. at Greve Kommunes takstblad for 2022  opdateres</em></div> <div> </div> <div><em>Center for Teknik & Miljø indstiller til Kultur- og Fritidsudvalget,</em></div> <div><em> </em></div> <div><em>2. at orienteringen tages til efterretning</em></div> <h3>Sagsbeskrivelse</h3> <div><span>Administrationen har siden 2020 forvaltet udleje  af kommunens udendørs arealer og pladser efter de gældende rammer i  ”Retningslinjer for leje af kommunale udendørs arealer”, som blev godkendt af  Byrådet den 16. december 2019. På baggrund af dette er efterspørgsel på leje og  lån af udendørsarealerne evalueret med udgangspunkt i kalenderåret 2021.</span></div> <div><span> </span></div> <div><strong><span>Evaluering af gældende retningslinjer</span></strong></div> <div><span>I 2021 modtog Center for Teknik & Miljø 18  henvendelser om brug af udendørs arealer til arrangementer. Udendørsarealerne  ved Mosede Fort var de mest efterspurgte i perioden med 9 henvendelser. De  resterende 9 henvendelser angiver alle forskellige arealer. Det bemærkes, at  der i løbet af 2021 var <span>corona</span>  restriktioner, som vurderes at have påvirket efterspørgslen.</span></div> <div><span> </span></div> <div><span>To henvendelser om leje af arealer til brug for  hundetræning er ikke omfattet af ”Retningslinjer for leje af kommunale udendørs  arealer”, da det vedrører brug af arealet i fast ugentligt interval.  Administrationen er derfor i gang med at afklare det nærmere  administrationsgrundlag for at stille kommunalt udendørs areal til rådighed for  dette.</span></div> <div><span> </span></div> <div><span>På baggrund af evalueringen og administrationens  erfaring med forvaltningen af de gældende retningslinjer anbefales  retningslinjerne revideret. De reviderede retningslinjer er vedlagt som bilag  1, hvor væsentlige tilføjelser og ændringer fremgår med gul markering. Herunder  følger en uddybende gennemgang <span>af  de</span>  væsentlige ændringer i retningslinjerne.</span></div> <div><span> </span></div> <div><strong><span>Afgræsning og udpegning af arealer</span></strong>   </div> <div><span>Kommunen ejer til kommunale formål en række  udendørs arealer og pladser. Retningslinjerne for udleje af disse arealer skal  sikre et lovligt, ensartet og gennemsigtigt administrationsgrundlag. I de  nuværende retningslinjer er der ikke udpeget specifikke arealer som kan lejes,  men i stedet opstillet en definition af tilgængelige arealer. Dette har medført  henvendelser på mange forskellige arealer, en del af disse er ikke omfattet af  retningslinjerne, blandt andet arealer i tilknytning til skoler,  parkeringspladser eller lignende. Det vurderes derfor, at en mere specifik  udpegning af arealer der som udgangspunkt kan udlejes, vil medføre et enklere  administrationsgrundlag for borgere, foreninger og virksomheder samt en mindre  forvaltningsmæssig opgave for administrationen. Det anbefales derfor, at der i  de reviderede retningslinjer indgår en henvisning til, hvilke arealer det som  udgangspunkt vil være mulige at leje til arrangementer. Som bilag 2 er vedlagt  en oversigt. </span></div> <div> </div> <div><span>Følgende arealer er udpeget på baggrund af både  denne afgrænsning og en vurdering af, at kunne opfylde størstedelen af de  kriterier, som ansøgere har haft til leje af arealer siden de gældende  retningslinjer trådte i kraft i 2020:  </span></div> <div> </div> <ul>     <li><span>Arealerne nord og syd for Mosede Fort samt       stien rundt om fortet.</span></li>     <li><span>Arealer i Hundige parken på begge sider af       Hundige Strandvej.</span></li>     <li><span>Areal ved Greve Midtby Center mellem <span>Holmeagervej</span> og Greve       Centervej.</span></li>     <li><span>Området i forlængelse af legepladsen i       Greve Landsby – legepladsen er undtaget.</span></li>     <li><span>Børnenes jord i Karlslunde – legepladsen er       undtaget.</span></li>     <li><span>Tune Fælled ved Tune Pensionistcenter.</span></li> </ul> <div> </div> <div>Arealerne ved Mosede Fort og i Hundigeparken er desuden fredede og ved  Mosede Fort er en række bestemmelser, der blandt andet fastlægger de  arrangementer der kan afholdes.</div> <div> </div> <div>Arealerne i Hundigeparken omfatter ikke areal omkring Villa <span>Sitka</span>, da der undergår drøftelser  om den fremtidige brug af arealet, herunder blandt andet en mulig oprettelse af  forening for Villa <span>Sitka</span>. </div> <div><strong><span>Mulighed for undtagelse af depositum</span></strong></div> <div><span>Retningslinjerne giver  mulighed for at fravige bestemmelserne om udlejning på markedsvilkår for  arrangementer, der opfylder særlige formål, fx velgørenheds,  forskningsrelaterede, politiske og religiøse arrangementer. Fravigelsen af  bestemmelser om udlejning på markedsvilkår har udelukkende omfattet pålagt  leje. Det anbefales derfor, at der for arrangementer, der opfylder særlige  formål også skal være mulighed for undtagelse af depositum. </span></div> <div> </div> <div><strong><span>Fortsat mulighed for leje af arealer der  ikke er udpeget</span></strong><em><strong><span> </span></strong></em></div> <div><span>De forskelligartede henvendelser med ønske om leje  af arealer i 2021 viser imidlertid også et behov for at fastholde muligheden  for afholdelse af arrangementer, som ikke er mulige på de udpegede arealer;  f.eks. fremtidig afholdelse af et arrangement som Ocean <span>Rescue</span> Camp på et strandareal. Administrationen  anbefaler derfor, at retningslinjerne stadig indeholder mulighed for leje af  arealer, som ikke er udpeget, <span>såfremt</span>  ansøger kan redegøre for, hvorfor et andet af de udpegede arealer ikke kan  benyttes til arrangementet.</span></div> <div><span> </span></div> <div><strong><span>Tilføjelse af ansøgningsfrist</span></strong>  </div> <div><span>Ansøgning om leje af kommunale udendørs arealer  skal fremsendes til Greve Kommune senest en måned før arrangementet. Alle  ansøgninger behandles efter først-til-mølle-princippet. For alle henvendelser  modtaget senere end en måned før, kan Greve Kommune ikke garantere rettidig  behandling af ansøgningen.</span><span> </span><span>Ansøgningsfristen anbefales tilføjet retningslinjerne, da  det for alle henvendelser om arealleje kræver en del intern koordinering. </span></div> <div> </div> <div><span>Leje af Mosede Fort kræver, at ansøgning  fremsendes minimum fire måneder før arrangementet da leje af arealerne kræver  både godkendelse af Greve Kommune og af Slots- og Kulturstyrelsen. Dette  forlænger sagsbehandlingstiden med omtrent 12-16 uger, hvilket er Slots- og  Kulturstyrelsens normale sagsbehandlingstid inklusiv eventuel klagefrist. </span></div> <div> </div> <div><strong><span>Fotodokumentation for arealets stand efter  arrangement</span></strong> </div> <div><span>Der mangler ofte fotodokumentation for arealernes  stand efter arrangementer, hvorfor administrationen anbefaler at tilføje en  skærpelse i retningslinjerne. Fotodokumentation på arealets stand efter  arrangement skal fremsendes til Greve Kommune senest 7 dage efter afholdt  arrangement. Manglende fotodokumentation vil medføre, at omkostninger til  rekvirering af en besigtigelse af arealet vil blive fratrukket det indbetalte  depositum.</span></div> <div> </div> <div><strong><span>Ansøgning om ophængning af plakater søges  via virk.dk</span></strong><em><strong><span> </span></strong></em></div> <div><span>Hvis der i forbindelse med afholdelse af  arrangementer ønskes ophængt plakater og lignende med information om  arrangementet, oplyses om, at arrangøren skal søge i ”<span>råden</span> over vej” via virk.dk. Ansøgningen vurderes  herefter efter Greve Kommunes gældende vilkår for ophængning og tidsfrister. </span></div> <div> </div> <div><strong><span>Lejeperiode kan maksimalt være på fire sammenhængende dage</span></strong><em><strong><span> </span></strong></em></div> <div><span>Evalueringen af retningslinjerne har vist, at  henvendelserne vedrører arrangementer af begrænset varighed. I de nuværende  retningslinjer er ikke anført en maksimal lejeperiode. Det anbefales at tilføje  en lejeperiode på maksimalt 4 sammenhængende dage, for at kunne imødekomme  arrangementer af to dages varighed samt én dags tilgængelighed til arealet for  at kunne sætte op og rydde op.</span></div> <h3>Lovgrundlag</h3> <div>Folkeoplysningslovens kapital 6.</div> <h3>Økonomiske  konsekvenser</h3> <div><span>Sagen har ingen økonomiske konsekvenser.</span></div> <div><span> </span></div> <div><span>Indtægterne for udleje af kommunale udendørs  arealer i 2021 beløb sig til 9.160 kr. De foreslåede ændringer forventes ikke  at medføre et indtægtstab.</span></div> <div><span> </span></div> <div><span>Greve Kommunes takstblad opdateres, <span>således at</span> taksterne prisfremskrives fra 2019 til 2022, som  det fremgår af bilag 1.</span></div> <h3>Kommunikation</h3> <div>Efter behandling sendes sagen i høring til Tune Lokalråd, Karlslunde <span>Bylaug</span> og Greve <span>Landsbylaug</span>, da der forslås  mulighed for at leje arealer i henholdsvis Tune, Karlslunde og <span>GreveLandsby</span>. <span>Såfremt</span> høringssvarene vurderes, at give anledning  til at undtage udendørs arealer i Tune, Karlslunde og/eller Greve Landsby fra  retningslinjerne, vil denne justering af retningslinjerne blive fremlagt til ny  behandling i Klima-, Teknik- og Miljøudvalget samt Kultur- og Fritidsudvalget.</div> <div> </div> <div><span>De reviderede retningslinjer vil fremgå på  hjemmesiden. </span></div> <h3>Tidsplan</h3> <ul>     <li>Høringsperiode for Tune Lokalråd, Karlslunde <span>Bylaug</span> og Greve <span>Landsbylaug</span>: april – maj       2022.</li>     <li>Implementering: Efter høringsperiode og eventuel       opfølgende politisk behandling.</li> </ul></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>27-04-2022 Kultur- og Fritidsudvalget</u><br>\r 2. Orienteringen blev taget til efterretning.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2fb4bd4e-cc92-492e-bb20-f009eef35278",
+          "DocumentId": "2fb4bd4e-cc92-492e-bb20-f009eef35278"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004567",
+      "Navn": "Revidering af retningslinjer for leje af kommunale udendørs arealer",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Retningslinjer for leje af kommunale udendørs arealer",
+          "Id": "992d5477-01af-40fe-b678-e8dd1e79f8fe"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - arealer",
+          "Id": "a01f8bed-ff4e-45dd-aabb-5368402c2629"
+        }
+      ],
+      "Documents": null,
+      "Id": "a804ec04-79cc-44ee-a2a3-dbe4a4f8f87d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "22-004567",
+      "SourceId": null,
+      "Caption": "Revidering af retningslinjer for leje af kommunale udendørs arealer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><p class=\"xsltFirstParagraph\">1.-3. Anbefales.&nbsp;</p>\n<p>&nbsp;</p></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003955",
+      "Navn": "Lukket: Driftskontrakt: Godkendelse af udbudsmaterialet",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "827df80a-8cd4-4f90-806a-a7694fb0f0e4",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "22-003955",
+      "SourceId": null,
+      "Caption": "Lukket: Driftskontrakt: Godkendelse af udbudsmaterialet",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "827df80a-8cd4-4f90-806a-a7694fb0f0e4"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Godkendt. Udvalget løftede sagen til Økonomiudvalget og Byrådet med bemærkning om, at der skal udarbejdes et budgetforslag på en øget mobilitet til erhvervsområdet.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3><span>Resume</span></h3> <div>Fire virksomheder har henvendt sig samlet i et brev til kommunen om offentlig transport til industriområdet langs vestsiden af motorvejen ved Kildebrøndevej/Vejleåvej/Hundigevej. Der er tidligere foretaget undersøgelser af muligheden for at busbetjene området. Kommunen har ikke finansiering til at udvide den offentlige transport, men virksomhederne må gerne selv finansierer en evt. bustransport til området.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Teknik & Miljø indstiller,</em><em> at administrationen besvarer henvendelsen med, at virksomhederne kan rette henvendelse i budgetprocessen, hvis de ønsker at kommunen skal deltage i finansieringen for øget mobilitet til området.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Kommunen har modtaget vedlagte henvendelse (bilag 1) fra fire virksomheder i industriområdet øst for motorvejen ved Kildebrøndevej/Vejleåvej/Hundigevej.</div> <div> </div> <div>Erhvervschefen har ved møde med virksomhederne den 15. februar 2022 oplyst virksomhederne om, at der er tre muligheder for finansiering af busbetjening af industriområdet:</div> <div> </div> <ol>     <li>rent privat finansieret busrute, hvor virksomhederne går sammen om en løsning,</li>     <li>rent offentligt finansieret busrute via Movia, som kommunen betaler, og</li>     <li>\"joint venture\", hvor virksomhederne og kommunen går sammen om at finansiere en busruter til området. Med offentlig finansiering skal Movia være operatør.</li> </ol> <div> </div> <div>Virksomhederne giver i henvendelsen udtryk for, at det er vigtigt med en busbetjening af området, blandt andet for rekruttering, fastholdelse og trafiksikkerheden for deres medarbejdere. Virksomhederne overvejer mulighederne, men ønsker at høre kommunens holdning. </div> <div> </div> <div>Der har tidligere været henvendelser fra erhvervet med ønske om, at kommunen finansierer udvidelse af busbetjeningen til erhvervsområder. Der er i dag ingen busruter til Kildebrønde erhvervsområde ved Vejleåvej jf. vedlagte kort (kortbilag 2). Linje 225 er den bus, der kommer tættest på området. </div> <div> </div> <div>Der blev udført en mobilitetsanalyse af den kollektive trafik i erhvervsområder i Greve Kommune, herunder dette erhvervsområde tilbage i 2018/2019 med en række forslag til mulige ændringer. Analysen blev fremlagt for Greve-Solrød Erhverv (jf. vedlagte bilag 3). Analysen viser, at der er mellem 300 - 1400 m fra bus 225 til de undersøgte virksomheder i Kildebrønde erhvervsområdet.</div> <div> </div> <div>Der blev igen i 2020 efter ønske fra erhvervet udarbejdet et estimat på, hvad en busrute fra Hundige station til rundkørslen i ved Kildebrøndevej/Vejleåvej vil koste (vedlagt som bilag 4). Denne undersøgelse blev også fremlagt for virksomhederne på mødet med erhvervschefen den 15. februar 2022.</div> <div> </div> <div>Selv om der er sket ændringer af virksomhederne i industriområderne siden mobilitetsanalysen blev udført, kan administrationen ikke anbefale, at der udføres flere analyser.</div> <div> </div> <div>Kommunerne bestiller sædvanligvis ændringer til trafikbetjeningen hos Movia hvert år i oktober. </div> <div> </div> <div>En proces med ændring af busbestillingen, startes typisk op med Movia et år i forvejen. En analyse med inddragelse af interessenter, som den der blev foretaget i 2018/2019, tager op mod et halvt til et helt år.</div> <div> </div> <div>Hvis der ønskes en undersøgelse af ændring af eksisterende ruter, vil det skulle i høring, inden der kan tages endelig beslutning, det kan betyde at processen fra undersøgelse til bestilling tager mere end et år..</div> <div> </div> <div>Den endelige bestilling i oktober skal være klar i forhold til rute, antal afgange, placering af stoppesteder ol. Herefter står Movia for at udbyde busruterne i puljer med henblik på at sikre gode priser for kommunerne. Busdriften kan da træde i kraft ved køreplanskiftet i juni det kommende år, hvor de nye stoppesteder også skal være anlagt.</div> <div> </div> <div>Jf. estimatet i slutningen af 2020 for en ny busrute til området, vil det give kommunen en væsentlig årlig udgift at udvide den kollektive transport med en bus til området. Det må forventes, at prisen er steget siden, og selv med en indtægt på billetpriser, vil det kræve en betydelig årlig merudgift.</div> <div> </div> <div>Virksomhederne i området kan udover at finansiere en busbetjening af området, også gå sammen om anden form for øget mobilitet for deres ansatte til togstationerne i form af f.eks. fælleskørsel, lånecykler og lignende. </div> <div> </div> <div>Administrationen anbefaler, at virksomhederne kan rette henvendelse til kommunen i forbindelse med budgetprocessen, hvis de ønsker, at kommunen skal deltage i finansieringen af øget mobilitet til området.</div> <h3><span>Lovgrundlag</span></h3> <div>Lov om trafikselskaber.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Kommunen har ikke afsat budget, der kan finansiere en udvidelse af den offentlige transport. </div> <div> </div> <div>Det seneste overslag fra 2020 anslår, at en busrute fra Hundige Station til rundkørslen ved Vejleåvej/Kildebrøndevej koster 1,5 mio. kr. årligt uden modregning af billetindtægter. Der vil også være udgifter til anlæg af stoppesteder.</div> <div> </div> <div>Hvis Udvalget ønsker at finde finansiering til at øge den offentlige transport til industriområdet, kan det indgå som et udvidelsesforslag ved de kommende budgetforhandlinger. Udvalget skal da løfte sagen til Økonomiudvalget og Byrådet med ønske om, at administrationen udarbejder et udvidelsesforslag til de kommende budgetforhandlinger. Udvidelsesforslaget kan f.eks. handle om midler til kommunal finansiering (eller medfinansiering) af en busbetjening af området. </div> <h3><span>Øvrige konsekvenser</span></h3> <div>Der er ikke ressourcer i administrationen på nuværende tidspunkt til, at igangsætte en analyse af busbetjeningen. </div> <h3><span>Kommunikation</span></h3> <div>Administrationen vil svare de fire virksomheder på baggrund af udvalgets beslutning.</div> <h3><span>Tidsplan</span></h3> </div> <div>Kommunerne foretager sædvanligvis trafikbestillinger hos Movia i oktober med henblik på udbud og opstart i juni det efterfølgende år. Der skal inden bestillingen være et konkret forslag til den ønskede ændring. </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/8a06b334-6ebd-40a7-bb3d-92ed6a5eef0b",
+          "DocumentId": "8a06b334-6ebd-40a7-bb3d-92ed6a5eef0b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004914",
+      "Navn": "Henvendelse om bustransport til industrikvarter ved Vejleåvej",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 Brev med henvendelse om bustransport til industriområde v. Kildebrønde",
+          "Id": "409834f2-1517-41a7-a5c3-b73eb82616e2"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 Kort med busbetjening Greve Kommune",
+          "Id": "3f02ccd4-58f7-4f38-b4d5-09f27cd58fe9"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Analyse. Busbetjeningen af erhvervsområder i Greve Kommune 2018/2019",
+          "Id": "7aadb6d4-bf92-4104-aa1d-c011a237a41a"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 Estimat af pris på busbetjening af industri v. Kildebrønde",
+          "Id": "d684c50d-1858-440e-b101-06a9ec84d49a"
+        }
+      ],
+      "Documents": null,
+      "Id": "e4e48c2b-b2b1-47b1-82e3-e2bd07877cd5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "22-004914",
+      "SourceId": null,
+      "Caption": "Henvendelse om bustransport til industrikvarter ved Vejleåvej",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "e4e48c2b-b2b1-47b1-82e3-e2bd07877cd5"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> </div> <div> <h3>Sagsprocedure</h3> </div> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div><span>På Klima-, T</span>eknik- og Miljøudvalgets møde  den 17. januar 2022 blev det besluttet, at udvalget ønsker en sag om muligheden  for, at kommunen etablerer \"bølgebryderanlæg\" for at minimere  driftsomkostninger på vedligehold af høfderne ved Mosede Fort. Administrationen  fremlægger derfor en sag <span>omkring</span>  anskueliggørelsen af brugen af bølgebrydere langs stranden i Greve Kommune, og  hvorvidt en videre analyse af forholdene på stranden skal finde sted.  Bølgebrydere og deres effekt på stranden er kort beskrevet.</div> <div> </div> <div> <h3>Indstilling</h3> </div> <div><em>Center for Teknik & Miljø indstiller, </em><em>at der ikke arbejdes videre med en foranalyse, som</em><em> kortlægger en mulig anvendelse af bølgebrydere langs stranden i Greve Kommune.</em></div> <div> </div> <div> <h3>Sagsbeskrivelse</h3> </div> <div>Klima-, Teknik- og Miljøudvalget besluttede på mødet den 17. januar 2022, at  udvalget ønsker en sag om muligheden for, at kommunen etablerer  \"bølgebryderanlæg\" for at minimere driftsomkostninger på vedligehold  af høfderne ved Mosede Fort.</div> <div> </div> <div><strong>Kort beskrivelse af bølgebrydere</strong><br> Bølgebrydere er konstruktioner, der typisk er bygget af sten og anbragt få meter ude i vandet parallelt med kysten. En bølgebryder mindsker den bølgeenergi, som ellers ville  nå ind til kysten. De placeres derfor på lav dybde tæt på kysten for at bryde  bølgerne, inden de rammer strandkanten. De er kun velegnede til erosionskyster, det vil sige.  dér hvor kystprofilet allerede rykker tilbage på grund af en langsgående sedimenttransport.  Altså en kronisk erosion langs hele kysten, hvor sedimentet (sandet) langsomt  forsvinder over tid indtil stranden forsvinder helt eller ændrer karakter.  Bølgebrydere er derfor en foranstaltning mod erosion på kyster eller udvalgte kyststrækninger.  Men bølgebrydere er ikke en endegyldig løsning på et erosionsproblem, da  erosionen vil fortsætte i mindre grad både mellem og omkring bølgebrydere langs  kysten. Endelig ses også en læsideerosion nedstrøms for bølgebryderne. Der stilles derfor typisk krav om, at supplere med sandfodring for at imødegå de skader, som bølgeryderne påfører længere nede, som en del af tilladelsen til at opføre anlægget.</div> <div> <span> </span></div> <div>Uanset hvor man opfører bølgebrydere, vil der derfor være behov for  sandfodring, hvis man vil opretholde stranden. En sandfodring er en tilføjelse  af sand langs kysten med enten lastbiler eller ved hjælp af skibe og oppumpning  af sand fra havbunden.</div> <div> </div> <div><strong>Fordele:</strong></div> <div> </div> <div> <ul>     <li>Da bølgeenergien mindskes, vil den naturlige erosion       eller transport af sediment bremses bag bølgebryderne. <span>Bølgebryderne vil</span>       altså ikke fjerne erosionen helt fra strækningen, blot forsinke den. Langs       den strækning, hvor der bliver opført bølgebrydere, vil transporten af sediment       typisk blive reduceret med op til 50 % af den oprindelige erosion. Den       erosion, som bliver bremset langs kyststrækningen, vil blive påført       længere nede ad kysten, typisk hvor bølgebryderne ophører. </li> </ul> </div> <div> </div> <div><strong>Ulemper:</strong></div> <div> </div> <div> <ul>     <li>Bølgebrydere vil begrænse den langsgående sedimenttransport,       som vil give forøget erosion nedstrøms - en såkaldt læsideerosion. Som       beskrevet ovenfor, vil den erosion, som man bremser ved at opføre       bølgebrydere, blot blive påført længere nede af kysten. Man forhindrer       derfor ikke erosionen i at finde sted, da den rykkes til et anden sted.       Hvis man vil opretholde stranden, skal man derfor sandfodre både mellem       bølgebryderne, og dér hvor læsesideerosionen finder sted. Læsideerosionen       vil opstå umiddelbart syd for den sidste konstruktion i rækken. Et       sammenligneligt eksempel ses ved Mosede Fort bag den sydlige høfde, som       blev sandfodret sidste år, i marts 2021. De samme forhold gør sig gældende       ved høfder og bølgebrydere, hvor den langsgående transport af sediment vil begrænses.</li> </ul> <div> </div> <ul>     <li>Bølgebrydere kan nedsætte badesikkerheden på grund af fordybninger i sandbunden og en stærkere strøm       omkring bølgebryderne.</li> </ul> </div> <div> </div> <div>Finansieringen af et fælles kystbeskyttelsesprojekt efter kystbeskyttelsesloven skal ske ved bidrag fra de grundejere, der opnår en beskyttelse, og andre, der opnår en fordel ved projektet. Kommunen skal fastsætte bidragsfordelingen. Som en del af begrundelsen for projektet vil man skulle kortlægge hvor meget  sand, der bliver tilført, hvor meget der eroderes væk og hvordan et kystbeskyttelsesanlæg derfor skal udføres. Det skal også afgrænses hvilke ejendomme der skal omfattes af projektet. Dette kan samles i en foranalyse, som kan anvendes til en nærmere undersøgelse af muligheden for at opføre bølgebrydere.</div> <div> </div> <div>Administrationen har kontaktet en professor fra DTU (Danmarks Tekniske  Universitet) ved Department of <span>Mechanical</span> Engineering,  som er specialist i tiltag til kystbeskyttelse, for at få en umiddelbar  vurdering af, hvorvidt bølgebrydere kunne have en gavnlig effekt langs Greve  Kommunes kyst. Den umiddelbare vurdering er, at kysten fremstår stabil uden  behov for yderligere kystsikring på trods af nogle få menneskeskabte  udfordringer i form af tidligere kystsikring. Her tænkes på Mosede Fort og Mosede  Havn.</div> <div> </div> <div>Der er planer om, at etablere et stenrev syd for Mosede Havn. Stenrev  en samling af større sten på havbunden, som enten ligger spredt over bunden eller i bunker. Et stenrev kan også give en effekt på bølger og sandtransport. Der bør derfor tages højde for dette ved en foranalyse for sandtransport og mulig placering af bølgebrydere. </div> <div> </div> <div>Administrationen kan ikke anbefale, at der bliver igangsat en foranalyse af muligheden for et konkret projekt med bølgebrydere. </div> <div> </div> <div>Hvis udvalget ønsker, at kommunen står for en foranalyse, vil sagen skulle rejses til Økonomiudvalget og Byrådet med ønske om, at administrationen udarbejder et bruttoanlægsforslag om en foranalyse til budgetforhandlingerne. </div> <h3>Lovgrundlag</h3> <div>Kystbeskyttelsesloven.</div> <div> </div> <div> <h3>Økonomiske  konsekvenser</h3> </div> <div>Kysdirektoratet anslår, at man på en moderat eksponeret kyst, har <span>et prisniveau</span> på ca. 1,3 millioner  kroner pr. bølgebryder. Der vil også skulle påregnes en driftsudgift i form af sandfodring. </div> <div> </div> <div>Det er som udgangspunkt de grundejere, der har nytte af  kystsikringen, der vil skulle rejse et projekt, og betale for kystsikringen og den efterfølgende drift.</div> <div> </div> <div>Kommunen har som lodsejer oprettet et kystbeskyttelsesprojekt ved Mosede Fort. Der er afsat 414.000 kr. årligt i driftsmidler til vedligehold af denne kystsikring. Beløbet er relativt lille til at foretage en årlig sandfordring. Det kan i stedet være en idé, at samle beløbene til et anlægsbeløb hvert fjerde år til en større sandfodring fra havet.</div> <h3>Øvrige konsekvenser</h3> <div>På trods af kompenserende tiltag i form af sandfodring, kan der opstå gener for andre lodsejere nedstrøms et anlæg, hvis der opnås tilladelse til at opføre kystsikring i form af bølgebrydere. </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/a97375b3-b001-48c6-86c8-6084e1b5c1cd",
+          "DocumentId": "a97375b3-b001-48c6-86c8-6084e1b5c1cd"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-004075",
+      "Navn": "Bølgebrydere langs Greve Strand",
+      "Punktnummer": "11",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "48bfccbf-7e4f-4ba4-9bb5-51166f07c5e5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "22-004075",
+      "SourceId": null,
+      "Caption": "Bølgebrydere langs Greve Strand",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "48bfccbf-7e4f-4ba4-9bb5-51166f07c5e5"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3><span>Resume</span></h3> <div>Administrationen har modtaget en ansøgning om byggetilladelse til opsætning af campingvogne på Hejren 24, matr. nr. 24b Hundige By, Kildebrønde, til midlertidig overnatning for frivillige i forbindelse med afviklingen af Spejdernes Lejr 2022. Ejendommen er omfattet af Lokalplan nr. 11.43, hvorfra der søges dispensation fra lokalplanens §§ 3.2. og 3.3, der udlægger området til havnerelaterede virksomheder.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Teknik & Miljø indstiller, at der meddeles dispensation fra Lokalplan nr. 11.43 §§ 3.2 og 3.3, idet det er vurderet, at der er tale om et midlertidigt forhold med kort varighed. Det er i den forbindelse vurderet, at opstillingen af campingvogne, ikke vil have indvirkning eller være til gene for afviklingen af de erhverv, der drives på havneområdet i opstillingsperioden. </em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Administrationen har modtaget en ansøgning om byggetilladelse til opsætning af campingvogne på Hejren 24 til midlertidig overnatning for frivillige i forbindelse med afviklingen Spejdernes Lejr 2022.</div> <div> </div> <div>Spejdernes Lejr er nordens største spejderlejr og skal i perioden fra den 23.-31. juli 2022 afholdes i Hedeland Naturpark.</div> <div> </div> <div>Spejdernes Lejr har i den forbindelse indgået aftale med Greve Marina om, at der skal være sejladsaktivitet fra Greve Marina med hjælp fra 80-90 frivillige.</div> <div> </div> <div>Af logistikmæssige årsager, ønsker flere af de nøglepersoner, der skal stå for sejladsen på Greve Marina, at have mulighed for at overnatte på havnen. Foruden overnatning i egne både, ønskes ligeledes tilladelse til at opsætte fem campingvogne til midlertidig overnatning på havneområdet. Placeringen af campingvognene fremgår af bilag 1.</div> <div> </div> <div>Området, hvorpå campingvognene ønsket opstillet, er omfattet af Lokalplan nr. 11.43 der i henhold til kortbilag 2 placeres i delområde A. </div> <div> </div> <div>Lokalplanens §§ 3.2 og 3.3 angiver følgende:</div> <div> </div> <div><em>3.2 Delområde A - landarealet I delområde A etableres havneanlæg (broer, fortøjningsarrangementer, bygninger mm.).</em></div> <div><em> </em></div> <div><em>3.3 Inden for de angivne byggefelter kan der etableres havnerelaterede virksomheder beskæftiget med reparation, service, aptering og salg af både og maritimt udstyr, klubhuse, kiosk, galleri, mindre butikker, restaurationsvirksomhed o.l., som har naturlig tilknytning til områdets funktion som lystbådehavn. Det samlede bruttoetageareal til butiksformål må i alt ikke overstige 1.500 m², og den enkelte butik ikke være større end 450 m². Der må max. være 15 butikker.</em></div> <div><em> </em></div> <div>Det fremgår af Planlovens § 19, stk. 1, at kommunalbestyrelsen kan dispensere fra bestemmelser i en lokalplan, hvis dispensationen ikke er i strid med principperne i planen.</div> <div> </div> <div>Principperne i en lokalplan er fastsat i formålsbestemmelsen og de anvendelsesbestemmelser, som er fastsat ud fra formålet med lokalplanen. Anvendelsesbestemmelserne i §§ 3.2 og 3.3 i Lokalplan nr. 11.43, er derfor en del af lokalplanens principper, der som udgangspunkt ikke kan dispenseres fra.</div> <div> </div> <div>Planlovens § 19, stk. 1, giver dog også mulighed for, at kommunalbestyrelsen midlertidigt - i en periode på maks. 3 år - kan dispensere fra bestemmelser i en lokalplan, selvom dispensationen er i strid med principperne i planen.</div> <div> </div> <div>Den ansøgte dispensation er af midlertidig karakter, idet de 5 campingvogne til overnatning ønskes opstillet i perioden fra den 23.- 31. juli 2022.</div> <div> </div> <div><strong>Høring</strong></div> <div>I forbindelse med behandlingen af dispensationsansøgningen har projektet været sendt i naboorientering i perioden fra den 17. - 31. marts 2022, til ejere og lejere af havneområdet. Der er ikke indkommet indsigelser til projektet i forbindelse med høringsperioden.</div> <div> </div> <div>Administrationen anbefaler, at der meddeles dispensation fra Lokalplan nr. 11.43 §§ 3.2 og 3.3, idet der er tale om et midlertidigt forhold med kort varighed. Det er i den forbindelse vurderet, at opstillingen af campingvogne, ikke vil have indvirkning eller være til gene for afviklingen af de erhverv, der drives på havneområdet i opstillingsperioden. <span></span></div> <h3>Lovgrundlag</h3> <div>Planlovens § 19.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> <h3><span>Kommunikation</span></h3> <div>I forbindelse med behandlingen af dispensationsansøgningen har projektet været sendt i naboorientering i perioden fra den 17. - 31. marts 2022, til ejere og lejere af havneområdet.  Der er ikke indkommet indsigelser til projektet i forbindelse med høringsperioden.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/2e76939e-5a03-45de-a746-822abfc88f6d",
+          "DocumentId": "2e76939e-5a03-45de-a746-822abfc88f6d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002128",
+      "Navn": "Dispensation til midlertidig overnatning Spejdernes Lejr 2022 på Hejren 24",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Dispensationsansøgning med placering af campingvogne",
+          "Id": "9c3932d4-ffe6-49c4-a041-5c6437ebcdd7"
+        }
+      ],
+      "Documents": null,
+      "Id": "3d71f3ad-92cc-4c30-954a-46effa99e5fa",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "22-002128",
+      "SourceId": null,
+      "Caption": "Dispensation til midlertidig overnatning Spejdernes Lejr 2022 på Hejren 24",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "3d71f3ad-92cc-4c30-954a-46effa99e5fa"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Anbefales.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3>Sagsprocedure</h3> <div>Skole-, Børne- og Ungeudvalget, Kultur- og Fritidsudvalget, Klima-, Teknik- og Miljøudvalget, Økonomiudvalget og Byrådet.</div> <h3>Resume</h3> <div>I denne sag orienteres udvalgene om udbud af totalentreprise-opgaven vedr. udbygning af idrætsfaciliteter ved Karlslunde Idrætsforeninger. </div> <h3>Indstilling</h3> <div><em>Center for Teknik & Miljø indstiller, at orienteringen tages til efterretning.  </em></div> <h3>Sagsbeskrivelse</h3> <div>Byrådet godkendte den 7. marts 2022 byggeprogram for udbygning af idrætsfaciliteter samt revideret tidsplan for projektet. Administrationen blev bemyndiget til at godkende valg af totalentreprenør i henhold til udbudskriterierne og at anlægsbevillingen blev frigivet.</div> <div> </div> <div>Forinden byrådsmødet (dvs. medio februar 2022) var de fire højest prioriterede totalentreprenører blevet spurgt, om de ville være interesseret i at afgive tilbud.</div> <div> </div> <div>Umiddelbart efter byrådsmødet gik udbudsprocessen i gang, og de 4 interesserede totalentreprenører fik tilsendt byggeprogrammet.</div> <div> </div> <div>Alle fire totalentreprenører og to efterfølgende prioriterede totalentreprenører har siden meddelt, at de ikke ser sig i stand til at afgive tilbud på projektet. Totalentreprenørerne begrunder deres afslag med, at de med den seneste udvikling i materialepriser samt leverancevanskeligheder, ikke ser sig i stand til at kunne udarbejde et projektforslag inden for den udbudte pris.</div> <div> </div> <div>Styregruppen for udbygning af idrætsfaciliteter - der består af Karlslunde Idrætsforening, Strandskolen og Greve Kommune - har sammen med bygherrerådgiver drøftet situationen, og besluttet at udsætte udbudsprocessen i seks måneder hvorefter der tages stilling til, om markedet er stabiliseret i en grad, så udbudsprocessen kan genoptages.</div> <div> </div> <div>Strandskolen og Karlslunde Idrætsforening drøfter nu hvordan kapacitetsudnyttelsen på tværs af både Karlslunde Idrætsforening og Strandskolen kan optimeres yderligere, så undervisning i idræt og afvikling af foreningsidræt fortsat kan varetages med så få gener som muligt. Endvidere undersøger Administrationen mulige kortsigtede løsninger på Strandskolens bygninger, samt hvilke dele af byggeprogrammet der evt. kan nedskaleres med færrest mulige konsekvenser. Dette med henblik på at kunne forberede et genudbud, i en situation hvor det nuværende prisniveau er uændret.</div> <div> </div> <div>Administrationen vender tilbage til udvalgene i efteråret 2022 med orientering om plan for genudbud.</div> <h3>Økonomiske konsekvenser</h3> <div>Udsættelse af udbud af udbygning af idrætsfaciliteter ved Karlslunde Idrætsforening vil have konsekvens for anvendelse af anlægsrammen.</div> <h3>Kommunikation</h3> <div>Forældre på Strandskolen og brugere af Karlslunde Idrætsforening orienteres om udsættelse af udbuddet.</div> <h3>Tidsplan</h3> <div>Administrationen vender i efteråret 2022 tilbage til udvalgene med ny tidsplan.</div> </div></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>26-04-2022 Skole-, Børne- og Ungeudvalget</u><br>\r <div>Godkendt.</div> <div> </div><br>\r \r <u>27-04-2022 Kultur- og Fritidsudvalget</u><br>\r Anbefales.<br>\r \r </span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4142386a-96cd-4bb8-b00e-6f224b691b17",
+          "DocumentId": "4142386a-96cd-4bb8-b00e-6f224b691b17"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "20-072985K",
+      "Navn": "Orientering om udsættelse af udbud af udbygning af idrætsfaciliteter ved Karlslunde Idrætscenter",
+      "Punktnummer": "13",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "97b6c3a7-e6a3-45d0-9789-459911937984",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "20-072985K",
+      "SourceId": null,
+      "Caption": "Orientering om udsættelse af udbud af udbygning af idrætsfaciliteter ved Karlslunde Idrætscenter",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "97b6c3a7-e6a3-45d0-9789-459911937984"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><div>Klima-, Teknik- og Miljøudvalget besluttede en politisk målsætning om, at spørgsmål til en sag der er under behandling inden for udvalgets område, kan afvente besvarelse til sagen er færdigbehandlet.</div></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div> <h3><span>Sagsprocedure</span></h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3><span>Resume</span></h3> <div>Udvalget har på det seneste udvalgsmøde i marts aftalt at drøftelse anvendelsen af spørgsmål/svar.</div> <h3><span>Indstilling</span></h3> <div><em>Center for Teknik & Miljø indstiller, at anvendelsen af spørgsmål/svar ved henvendelser til udvalgets medlemmer drøftes.</em></div> <h3><span>Sagsbeskrivelse</span></h3> <div>Udvalget drøftede på mødet den 21.marts muligheden for at aftale procedure og kodeks om spørgsmål/svar. Det var ligeledes på tale om udvalgets medlemmer evt. i højere grad kan aftale, at lade udvalgsformanden svare borgere på udvalgets vegne. </div> <div> </div> <div>Udvalget aftalte at tage drøftelser om dette på et kommende udvalgsmøde.</div> <div> </div> <div>Baggrunden er eksempler på borgeres henvendelse til byrådets medlemmer om sager, der er under behandling i administrationen og/eller som bør henvises til behandling og svar fra administrationen.</div> <div> </div> <div>Det giver forstyrrelser i sagens behandling og tager tid fra sagens behandling, når administrationen skal redegøre via spørgsmål/svar for konkrete spørgsmål i en sag, særligt når denne endnu ikke er behandlet færdig.</div> <div> </div> <div>Det kan ligeledes være uheldigt, hvis en konkret sag bliver besvaret via medlemmer i byrådet, hvis den  i stedet bør henvises til administrationen for behandling med fx et konkret afslag med klagevejledning ol.</div> <div> </div> <div>Administrationen indstiller, at udvalget drøfter anvendelsen af spørgsmål/svar og muligt internt kodeks ved henvendelser til udvalgets medlemmer.</div> <h3><span>Lovgrundlag</span></h3> <div>Kommunestyrelsesloven.</div> <div> </div> <div>Delegationsplanen.</div> <h3><span>Økonomiske konsekvenser</span></h3> <div>Sagen har ingen økonomiske konsekvenser.</div> </div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/34e425a5-2c66-404b-9cf6-17d1ed99325d",
+          "DocumentId": "34e425a5-2c66-404b-9cf6-17d1ed99325d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-016075",
+      "Navn": "Drøftelse af svar ved henvendelser til udvalgets medlemmer",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "eb401094-b497-4f0f-a244-40eac1b8734f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "21-016075",
+      "SourceId": null,
+      "Caption": "Drøftelse af svar ved henvendelser til udvalgets medlemmer",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Ingen orienteringspunkter.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/18b024bf-336f-4c1c-bdbb-062cbbf71a55",
+          "DocumentId": "18b024bf-336f-4c1c-bdbb-062cbbf71a55"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014457",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "15",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "5791ff95-c1f5-467f-a400-669813d644b0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "21-014457",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "5791ff95-c1f5-467f-a400-669813d644b0"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div>Orienteringerne blev taget til efterretning.</div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "",
+          "DocumentId": "00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-015023",
+      "Navn": "Lukket: Henvendelse til formanden",
+      "Punktnummer": "16",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "869ed436-0ce2-45fd-973f-8ddb3fc40faf",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "16",
+      "Sorting": 16,
+      "IsOpen": false,
+      "CaseNumber": "21-015023",
+      "SourceId": null,
+      "Caption": "Lukket: Henvendelse til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "869ed436-0ce2-45fd-973f-8ddb3fc40faf"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringerne blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div>I sagen gives et kort overblik over administrationens orienteringspunkter.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Administrationen orienterer om:</div> <div> </div> <div><strong>- Servicemålstatistik fra 1. april 2021 til 31. marts 2022.</strong></div> <div>Oversigten er vedlagt som bilag.</div> <div> </div> <div><strong>- Invitation til konference og workshop om tryghed i den kollektive transport i Region Hovedstaden.</strong></div> <div>Invitation vedlagt.</div> <div> </div> <div><strong>- Dekoration af tunnel mellem Gersagerparken og Waves</strong></div> <div>I forbindelse med en sag i 2018, hvor 3 tunneler blev dekoreret af kendte ”Steet-art” kunstnere fra lande i Europa efter samarbejde med organisationen Street Studies, har det vist sig, at der var et beløb tilbage, kr. 62.500,- som kommunen havde til gode. Kommunen kan få ny kunst i en tunnel for pengene. </div> <div> </div> <div>Administrationen har valgt en tunnel mellem Gersagerparken og Waves, som blev renoveret i 2021 </div> <div> </div> <div>Det er planen, at Street Studies finder kunstner(e) til at male tunnelen og det vil foregå medio 2022 – juni/juli måned. Gersagerparkens beboerforening vil blive orienteret nærmere, når der foreligger en plan og tidspunkt.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fa5e7595-8150-4f5c-b1a2-d679ab43ebf0",
+          "DocumentId": "fa5e7595-8150-4f5c-b1a2-d679ab43ebf0"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013718",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "17",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Servicestatistik - 1. april 2021 - 31. marts 2022",
+          "Id": "ca1f4925-5fa6-47b4-98dd-28321b842590"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Invitation til konference og workshop om tryghed i kollektiv transport i...",
+          "Id": "954bd668-119c-4c07-9744-6757efc952ac"
+        }
+      ],
+      "Documents": null,
+      "Id": "b54e3105-3fc7-4760-ba5a-2bc95fe61a95",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "17",
+      "Sorting": 17,
+      "IsOpen": false,
+      "CaseNumber": "21-013718",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "b54e3105-3fc7-4760-ba5a-2bc95fe61a95"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div>I sagen gives et overblik over Klima-, Teknik- og Miljøudvalgets udvalgsmøder og møder i tilknytning til udvalget.</div> <h3>Indstilling</h3> <div><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></div> <h3>Sagsbeskrivelse</h3> <div>Klima-, Teknik- og Miljøudvalgets kalender er vedlagt.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/dcff6a7b-ce21-400f-b1df-2be4aba74280",
+          "DocumentId": "dcff6a7b-ce21-400f-b1df-2be4aba74280"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014455",
+      "Navn": "Klima-, Teknik- og Miljøudvalgets kalender 2022",
+      "Punktnummer": "18",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Klima-, Teknik- og Miljøudvalgets kalender - april 2022",
+          "Id": "a4bcf78c-43de-4ed0-9b2e-5a61c18239b4"
+        }
+      ],
+      "Documents": null,
+      "Id": "7b89c0f3-c5da-4b04-b08a-1e3927053a0f",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "18",
+      "Sorting": 18,
+      "IsOpen": false,
+      "CaseNumber": "21-014455",
+      "SourceId": null,
+      "Caption": "Klima-, Teknik- og Miljøudvalgets kalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": [
+        {
+          "Name": "Bjarke Abel",
+          "Email": null,
+          "AttendanceType": 2,
+          "Reason": "Fraværende",
+          "AgendaItemUid": "7b89c0f3-c5da-4b04-b08a-1e3927053a0f"
+        }
+      ]
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h3>Sagsprocedure</h3> <div>Klima-, Teknik- og Miljøudvalget.</div> <h3>Resume</h3> <div>Elektronisk underskriftsark.</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7e655812-4bd9-4025-9508-3cc62ab0212d",
+          "DocumentId": "7e655812-4bd9-4025-9508-3cc62ab0212d"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014460",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "19",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "a941a35b-0775-40a5-9d08-f39a1c46608e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+      "Number": "19",
+      "Sorting": 19,
+      "IsOpen": false,
+      "CaseNumber": "21-014460",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "6648ace3-ba36-40bf-95ea-bd516b6bf247",
+    "Navn": "Klima-, Teknik- og Miljøudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-04-28T07:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-04-28T07:30:00+02:00",
+    "Sted": "Mødelokale 4+5",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Hans-Jørgen Kirstein",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Torben Hoffmann",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Dyremose",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Bjarke Abel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Claus Jensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "3a49ac52-12d7-4f8a-a59b-747d592fb419",
+  "Lydfiler": null
+}

@@ -1,0 +1,716 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Godkendelse af dagsorden.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><i>Administrationen indstiller, at dagsordenen godkendes.</i></p>\n<p><em></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/9b287975-c6c3-414c-b941-4c2f6df1237b",
+          "DocumentId": "9b287975-c6c3-414c-b941-4c2f6df1237b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Godkendelse af dagsorden",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "10901527-9f3c-4746-84ab-d050be4095e9",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Besøget blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<h4><span>Kultur-\nog Fritidsudvalget besøger Karlslunde Idrætsforening. Besøget er planlagt efter\nKultur- og Fritidsudvalgets ønske om at besøge eller få besøg af Greve Kommunes\nforeninger og kulturinstitutioner i forbindelse med udvalgsmøder i 2025.</span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget tager besøget ved Karlslunde\nIdrætsforening til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p><span><strong><em>Mødets\nindhold</em></strong></span></p>\n<h4><span>Kultur-\nog Fritidsudvalget vil med besøget få en kort rundvisning i nogle af Karlslunde\nIdrætsforenings faciliteter. Under rundvisningen vil udvalget blive orienteret\nom de forskellige aktiviteter og udviklingsplaner, muligheder og udfordringer.</span></h4>\n<p>Kultur og Fritidsudvalget vil efter besøget afholde det ordinære udvalgsmøde i Karlslunde Idrætscenter.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/aa0ef0a4-c67f-4a4a-b420-fb757ff385e6",
+          "DocumentId": "aa0ef0a4-c67f-4a4a-b420-fb757ff385e6"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005311",
+      "Navn": "Besøg i Karlslunde Idrætsforening",
+      "Punktnummer": "2",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "c596bb47-7f37-4d4d-8496-41bb45c551bd",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "25-005311",
+      "SourceId": null,
+      "Caption": "Besøg i Karlslunde Idrætsforening",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning med bemærkning om, at udvalget ønsker en sag på et kommende møde vedrørende museumsloven.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Kultur-\nog Fritidsudvalget.</span></h4>\n<h4>Resume</h4>\n<h4><span>Kultur-\nog Fritidsudvalget afholder møde med bestyrelsen for Greve Museum.</span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning</em></p>\n<h4>Sagsbeskrivelse</h4>\n<h4><span>Kultur-\nog Fritidsudvalget mødes en gang årligt med bestyrelsen for Greve Museum til\ndialogmøde. Hensigten med mødet er en gensidig orientering, drøftelse og dialog\nom museets drift og udvikling.</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<h4><span>Sagen\nhar ingen økonomiske konsekvenser for Greve Kommune.</span></h4>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/24b4e20a-fb6a-46dc-8452-2e36ae10f05a",
+          "DocumentId": "24b4e20a-fb6a-46dc-8452-2e36ae10f05a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005306",
+      "Navn": "Dialogmøde med bestyrelsen for Greve Museum",
+      "Punktnummer": "3",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8a83670a-de82-45ef-9ed4-5060e548e375",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "25-005306",
+      "SourceId": null,
+      "Caption": "Dialogmøde med bestyrelsen for Greve Museum",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning med bemærkning om, at udvalget anerkender den flotte årsberetning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Greve Museum har udarbejdet årsberetning for 2024, der fremsendes til\nudvalgets orientering.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til\nefterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Årsberetningen giver en række fortællinger om mange af de aktiviteter og\nprojekter, som har præget året i 2024. Årsberetningen er vedlagt som bilag\n1. </p>\n<p><em><strong>Mosede Fort</strong></em></p>\n<p>I 2024 blev det klart, at de 70 mio. kr., der var i det oprindelige budget,\ntil udbygning af Nyt Mosede Fort ikke var nok til at realisere projektet.\nByrådet i Greve Kommune besluttede derfor at stille en underskudsgaranti for\nprojektet, der nu har et budget på ca. 99 mio. kr. og derfor arbejder\nadministrationen videre med en projektkonkurrence i 2025.</p>\n<p><em><strong>Årets særudstilling </strong></em><span class=\"spelle\"><strong><em>Hedebo</em></strong></span><em><strong>\nHighlights</strong></em></p>\n<p>I <span class=\"spelle\">Hedebo</span> Highlights\nvises et udvalg af de mange imponerende og fine dragter, huenakker og\nhedebosyninger, der findes i Greve Museums samling. <span class=\"spelle\">Hedeboegnens</span> broderitradition er unik, og den er\nGreves bidrag til den nationale og internationale tekstile kulturarv. Med\nudstillingen får denne vigtige kulturarv al den opmærksomhed, den fortjener</p>\n<p><em><strong>Åben skole forløb</strong></em></p>\n<p>2024 blev et rekordår for skoletjenesten på museet med en stigning på 20% og\nnæsten 6000 børnehavebørn, skolebørn, pædagoger og lærer var igennem et\nforløb. </p>\n<p>Som noget nyt tilbød Greve museum og Mosede Fort ud over de obligatoriske\nforløb, 60 gratis forløb for indskoling og mellemtrin omkring juletid med fokus\npå denne højtid. </p>\n<p><em><strong>Arrangementer</strong></em></p>\n<p>I 2024 var der på Greve Museum og Mosede Fort arrangementer og aktiviteter\nfordelt på i alt 153 dage. Arrangementerne spænder bredt og der afholdes såvel\nsuccesfulde gengangere som nye koncepter.</p>\n<p>På Greve Museum var der arrangementer som workshops i hækling og strik for\nbegyndere, historisk strømpestikning og fremstilling af <span class=\"spelle\">hedeboringe</span>, <span class=\"spelle\">håndarbejdscafé</span>,\nfastelavnsfest, midsommerkoncert, plantemarked, bonderøvsdage,\nkartoffelferie, allehelgensgys og juleværksted. I alt 2.413 gæster\ndeltog i arrangementer på Grevegård i 2024.</p>\n<p>På Mosede Fort var der æggejagt i påsken, sommerferieaktiviteten \"I\nsoldatens fodspor\", børnerundvisninger og VR-oplevelser, dragefestival,\nBefæstningens Dag samt Halloween på fortet i samarbejde med Greve\nKultur-Base. I alt 2.940 gæster deltog i arrangementer eller\nrundvisninger på Mosede Fort i 2024.</p>\n<p><em><strong>Besøgstal</strong></em></p>\n<p><em>Besøgstal Greve Museum:</em></p>\n<table border=\"0\" cellspacing=\"3\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td>\n            <p><strong><span> Årstal \n                    </span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>   \n            2022    </span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>   \n            2023    </span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>   \n            2024    </span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span> <strong>Børn</strong></span></p>\n            </td>\n            <td>\n            <p><span>    2.782</span></p>\n            </td>\n            <td>\n            <p><span>    3.970</span></p>\n            </td>\n            <td>\n            <p><span>    3.672</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span> Voksne </span></strong></p>\n            </td>\n            <td>\n            <p><span>    6.872</span></p>\n            </td>\n            <td>\n            <p><span>    8.301</span></p>\n            </td>\n            <td>\n            <p><span>    6.985</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span> I alt</span></strong></p>\n            </td>\n            <td>\n            <p><span>    9.654</span></p>\n            </td>\n            <td>\n            <p><span>   12.271</span></p>\n            </td>\n            <td>\n            <p><span>   10.657</span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><em>Besøgstal Mosede Fort:</em></p>\n<table border=\"0\" cellspacing=\"3\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td>\n            <p><span> <strong>Årstal</strong> \n                      </span></p>\n            </td>\n            <td>\n            <p><span>  <strong> \n            2022    </strong></span></p>\n            </td>\n            <td>\n            <p><strong><span>   \n            2023    </span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>   \n            2024  </span></strong><span>  </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span> Børn</span></strong></p>\n            </td>\n            <td>\n            <p><span>    5.222</span></p>\n            </td>\n            <td>\n            <p><span>    4.253</span></p>\n            </td>\n            <td>\n            <p><span>    4.848 </span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span> Voksne</span></strong></p>\n            </td>\n            <td>\n            <p><span>    5.405</span></p>\n            </td>\n            <td>\n            <p><span>    5.554</span></p>\n            </td>\n            <td>\n            <p><span>    4.977</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span> <strong>I alt</strong></span></p>\n            </td>\n            <td>\n            <p><span>   10.627</span></p>\n            </td>\n            <td>\n            <p><span>    9.807</span></p>\n            </td>\n            <td>\n            <p><span>    9.825 </span></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<h4>Lovgrundlag</h4>\n<p>Museumsloven.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<h4>Øvrige forhold</h4>\n<p>Greve Museum spiller en aktiv rolle i Greve Kommunes Kultur-, Idræts- og\nFritidspolitik 2023-2026. Det gør museet både gennem Åben Skole forløb og de\nmangfoldige arrangementer, der bidrager til trivsel, livslang læring og\ndannelse.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d825cf92-da80-42ec-a5e6-88fef7a64693",
+          "DocumentId": "d825cf92-da80-42ec-a5e6-88fef7a64693"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004989",
+      "Navn": "Greve Museum orientering om årsberetning 2024",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Greve Museums årsberetning 2024",
+          "Id": "949da489-0491-4ba8-9007-e65a33fafae2"
+        }
+      ],
+      "Documents": null,
+      "Id": "63f6e3ca-5925-489f-b19e-ce37cb02cb55",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "25-004989",
+      "SourceId": null,
+      "Caption": "Greve Museum orientering om årsberetning 2024",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Udvalget godkendte, at Maria Holdt Witthøft (A) udpeges som ny repræsentant til bestyrelsen.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Kultur- og Fritidsudvalget skal træffe beslutning vedrørende <span class=\"spelle\">omkonstituering</span> i Greve Museums bestyrelse. Medlem af\nKultur- og Fritidsudvalget og medlem af Greve Museums bestyrelse Charlotte\nLevin ønsker at træde ud af bestyrelsen, og der skal derfor træffes beslutning om, hvem der skal indtræde i Greve Museums bestyrelser i stedet for Charlotte Levin.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at omkonstitueringen hvor der udpeges en ny repræsentant til Greve Museums bestyrelse godkendes.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Medlem af Greve Museums bestyrelse Charlotte Levin ønsker at træde ud af\nGreve Museums bestyrelse grundet nyt arbejde. Kultur- og Fritidsudvalget skal derfor udpege en ny repræsentant til Greve Museums bestyrelse.</p>\n<p>Valgperioden gælder frem til 31. december 2025.</p>\n<p>Bestyrelsen for Greve Museum er overordnet ansvarlig for museets drift.\nBestyrelsen er endvidere ansvarlig for at forvalte museets formue. </p>\n<h4>Lovgrundlag</h4>\n<p>Greve Museums vedtægter er godkendt af Byrådet 6. maj 2014.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/723fb331-0f56-49df-b7d0-2b662d611ce2",
+          "DocumentId": "723fb331-0f56-49df-b7d0-2b662d611ce2"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005701",
+      "Navn": "Omkonstituering i Greve Museums bestyrelse",
+      "Punktnummer": "5",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "4752d51c-f531-4ffc-946d-5cb4cb03096c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "25-005701",
+      "SourceId": null,
+      "Caption": "Omkonstituering i Greve Museums bestyrelse",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>2. Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Klima-, Teknik- og Miljøudvalget, Kultur- og Fritidsudvalget,\nØkonomiudvalget og Byrådet.</p>\n<h4>Resume</h4>\n<p>Greve Idrætscenters Brugerråd har bl.a. via fondsmidler en finansiering\ntil at opføre en ny legeplads ved Cafe Langsiden på Greve Idrætscenter. Byrådet\nskal tage stilling til, om legepladsen må sættes op på kommunale arealer, og om\nkommunen skal afholde driftsudgifter til legepladsen, når den er bygget.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller overfor Klima-, Teknik- og Miljøudvalget, </em></p>\n<p><em>1. at det godkendes, at Greve Idrætscenters Brugerråd får\ntilladelse til at opføre det nye legepladsudstyr på Greve Kommunes arealer på\nbetingelse af, </em></p>\n<ol style=\"list-style-type: decimal;\">\n    <ol style=\"list-style-type: lower-alpha;\">\n        <li><em>at Brugerrådet selv\n        står for anlægget og finansierer alle udgifter forbundet med legepladsens\n        opførelse</em></li>\n        <li><em>at Brugerrådet har\n        ansvar for at ansøge og sikre alle myndighedstilladelser til legepladsen\n        herunder at den godkendes af certificeret rådgiver</em></li>\n        <li><em>at Greve Kommune fører\n        tilsyn og drifter legepladsen fremover under kommunens driftskontrakter,\n        og</em></li>\n        <li><em>at de\n        øgede driftsudgifter på 10.500 kr. om året afholdes inden for\n        rammen af kommunens eksisterende driftskontrakter.</em></li>\n    </ol>\n</ol>\n<p><em>Administrationen indstiller overfor Kultur- og Fritidsudvalget, </em></p>\n<p><em><span>     2</span></em><em>. at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Greve Idrætscenters Brugerråd (Brugerrådet) ønsker at opføre en\nlegeplads ved Cafe Langsiden på Greve Idrætscenter (GIC). Der er i dag en\nskråning i græs og der har ikke tidligere været en legeplads. Placeringen er\nvalgt, da den ligger ved cafeen, hvor mange naturligt opholder sig på GIC samt\nved siden af atletikbanen og opvisningsbanen, hvor der er mange mennesker ved\nstævner og kampe. Desuden ligger legepladsen beskyttet i forhold til\nbiltrafik på GIC. Placeringen fremgår på kort i bilag 1.</p>\n<p>Brugerrådet har søgt og fået fondsmidler til at opføre en legeplads med\ntemaet \"eventyr\". Legepladsen er udformet med klatretårne,\nklatrenet, rutsjebane, gynger og store klatrefigurer i træ, der har form som\nsvaner. Legepladsen er tegnet som en frit tilgængelig legeplads uden hegn.\nAfgrænsningen sker ved en lav kant og faldunderlaget udgøres af sand og bliver <span>fuldt ud tilgængelig for offentligheden. </span>I\nbilag 2 ses illustrationer af legepladsen.</p>\n<p>Brugerrådet har anslået at anlæg af legepladsen koster 500.000 kr. som\nBrugerrådet finansierer. Brugerrådet har fået en fondsbevilling fra Salling\nFonden på 250.000 kr. på betingelse af, at bevillingen anvendes i 2025. De\nresterende 250.000 kr. kommer fra <span class=\"spelle\">Brugerrådets </span>egne\nmidler. Det er almindeligt, at kommunen svarer fondsmoms ved\nfondsbevillinger, men da fondsbevillingen er søgt af en forening (Greve\nHåndbold/Greve Gymnastik) skal der ikke svares fondsmoms, da foreninger er\nundtaget.</p>\n<p>Administrationen anbefaler, at Brugerrådet forestår opgaven med at søge\nbyggetilladelse til legepladsen samt sikrer, at den lever op til gældende\nsikkerhedskrav for legepladser. Dette skal sikres af en certificeret\nlegepladsinspektør efter den officielle standard.</p>\n<p>Administrationen anbefaler desuden, at Brugerrådet står for alle opgaver i\nforbindelse med at anlægge legepladsen. Herunder myndighedsbehandling,\nentreprenører, bortskaffelse af jord, indkøb af materialer mv.</p>\n<p><span>Den årlig driftsudgift til legepladsen udgør\n10.500 kr. </span>Beløbet dækker opgaver som at bevægelige dele smøres,\nsøm og løse skruer fastgøres og udskiftes, faldsand renses efter behov, defekt\nudstyr afspærres og at der føres en årlig legepladsinspektion på udstyret. Det\nindgår ikke, at selve udstyret udskiftes eller repareres ved større fejl og\nmangler.</p>\n<p>Administrationens erfaring er, at udstyr først trænger til udskiftning eller\nreparation, når det er ældre end 10 år. Da det er en udgift, der ligger et\nstykke ud i fremtiden, indgår det derfor ikke i beregningen. Det skal dog\nbemærkes, at Greve Kommune i dag ikke har afsat finansiering til at udskifte\ndefekt legepladsudstyr. Defekt legepladsudstyr repareres, og hvis det ikke er\nmuligt at reparere, bliver det fjernet.</p>\n<p>De 10.500 kr. sikrer, at den nye legeplads kan driftes til samme standard\nsom kommunens øvrige legepladser. Driftsudgiften er beregnet på baggrund af\npriser i kommunens driftskontrakt og forudsætter derfor, at denne kontrakt\nanvendes til drift af den nye legeplads. Administrationen anbefaler, at de\nøgede driftsudgifter på 10.500 kr. om året afholdes indenfor den\nøkonomiske ramme af kommunens driftskontrakt med <span class=\"spelle\">Forstas</span> A/S.\n</p>\n<p>Det vil dog betyde, at kommunen har lidt færre midler til at udføre\nregnings- og bestillingsarbejder, som anvendes ved ad-hoc prægede opgaver.\nKontraktens størrelse taget i betragtning er der dog tale om et meget lille\nbeløb. </p>\n<h4>Lovgrundlag</h4>\n<p>Bygningsreglementet.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Eventyrlegepladsen betyder en besparelse på den ordinære drift på\ngræsslåning, fordi der ikke længere skal slås græs på det areal, hvor legepladsen\nskal bygges. Besparelsen svarer til ca. 1.000 kr./år. Samtidig betyder\nlegepladsen, at driftsudgifterne øges, fordi der nu skal vedligeholdes en\nlegeplads, som er et dyrere driftselement end en græsplæne. Driftsudgifter\nsvarer til ca. 11.500 kr. / år. </p>\n<p>Driftsudgifterne (11.500 kr. / år) fratrukket besparelsen (1.000 kr. / år)\nsvarer i alt til en øget driftsudgift på 10.500 kr./år, som <span class=\"grame\">anbefales</span>\nindeholdt i den nuværende drift.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p>\n<h4>Kommunikation</h4>\n<p>Administrationen har været i dialog med Brugerrådets formand Ronni Nielsen\nomkring eventyrlegepladsen siden efteråret 2024, hvor Brugerrådet bl.a. løbende\nhar orienteret om status på fondssøgningen samt forventet tidsplan.</p>\n<p>Legepladsens materialevalg er tilpasset det som kommunen har god erfaring\nmed at drifte i forvejen. Dette bl.a. for at sikre, at legepladsen kan driftes\ntilfredsstillende af <span class=\"spelle\">Forstas</span> A/S, og at driften ikke\nbliver unødig dyr.</p>\n<p>Administrationen har oplyst Brugerrådet om vilkår for opførelsen af\nlegepladsensom følger: </p>\n<ol style=\"list-style-type: lower-alpha;\">\n    <li>at Brugerrådet selv står for at opføre legepladsen og\n    afholder alle udgifter, inkl. evt. fondsmoms </li>\n    <li>at Brugerrådet selv står for at indhente og betale\n    for den nødvendige byggetilladelse mv.</li>\n    <li>at Brugerrådet sikrer, at legepladsen overholder\n    sikkerhedskrav</li>\n    <li>at legepladsen er uden hegn og fuldt ud tilgængelig for\n    offentligheden</li>\n</ol>\n<p>Brugerrådet er enige og har accepteret vilkårene.</p>\n<h4>Tidsplan</h4>\n<p>Brugerrådet vil skulle afvente byggesagsbehandlingen, som desværre pt. er\nlang. Det kan betyde, at legepladsen ikke kan opføres i 2025. Foreningen skal\nda aftale med fonden, om de kan fastholde tildelingen.</p>\n<p><span class=\"grame\">Byggeperioden</span> er ca. 1 måned fra opstart.\nByggearbejdet vil desuden skulle tilpasses vejrlig.  </p></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>04/06/2025   Klima-, Teknik- og Miljøudvalget</u><br>\r\nBeslutning ikke frigivet<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e4eef5d8-c6dc-46d6-b475-8456bb9dd547",
+          "DocumentId": "e4eef5d8-c6dc-46d6-b475-8456bb9dd547"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-002856",
+      "Navn": "Ny legeplads på Greve Idrætscenter",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Placering af legeplads",
+          "Id": "4bafb227-9141-453b-9bd2-92fb0e48fa02"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Illustrationer af Eventyrlegepladsen",
+          "Id": "c43aec89-2a7f-4da5-a054-32b0a1ca12d4"
+        }
+      ],
+      "Documents": null,
+      "Id": "119012bf-9054-48b7-b900-4f952fc37959",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "25-002856",
+      "SourceId": null,
+      "Caption": "Ny legeplads på Greve Idrætscenter",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Anbefales.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Kultur-\nog Fritidsudvalget, Økonomiudvalget og Byrådet. </span></h4>\n<h4>Resume</h4>\n<p>Greve\nKommune indgår årligt aftale med Greve Gymnasium om, at kommunen kan låne\ngymnasiets idrætshal og idrætssale til brug for idrætsforeninger i kommunen.\nAftalen indebærer blandt andet, at kommunen har ansvar for idrætsforeningernes\nbrug af lokalerne, og at kommunen refunderer gymnasiets udgifter til el, vand\nog varme under idrætsforeningernes brug. Der skal indgås en fornyet aftale og\ndenne vedlægges til godkendelse i bilag 1.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em> <em>at aftalen om udlån af idrætshal\nog idrætssale på Greve Gymnasium  med en årlig pris på 0,250 mio. kr. for 2025 godkendes.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Den\nnuværende aftale udløber med udgangen af juli 2025. Den nye aftale gælder i et år\nfra den 1. august 2025, hvis den godkendes i Byrådet den 25. juni 2025.\nAftalen genforhandles og forelægges politisk én gang om året.</p>\n<p>Det\nfremgår af aftalen, at Greve Kommune kan låne gymnasiets idrætshal og to\nidrætssale til brug for idrætsforeninger i kommunen. Foreningerne kan ifølge\naftalen booke lokalerne jf. de gældende procedurer for foreningers booking af\nlokaler og faciliteter i kommunen.</p>\n<p>Gymnasiet\nudlåner idrætshallen og de to idrætssale udenfor skolens undervisningstider og\neksamensperioder. Dette fremgår af aftalen. Greve Kommune har ansvaret for, at\nforeningsbrugerne efterlader lokalerne ryddet og klar til undervisningsbrug og\ni samme stand som ved modtagelsen.</p>\n<p>Hvis\nlokalerne ikke afleveres i den aftalte stand, vil Greve Gymnasium fakturere\nGreve Kommune for den tid, som skolens medarbejdere skal bruge på oprydning.</p>\n<p>Greve\nKommune hæfter for effekter og skader på lokalerne, der er opstået under Greve Kommunes\nbrug, herunder f.eks. tyveri fra de udlånte lokaler. Greve Gymnasium afholder\nudgifter til aftenpedel, nøglesystem og almindelig vedligeholdelse af\nidrætssale og idrætshal.</p>\n<p>Greve\nGymnasium stiller vederlagsfrit lokalerne til rådighed til Greve Kommune jf. Folkeoplysningsloven, men Greve Gymnasium refunderes af Greve Kommune for\nudgifter til opvarmning, el, vand, forbrugsartikler og rengøring i udlånstiden.\nRefusionen er beregnet til kr. 250.000 kr. årligt for brug af begge idrætssale\nog idrætshal i ovennævnte tidsrum.</p>\n<h4>Lovgrundlag</h4>\n<p>Folkeoplysningslovens\n§ 21, stk. 1, nr. 2 forpligter selvejende institutioner, som tidligere var\namtskommunale institutioner, at stille evt. ledig tid vederlagsfrit til\nrådighed for folkeoplysende foreninger. Dog kan disse selvejende institutioner\nopkræve kommunen for driftsudgifter - herunder el, vand, varme og rengøring,\nsådan som Greve Gymnasium gør jf. aftalen.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Der er afsat 0,3 mio. kr. til formålet i 2025. Mindre forbruget på 0,05 mio. kr. afleveres til kassen ved. BO3. </p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/4b2916da-5a74-4610-ad50-fd494dae5221",
+          "DocumentId": "4b2916da-5a74-4610-ad50-fd494dae5221"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004990",
+      "Navn": "Greve Gymnasium - Fornyelse af aftale 2025-2026",
+      "Punktnummer": "7",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Aftale om udlån af lokaler Greve Gymnasium 2025-2026",
+          "Id": "dd48b041-68d5-44fd-929a-2e04b3fd7af5"
+        }
+      ],
+      "Documents": null,
+      "Id": "595e651b-1b0d-47f9-98af-4f7412796ab0",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "25-004990",
+      "SourceId": null,
+      "Caption": "Greve Gymnasium - Fornyelse af aftale 2025-2026",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\n1. Orienteringen blev taget til efterretning.</p>\n<p>2. Godkendt med bemærkning om, at udvalget ønsker at besøge Valhallen.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Denne sag giver en orientering om Valhallen ved Hundige Boldfælled, med\nfokus på de aktuelle udfordringer relateret til uhensigtsmæssig adfærd og kriminalitet.\nAdministrationen anbefaler at adgang til Valhallen kun gives med nøglebrik som\ni andre kommunale haller.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, </em></p>\n<ol>\n    <li><em>at udvalget tager sagen til efterretning, og\n    </em></li>\n    <li><em>at løsningsforslag om adgang til Valhallen med nøglebrik godkendes. </em></li>\n</ol>\n<h4>Sagsbeskrivelse</h4>\n<p>På Kultur- og Fritidsudvalgets møde den 30. april 2025 blev administrationen\nbedt om at udarbejde en sag som beskriver de forskellige udfordringer der er i\nforbindelse med Valhallen. </p>\n<p>Valhallen blev opført i 2010 til en samlet anlægsudgift på 12,6 mio. kr.,\nhvoraf Lokale- og Anlægsfonden bidrog med 4,2 mio. kr. Faciliteterne omfatter\net idræts-og fritidsareal på 20 x 40 meter, et mindre opvarmet lokale samt\nsidearealer der kan anvendes til bl.a. foredrag, parkour, teater, og musikalske\naktiviteter. Det samlede areal i Valhallen udgør 1.640 m². </p>\n<p><em><strong>Valhallens formål</strong></em></p>\n<p>Formålet med Valhallen er at engagere borgere, der ikke deltager i det\netablerede forenings- og kulturliv, og skabe et fleksibelt rum, der kan\ninspirere til nye måder at deltage i idræt og kulturaktiviteter. Målet er at\nstyrke mangfoldigheden i lokale idræts-, fritids- og kulturtilbud. </p>\n<p>Fra 2010 til 2013 var der tilknyttet to aktivitetsmedarbejdere til\nValhallen, som skulle understøtte det pædagogisk arbejde med børn og unge og\nfremme samarbejdet med aktører som foreninger, Greve Nord Projektet samt skoler\nog daginstitutioner. Siden 2013 har der ikke været afsat midler til at\nopretholde denne indsats.</p>\n<p><em><strong>Regler og rammer for brug af Valhallen</strong></em></p>\n<p>I Valhallen er der skilte, hvor ordensreglementet fremgår tydeligt. Det\nfremgår f.eks. </p>\n<ul style=\"list-style-type: disc;\">\n    <li>Hærværk og upassende opførsel medfører øjeblikkelig\n    bortvisning</li>\n    <li>Støjende eller generende adfærd er ikke tilladt</li>\n    <li>Affald skal bortskaffes i de opsatte skraldespande</li>\n    <li>Eventuelle reservationer af områder skal respekteres</li>\n    <li>Adgang kun tilladt i rent fodtøj</li>\n    <li>Eget idrætsudstyr medbringes</li>\n    <li>Madvarer må ikke medbringes eller indtages i Valhallen</li>\n    <li>Glasflasker er ikke tilladt</li>\n    <li>Området er videoovervåget. </li>\n</ul>\n<p><em><strong>Booking af Valhallen</strong></em></p>\n<p>Valhallen kan lånes af foreninger alle dage fra kl. 8.00-22.00 året rundt,\nmed undtagelse af helligdage og perioden mellem jul og nytår.</p>\n<p>For at sikre plads til selvorganiseret idræt tildeles sæsontider og\nenkeltudlån kun, hvis der fortsat er ledige tider til rådighed for denne\naktivitet. Selve booking foregår via foreningsportalen aktivigreve.dk eller via\npersonlig henvendelse til administrationen. </p>\n<p><em><strong>Åbning og lukning</strong></em></p>\n<p>Valhallen åbnes og lukkes elektronisk kl. 8.00 og kl. 22.00.<br>\nEftersom det tekniske personale har fri kl. 22.00, udføres der tilsyn kl. 21.00\ni Valhallen. Her bliver de tilstedeværende gjort opmærksomme på, at hallen\nlukker kl. 22.00, og at de derfor bedes forlade faciliteterne inden da. Der er\ndog i øjeblikket ikke nogen foranstaltninger, der forhindrer personer i at\nblive længere, hvis de ikke vælger at forlade stedet frivilligt.</p>\n<p><em><strong>Rengøring</strong></em></p>\n<p>Rengøringen i Valhallen varetages af det teknisk personale fra Greve Idræts\nCenter.<br>\nGulvene vaskes én til to gange ugentligt, og tribunen vaskes én til to gange\nmånedligt – begge efter behov. Der fejes og fjernes affald dagligt.</p>\n<p><em><strong>Hvem bruger Valhallen</strong></em></p>\n<p>Valhallen benyttes primært af Hundige Boldklub med sæsonbooking fra kl.\n16.00-20.00 på hverdage. Derudover har der været enkeltbookinger fra\nkampsportsforeninger. Skolerne i nærområdet bruger hallen i frikvarterne, og\nunge spiller fodbold og basket næsten hver aften i selvorganiseret form. Greve\nNord Projektet har også afholdt aktiviteter som lektiecafé og loppemarked i\nhallen.</p>\n<p><em><strong>Uhensigtsmæssig adfærd</strong></em></p>\n<p>Hundige Boldklub oplever stigende problemer med utryg og uhensigtsmæssig\nadfærd i Valhallen – herunder salg af euforiserende stoffer, affald, støj og\naggressiv opførsel, ofte fra personer udenfor lokalområdet. Klubben har flere\ngange bedt folk forlade hallen. </p>\n<p>Det teknisk personale oplever de samme udfordringer som Hundige Boldklub når\nde udfører deres aftentilsyn. </p>\n<p>Gadeteamet og Politiet oplyser, at der sker salg af euforiserende stoffer\nved Valhallen og det varierer alt efter hvor mange som er inde og afsone deres\nfængselsstraf og hvilken årstid det er. Derudover oplyser politiet, at andre\nkriminelle aktører forsøger at overtage salget af euforiserende stoffer, når\ntidligere sælgere er blevet fængslet. Dette gør sig også gældende ved\nValhallen.</p>\n<p><em><strong>Videoovervågning</strong></em></p>\n<p>Der er videoovervågning i Valhallen. Konkret er der overvågning ved ind- og\nudgange samt et udsnit af såvel tribunen som boldarealet. Der er derfor ikke\ntale om at hele Valhallen er videoovervåget. Det er det teknisk personale, der\nvaretager og har adgang til videoovervågningen.</p>\n<p><em><strong>Løsningsforslag</strong></em></p>\n<p>Gadeteamet, Politiet og Hundige Boldklub foreslår, at adgang kun gives via\nnøglebrik som i andre kommunale haller. Hundige Boldklub ønsker desuden, at der\nlægges kunstgræs for at øge brugen blandt fodboldklubberne og der på denne måde\nkan skabes et mere trygt og positivt idræt- og fritidsmiljø i og omkring\nValhallen. </p>\n<p>Det anbefales også at tryghedsvagterne har et øget fokus på Valhallen og\nHundige Boldfælled for at gøre området mere trygt. </p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Etablering af nøglebrikker i Valhallen kan løses inden for eget budget.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7c21c460-34df-4f5e-9844-a0cad467483b",
+          "DocumentId": "7c21c460-34df-4f5e-9844-a0cad467483b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-004382",
+      "Navn": "Valhallen ved Hundige Boldfælled",
+      "Punktnummer": "8",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "d4ca0f03-27da-47fc-b2f0-fcac56fcca0e",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "25-004382",
+      "SourceId": null,
+      "Caption": "Valhallen ved Hundige Boldfælled",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\n1. Orienteringen blev taget til efterretning.</p>\n<p>2. Anbefales.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Kultur-\nog Fritidsudvalget, Økonomiudvalget og Byrådet.</span></h4>\n<h4>Resume</h4>\n<h4><span>I\nforbindelse med budgetforliget 2025-2028 har forligspartierne besluttet, at\nadministrationen skal arbejde med at øge indtjeningsgrundlaget i Greve\nSvømmehal ved f.eks. udlejning af overskudskapacitet eller ændret prisstruktur,\nuden at der reduceres i åbningstiden. </span></h4>\n<h4><span>Eventuelle\nmerindtægter medtages i kommende budgetopfølgninger.</span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller,</em></p>\n<ol style=\"list-style-type: decimal;\">\n    <li><em>at orienteringen tages til efterretning, og</em></li>\n    <li><em>at forslag til ny prisstruktur, jf. bilag 1 godkendes.</em></li>\n</ol>\n<p><strong>Sagsbeskrivelse</strong></p>\n<p>Et øget indtjeningsgrundlag kan f.eks. ske gennem udlejning af\noverskudskapacitet, en ændret prisstruktur eller ved nye og anderledes måder at\nanvende svømmehallen på, uden at der reduceres i åbningstiden.</p>\n<p>I forlængelse budgetforliget har administrationen udarbejdet et konkret\nforslag til en ændret prisstruktur i svømmehallen som både ser på eksisterende\nbilletpriser men også introducerer nye billettyper for at tiltrække flere\ngæster til svømmehallen. <span class=\"grame\">(</span>se bilag 2, Nye takster, bilag 3 Forskel i takster i Greve Svømmehal, bilag 4 Takstblad 2025.)</p>\n<p><em><span><strong>Som eksempler på\nforslag til billetpriser kan nævnes:</strong></span></em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Enkeltbillet til\n    svømmehallen fastholdes på 76 kr. på hverdage men nedsættes til 66 kr. i\n    weekender og ferier</li>\n    <li>Enkeltbillet til\n    svømmehallen for børn u. 16 år fastholdes på 38 kr. på hverdagen men\n    nedsættes til 33 kr. i weekender og ferier</li>\n    <li>3-månederskort for børn\n    og unge u. 16 år stiger fra nuværende takst 560 kr. til 590 kr.</li>\n    <li>10-turskort til\n    svømmehallen for voksne fastholdes på 560 kr.</li>\n    <li>3-månederskort til\n    svømmehallen for voksne stiger fra nuværende takst 1.005 kr. til 1.175 kr.</li>\n    <li>6-månederskort til\n    svømmehallen for voksne stiger fra nuværende takst 1.790 kr. til 2.075 kr.</li>\n    <li>Årskort til svømmehallen\n    for voksne stiger fra nuværende takst 3.185 til 3.360 kr.</li>\n    <li>Enkeltbillet for\n    pensionister og efterlønsmodtagere fastholdes på 38 kr. på hverdage men\n    nedsættes til 33 kr. i weekender og ferier</li>\n    <li>Årskort for pensionister\n    og efterlønsmodtagere stiger fra nuværende takst 1.430 kr. til 1.680 kr.</li>\n</ul>\n<p>Administrationen har sat fokus på mulighederne for at tilpasse svømmehallens\nåbningstider uden at reducere i den samlede årlige åbningstid, for i endnu\nstørre udstrækning, at tilgodese gæsternes ønsker og behov for hvornår\nsvømmehallen skal holde åbent.             </p>\n<p>En mere brugervenlig og behovsorienteret åbningstid kan skabe grundlag for\nat flere gæster benytter svømmehallen (se bilag 1, Øget indtjeningsgrundlag).</p>\n<p>Lejen prisreguleres årligt med stigningen i nettoprisindekset. </p>\n<p><em><strong>Følgende initiativer er iværksat</strong></em></p>\n<ul style=\"list-style-type: disc;\">\n    <li>Bassinerne i Greve Svømmehal er disponeret fuldt ud til\n    offentlig svømning, skolesvømning samt aktiviteter efter\n    folkeoplysningsloven. Der er dog tidspunkter hvor det er muligt både\n    inden- og udenfor offentlig åbningstid at udleje bassin til f.eks. gennemførelse\n    af specialtroppernes optagelsesprøver, filmoptagelser, børnefødselsdage\n    mv. og administrationen arbejder pt. med muligheder for merudlejning.</li>\n    <li>Svømmehallen udlejer allerede kontorfaciliteter til en\n    erhvervsvirksomhed og der er derfor ikke andre lokaler der kan udlejes\n    permanent. I forbindelse med udlejning af lokaler til erhvervsformål er\n    der udarbejdet flerårige kontrakter, hvor der foretages en årlig\n    prisregulering.</li>\n    <li>Det vil dog være muligt at udleje kontorfaciliteter i\n    begrænsede tidsrum på samme måde som svømmehallens aktivitetslokale bliver\n    udlejet til børnefødselsdage mv.</li>\n    <li>Tilpasning af åbningstiderne til brugernes specifikke\n    ønsker og behov og samtidig fastholde den samlede årlige åbningstid på ca.\n    3850 timer.</li>\n    <li>Differentierede åbningstider i skoleferier, i weekender\n    og på helligdage.</li>\n    <li>Planlægning og implementering af nye aktiviteter som\n    Saunagus, Drop In babysvøm, Wellness arrangementer samt Leg og lær\n    livredning. </li>\n</ul>\n<p><em><strong>Initiativer som kræver politisk beslutning</strong></em></p>\n<p>En ændret prisstruktur på specifikke og generelle billettyper skal godkendes\naf Byrådet.</p>\n<h4>Lovgrundlag</h4>\n<h4><span>Budgetforligsaftale\n2025-2028, Greve Kommune.</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<h4><span>En\neventuel merindtægt medtages i kommende budgetopfølgninger.</span></h4>\n<h4>Høring</h4>\n<h4><span>Der\ner ikke høringspligt i denne sag.</span></h4>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5854d829-2d64-4cf5-9f2c-c4e3d1c4fa95",
+          "DocumentId": "5854d829-2d64-4cf5-9f2c-c4e3d1c4fa95"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005096",
+      "Navn": "Greve Svømmehal - opfølgning på budgetforlig, indtjeningsgrundlag",
+      "Punktnummer": "9",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Øget indtjeningsgrundlag i Greve Svømmehal",
+          "Id": "abcd351a-ff1f-479d-b683-498af3bf0e97"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2, Forslag til nye takster i Greve Svømmehal.",
+          "Id": "76cdb48f-9c72-4a0c-a655-e4c564b09bb3"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Forskel i takster i Greve Svømmehal",
+          "Id": "e9fd0cdd-e028-416f-af1d-1292e8aaf1c8"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4. Takstblad 2025",
+          "Id": "4e6a9ce3-7c18-46d9-92bd-4c51f5fefc59"
+        }
+      ],
+      "Documents": null,
+      "Id": "3e0d1a72-b2ca-46b8-8acf-57acaaec2027",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "25-005096",
+      "SourceId": null,
+      "Caption": "Greve Svømmehal - opfølgning på budgetforlig, indtjeningsgrundlag",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Plan-\nog Tryghedsudvalget og Kultur- og Fritidsudvalget.</span></h4>\n<h4>Resume</h4>\n<h4><span>En\ngruppe unge har gennem en længere periode udøvet utryghedsskabende adfærd på\nTune Bibliotek og administrationen har derfor iværksat en række forebyggende initiativer\nmed det formål, at genetablere trygheden for borgere på biblioteket. Da\ninitiativerne ikke har haft den ønskede effekt, har administrationen inddraget\nlokalsamfundet med henblik på en fælles drøftelse og eventuel løsning af de\nverserende udfordringer.</span></h4>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<h4><span>Tune\nBibliotek har gennem en længere periode haft besøg af en gruppe unge der har\nudøvet en utryghedsskabende adfærd. Administrationen har derfor iværksat en\nrække forebyggende initiativer med henblik på at genetablere trygheden for\nbiblioteket brugere og medarbejdere. En oversigt over væsentlige hændelser\nomkring uro på Tune Bibliotek kan ses i bilag 1.</span></h4>\n<p>Initiativerne har ikke haft den ønskede effekt, og administrationen har rakt\nud til lokalsamfundet med henblik på at etablere en fælles dialog om\nudfordringerne på biblioteket. Formålet med den fælles dialog og inddragelse af\nlokalsamfundet var at drøfte de fælles udfordringer og fælles lokale løsninger.\nForskellige repræsentanter for lokalområdet blev inviteret til et dialogmøde\n(se bilag 2).</p>\n<h4><em>Status på de\nforebyggende initiativer som administrationen har iværksat</em></h4>\n<h4><em><span>Politianmeldelse</span></em></h4>\n<h4><span>Administrationen\nhar foretaget en politianmeldelse primo oktober 2024 i forbindelse med hærværk\nog 3 unge drenge har fået karantæne til biblioteket. Sagen er stadig under\nbehandling hos politiet.</span></h4>\n<h4><em><span>Kameraovervågning</span></em></h4>\n<h4><span>Biblioteket\nfølger kontinuerligt med i, hvad der sker i den selvbetjente åbningstid via\nkameraovervågning og kan konstatere, at de personer der har fået karantæne,\nskaffer sig adgang til biblioteket via kammerater. </span></h4>\n<h4><em><span>Samarbejde med politi og Gadeteam</span></em></h4>\n<h4><span>I\noktober og november 2024 har politiet foretaget runderinger på biblioteket\nefter aftale og Gadeteamet er <span class=\"grame\">tilstede</span>\npå biblioteket på udvalgte dage, hvor der bl.a. er taget initiativer til en\nsocial aktivitet med de unge (en tur på gokartbane). De unge vil gerne i dialog\nmed Gadeteamet, og deres tilstedeværelse har haft en midlertidig positiv effekt\npå de unges adfærd men ikke medført en varig ændring i adfærden.</span></h4>\n<h4><em><span>Løbende dialog</span></em></h4>\n<h4><span>Medarbejderne\ner i regelmæssig dialog med de unge og oplever en adfærd, hvor de i perioder\nkan være samarbejdsvillige og i andre perioder kan opleves som højrøstede med\ngrimt sprogbrug, grænsende til en truende adfærd. </span></h4>\n<h4><span>Særligt\npå mandage i eftermiddagstimerne har arbejdsmiljøet været særligt udfordret og\nadministrationen har derfor besluttet, at der hen over vinterperioden skulle\nvære to medarbejdere i den betjente åbningstid. </span></h4>\n<h4><span>Medarbejderne\noplever det pt. som en rolig periode.</span></h4>\n<h4><em><span>Samarbejdsmøde med konkret borger </span></em></h4>\n<h4><span>Biblioteket\nhar taget initiativ til et samarbejdsmøde mellem biblioteket og to af de unge\nsamt den enes mor. Formålet med mødet var at indskærpe reglerne for acceptabel\nadfærd på biblioteket, samt dialog om hvilke typer af aktiviteter de unge kunne\nvære interesseret i.</span></h4>\n<h4><em><span>Opsætning af skilte</span></em></h4>\n<h4><span>Biblioteket\nhar opsat skilte i bibliotekets lokaler med henstilling til at rydde op efter\nsig samt tage hensyn til andre brugere.</span></h4>\n<h4><em><span>Aktiviteter for unge</span></em></h4>\n<h4><span>Biblioteket\nhar ved flere lejligheder opfordret de unge til at deltage i igangværende\naktiviteter, blandt andet i forbindelse med Tune By Night.</span></h4>\n<h4><em><span>Tryghedsvagter</span></em></h4>\n<h4><span>I\nforbindelse med, at der er ansat tryghedsvagter i Greve Kommune er der en\nigangværende dialog om tryghedsvagterne også kan rundere på biblioteket i Tune\nsamt i Hundige.</span></h4>\n<h4><em><span>Dialogmøde</span></em></h4>\n<h4><span>Da\nde forebyggende initiativer ikke har haft den ønskede effekt, valgte\nadministrationen at inddrage lokale aktører i Tune ved at invitere til\ndialogmøde.</span></h4>\n<h4><span>Formålet\nmed dialogmøde var at drøfte og eventuelt samarbejde om fælles løsninger der\nkunne skabe større tryghed på biblioteket samt at få aktive borgere i Tune til\nat påtage sig et medansvar og medvirke til at skabe trygge rammer for brugere\nog borgere.</span></h4>\n<h4><span>Dialogmøde\nblev afholdt den 22. januar 2025, hvor der deltog repræsentanter for Tune IF,\nNatteravnene, Tune skolebestyrelse, Menighedsrådet samt administrationen.</span></h4>\n<h4><span>Deltagerne\nvar positive overfor dialogen på tværs i lokalområdet, hvor man i fællesskab\nkunne drøfte udfordringer og mulige løsninger. Alle deltagere på <span class=\"spelle\">dialogmødet</span> bakkede op om ideen med mere inddragelse og var\npositive overfor, at der f.eks. inviteres til et opfølgende møde på\nbiblioteket.</span></h4>\n<h4><span>Initiativer\nsom administrationen indarbejder i den daglige drift i forlængelse af <span class=\"spelle\">dialogmødet</span> den 22. januar 2025:</span></h4>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Natteravnene\n            har etableret flere hold der i marts og april måned på udvalgte mandage går\n            en tur omkring Tune Bibliotek. Første gang Natteravnene runderede var den 17.\n            marts og det er aftalt at natteravnene ser på mulighederne for at rykke deres\n            base fra Tune Skole til Tune Bibliotek.</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Flytte\n            aktiviteter fra andre steder i byen til biblioteket med det formål, at skabe\n            mere liv på biblioteket. Hvis aktiviteterne skal flytte til biblioteket, vil\n            det kræve en dialog mellem de enkelte aktører og biblioteket.</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Fortsætte\n            dialogen med Tune skole om muligheden for at afholde aktivitetsuger,\n            projektuger, forældrearrangementer mv. på biblioteket.</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Opfordre\n            Menighedsrådet til at bruge biblioteket mere da de har givet udtryk for, at\n            de måske er interesseret i at bruge bibliotekets lokaler til ungeklub og\n            måske kan bruge biblioteket til div. foredragsholdere, møder med\n            grundejerforeninger mv.</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Fortsætte\n            dialogen med idrætsforeninger om hvem der kan benytte bibliotekets lokaler</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Undersøge\n            om der kan nedsættes en gruppe der kan gå i dialog med de unge og komme dem i\n            møde</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Arbejde\n            videre med forslag om at invitere de unge til et møde, tale om muligheder og\n            tage dem alvorligt.</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Fortsætte\n            samarbejdet med politiet og Gadeteamet med henblik på kontinuerlige\n            runderinger og dialog med de unge.</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Arbejde\n            med den fysiske indretning på biblioteket med henblik på at der bliver\n            vanskeligere at gemme sig.</span></h4>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\">\n            <h4><span>Kontakte\n            de brugere der anvender biblioteket til at studere, for at høre hvilke\n            forbedringer du de kan ønske sig.</span></h4>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<h4><span>Nogle\naf ovennævnte initiativer kan medføre forskellige former for udgifter.\nUdgifterne afholdes inden for den eksisterende økonomiske ramme. <span class=\"GramE\">Såfremt</span> der kommer forslag om indsatser som ikke kan\nafholdes inden for den økonomiske ramme, vil administrationen forelægge en sag\nherom.</span></h4>\n<h4><span>Administrationen\ninviterer til et nyt dialogmøde på Tune Bibliotek inden sommerferien 2025 for\nat følge op på mødet i januar 2025, hvor der bl.a. vil være en orientering fra\nadministrationen om status på de forslag der blev bragt i spil på <span class=\"spelle\">januar mødet</span>.</span></h4>\n<h4>Lovgrundlag</h4>\n<h4><span>Biblioteksloven.</span></h4>\n<h4>Økonomiske\nkonsekvenser </h4>\n<h4><span>Sagen\nhar ingen økonomiske konsekvenser for Greve Kommune.</span></h4>\n<h4>Høring</h4>\n<h4><span>Der\ner ikke høringspligt i denne sag.</span></h4>\n<h4>Kommunikation</h4>\n<h4><span>Administrationen\ninviterer til et opfølgende dialogmøde på Tune Bibliotek sommer 2025.</span></h4></span>\r\n\r\n<h3>Sagens forløb</h3>\r\n<span class='sagsforloeb'><u>03/06/2025   Plan- og Tryghedsudvalget</u><br>\r\nBeslutning ikke frigivet<br>\r\n\r\n</span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6150d0eb-99ba-4d26-8fe2-063cdd2ec910",
+          "DocumentId": "6150d0eb-99ba-4d26-8fe2-063cdd2ec910"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005089",
+      "Navn": "Dialogmøde på Tune Bibliotek",
+      "Punktnummer": "10",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Utryghedsskabende adfærd på Tune Bibliotek",
+          "Id": "ec190b7d-ba05-4a6a-a3ae-5a3c487d407c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Invitation til dialogmøde på Tune Bibliotek",
+          "Id": "f7561ef7-d4ca-4cc6-aaa3-e4b3686900c2"
+        }
+      ],
+      "Documents": null,
+      "Id": "bed3e9da-d073-444d-ac62-a88017dc0c87",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "10",
+      "Sorting": 10,
+      "IsOpen": false,
+      "CaseNumber": "25-005089",
+      "SourceId": null,
+      "Caption": "Dialogmøde på Tune Bibliotek",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\n1. Udvalget besluttede at afvise ansøgningen om lokaletilskud med henvisning til Folkeoplysningslovens § 21 vedr. nye lejemål, som vurderes at medføre en væsentlig merudgift for kommunen.</p>\n<p>2. Orienteringen blev taget til efterretning.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<h4><span>Greve Kommune yder lokaletilskud til\nfolkeoplysende foreninger, hvor Greve Kommune ikke kan stille egnede lokaler\ntil rådighed. Nye ansøgninger skal behandles af Kultur- og Fritidsudvalget. Det\ner kommet én ny ansøgning fra Foreningen Sydkystens Gym, som udvalget skal\nforholde sig til i sagen og derudover tage orienteringen om de allerede\nbevilgede tilskud til foreningerne til efterretning.  </span></h4>\n<h4>Indstilling</h4>\n<h4><em><span>Administrationen indstiller, </span></em></h4>\n<h4><em><span>1. at udvalget beslutter, hvorvidt Foreningen Sydkystens Gym ansøgning på\n0,080 mio. skal godkendes eller afvises, og</span></em></h4>\n<h4><em><span>2. at orienteringen om de allerede bevilgede tilskud til foreninger på\n1,012 mio. i 2025 tages til efterretning.</span></em></h4>\n<h4>Sagsbeskrivelse</h4>\n<p><em><strong>Baggrund</strong></em></p>\n<p>Godkendte foreninger kan i henhold til Greveordningen ansøge om et tilskud\npå op til 80 procent af driftsudgifterne, dog fratrukket andelen af de\ndeltagere, der er over 25 år. For rideklubber er procentsatsen fastsat til 75\nprocent.<br>\n<br>\nSom et alternativ til udbetaling af lokaletilskud kan administrationen i stedet\nanvise et egnet lokale jf. Folkeoplysningsloven § 25, stk. 2.</p>\n<p>I vurderingen af om et anvist lokale kan anses for egnet, skal bl.a. indgå,\nat lokalet skal ligge i foreningens lokalområde og rumme mulighed for et\nsocialt liv ud over aktiviteten. Der skal desuden være plads til\nrekvisitter og udstyr. Lokalets størrelse og standard skal svare til\naktivitetens indhold.</p>\n<h4><span>Det\ner efter administrationens vurdering ikke muligt at finde egnede lokaler i\nGreve Kommune til Foreningen Sydkysten Gym, jf. rammerne i\nFolkeoplysningsloven. <br>\n<br>\n</span><em>Foreningen\nSydkystens Gym lokaler </em></h4>\n<p>Foreningen Sydkystens Gym blev den 20. august 2024 pkt. 4 godkendt som en\nfolkeoplysende forening i Greve Kommune. </p>\n<p>Foreningen Sydkysten Gym tilbyder foreningsfitness i deres lokaler på\nSnedkergangen 14, 2690 Karlslunde. Lokalerne er en stor industribygning på 862\nm² ifølge BBR og indeholder udstyr til både løbetræning og vægtløftning samt et\nfælleslokale. På grund af bygningens størrelse og foreningens omfattende\nudstyrsbehov har administrationen undersøgt muligheden for at finde en\nalternativ placering. </p>\n<p>Dette har dog ikke vist sig muligt, da Greve Kommune ikke råder over lokaler\naf tilsvarende størrelse, som ikke allerede bruges af andre fritids- og\nidrætstilbud.</p>\n<p>Foreningens ansøgning om lokaletilskud vil betyde et tilskud på 84.000 kr. i\nforhold til deres driftsudgifter, aktivitetstimer og medlemmer over 25 år.</p>\n<p><em><strong>Lokaletilskud i 2025 opsummeret </strong></em></p>\n<p>I 2024 fik elleve godkendte folkeoplysende foreninger bevilget\nlokaletilskud. I 2025 har administrationen modtaget ansøgninger fra 13\nforeninger. Heraf en ny ansøgning fra Foreningen Sydkystens Gym og en\ngenansøgning fra Greve Golfklub. Da Greve Golf klub i 2024 fik behandlet deres\nansøgning og fik afslag er deres ansøgning ikke berettet til at blive behandlet\nigen.</p>\n<p>Jf. folkeoplysningsloven § 25 stk.5. kan Kultur- og Fritidsudvalget undlade\nat imødekomme nye ansøgninger hvis det vurderes <span class=\"GramE\">at  et</span>\neller flere punkter er gældende.</p>\n<ul style=\"list-style-type: disc;\">\n    <li>Nye ansøgninger, hvis der kan anvises et egnet\n    kommunalt lokale.</li>\n    <li>Driftsudgifter til nye haller, herunder ridehaller.</li>\n    <li>Nye lejemål, <span class=\"grame\">såfremt</span> lejemålet\n    medfører en væsentlig <span class=\"grame\">merudgifter</span>\n    for kommunen.</li>\n    <li>Væsentlige udvidelser af aktivitetsgrundlaget i haller,\n    som indebærer merudgifter for kommunen.</li>\n</ul>\n<p>En væsentlig merudgift for kommunen skal vurderes for hver enkelt ansøgning.\nDette indebærer, at udgiften konkret skal b.la. vurderes i forhold til\nkommunens eksisterende budgetramme for lokaletilskud.</p>\n<p>I 2025 er budgettet på 1.132 mio. til lokaletilskud.</p>\n<p>For de foreninger, der er godkendt til at modtage lokaletilskud, er der pt.\nbevilliget 1.012. mio.</p>\n<p>Det efterlader et restbudget på 120.459 kr. </p>\n<p>Lokaletilskuddet for de allerede godkendte foreninger fordeler sig som\nfølgende:</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <td>\n            <p><strong><span>Forening</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>LT bevilget i 2025 kr.</span></strong></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>NTF (<span class=\"spelle\">Nazarerens</span> Teen F.)</span></p>\n            </td>\n            <td>\n            <p><span>10.466</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Dykkerklubben\n            Aqua</span></p>\n            </td>\n            <td>\n            <p><span>5.520</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Greve Roklub</span></p>\n            </td>\n            <td>\n            <p><span>2.832</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sejlklubben\n            Køge Bugt Ungdomshus</span></p>\n            </td>\n            <td>\n            <p><span>136.736</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sejlklubben\n            Køge Bugt</span></p>\n            </td>\n            <td>\n            <p><span>14.044</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Greve Atletik</span></p>\n            </td>\n            <td>\n            <p><span>25.626</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Greve\n            jagtforening</span></p>\n            </td>\n            <td>\n            <p><span>27.347</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Greve\n            Skytteforening</span></p>\n            </td>\n            <td>\n            <p><span>11.715</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Greve Karate</span></p>\n            </td>\n            <td>\n            <p><span>307.668</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Sydkystens\n            karateklub</span></p>\n            </td>\n            <td>\n            <p><span>46.430</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Rideklubben\n            Strøgården</span></p>\n            </td>\n            <td>\n            <p><span>218.095</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><span>Adamslyst Sportsrideklub</span></p>\n            </td>\n            <td>\n            <p><span>205.722</span></p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <p><strong><span>I alt</span></strong></p>\n            </td>\n            <td>\n            <p><strong><span>1.012.203 </span></strong></p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>Hvis ansøgningen fra Foreningen Sydkysten Gym imødekommes, vil det betyde en\nårlig merudgift på ca.0,080 mio. </p>\n<p>Greveordningen er vedhæftet som bilag 1.</p>\n<h4>Lovgrundlag</h4>\n<p>Folkeoplysningsloven § 25 stk. 2, 3,4 og 5 samt §26 stk. 2 og 3.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<h4><span>Det samlede bevilligede tilskud til\nforeningerne, eksklusive Foreningen Sydkysten Gym, udgør 1,012 mio. i 2025.\nUdgiften kan afholdes indenfor det afsatte budget, som udgør 1,1 mio.  i 2025.</span></h4>\n<h4>Øvrige konsekvenser</h4>\n<p><span class=\"grame\">Såfremt</span> ansøgningen fra\nForeningen Sydkysten Gym godkendes, vil det medføre, at Foreningen også\nfremadrettet vil være berettiget til lokaletilskud. </p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/da293c18-c254-4b50-af3a-891a93a72f5a",
+          "DocumentId": "da293c18-c254-4b50-af3a-891a93a72f5a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-003693",
+      "Navn": "Ansøgning om lokaletilskud",
+      "Punktnummer": "11",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Greveordningen",
+          "Id": "5d3dfa65-7bb5-4847-8a11-43dcd57803b1"
+        }
+      ],
+      "Documents": null,
+      "Id": "c01b28f2-9849-4b20-8e1f-2756eb74dd69",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "11",
+      "Sorting": 11,
+      "IsOpen": false,
+      "CaseNumber": "25-003693",
+      "SourceId": null,
+      "Caption": "Ansøgning om lokaletilskud",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nUdvalget besluttede, at der skal fremlægges en sag på et kommende møde med en revision af rammer og regler for lokaleudlån. Dette med henvisning til Folkeoplysningsudvalgets møde den 6. januar 2025 samt et ønske om, at afdække muligheden for mere fleksibilitet ift. åbningstider, muligheden for udleje af overskudskapacitet samt skolernes brug af haller på en effektiv måde.</p>\n<p>Udvalget ønsker, at sagen forelægges Folkeoplysningsudvalget forud for behandlingen i Kultur- og Fritidsudvalget.</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<h4><span>Kultur-\nog Fritidsudvalget.</span></h4>\n<h4>Resume</h4>\n<p>Retningslinjer for udlån af lokaler og udendørsanlæg i Greve Kommune er\ngodkendt af Kultur- og Fritidsudvalget i november 2021.</p>\n<p>Udvalget besluttede, at der ikke skulle foretages ændringer i de gældende\nretningslinjer.</p>\n<p>På baggrund af flere konkrete episoder, hvor foreninger har misligholdt og\ntilsidesat gældende retningslinjer ønsker administrationen, at udvalget drøfter\nog beslutter hvordan retningslinjerne skal administreres så lokalekapaciteten\nudnyttes bedst muligt.</p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at udvalget godkender, hvordan\nadministrationen skal administrere retningslinjerne i praksis jfr. det forslåede i sagen.</em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Retningslinjer for udlån af lokaler og udendørsanlæg (bilag1) beskriver de\npolitisk besluttede rammer for udlån af lokaler i Greve Kommune herunder hvilke\ntiltag der kan iværksættes, hvis en forening misbruger lokalebookingen.</p>\n<p>Rammerne beskriver hvad der er den enkelte forenings opgave og ansvar og\nligeledes hvad der er administrationens opgave, ansvar og kompetence.</p>\n<p>Det er administrationens vurdering, at langt de fleste foreninger er gode\ntil at administrere retningslinjerne og udlånskriterier for lokalebooking og\nder er generelt gode forhold for idræts- og foreningslivet i Greve Kommune.</p>\n<p>Flere foreninger oplever med mellemrum, at det kan være svært at booke\nlokaler og haller til deres aktiviteter. Derfor har det også store konsekvenser\nnår foreninger booker lokaler og haller, men kun i begrænset omfang benytter\ndem. Det er administrationens opfattelse, at det er væsentligt for langt de\nfleste foreninger, at der er ens vilkår og betingelser for udlån af lokaler og\neventuelle konsekvenser i forbindelse med misligholdelse af gældende\nretningslinjer.</p>\n<p>På baggrund af henvendelser fra flere foreninger som har ytret sig kritisk\nover for den nuværende administration af lokalebooking og udlånskriterier har\nadministrationen derfor vurderet, at der er behov for at drøfte sagen politisk.</p>\n<p>Greve Kommune har ifølge rapport fra DIG/DIF haft en medlemstilgang på i alt\n1827 flere medlemmer i 2024 sammenlignet med året før. Det betyder, at der nu i\nalt der 28.647 medlemmer i Kommunens idrætsforeninger. Presset på Kommunens\nlokaler og idrætsfaciliteter er derfor også stort og der er behov for at alle\nvores foreninger bliver mere opmærksomme på egne opgaver og ansvar i forhold\ntil gældende retningslinjer.</p>\n<p>Hall Monitor som er etableret i Greve Fritids- og Idrætscenter (GIC) kan\ngenerere rapporter der viser om lokalerne anvendes i forhold til de bookede\ntidspunkter.</p>\n<p>Over en to ugers periode i starten af 2025 kunne der <span class=\"GramE\">eksempelvis</span>\nregistreres 194,5 timer som var booket af foreninger, men som ikke blev\nbenyttet til aktiviteter jf. bilag 3.</p>\n<p>I GIC er der opsat en kameraløsning i alle haller (Hall Monitor) som\ndokumenterer om foreningerne benytter de tider de har booket i bookingsystemet.\nI forbindelse med, at administrationen har trukket rapporter fra Hall Monitor\nkan det dokumenteres, at flere foreninger misligholder de tider de selv har\nbooket. Administrationen har ved flere lejligheder kontaktet de pågældende\nforeninger og informeret om, at en fortsat misligholdelse af deres\nlokalebooking vil medføre, at deres lokalelån ophører øjeblikkelig jf.\nRetningslinjer for udlån af lokaler og udendørsanlæg i Greve Kommune, afsnit 2.\npunkt 14 – Generelle regler for benyttelse af lokaler og udendørsanlæg.</p>\n<p>Administrationen ønsker, at udvalget drøfter og beslutter hvornår og hvordan\nadministrationen skal forholde sig til foreninger der ikke overholder alle\ninstrukser for faciliteter som jf. retningslinjerne kan betyde, at udlån kan <span class=\"grame\">ophøre</span> øjeblikkelig.</p>\n<p>I de politisk besluttede retningslinjer står der bl.a. at Greve Kommune kan\ninddrage en forenings tilladelse til at bruge lokaler m.v. for specifikke\ntider, hvis foreningen misligholder brugen. Vurderingen om en tid er\nmisligholdt foretages af administrationen i samarbejde med\nlokalefordelingsudvalget ud fra kontroloptællinger og dialog med den pågældende\nforening.</p>\n<p>Gennem den seneste periode har administrationen konstateret, at der har\nværet flere konkrete episoder hvor foreninger ikke har overholdt de politiske\nbesluttede retningslinjer.</p>\n<p class=\"default\">Ifølge retningslinjerne i Greve Idræts- og Fritidscenter kan\nlokaler lånes på hverdage i tidsrummet kl. 8.00 - 22.00, hvilket også er\ngældende i forbindelse med særarrangementer.</p>\n<p class=\"default\">Lokaler m.v. på kommunale skoler kan lånes på hverdage i\ntidsrummet kl. 16.00 – 24.00 samt i weekender kl. 8.00 - 24.00.</p>\n<p class=\"default\">Greve Kommune kan kræve betaling for oprydning, hvis et lokale\nm.v. ikke afleveres i den stand det er overtaget eller aftalt med det tekniske\nservicepersonale.</p>\n<ul style=\"list-style-type: disc;\">\n    <li>I efteråret 2024 afholdte en forening en kulturfest på\n    en skole hvor foreningen også benyttede andre lokaler end dem de havde\n    booket, og kulturfesten sluttede først omkring kl. 02.00 om\n    natten. Lokaler m.v. på kommunale skoler kan lånes på hverdage i\n    tidsrummet kl. 16.00 – 24.00, samt i weekender kl. 8 - 24. Der kan på\n    de enkelte skoler være særlige forhold vedrørende rengøring og alarm i\n    faglokaler i weekenderne.             \n                       \n                       \n      </li>\n</ul>\n<ul style=\"list-style-type: disc;\">\n    <li>I december 2024 afholdte en idrætsforening en stor fest\n    i GIC som først sluttede efter midnat. Dørene stod åbne til den tidlige\n    morgen og gulvene var fyldt med konfetti og der manglede oprydning\n    generelt. Mange GIC-bruger mødte ind til disse forhold næste morgen,\n    hvilket flere GIC-brugere har udtrykt stor utilfredshed overfor.\n    Efterfølgende har administrationen konstateret, at foreningen ikke havde\n    rengjort de 120 borde, som de lånte til deres fest, hvilket har medført,\n    at mange overflader var skimmelbelagte<span class=\"grame\">. </span></li>\n</ul>\n<ul style=\"list-style-type: disc;\">\n    <li>I marts 2025 afholdte en forening en fest i GIC, hvor\n    festen først sluttede kl. 06.00 om morgenen. </li>\n</ul>\n<p>Det er administrationens opfattelse, at nogle foreninger ser stort på de\npolitisk besluttede retningslinjer for lån af lokaler og haller hvilket er til\ngene for andre brugere i de pågældende lokationer.</p>\n<p>Administrationen modtager jævnligt henvendelser fra foreninger der stiller\nsig uforstående overfor, at nogle foreninger kan få tilladelse til f.eks. at\nholde fester i kommunale lokaler til langt ud på natten når de selv som\nforening får afslag ved forespørgsel hos administrationen.</p>\n<p>For bedre at kunne administrere de gældende retningslinjer som er besluttet\ni Kultur- og Fritidsudvalget, ønsker administrationen, at udvalget drøfter\nhvornår og i hvilke situationer en forening skal have advarsler, sanktioneres\neller helt fratages deres lokaler. </p>\n<p>Administrationen anbefaler, at Kultur- og Fritidsudvalget fortsat tildeler\nadministrationen kompetence til at administrere retningslinjerne i forhold til:</p>\n<ul style=\"list-style-type: disc;\">\n    <li>At opkræve betaling for oprydning, hvis et lokale m.v.\n    ikke afleveres i den stand det er overtaget eller aftalt med det tekniske\n    servicepersonale </li>\n    <li>At opkræve betaling ved unødig aktivering af tyveri-\n    eller brandalarm </li>\n    <li>At inddrage en forenings tilladelse til at bruge\n    lokaler m.v. for specifikke tider, hvis foreningen misligholder brugen.\n    Vurderingen om en tid er misligholdt foretages af Kultur- og\n    Fritidsadministrationen i samarbejde med lokalefordelingsudvalget ud fra\n    kontroloptællinger og dialog med den pågældende forening </li>\n    <li>At administrationen til enhver tid kan flytte\n    foreningens aktivitet til et andet egnet lokale m.v. ud fra en\n    helhedsvurdering af faciliteternes udnyttelse </li>\n    <li>At alle instrukser for faciliteterne skal nøje\n    overholdes, ellers kan udlån ophøre øjeblikkeligt.</li>\n</ul>\n<p><strong>Lovgrundlag</strong></p>\n<p>Folkeoplysningsloven.</p>\n<p>Retningslinjer for udlån af lokaler og udendørsanlæg i Greve Kommune.</p>\n<h4>Økonomiske\nkonsekvenser </h4>\n<p>Sagen har ingen økonomiske konsekvenser for Greve Kommune.</p>\n<h4>Høring</h4>\n<p>Der er ikke høringspligt i denne sag<em>.</em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/b66e9304-a681-45e6-940e-051336d56dc7",
+          "DocumentId": "b66e9304-a681-45e6-940e-051336d56dc7"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "25-005371",
+      "Navn": "Regler og rammer for lokaleudlån",
+      "Punktnummer": "12",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1. Retningslinjer for udlån 30.11.2021",
+          "Id": "4afab09d-bd57-4c01-81f4-a3ce7d62182c"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2. Greve Kommune - Medlemstal 2018-2024 (002)",
+          "Id": "258c3945-73e9-4237-9502-15e66a23bef6"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3. Misligholdelse GIC, uge 2-4, 2025",
+          "Id": "aed38e8c-bf3d-4736-ad19-d69315658f3c"
+        }
+      ],
+      "Documents": null,
+      "Id": "64c4437c-e2e7-49c0-be15-8b03ea245c4b",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "12",
+      "Sorting": 12,
+      "IsOpen": false,
+      "CaseNumber": "25-005371",
+      "SourceId": null,
+      "Caption": "Regler og rammer for lokaleudlån",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">\nOrienteringen blev taget til efterretning med følgende supplerende orienteringer:</p>\n<p> </p>\n<p>Greve Awards - et virkelig godt arrangement</p>\n<p>Kampsport på Hedelyskolen</p>\n<p>Greve Kunst og Olsbækken</p>\n<p>Greve Sommerfestival</p><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle henvendelser.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><i>Administrationen indstiller, at orienteringer om henvendelser tages til efterretning.</i></em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Formanden orienterede om:<em><strong></strong></em></p>\n<p><em><strong>- Dialog med Billiardklubben. </strong></em></p>\n<p><em><strong>- Dialog med Mosede Dartklub.</strong></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/fcae511c-e312-4195-8a89-957003bc28ac",
+          "DocumentId": "fcae511c-e312-4195-8a89-957003bc28ac"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Henvendelser til formanden",
+      "Punktnummer": "13",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "344166b4-b06f-4ef1-9029-7618dbdb079d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "13",
+      "Sorting": 13,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Henvendelser til formanden",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br><br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om aktuelle emner. </p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><i>Administrationen indstiller, at orienteringer tages til efterretning.</i>. </em></p>\n<p><em></em></p>\n<h4>\nSagsfremstilling</h4>\n<p>Formanden orienterer om:</p>\n<p><em>-<strong> Eventuel mulighed for at søge midler fra puljer til fx haller mv.</strong></em></p>\n<p><em><strong>- Bestyrelsesmøde i Portalen,</strong></em></p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/84ead298-65a4-40e5-8be0-308b619305fd",
+          "DocumentId": "84ead298-65a4-40e5-8be0-308b619305fd"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Orientering fra formanden og gensidig orientering",
+      "Punktnummer": "14",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "29757151-f57a-45ea-80c1-e1e32b7cf190",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "14",
+      "Sorting": 14,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden og gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Administrationen giver et kort overblik over orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil de blive vedlagt som bilag.</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em><i>Administrationen indstiller, at orienteringen tages til efterretning.</i> </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Administrationen har følgende til orientering:</p>\n<p><em><strong>- Kulturpas</strong></em></p>\n<p><em><strong>- Sommerferieaktiviteter</strong></em></p>\n<p><em><strong>- Spørgsmål vedr. revision og foreningskontrol </strong></em></p>\n<p><em><strong>- Henvendelse fra DBU og dialog med kommunens fodboldklubber </strong></em></p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e181927c-af66-4041-a498-25a943f6a537",
+          "DocumentId": "e181927c-af66-4041-a498-25a943f6a537"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "15",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "8323b546-4d40-4fa1-828f-3170729676db",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "15",
+      "Sorting": 15,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>I sagen gives et overblik over Kultur- og Fritidsudvalgets møder og aktiviteter i tilknytning til udvalget</p>\n<p><em></em></p>\n<h4>Indstilling</h4>\n<p><em>Administrationen indstiller, at orienteringen tages til efterretning. </em></p>\n<p><em></em></p>\n<h4>Sagsbeskrivelse</h4>\n<p>Møde- og aktivitetskalenderen er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e8421217-4de8-4df9-9612-b5495132c4c4",
+          "DocumentId": "e8421217-4de8-4df9-9612-b5495132c4c4"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Kultur- og Fritidsudvalgets møde- og aktivitetskalender 2025",
+      "Punktnummer": "16",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Kultur- og Fritidsudvalgets møde- og aktivitetskalender 2025 pr. 11.02.25",
+          "Id": "c8913ce4-bc45-47b8-b1c4-fdf3a1c2ebd1"
+        }
+      ],
+      "Documents": null,
+      "Id": "882048ec-6aeb-4a47-a5b8-d907d212f74c",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "16",
+      "Sorting": 16,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Kultur- og Fritidsudvalgets møde- og aktivitetskalender 2025",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h4>Sagsprocedure</h4>\n<p>Kultur- og Fritidsudvalget.</p>\n<h4>Resume</h4>\n<p>Elektronisk underskriftsark.</p>\n<p><em></em></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/d49aa281-c2b4-4d98-aa55-599949ec9543",
+          "DocumentId": "d49aa281-c2b4-4d98-aa55-599949ec9543"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "17",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "b67c6578-a7b6-42c1-993b-4c911cf48489",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+      "Number": "17",
+      "Sorting": 17,
+      "IsOpen": false,
+      "CaseNumber": "",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "425869ca-7441-4d9d-b497-27bc7d5bbbc2",
+    "Navn": "Kultur- og Fritidsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2025-06-04T16:30:00+02:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2025-06-04T16:30:00+02:00",
+    "Sted": "Karlslunde Hallerne, Kongens Enge 42, 2690 Karlslunde",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Lone Mortensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Maria Witthøft",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Charlotte Levin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Anne Marie Lyduch",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Per Lund Sørensen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "4a19c04a-8d88-49b7-882b-c7772443cbfe",
+  "Lydfiler": null
+}

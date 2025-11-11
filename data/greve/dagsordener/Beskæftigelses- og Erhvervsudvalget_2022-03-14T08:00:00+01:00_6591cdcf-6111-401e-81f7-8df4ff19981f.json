@@ -1,0 +1,426 @@
+{
+  "Dagsordenpunkter": [
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Godkendt.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n</div>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<p>\n<div>\n<h2>Resume</h2>\n</div>\n\n<p>Godkendelse af dagsorden for mødet den 14. marts 2022.</p>\n<h2><b>I</b>ndstilling</h2>\n<p><i>Center for Politik, Organisation & Borgerbetjening indstiller, at dagsordenen godkendes.</i></p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/f1317f3b-8ac5-4b6d-bc00-adfc0b56e612",
+          "DocumentId": "f1317f3b-8ac5-4b6d-bc00-adfc0b56e612"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-014448",
+      "Navn": "Godkendelse af dagsorden.",
+      "Punktnummer": "1",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "db6057c1-d572-486d-ab95-2e395701b0ae",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "1",
+      "Sorting": 1,
+      "IsOpen": false,
+      "CaseNumber": "21-014448",
+      "SourceId": null,
+      "Caption": "Godkendelse af dagsorden.",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">Orienteringen blev taget til efterretning.</p>\n<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Beskæftigelses- og Erhvervsudvalget</p>\n<h2><span>Resume</span></h2>\n<p>Beskæftigelses- og Erhvervsudvalget vil introduceres for team Job og Virksomhedsservice som varetager Jobcentrets beskæftigelsesrettede indsats for jobparate ledige samt Jobcentrets samarbejde med virksomheder.</p>\n<p>Introduktionen vil både give viden, indsigt og samtidig vise de udfordringer og potentialer, som området rummer.</p>\n<h2><span>Indstilling</span></h2>\n<p><i>Center for Job & Socialservice indstiller, at orienteringen tages til efterretning.</i></p>\n<h2><span>Sagsbeskrivelse</span></h2>\n<p>På mødet vil udvalget introduceres for team Job og Virksomhedsservice som varetager den beskæftigelsesrettede indsats for borgere som er tættest på arbejdsmarkedet, samt Jobcentrets samarbejde med virksomheder. </p>\n<p>Udvalget får lejlighed til at drøfte og tilkendegive eventuelle øvrige ønsker til introduktion.  </p>\n<p>Teamleder for Job og Virksomhedsservice Susan Jørgensen deltager under punktet med oplæg om området.</p>\n<h2><span>Lovgrundlag</span></h2>\n<p>Lov om aktiv Beskæftigelsesindsats</p>\n<p>Lov om aktiv Socialpolitik</p>\n<h2><span>Økonomiske konsekvenser</span></h2>\n<p>Sagen har ingen økonomiske konsekvenser.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/dec1b17b-ecac-44c8-b850-4a520e86404a",
+          "DocumentId": "dec1b17b-ecac-44c8-b850-4a520e86404a"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003069",
+      "Navn": "Introduktion af team Job og Virksomhedsservice",
+      "Punktnummer": "2",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Introduktion af team Job og Virksomhedsservice - Beskæftigelses- og Erhvervsudvalget 14.3.2022 NY",
+          "Id": "ae96cecd-32d2-4707-bee4-e66d2b2bbf92"
+        }
+      ],
+      "Documents": null,
+      "Id": "13d7a34e-af1a-4c14-ae61-4c431b91604a",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "2",
+      "Sorting": 2,
+      "IsOpen": false,
+      "CaseNumber": "22-003069",
+      "SourceId": null,
+      "Caption": "Introduktion af team Job og Virksomhedsservice",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h2><span>Resume</span></h2>\n<p>Beskæftigelses- og Erhvervsudvalget vil introduceres for Ungecentrets beskæftigelsesdel som en del af Jobcentret. Introduktionen vil både give viden, indsigt og samtidig vise de udfordringer og potentialer, som området rummer.  </p>\n<h2><span>Indstilling</span></h2>\n<p><em>Center for Job & Socialservice indstiller, at orienteringen tages til efterretning</em></p>\n<h2><span>Sagsbeskrivelse</span></h2>\n<p>På mødet vil administrationen introducere udvalget for unge under 30 år som er omfattet beskæftigelsesindsatsen i Ungecentret. Ungecentret er en del af den Kommunale Ungeindsats og i Jobcentret varetages den beskæftigelsesrettede del.</p>\n<p> </p>\n<p>Udvalget får lejlighed til at drøfte og tilkendegive eventuelle øvrige ønsker til introduktion.  </p>\n<p> </p>\n<p>Teamleder for Ungecentret Helle Thorning deltager under punktet med oplæg om området.</p>\n<h2><span>Lovgrundlag</span></h2>\n<p>Lov om aktiv beskæftigelsesindsats.</p>\n<p>Lov om aktiv socialpolitik.</p>\n<h2><span>Økonomiske konsekvenser</span></h2>\n<p>Sagen har ingen økonomiske konsekvenser.</p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/e587f939-904b-4503-83cb-3f1c4d65f334",
+          "DocumentId": "e587f939-904b-4503-83cb-3f1c4d65f334"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-003066",
+      "Navn": "Introduktion af Ungecentret",
+      "Punktnummer": "3",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Introduktion af Ungecentret - Beskæftigelses- og Erhvervsudvalget 14.3.2022",
+          "Id": "9522b63d-a04e-4e56-9bcf-2638cd1583f9"
+        }
+      ],
+      "Documents": null,
+      "Id": "c90bfe06-df3f-4808-9818-c5bc03176fad",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "3",
+      "Sorting": 3,
+      "IsOpen": false,
+      "CaseNumber": "22-003066",
+      "SourceId": null,
+      "Caption": "Introduktion af Ungecentret",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span><p class=\"xsltFirstParagraph\">1: Orienteringen blev taget til efterretning.</p>\n<p> </p>\n<p>2: Anbefaler punkt 2.a med bemærkning om, at udvalget ønsker en orientering om udviklingen hvert ½ år.</p>\n<p> </p>\n<p>3: Anbefales.</p></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><strong></strong>\n<h2>Sagsprocedure</h2>\n<p>Beskæftigelses- og Erhvervsudvalget, Økonomiudvalget og Byrådet.</p>\n<h2>Resume</h2>\n<p>Denne sag handler om nye regler og ændrede proceskrav til beskæftigelsesindsatser for modtagere af uddannelseshjælp som følge af ændret finansiering på området.</p>\n<p> </p>\n<p>I sagen skal besluttes hvor vidt der skal ske en reduktion i budgettet til den aktive beskæftigelsesindsats i 2022 og hermed en beslutning om serviceniveau for aktivering af modtagere af uddannelseshjælp.</p>\n<h2>Indstilling</h2>\n<p><em>Center for Job & Socialservice indstiller, </em></p>\n<p><em> </em></p>\n<p><em>1. at orienteringen om de nye regler fra 1. januar 2022 i den beskæftigelsesrettede indsats overfor modtagere af uddannelseshjælp tages til efterretning,</em></p>\n<p><em> </em></p>\n<p><em>2. </em><em>at der træffes beslutning om en af følgende to handlemuligheder i forhold til implementeringen af de nye regler i Greve Kommune i 2022,</em></p>\n<p><em> </em></p>\n<p><em>a. </em><em>at praksis omkring tilbud af aktiveringsforløb ændres i overensstemmelse med de nye regler, så der fremadrettet vil gå op til fire måneder mellem hvert aktiveringsforløb, </em></p>\n<p><em> </em></p>\n<p><em> </em><em>eller</em></p>\n<p><em> </em></p>\n<p><em>b. </em><em>at den nuværende praksis med op til fire uger mellem hvert aktiveringsforløb fastholdes med henblik på at forhindre en forlængelse af det samlede ydelsesforløb for den enkelte borger.</em></p>\n<p><em> </em></p>\n<p><em>3. </em><em>at opgørelsen af de samlede økonomiske konsekvenser i 2022 indarbejdes i budgetopfølgning 2, mens den varige håndtering af lovændringen vil indgå som en del af Direktionens budgetforslag for 2023-26.</em></p>\n<strong></strong>\n<h2>Sagsbeskrivelse</h2>\n<p>Som led i aftalen om ret til tidlig pension, ”Arne pensionen”, som blev aftalt i oktober 2020 mellem Regeringen, Dansk Folkeparti, Socialistisk Folkeparti og Enhedslisten, at aftalepartierne i 2022 skulle finde finansiering til ”Arne pensionen” på 300 mio. kr., 750 mio. kr. i 2023 og 1,1 mia. kr. i 2024 gennem nytænkning af beskæftigelsesindsatsen. Første delaftale om finansieringen af ”Arne pensionen” blev af aftalepartierne indgået i juni 2021 og vedrører indsatsen overfor modtagere af uddannelseshjælp. For Greve Kommune betyder det umiddelbart en reduktion af budgetgarantien (bloktilskuddet) på 2,9 mio. kr. i 2022 og 3,1 mio. kr. ud i overslagsårene.</p>\n<p> </p>\n<p>I det følgende redegøres der for elementerne i aftalen, som blev vedtaget af et flertal i Folketinget (forligspartierne) den 21. december 2021 med virkning fra 1. januar 2022.</p>\n<p> </p>\n<p><em>Færre proceskrav til indsatsen til uddannelseshjælp</em></p>\n<p>I de regler der gjaldt før 1. januar 2022 i Lov om en Aktiv Beskæftigelsesindsats skulle modtagere af uddannelseshjælp senest efter fire ugers modtagelse af uddannelseshjælp kontinuerligt være i aktivering, og der måtte højest være fire uger mellem hvert tilbud. Med reglerne fra 1. januar 2022 er dette ændret til at der fremover må være fire måneder mellem hvert tilbud. De nye regler til den aktive indsats ændrer ikke ved kontaktforløbet (samtaler) med de unge.</p>\n<p> </p>\n<p>Unge uddannelseshjælpsmodtagere er en sårbar gruppe med boglige svagheder, som oftest er kombineret med komplekse problemstillinger som angst, depression, forbier, ADHD, autisme, skizofreni m.v. Disse unge har brug for en kontinuerlig indsats for at få struktur på hverdagen således, at de på sigt vil være i stand til at påbegynde en uddannelse eller opnå og fastholde et ordinært arbejde. Administrationen vurderer, at såfremt der er fire måneder mellem tilbuddene til de unge, vil det for nogle unge forværre deres sociale og helbredsmæssige situation. Dette kan betyde, at disse unge skal have andre og dyre tilbud, samt medvirke til at forlænge de unges ydelsesforløb. I forhold til det nuværende antal unge vil det for hver måned uddannelseshjælpsmodtagernes ydelsesforløb forlænges, betyde en kommunal netto merudgift på knapt 1,0 mio. kr.</p>\n<p> </p>\n<p><em>Styrket understøttelse af overgang til og gennemførelse af uddannelse</em></p>\n<p>Uddannelseshjælpsmodtagere, der påbegynder en uddannelse, har fra 1. januar 2022 ret til en mentor der kan understøtte, at den unge fastholdes i uddannelse. Retten til mentor gælder i op til seks måneder efter uddannelsesstart med mulighed for forlængelse.</p>\n<p> </p>\n<p>Herudover er det mellem aftalepartierne aftalt, at jobcentrene forpligtiges til at reagere på beskeder om risiko for frafald for uddannelsesinstitutionerne de første seks måneder efter studiestart. De kan herefter tage stilling til, om relevante fastholdelsesinitiativer skal iværksættes.</p>\n<p> </p>\n<p>Hvad angår de unges ret til mentor i forbindelse med uddannelsesstart, praktiseres dette i vid udstrækning i dag, enten ved tildeling af mentor eller for de unge der har været i ungesporet i Jobcentrets Aktive Tilbud (JAT) tilbydes efterværn (kontaktperson), eller den unges rådgiver tilbyder fortsat opfølgning af den unge uagtet, at den unge ikke længere modtager uddannelseshjælp fra Ungecentret.</p>\n<p> </p>\n<p><em>Ny ret til selvfunden virksomhedspraktik og løntilskud for uddannelseshjælpsmodtagere</em></p>\n<p>Retten til selvfunden virksomhedspraktik og løntilskud, som i dag gælder for modtagere af dagpenge, kontanthjælp samt overgangsydelse udenfor introduktionsprogrammet, udvides til også at omfatte uddannelseshjælpsmodtagere. Åbenlyst uddannelsesparate er ikke omfattet af retten, da de ved ydelsesstart modtager et uddannelsespålæg om at påbegynde uddannelse hurtigst muligt, og indtil påbegyndelse af uddannelse modtager tilbud i form af nytteindsats.</p>\n<h2>Lovgrundlag</h2>\n<p>Lov om Aktiv Beskæftigelsesindsats.</p>\n<strong></strong>\n<h2><span>Økonomiske konsekvenser</span></h2>\n<p>Ændringen af at der højst må være fire uger mellem hvert tilbud, til nu fire måneder mellem hvert tilbud, forventer staten vil give et mindreforbrug til aktivering af uddannelseshjælpsmodtagere med 345,6 mio. kr. i 2022 og 373,4 mio. kr. i 2023 og ud i overslagsårene. Denne mindreudgift betyder en reduktion i kommunernes finansiering af det budgetgaranterede områder (bloktilskuddet). For Greve Kommune betyder det en reduktion i bloktilskuddet på 2,9 mio. kr. i 2022 og 3,1 mio. kr. i 2023 og ud i overslagsårene. </p>\n<p> </p>\n<p>Det er administrations vurdering, at efterlevelsen af de nye regler om op til fire måneder mellem tilbud risikerer at forlænge de unges ydelsesforløb, og for hver måned ydelsesforløbene forlænges, vil det betyde knap 1,0 mio. kr. netto mere om måneden i udgifter til uddannelseshjælp. Herudover skønner administrationen også, at nogle unge vil have brug for andre og dyrere tilbud, hvis der ikke er en løbende kontinuitet med højest 4 uger mellem tilbud. Administration vurderer, at det kan være vanskeligt at realisere besparelsen ved efterlevelse af de nye regler, og dermed frigøre de 2,9 mio. kr. i 2022 og 3,1 mio. kr. i 2023 og frem, som staten forudsætter, men at det potentielt vil kunne medføre en netto merudgift for kommunen.</p>\n<p> </p>\n<p>Administrationen anbefaler at byrådet beslutter den fremadrettet praksis. Der forventes på nuværende tidspunkt et mindreforbrug i forhold til budgettet på den aktive beskæftigelsesindsats også korrigeret for de 2,9 mio. kr., der skal frigøres som følge af regelændringen og det reducerede bloktilskud. Mindreforbruget skyldes dog primært et stort fald i ydelsesmodtagere i 2. halvår af 2021, som sandsynligvis vil medføre en stor negativ midtvejsregulering af bloktilskuddet til hele beskæftigelsesområdet i forbindelse med den kommende økonomiaftale til juni mellem KL og regeringen. Fastholdelsen af den nuværende praksis vil derfor potentielt medføre et pres på økonomien i 2022.</p>\n<p> </p>\n<p>De samlede økonomiske konsekvenser i 2022 og frem kendes ikke på nuværende tidspunkt, og derfor indstiller administrationen, at der i nærværende sag alene træffes beslutning om håndteringen af de nye regler i indeværende år, mens den varige håndtering vil indgå som en del af Direktionens budgetforslag for 2023-26, der præsenteres 10. august 2022. De økonomiske konsekvenser i 2022 vil indgå som en del af Budgetopfølgning 2.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/57c5ce11-6911-4451-9f59-345b0fb93b50",
+          "DocumentId": "57c5ce11-6911-4451-9f59-345b0fb93b50"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-001237",
+      "Navn": "Nye regler fra 1. januar 2022 for modtagere af uddannelseshjælp",
+      "Punktnummer": "4",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Aftaletekst - første delaftale om nytænkning af beskaeftigelsesindsatsen",
+          "Id": "dc58b621-b327-43ae-b27f-b40f3f151f2c"
+        }
+      ],
+      "Documents": null,
+      "Id": "a87b790d-f64f-46ef-839b-49ff8c45cfd1",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "4",
+      "Sorting": 4,
+      "IsOpen": false,
+      "CaseNumber": "22-001237",
+      "SourceId": null,
+      "Caption": "Nye regler fra 1. januar 2022 for modtagere af uddannelseshjælp",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.<br></span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><h2><span>Sagsprocedure</span></h2>\n<p>Beskæftigelses- og Erhvervsudvalget</p>\n<h2>Resume</h2>\n<p>Formålet med orienteringen er at give Beskæftigelses- og Erhvervsudvalget en halvårlig status på anvendelsen af sanktioner i Greve for modtagere af kontant- og uddannelseshjælp, modtagere af selvforsørgelse- og hjemrejseydelse samt overgangsydelse og modtagere af a-dagpenge. </p>\n<h2>Indstilling</h2>\n<p><span><em>Center for Job & Socialservice indstiller, at orienteringen tages til efterretning.</em></span></p>\n<h2>Sagsbeskrivelse</h2>\n<p>Det tidligere Vækst- og Beskæftigelsesudvalget besluttede på sit møde den 9. marts 2015, at udvalget halvårligt skulle orienteres om anvendelsen af og tildelingen af sanktioner til modtagere af kontanthjælp- og uddannelseshjælp samt ledige a-dagpengemodtager. Denne orientering omhandler tildelte sanktioner for 4. kvartal 2020 - 3. kvartal 2021 for henholdsvis kontanthjælps-, uddannelseshjælpsmodtagere og modtagere af selvforsørgelses- og hjemrejseydelse samt overgangsydelse (tidligere integrationsydelse) og modtagere af a-dagpenge.</p>\n<p> </p>\n<p>I de vedlagte bilag fremgår antallet og andelen af de sanktionerede ydelsesmodtagere. De enkelte bilag       indeholder en oversigt over sanktioner for den nuværende opgørelsesperiode samt for opgørelsesperioden året før. Markeringer med rødt angiver hvor stor en andel indenfor et år på de forskellige ydelsesgrupper, som er blevet tildelt en eller flere sanktioner. Der hvor der i bilagene er angivet en prik, er der ikke skrevet hvor mange personer det vedrører, fordi af diskretionshensyn opgøres tallet ikke når det er under tre.</p>\n<p> </p>\n<p><strong>Tildelte sanktioner</strong></p>\n<p>I forhold til opgørelsen året før (4. kvartal 2019-3.kvartal 2020) er der for denne opgørelsesperiode for alle ydelser på nær a-dagpenge, sket et fald i andelen af tildelte sanktioner i såvel Greve som for gennemsnittet for hele landet grundet suspension af beskæftigelsesindsatsen i dele af 2020 og 2021.</p>\n<p> </p>\n<p><span>Anvendelsen og antallet af sanktioner tildelt modtagere af kontanthjælp</span></p>\n<p>Der blev i perioden tildelt 164 sanktioner til modtagere af kontanthjælp (bilag 1) mod 165 året før. I Greve Kommune har 12,9 % af alle modtagere af kontanthjælp for denne opgørelsesperiode fået en eller flere sanktioner. Året før var det 14,7 % af alle kontanthjælpsmodtagere, som fik en eller flere sanktioner. For gennemsnittet i hele landet er andelen af sanktionerede stort set på samme niveau med 11,5 % hvor det året før var på 11,2 %. Greve har således en højere andel af sanktionerede end gennemsnittet for hele landet</p>\n<p> </p>\n<p><span>Anvendelsen og antallet af sanktioner tildelt modtagere af uddannelseshjælp</span></p>\n<p>Der blev i perioden tildelt 130 sanktioner til modtagere af uddannelseshjælp (bilag 2), mod 152 sanktioner året før. Andelen af sanktionerede er faldet til 12,4 % mod 14,2 % året før.</p>\n<p> </p>\n<p>For hele landet er andelen af sanktionerede uddannelseshjælpsmodtagere stort set uforandret. I denne              opgørelsesperiode er andelen 15,8 % mod 16,0 % året før. Greve Kommune har således en lavere andel uddannelseshjælpsmodtagere 12,4 % mod 15,8 % i hele landet, som er tildelt en eller flere sanktioner.</p>\n<p> </p>\n<p><span>Anvendelsen og antallet af sanktioner tildelt modtagere af selvforsørgelses- og hjemrejseydelse samt       overgangsydelse</span></p>\n<p>Som det fremgår af opgørelsen (bilag 3), har der i perioden været tildelt 65 sanktioner til modtagere af selvforsørgelses- og hjemrejseydelse samt overgangsydelse, hvilket er et fald i forhold til forrige        opgørelsesperiode, hvor der blev tildelt 78 sanktioner. Andelen af sanktionerede er faldet til 25,0 % mod 28,2 %året før.</p>\n<p> </p>\n<p>Andelen af sanktionerede modtagere af selvforsørgelses- og hjemrejseydelse samt overgangsydelse ligger i Greve med 25,0 % et stykke over gennemsnittet for hele landet, hvor andelen af sanktionerede har ligget på 17,2 %.</p>\n<p> </p>\n<p><span>Anvendelsen og antallet af sanktioner tildelt modtagere </span><span>af a-dagpenge</span></p>\n<p>Der blev i perioden 4. kvartal 2020 - 3. kvartal 2021 tildelt 182 sanktioner til modtagere af a-dagpenge (bilag 4). Dette er en fordobling i forhold til året før hvor der blevet tildelt 91 sanktioner. I perioden 4. kvartal 2020 - 3. kvartal 2021 var det 7,6 % af modtagere af a-dagpenge, der fik tildelt en eller flere sanktioner, hvor det året før var 4 %. Greve ligger lidt under niveauet for gennemsnittet i hele landet, hvor det er 9,3 % der har fået en eller flere sanktioner.</p>\n<p> </p>\n<p>For modtagere af a-dagpenge er det ikke kommunen, men derimod den lediges a-kasser der træffer beslutning om tildeling af sanktion. Kommunen kan dog indberette en ledig a-dagpengemodtager til den pågældendes a-kasse, hvis kommunen vurderer, at den ledige ikke overholder sin rådighedsforpligtigelse.</p>\n<h2>Lovgrundlag</h2>\n<p>Lov om Aktiv Socialpolitik, Lov om Integration.</p>\n<h2>Økonomiske konsekvenser</h2>\n<p>Sagen har ingen økonomiske konsekvenser</p>\n<h2><span>Øvrige forhold</span></h2>\n<p>Som bilag til sagen vedlægges en oversigt over de forskellige sanktionsformer (bilag 5).</p>\n<p> </p>\n<p>Næste orientering om anvendelsen af sanktioner i Jobcenter Greve vil blive forelagt Beskæftigelses- og Erhvervsudvalget til udvalgets møde august/september 2022.</p>\n<p> </p>\n<p> </p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/af1cbc11-306d-45b9-869f-41896391beb9",
+          "DocumentId": "af1cbc11-306d-45b9-869f-41896391beb9"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "22-002698",
+      "Navn": "Status på sanktioner i Jobcenter Greve i perioden 4. kvartal 2020 – 3. kvartal 2021",
+      "Punktnummer": "5",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 1 - Kontanthjælp - Rådighedssanktioner 4. kvartal 2020 - 3. kvartal 2021",
+          "Id": "b2a649bb-819c-4e8b-8e3b-099c77c6f812"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 2 - Uddannelseshjælp - Rådighedssanktioner 4. kvartal 2020 - 3. kvartal 2021",
+          "Id": "2ab64f8b-c078-4d4b-82fa-91e8292e484d"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 3 - Selvforsørgelses- og hjemrejseydelse samt overgangsydelse - Sanktioner 4. kvartal 2020 - 3. kvartal 2021",
+          "Id": "b54ce66a-dcff-4ec7-8b41-a832a61af7d0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 4 - A-dagpenge - Rådighedssanktioner 4. kvartal 2020 - 3. kvartal 2021",
+          "Id": "8ad97933-556e-456e-9ca0-af69a15ad0f0"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Bilag 5 - Oversigt over de forskellige sanktionsformer",
+          "Id": "6326c2fd-1de7-48b2-8bbf-c60620424d33"
+        }
+      ],
+      "Documents": null,
+      "Id": "10b906a9-a765-4baf-ae93-a510c9eecfe3",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "5",
+      "Sorting": 5,
+      "IsOpen": false,
+      "CaseNumber": "22-002698",
+      "SourceId": null,
+      "Caption": "Status på sanktioner i Jobcenter Greve i perioden 4. kvartal 2020 – 3. kvartal 2021",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>\n<div>\n</div>\n</h2>\n<div>\n<h2>Sagsprocedure</h2>\n</div>\n<div><span>Beskæftigelses- og Erhvervsudvalget.</span></div>\n<h2><span>Resume</span></h2>\n<p><span>I sagen gives et kort overblik over administrationens orienteringspunkter, og hvis der er emner på udvalgets huskeliste, vil den blive vedlagt som bilag.</span></p>\n<h2><span>Indstilling</span></h2>\n<p><em>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</em></p>\n<h2>Sagsbeskrivelse</h2>\n<p>Administrationen har følgende til orientering:</p>\n<p> </p>\n<p>- Brev fra beskæftigelsesminister Peter Hummelgaard om status for skærpet tilsyn. Brevet er vedlagt.</p>\n<p>- Brev fra Det regionale Arbejdsmarkedsråd (RAR) til udvalgets medlemmer. Brevet er vedlagt.</p>\n<p>- Orientering om fejlrettelser af 225 timers reglen og udbetaling af tilgodehavender til borgerne.</p>\n<p>- På mødet i Beskæftigelses- og Erhvervsudvalget den 7. februar 2022 blev der rejst spørgsmål om henholdsvis lokalplan for Håndværkerbyen og lastbilparkering i Greve Kommune. På udvalgsmødet den 14. marts 2022 vil begge spørgsmål blive besvaret.</p>\n<p>- Lokalplan i Håndværkerbyen vedrørende bopælspligt.</p>\n<p>- Status for lastbilparkering i Greve Kommune.</p>\n<span>\n</span>\n<p> </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/df31ee96-9422-408b-83dd-44ec879acb3e",
+          "DocumentId": "df31ee96-9422-408b-83dd-44ec879acb3e"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013719",
+      "Navn": "Huskeliste og orientering fra administrationen",
+      "Punktnummer": "6",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Brev til Greve kommune om status for skærpet tilsyn",
+          "Id": "19a515e3-ff1f-414c-8f4e-7fa1dd05ea87"
+        },
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "RAR Sj brev til nye beskæftigelsesudvalg 2022",
+          "Id": "a8fe4d89-77d2-4b23-a4bf-d8570ec8bf31"
+        }
+      ],
+      "Documents": null,
+      "Id": "0631c19a-506b-4f94-82be-ab95517dc038",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "6",
+      "Sorting": 6,
+      "IsOpen": false,
+      "CaseNumber": "21-013719",
+      "SourceId": null,
+      "Caption": "Huskeliste og orientering fra administrationen",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>Sagsprocedure</h2>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h2>Resume</h2>\n<p>Udvalgsformanden og udvalgets medlemmer orienterer om eventuelle aktuelle emner.</p>\n<h2>Indstilling</h2>\n<p><i>Center for Politik, Organisation & Borgerbetjening indstiller, at eventuelle orienteringer tages til efterretning.</i></p>\n<h2><span>\n<div><i><br>\n</i></div>\n</span></h2>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/7111dc05-4b95-423b-b788-e30f87fe3fde",
+          "DocumentId": "7111dc05-4b95-423b-b788-e30f87fe3fde"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013722",
+      "Navn": "Orientering fra formanden/gensidig orientering",
+      "Punktnummer": "7",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "741c9805-f404-4682-a09b-24ec4361d47d",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "7",
+      "Sorting": 7,
+      "IsOpen": false,
+      "CaseNumber": "21-013722",
+      "SourceId": null,
+      "Caption": "Orientering fra formanden/gensidig orientering",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<div><h3>Beslutning</h3>\r\n<span>Orienteringen blev taget til efterretning.</span>\r\n</div>\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2>Sagsprocedure</h2>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h2>Resume</h2>\n<p>I sagen gives et overblik over Beskæftigelses- og Erhvervsudvalgets udvalgsmøder og møder i tilknytning til udvalget.</p>\n<h2>Indstilling</h2>\n<p><em>Center for Politik, Organisation & Borgerbetjening indstiller, at orienteringen tages til efterretning.</em></p>\n<h2>Sagsbeskrivelse</h2>\n</div>\n<p>Kalenderen er vedhæftet som bilag.</p></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/6d060d8f-f127-4ee0-b8fa-98dd9d9f115b",
+          "DocumentId": "6d060d8f-f127-4ee0-b8fa-98dd9d9f115b"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-013723",
+      "Navn": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2022",
+      "Punktnummer": "8",
+      "Bilag": [
+        {
+          "HarPdfVersion": "true",
+          "Order": 0,
+          "Navn": "Beskæftigelses- og Erhvervsudvalgets kalender 2022",
+          "Id": "a802a281-2360-48aa-9bac-a8ec2066bab8"
+        }
+      ],
+      "Documents": null,
+      "Id": "5a1051a8-36bb-432b-8851-f0ceba43d823",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "8",
+      "Sorting": 8,
+      "IsOpen": false,
+      "CaseNumber": "21-013723",
+      "SourceId": null,
+      "Caption": "Beskæftigelses- og Erhvervsudvalget - mødekalender 2022",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    },
+    {
+      "Lydfiler": null,
+      "Ressourcer": null,
+      "Felter": [
+        {
+          "Navn": "",
+          "Html": "<div><div id='sagsfremstillingContainer'>\r\n\r\n<h3>Fremstilling</h3>\r\n<span class='ukendt'><div>\n<h2><span>Sagsprocedure</span></h2>\n<p>Beskæftigelses- og Erhvervsudvalget.</p>\n<h2><span>Resume</span></h2>\n<p>Elektronisk underskriftsark. </p>\n</div></span>\r\n\r\n\r\n</div></div>",
+          "Tekst": null,
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "Link": "https://dagsordener.greve.dk/Vis/Pdf/bilag/5870cfaa-5d75-43a2-b8a5-0bd4c74f2bea",
+          "DocumentId": "5870cfaa-5d75-43a2-b8a5-0bd4c74f2bea"
+        }
+      ],
+      "Presentations": null,
+      "ItemDecision": null,
+      "SagsNummer": "21-012521",
+      "Navn": "Underskriftsark",
+      "Punktnummer": "9",
+      "Bilag": [],
+      "Documents": null,
+      "Id": "1544eb56-3326-4be0-917f-4d04e85246c5",
+      "IntegrationUid": "00000000-0000-0000-0000-000000000000",
+      "CorporationUid": "00000000-0000-0000-0000-000000000000",
+      "AgendaUid": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+      "Number": "9",
+      "Sorting": 9,
+      "IsOpen": false,
+      "CaseNumber": "21-012521",
+      "SourceId": null,
+      "Caption": "Underskriftsark",
+      "CasePresentationUid": null,
+      "ExternalAgendaItemAttendees": []
+    }
+  ],
+  "Udvalg": {
+    "Id": "d2b6711a-6c60-4f72-be63-ef69dac7e795",
+    "Navn": "Beskæftigelses- og Erhvervsudvalget",
+    "Historisk": false
+  },
+  "Moede": {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "MeetingBeginUtc": "2022-03-14T08:00:00+01:00",
+    "MeetingEndUtc": null,
+    "ReleasedDate": null,
+    "Dato": "2022-03-14T08:00:00+01:00",
+    "Sted": "Mødelokale 1",
+    "Afsluttet": true,
+    "Moededeltagere": [
+      {
+        "Name": "Simon Østergaard",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Morten Dahlin",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Heidi Serny Jacobsen",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Brigitte Klintskov Jerkel",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      },
+      {
+        "Name": "Liselott Blixt",
+        "Absent": false,
+        "ParticipationCancelled": false,
+        "AttendanceType": 0
+      }
+    ],
+    "Navn": "Dagsorden",
+    "Description": "",
+    "ElasticSearchResults": null,
+    "IsSupplementaryAgenda": false
+  },
+  "TillaegsDagsorden": false,
+  "Id": "6591cdcf-6111-401e-81f7-8df4ff19981f",
+  "Lydfiler": null
+}
