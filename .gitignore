@@ -13,7 +13,7 @@ venv/
 env/
 ENV/
 
-# ChromaDB data
+# ChromaDB data (will be rebuilt from CSV)
 chroma_data/
 
 # IDE
