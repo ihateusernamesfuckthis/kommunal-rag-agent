@@ -28,38 +28,20 @@ db_initialized = False
 db_error = None
 
 def initialize_db():
-    """Initialize database in background"""
+    """Initialize database - loads from pre-downloaded ChromaDB"""
     global collection, db_initialized, db_error
     try:
-        print("🔄 Initializing ChromaDB...")
+        print("🔄 Loading ChromaDB...")
 
-        # Check if collection exists and has data
-        try:
-            collection = client.get_collection(name="greve_referater", embedding_function=embedding_fn)
-            count = collection.count()
-            if count > 0:
-                print(f"✅ ChromaDB loaded from existing data ({count} documents)")
-                db_initialized = True
-                return
-            else:
-                print("⚠️ Collection exists but is empty, rebuilding...")
-        except Exception as e:
-            print(f"📊 Collection not found: {e}")
-
-        # Collection doesn't exist or is empty, need to create it
-        print("🔄 Creating ChromaDB from CSV...")
-        from init_db import init_database
-        init_database()
-
-        # Try to load again
         collection = client.get_collection(name="greve_referater", embedding_function=embedding_fn)
         count = collection.count()
-        print(f"✅ ChromaDB initialized successfully with {count} documents")
+        print(f"✅ ChromaDB loaded successfully with {count} documents")
         db_initialized = True
 
     except Exception as e:
         db_error = str(e)
         print(f"❌ Database initialization error: {e}")
+        print("⚠️ Make sure ChromaDB was downloaded during startup")
         import traceback
         traceback.print_exc()
 
