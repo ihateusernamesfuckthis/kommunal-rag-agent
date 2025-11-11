@@ -14,20 +14,25 @@ token = os.getenv("SYVAI_TOKEN")
 def init_database():
     """Creates ChromaDB from CSV if it doesn't already exist"""
 
-    # Check if database already exists
-    if os.path.exists("./chroma_data") and os.listdir("./chroma_data"):
-        print("✅ ChromaDB already exists, skipping initialization")
-        return
-
-    print("🔄 Initializing ChromaDB from CSV...")
-
-    # Create ChromaDB
+    # Create ChromaDB client
     client = chromadb.PersistentClient(path="./chroma_data")
     embedding_fn = SyvMistralEmbeddingFunction(token)
-    collection = client.get_or_create_collection(
-        name="greve_referater",
-        embedding_function=embedding_fn
-    )
+
+    # Check if collection already exists and has data
+    try:
+        collection = client.get_collection(name="greve_referater", embedding_function=embedding_fn)
+        count = collection.count()
+        if count > 0:
+            print(f"✅ ChromaDB already exists with {count} documents, skipping initialization")
+            return
+        else:
+            print("📊 Collection exists but is empty, re-initializing...")
+    except:
+        print("🔄 Collection not found, initializing ChromaDB from CSV...")
+        collection = client.get_or_create_collection(
+            name="greve_referater",
+            embedding_function=embedding_fn
+        )
 
     # Load CSV
     CSV_PATH = "data/greve/cleaned_dagsordener.csv"
