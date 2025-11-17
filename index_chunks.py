@@ -6,7 +6,6 @@ from pathlib import Path
 from dotenv import load_dotenv
 import requests
 from synthetic import upsert_synthetics, embed_text, embed_batch
-f
 
 BASE_DIR = Path("data/greve")
 RAW_DIR = BASE_DIR / "raw_dagsordener"
