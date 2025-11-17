@@ -1,3 +1,9 @@
+qdrant key -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.rAUsOqeI7PVwI7-DaGFlrGgn0DltPmC8wJraZcVBCog
+
+qdrant endpoint -> https://9cb490fe-535e-4c3b-8977-d2ad1f6d243f.eu-central-1-0.aws.cloud.qdrant.io
+
+
+
 # RAG System Upgrade Overview
 
 Denne fil giver et overblik over de vigtigste komponenter i et moderne Retrieval-Augmented Generation (RAG) system. Hver sektion forklarer kort, hvad emnet handler om, og hvordan forbedringen påvirker det samlede system.
